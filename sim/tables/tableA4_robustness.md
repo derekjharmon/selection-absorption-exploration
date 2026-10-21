@@ -14,6 +14,9 @@ Round 100, means of 20 runs, about 20 follow-ups per useful idea, five judges ea
 | Exploration 2% | 145 → 464 | 10% / 33% | 118 / 138 / 180 / 314 | 37% |
 | Exploration 10% | 552 → 1335 | 10% / 25% | 118 / 236 / 387 / 424 | 163% |
 | AI proposes fewer untried ideas (25%) | 251 → 727 | 10% / 29% | 103 / 147 / 214 / 355 | 62% |
-| AI proposes more untried ideas (75%) | 685 → 1209 | 10% / 20% | 252 / 315 / 414 / 356 | — (AI narrows little) |
-| AI lists 5 ideas | 535 → 790 | 10% / 16% | 224 / 288 / 332 / 356 | — (AI narrows little) |
+| AI proposes more untried ideas (75%) | 685 → 1209 | 10% / 20% | 252 / 315 / 414 / 356 | not computed (AI narrows little) |
+| AI lists 5 ideas | 535 → 790 | 10% / 16% | 224 / 288 / 332 / 356 | not computed (AI narrows little) |
 | AI lists 20 ideas | 254 → 1231 | 10% / 47% | 103 / 146 / 302 / 358 | 110% |
+| Half of build-on papers follow the AI | 272 → 902 | 10% / 33% | 184 / 253 / 354 / 357 | not computed (AI narrows little) |
+| AI's ranking toward convention at half strength | 559 → 1061 | 10% / 20% | 231 / 288 / 376 / 357 | not computed (AI narrows little) |
+| AI's ranking toward convention removed | 1457 → 1495 | 10% / 11% | 617 / 624 / 623 / 357 | not computed (AI widens the field) |

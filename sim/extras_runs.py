@@ -24,7 +24,10 @@ VARIANTS = [("Baseline", {}),
             ("AI proposes fewer untried ideas (25%)", {"lam": 0.25}),
             ("AI proposes more untried ideas (75%)", {"lam": 0.75}),
             ("AI lists 5 ideas", {"k": 5}),
-            ("AI lists 20 ideas", {"k": 20})]
+            ("AI lists 20 ideas", {"k": 20}),
+            ("Half of build-on papers follow the AI", {"rely": 0.5}),
+            ("AI's ranking toward convention at half strength", {"rank_bias": 0.5}),
+            ("AI's ranking toward convention removed", {"rank_bias": 0.0})]
 FOLLOW = (0.0, 0.5, 1.0, 1.5, 2.0, 3.0, 4.0)
 QS = (0.0, 0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.8, 1.0)
 def conds_gate():
@@ -35,7 +38,10 @@ def conds_gate():
         out += [{"regime": "convener", "q": q, "V": 3, "rho": 0.2, "rely": 1.0, "follow_rate": f} for q in QS]
     return out
 def conds_robust():
-    return [{"follow_rate": 2.0, **p, **v, "_variant": vn, "_regime": rn} for vn, v in VARIANTS for rn, p in REGIMES]
+    out = [{"follow_rate": 2.0, **p, **v, "_variant": vn, "_regime": rn} for vn, v in VARIANTS for rn, p in REGIMES]
+    for c in out:
+        if c["_regime"] == "No AI": c["rely"] = 0.0          # the field without AI never follows it, whatever the variant
+    return out
 def strip(c): return {k: v for k, v in c.items() if not k.startswith("_")}
 def grid(args):
     p, s = args; h, n, useful, empty0 = run({**p, "return_grid": True}, s); return n, useful, empty0

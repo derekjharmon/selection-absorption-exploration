@@ -10,7 +10,8 @@
 "ai_build_noise",
 "explore_useful",
 "explore_noise",
-"eff_mechanisms"
+"eff_mechanisms",
+"eff_mechanisms_useful"
 ],
 "seeds": 20,
 "conds": [
@@ -463,6 +464,107 @@
 "rely": 0.0,
 "k": 20,
 "_variant": "AI lists 20 ideas",
+"_regime": "No AI"
+},
+{
+"follow_rate": 2.0,
+"regime": "oracle",
+"rely": 0.5,
+"_variant": "Half of build-on papers follow the AI",
+"_regime": "Everyone relies on AI (oracle)"
+},
+{
+"follow_rate": 2.0,
+"regime": "tail_only",
+"rely": 0.5,
+"_variant": "Half of build-on papers follow the AI",
+"_regime": "Random untried ideas"
+},
+{
+"follow_rate": 2.0,
+"regime": "convener",
+"q": 0.6,
+"V": 5,
+"rho": 0.2,
+"rely": 0.5,
+"_variant": "Half of build-on papers follow the AI",
+"_regime": "Spotting"
+},
+{
+"follow_rate": 2.0,
+"regime": "tail_only",
+"rely": 0.0,
+"_variant": "Half of build-on papers follow the AI",
+"_regime": "No AI"
+},
+{
+"follow_rate": 2.0,
+"regime": "oracle",
+"rely": 1.0,
+"rank_bias": 0.5,
+"_variant": "AI's ranking toward convention at half strength",
+"_regime": "Everyone relies on AI (oracle)"
+},
+{
+"follow_rate": 2.0,
+"regime": "tail_only",
+"rely": 1.0,
+"rank_bias": 0.5,
+"_variant": "AI's ranking toward convention at half strength",
+"_regime": "Random untried ideas"
+},
+{
+"follow_rate": 2.0,
+"regime": "convener",
+"q": 0.6,
+"V": 5,
+"rho": 0.2,
+"rely": 1.0,
+"rank_bias": 0.5,
+"_variant": "AI's ranking toward convention at half strength",
+"_regime": "Spotting"
+},
+{
+"follow_rate": 2.0,
+"regime": "tail_only",
+"rely": 0.0,
+"rank_bias": 0.5,
+"_variant": "AI's ranking toward convention at half strength",
+"_regime": "No AI"
+},
+{
+"follow_rate": 2.0,
+"regime": "oracle",
+"rely": 1.0,
+"rank_bias": 0.0,
+"_variant": "AI's ranking toward convention removed",
+"_regime": "Everyone relies on AI (oracle)"
+},
+{
+"follow_rate": 2.0,
+"regime": "tail_only",
+"rely": 1.0,
+"rank_bias": 0.0,
+"_variant": "AI's ranking toward convention removed",
+"_regime": "Random untried ideas"
+},
+{
+"follow_rate": 2.0,
+"regime": "convener",
+"q": 0.6,
+"V": 5,
+"rho": 0.2,
+"rely": 1.0,
+"rank_bias": 0.0,
+"_variant": "AI's ranking toward convention removed",
+"_regime": "Spotting"
+},
+{
+"follow_rate": 2.0,
+"regime": "tail_only",
+"rely": 0.0,
+"rank_bias": 0.0,
+"_variant": "AI's ranking toward convention removed",
 "_regime": "No AI"
 }
 ]

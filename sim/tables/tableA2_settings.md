@@ -15,11 +15,11 @@
 | Ideas listed per request | k (`k`) | 10 (robustness 5, 20) | One answer to "give me ideas" | Tool |
 | Weight on untried cells | λ (`lam`) | 0.5, about 64% of a list untried at the start (robustness 0.25, 0.75) | The AI asked for tail ideas | Tool |
 | Frequency learning | ε, α (`eps`, `alpha`) | 0.5, 1 | Proposals in proportion to a cell's papers plus 0.5 | Fixed |
-| Ranking (the AI's top pick) | γ (`gamma`) | 1, plus column popularity | The AI's bias toward convention | Fixed (assumed) |
+| Ranking (the AI's top pick) | γ (`gamma`), `rank_bias` | γ = 1, plus column popularity, both at full strength (`rank_bias` 1, robustness 0.5 and 0) | The AI's bias toward convention | Assumed (varied in Table A4) |
 | Relearning from the record | `loop` | Every round (frozen only as a diagnostic) | The loop | Fixed |
 | **The researchers** | | | | |
 | Exploration | e (`explore`) | 5% (sweeps 2%, 10%) | Exploration is scarce relative to the space | Field |
-| Reliance on the AI when building on work | `rely` | 100% take the AI's top pick (sweeps 0%, 50%) | How much AI shapes ordinary work | Field |
+| Reliance on the AI when building on work | `rely` | 100% take the AI's top pick (sweeps 0%, 50%, and 50% in Table A4) | How much AI shapes ordinary work | Field |
 | **Selection** | | | | |
 | Judges per idea | V (`V`) | 3 in proposal Figures 1 and 3 and Table A3, 5 in Table A4 and Figures A1 to A3 (sweeps 1, 3, 5) | The panel's separate judgments | Tool |
 | Judge quality | q (`q`) | 0.6, each judge right 96% of the time (sweeps 0 to 1) | How good each judge is | Tool |

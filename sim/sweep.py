@@ -8,7 +8,7 @@ from concurrent.futures import ProcessPoolExecutor
 from model import run
 S = 20
 KEYS = ["useful_cells", "noise_cells", "useful_papers", "noise_papers", "total", "ai_build", "ai_build_useful",
-        "ai_build_noise", "explore_useful", "explore_noise", "eff_mechanisms"]
+        "ai_build_noise", "explore_useful", "explore_noise", "eff_mechanisms", "eff_mechanisms_useful"]
 def one(args):
     p, s = args; h = run(p, s)
     return np.array([[x[k] for k in KEYS] for x in h], dtype=np.float64)

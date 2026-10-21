@@ -99,7 +99,7 @@ with open("tables/tableA4_robustness.md", "w") as fh, open("tables/tableA4_robus
     for v in variants:
         o, t, sp, na = (stats(r(v, rg)) for rg in REG)
         und = 100 * (sp["spread"] - o["spread"]) / (START - o["spread"])
-        und_s = f"{und:.0f}%" if START - o["spread"] >= 100 else "— (AI narrows little)"
+        und_s = f"{und:.0f}%" if START - o["spread"] >= 100 else ("not computed (AI widens the field)" if o["spread"] > START else "not computed (AI narrows little)")
         fh.write(f"| {v} | {t['useful']:.0f} → {sp['useful']:.0f} | {t['hit']:.0f}% / {sp['hit']:.0f}% | "
                  f"{o['spread']:.0f} / {t['spread']:.0f} / {sp['spread']:.0f} / {na['spread']:.0f} | {und_s} |\n")
         w.writerow([v, round(t["useful"]), round(sp["useful"]), round(t["hit"], 1), round(sp["hit"], 1), round(o["spread"], 1),

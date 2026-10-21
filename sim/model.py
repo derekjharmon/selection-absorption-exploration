@@ -22,13 +22,18 @@ follow_mode "extra": follow-on papers are added on top of the researchers' paper
 researchers themselves, taking the place of build-on moves in the same row (capacity-limited).
 absorb_err = chance the field responds wrongly to a newly filled cell: a useful cell gets no follow-on, or a noise cell
 gets follow-on as if it were useful (0 = the field builds on exactly the useful cells).
+absorb_rule "useful": only useful cells draw follow-on (with absorb_err). "popularity": a newly filled cell draws follow-on
+with probability equal to its mechanism's popularity percentile in the field, useful or not (absorption by fashion).
+rank_bias scales the oracle's pull toward convention (the cell-count and column terms of its score): 1 = the main runs,
+0 = the top pick is a random one of the k proposals.
+eff_mechanisms_useful is spread with papers in noise cells left out (breadth from useful work only).
 """
 import numpy as np
 
 DEFAULTS = dict(rows=20, cols=800, init_filled=40, init_papers=1500, b=0.10, per_row=25, k=10, lam=0.5, alpha=1.0,
                 eps=0.5, gamma=1.0, follow_rate=0.0, follow_len=10, T=100, regime="convener", q=0.5, V=3, rho=0.3,
                 adopt=1.0, loop=True, useful_tracks_popularity=0.0, explore=0.05, rely=1.0, follow_mode="displace", absorb_err=0.0,
-                absorb_rule="useful")
+                absorb_rule="useful", rank_bias=1.0)
 
 def run(p, seed):
     p = {**DEFAULTS, **p}; rng = np.random.default_rng(seed)
@@ -81,7 +86,7 @@ def run(p, seed):
                 filled = np.flatnonzero(n[i] > 0)
                 j = rng.choice(filled, p=n[i, filled] / n[i, filled].sum())
             else:                                              # oracle
-                score = p["gamma"] * np.log1p(nm[i, cand]) + conv[cand] + rng.gumbel(size=len(cand))
+                score = p["rank_bias"] * (p["gamma"] * np.log1p(nm[i, cand]) + conv[cand]) + rng.gumbel(size=len(cand))
                 j = cand[np.argmax(score)]
                 if not exploring:
                     ai_b += 1; ai_bu += useful[i, j]; ai_bz += (empty0[i, j] and not useful[i, j])
