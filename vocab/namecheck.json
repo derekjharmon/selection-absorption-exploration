@@ -1,0 +1,2135 @@
+[
+ {
+  "kind": "phenomenon",
+  "lit": "Misconduct",
+  "label": "organizational misconduct",
+  "level": "organization",
+  "names": [
+   "corporate misconduct",
+   "organizational misconduct",
+   "organizational wrongdoing"
+  ],
+  "others": null,
+  "hits": 1740,
+  "on_target": 10,
+  "n_titles": 10,
+  "titles": [
+   "2012 Normal Organizational Wrongdoing",
+   "2016 Corruption culture and corporate misconduct",
+   "2016 Organizational Wrongdoing",
+   "2010 Ensuring Corporate Misconduct",
+   "2016 Organizational Wrongdoing",
+   "2011 Do the SEC's enforcement preferences affect corporate misconduct?",
+   "1994 Whistleblowing and the Control of Organizational Misconduct*",
+   "2016 Corporate misconduct and the loss of trust",
+   "2013 The New Perspective on Organizational Wrongdoing",
+   "2024 Government Subsidies and Corporate Misconduct"
+  ],
+  "flag": "ok"
+ },
+ {
+  "kind": "phenomenon",
+  "lit": "Misconduct",
+  "label": "unethical behavior",
+  "level": "individual",
+  "names": [
+   "unethical behavior",
+   "workplace unethical behavior"
+  ],
+  "others": null,
+  "hits": 6257,
+  "on_target": 10,
+  "n_titles": 10,
+  "titles": [
+   "2018 The business amorality belief and workplace unethical behavior",
+   "2023 For the Sake of the Ingroup: The Double-Edged Effects of Collectivism on Workplace Unethical Behavior",
+   "2024 Decreasing Workplace Unethical Behavior Through Mindfulness: A Study Based on the Dual-System Theory of Ethical Decision-Making",
+   "2014 The Impact of Chinese Differential Leadership on Employees' Workplace Unethical Behavior\u2014\u2014Based on the Perspective of Cognition of Insiders' Status",
+   "2009 Contagion and Differentiation in Unethical Behavior",
+   "2004 GOAL SETTING AS A MOTIVATOR OF UNETHICAL BEHAVIOR.",
+   "1989 Gender differences in proclivity for unethical behavior",
+   "2014 Employee Machiavellianism to Unethical Behavior",
+   "2016 The Effects of the Dark Triad on Unethical Behavior",
+   "1998 Relationships and Unethical Behavior: A Social Network Perspective"
+  ],
+  "flag": "ok"
+ },
+ {
+  "kind": "phenomenon",
+  "lit": "Misconduct",
+  "label": "misconduct curbing",
+  "level": "organization",
+  "names": [
+   "managerial misconduct prevention",
+   "misconduct curbing"
+  ],
+  "others": null,
+  "hits": 1,
+  "on_target": 1,
+  "n_titles": 1,
+  "titles": [
+   "2014 Academic dishonesty and misconduct: Curbing plagiarism in the Muslim world"
+  ],
+  "flag": "too narrow",
+  "fix": {
+   "action": "merge",
+   "names": [],
+   "merge_with": "organizational misconduct governance",
+   "reason": "Curbing or preventing managerial misconduct is typically treated as part of the broader governance and control of organizational misconduct, not as a distinct phenomenon with stable search terminology."
+  }
+ },
+ {
+  "kind": "phenomenon",
+  "lit": "Misconduct",
+  "label": "organizational wrongdoing",
+  "level": "individual",
+  "names": [
+   "organizational wrongdoing"
+  ],
+  "others": null,
+  "hits": 255,
+  "on_target": 10,
+  "n_titles": 10,
+  "titles": [
+   "2012 Normal Organizational Wrongdoing",
+   "2016 Organizational Wrongdoing",
+   "2016 Organizational Wrongdoing",
+   "2013 The New Perspective on Organizational Wrongdoing",
+   "2020 Organizational Wrongdoing",
+   "2016 Organizational wrongdoing and media bias",
+   "2025 Shareholders and organizational wrongdoing",
+   "2015 Understanding organizational wrongdoing",
+   "2003 Understanding organizational wrongdoing",
+   "2026 Organizational Wrongdoing and Misconduct"
+  ],
+  "flag": "ok"
+ },
+ {
+  "kind": "phenomenon",
+  "lit": "Misconduct",
+  "label": "ceo wrongdoing",
+  "level": "individual",
+  "names": [
+   "ceo wrongdoing"
+  ],
+  "others": null,
+  "hits": 3,
+  "on_target": 3,
+  "n_titles": 3,
+  "titles": [
+   "2018 CEO Wrongdoing: A Review of Pressure, Opportunity, and Rationalization",
+   "2022 Does CSR Breed Cheats? Corporate Social Objectives and CEO Wrongdoing",
+   "2022 Corporate social responsibility and chief executive officer wrongdoing: A fraud triangle perspective"
+  ],
+  "flag": "too narrow",
+  "fix": {
+   "action": "merge",
+   "names": [],
+   "merge_with": "top executive wrongdoing",
+   "reason": "CEO wrongdoing is a CEO-specific instance of the broader top executive wrongdoing construct already in the list, and the broader term better captures the relevant literature."
+  }
+ },
+ {
+  "kind": "phenomenon",
+  "lit": "Misconduct",
+  "label": "corporate corruption",
+  "level": "organization",
+  "names": [
+   "corporate corruption"
+  ],
+  "others": null,
+  "hits": 620,
+  "on_target": 10,
+  "n_titles": 10,
+  "titles": [
+   "2005 The Corporate Corruption of Higher Education",
+   "2005 University, Inc.: The Corporate Corruption of Higher Education",
+   "1991 Corporate Corruption: The Abuse of Power.",
+   "2009 Charting Corporate Corruption",
+   "2020 Corporate Corruption: A Review and an Agenda for Future Research",
+   "2013 Corporate corruption of the environment: sustainability as a process of compromise",
+   "2014 Preventing Corporate Corruption",
+   "2004 University, Inc. : the corporate corruption of American higher education",
+   "2008 Corporate Corruption",
+   "2013 Resisting Corporate Corruption"
+  ],
+  "flag": "ok"
+ },
+ {
+  "kind": "phenomenon",
+  "lit": "Misconduct",
+  "label": "corporate scandals",
+  "level": "organization",
+  "names": [
+   "corporate scandals"
+  ],
+  "others": null,
+  "hits": 2997,
+  "on_target": 10,
+  "n_titles": 10,
+  "titles": [
+   "2018 Corporate Scandals and Regulation",
+   "2003 Corporate Scandal and the Theory of the Firm",
+   "2016 Corporate Scandals and Household Stock Market Participation",
+   "2004 Preventing corporate scandals",
+   "2005 A Theory of Corporate Scandals: Why the USA and Europe Differ",
+   "2004 Corporate Scandal",
+   "2004 Corporate Scandal",
+   "2004 CORPORATE SCANDAL",
+   "2013 Corporate Scandals and Household Stock Market Participation",
+   "2023 Corporate Scandals"
+  ],
+  "flag": "ok"
+ },
+ {
+  "kind": "phenomenon",
+  "lit": "Misconduct",
+  "label": "corruption prevention",
+  "level": "organization",
+  "names": [
+   "corruption prevention"
+  ],
+  "others": null,
+  "hits": 1584,
+  "on_target": 10,
+  "n_titles": 10,
+  "titles": [
+   "2000 The corruption prevention model",
+   "2006 Fraud and Corruption: Prevention and Detection",
+   "2002 Situational corruption prevention",
+   "1983 Training in corruption prevention",
+   "2011 Corruption prevention strategies",
+   "2013 Corruption Prevention Institutions",
+   "2014 Fraud and corruption prevention",
+   "2018 Corruption prevention mechanism",
+   "2011 MYTHS OF CORRUPTION PREVENTION",
+   "2017 CORRUPTION PREVENTION AND CONTROLS"
+  ],
+  "flag": "ok"
+ },
+ {
+  "kind": "phenomenon",
+  "lit": "Misconduct",
+  "label": "managerial misconduct",
+  "level": "organization",
+  "names": [
+   "managerial misconduct"
+  ],
+  "others": null,
+  "hits": 105,
+  "on_target": 6,
+  "n_titles": 10,
+  "titles": [
+   "2020 Corporate Governance and Managerial Misconduct: Evidence from Indonesia",
+   "2018 The Role of Sell-Side Analysts after Accusations of Managerial Misconduct",
+   "2012 The Role of Sell-Side Analysts after Accusations of Managerial Misconduct",
+   "2012 How shareholder accusations of managerial misconduct affect sell-side analysts",
+   "2015 Learning Management the Hard Way : Examining Cases of Managerial Misconduct to Promote Best Management Practices",
+   "2025 Scandal, Associative Stigma, and Sorting in Labor Markets: Archival and Experimental Evidence",
+   "2017 Opportunism as a firm and managerial trait: Predicting insider trading profits and misconduct",
+   "1987 The influence of stated organizational concern upon ethical decision making",
+   "2022 Short Supply and Debt Contracting: Evidence from Debt Maturity",
+   "1990 Social Psychological Approaches to the Perception of Ethical Dilemmas"
+  ],
+  "flag": "ok"
+ },
+ {
+  "kind": "phenomenon",
+  "lit": "Misconduct",
+  "label": "organizational misconduct governance",
+  "level": "organization",
+  "names": [
+   "organizational misconduct governance"
+  ],
+  "others": null,
+  "hits": 0,
+  "on_target": 0,
+  "n_titles": 0,
+  "titles": [],
+  "flag": "too narrow",
+  "fix": {
+   "action": "merge",
+   "names": [],
+   "merge_with": "misconduct curbing",
+   "reason": "\u201cOrganizational misconduct governance\u201d is not a commonly used phenomenon label and appears to refer to governance or control efforts aimed at preventing or curbing misconduct, which is already covered by \u201cmisconduct curbing.\u201d"
+  }
+ },
+ {
+  "kind": "phenomenon",
+  "lit": "Misconduct",
+  "label": "post-misconduct decision-making",
+  "level": "individual",
+  "names": [
+   "post-misconduct decision-making"
+  ],
+  "others": null,
+  "hits": 0,
+  "on_target": 0,
+  "n_titles": 0,
+  "titles": [],
+  "flag": "too narrow",
+  "fix": {
+   "action": "rename",
+   "names": [
+    "whistleblowing",
+    "misconduct reporting",
+    "wrongdoing reporting",
+    "employee silence"
+   ],
+   "merge_with": "",
+   "reason": "Scholars typically study individual decisions after observing misconduct as whether to report or remain silent, using terms such as whistleblowing, misconduct reporting, and employee silence rather than the nonstandard phrase post-misconduct decision-making."
+  },
+  "fix_check": {
+   "hits": 9311,
+   "on_target": 0,
+   "n_titles": 10,
+   "titles": [
+    "2011 Reconceptualising employee silence",
+    "2017 Workplace bullying and employee silence",
+    "2003 Conceptualizing Employee Silence and Employee Voice as Multidimensional Constructs*",
+    "2004 Employee silence: Quiescence and acquiescence as responses to perceived injustice",
+    "2017 Authoritarian leadership and employee silence in China",
+    "2012 Employee silence motives: Investigation of dimensionality and development of measures",
+    "2020 Employee silence",
+    "2014 Employee silence",
+    "2015 Employee silence and the authoritarian personality",
+    "2025 Employee Silence"
+   ],
+   "flag": "off target"
+  }
+ },
+ {
+  "kind": "phenomenon",
+  "lit": "Misconduct",
+  "label": "societal corruption",
+  "level": "society",
+  "names": [
+   "societal corruption"
+  ],
+  "others": null,
+  "hits": 77,
+  "on_target": 9,
+  "n_titles": 10,
+  "titles": [
+   "2011 Predicting Societal Corruption Across Time",
+   "2022 DYNAMIC OPTIMIZATION APPLIED TO A CRIMINOLOGICAL MODEL FOR REDUCING THE SPREAD OF SOCIETAL CORRUPTION",
+   "2023 Security Implication of Mutual Police and Societal Corruption in Nairobi County, Kenya",
+   "2016 Moderating the Link between Social Cynicism and Ill-being: The Effects of Societal Corruption",
+   "2012 Perceived Societal Corruption Level and Tolerance of Corruption Practices and Their Impact on the Citizens\u2019 Intention of Corruption",
+   "2022 The role of Arab educational institutions in combating societal corruption Focusing on the roles of the family and the school",
+   "2023 Priorities of the Quranic Discourse and its Contemporary Fields in Reforming Societal Corruption \"Surah Al-Isra as a Model\"",
+   "2026 INDIVIDUAL STRUGGLES FOR SURVIVAL AND SOCIETAL CORRUPTION IN ADAOBI TRICIA NWAUBANI'S I DO NOT COME TO YOU BY CHANCE AND CHINUA ACHEBE'S NO LONGER AT EASE",
+   "2026 INDIVIDUAL STRUGGLES FOR SURVIVAL AND SOCIETAL CORRUPTION IN ADAOBI TRICIA NWAUBANI'S I DO NOT COME TO YOU BY CHANCE AND CHINUA ACHEBE'S NO LONGER AT EASE",
+   "2005 Power, Compensation and Corruption: Theory and Evidence"
+  ],
+  "flag": "ok"
+ },
+ {
+  "kind": "phenomenon",
+  "lit": "Misconduct",
+  "label": "top executive wrongdoing",
+  "level": "individual",
+  "names": [
+   "top executive wrongdoing"
+  ],
+  "others": null,
+  "hits": 0,
+  "on_target": 0,
+  "n_titles": 0,
+  "titles": [],
+  "flag": "too narrow",
+  "fix": {
+   "action": "rename",
+   "names": [
+    "executive misconduct",
+    "executive wrongdoing",
+    "CEO misconduct",
+    "top management misconduct"
+   ],
+   "merge_with": "",
+   "reason": "Scholars more commonly describe wrongdoing by senior leaders as executive/CEO or top-management misconduct rather than the phrase \u201ctop executive wrongdoing.\u201d"
+  },
+  "fix_check": {
+   "hits": 72,
+   "on_target": 9,
+   "n_titles": 10,
+   "titles": [
+    "2023 Consulting Advice on Investigations into Possible CEO Misconduct",
+    "2025 Executive misconduct and corporate operational risk",
+    "2021 The reputation costs of executive misconduct accusations",
+    "2016 Do Good Times Breed Cheats? Prosperous Times Have Immediate and Lasting Implications for CEO Misconduct",
+    "2019 \"When the President Does It\": Why Congress Should Take the Lead in Investigations of Executive Wrongdoing",
+    "2022 The reputation costs of executive misconduct accusations: Evidence from the #MeToo movement",
+    "2025 Psychological pitfalls of incentives: how performance targets drive executive misconduct",
+    "2026 The risk-mitigation effects of artificial intelligence adoption: Evidence from executive misconduct",
+    "2024 Turnover of Bystander Firms\u2019 Outside Directors in Light of of Executive Misconduct at a Peer Firm",
+    "2025 The Impact of CEO-Induced Crises on Corporate Reputation: An Analysis of the Role of Executive Misconduct in Shaping Brand Image"
+   ],
+   "flag": "ok"
+  }
+ },
+ {
+  "kind": "phenomenon",
+  "lit": "Legitimacy",
+  "label": "venture legitimacy",
+  "level": "organization",
+  "names": [
+   "new-venture legitimacy",
+   "venture legitimacy"
+  ],
+  "others": null,
+  "hits": 102,
+  "on_target": 10,
+  "n_titles": 10,
+  "titles": [
+   "2020 The Complexities of New Venture Legitimacy",
+   "2016 Legitimate to whom? The challenge of audience diversity and new venture legitimacy",
+   "2015 New venture legitimacy: the conditions for angel investors",
+   "2021 New Venture Legitimacy",
+   "2015 Strategies for Creating New Venture Legitimacy",
+   "2012 The Influence of Entrepreneurs\u2019 Credentials and Impression Management Behaviors on Perceptions of New Venture Legitimacy",
+   "2014 New venture legitimacy and entrepreneurial support",
+   "2014 New Venture Legitimacy and Entrepreneurial Support",
+   "2019 Measuring new venture legitimacy: a methodological improvement",
+   "2013 A Unifying Framework for New Venture Legitimacy Judgments Formation"
+  ],
+  "flag": "ok"
+ },
+ {
+  "kind": "phenomenon",
+  "lit": "Legitimacy",
+  "label": "authority legitimacy",
+  "level": "organization",
+  "names": [
+   "authority legitimacy"
+  ],
+  "others": null,
+  "hits": 563,
+  "on_target": 10,
+  "n_titles": 10,
+  "titles": [
+   "2019 A theory of global governance: authority, legitimacy, and contestation",
+   "2018 A Theory of Global Governance: Authority, Legitimacy, and Contestation",
+   "2010 Conclusion: authority, legitimacy, and accountability in global politics",
+   "2025 Authority, Legitimacy, and Accountability",
+   "2023 Authority, Legitimacy & Accountability",
+   "2005 Power, Authority, Legitimacy",
+   "2012 Authority, legitimacy and war",
+   "2014 Authority, legitimacy and war",
+   "2003 Power, Authority, Legitimacy",
+   "2020 Authority, Legitimacy, and Representation"
+  ],
+  "flag": "ok"
+ },
+ {
+  "kind": "phenomenon",
+  "lit": "Legitimacy",
+  "label": "legitimacy construction",
+  "level": "organization",
+  "names": [
+   "legitimacy construction"
+  ],
+  "others": null,
+  "hits": 157,
+  "on_target": 10,
+  "n_titles": 10,
+  "titles": [
+   "2014 Management accountant's legitimacy construction process",
+   "2012 On Legitimacy Construction of Administrative Litigation Mediation in China",
+   "2026 Entrepreneurial framing and legitimacy construction: A process framework",
+   "2009 Political Legitimacy Construction Basic Experience and New Way",
+   "2010 Legitimacy Construction of Political Party in Power in Livelihood Politics",
+   "2026 Legitimacy Construction of Transitional Governance in Syrian Conflict Context",
+   "2023 A decade of ethnography of the European Parliament: an evolution in the forms of legitimacy construction?",
+   "2026 Legitimacy construction in the presence of multiple validity cues: An experimental investigation",
+   "2026 A discourse-historical analysis of philanthropic legitimacy construction in rural China",
+   "2015 The Legitimacy Construction of the Theories of WTO Constitutionalization: between Liberty and Democracy"
+  ],
+  "flag": "ok"
+ },
+ {
+  "kind": "phenomenon",
+  "lit": "Legitimacy",
+  "label": "legitimacy negotiation",
+  "level": "organization",
+  "names": [
+   "legitimacy negotiation"
+  ],
+  "others": null,
+  "hits": 20,
+  "on_target": 4,
+  "n_titles": 10,
+  "titles": [
+   "2025 Legitimacy: Negotiation of Actors in a Regulatory System",
+   "2013 Non-Native English-Speaking Teachers\u2019 Legitimacy Negotiation in North American ELT Classrooms",
+   "2026 From Controversy to Legitimacy: Negotiations on the Free Nutritious Meals Programme on Social Media During the Prabowo Subianto Administration",
+   "2019 5. The Taliban, ISIL, and Boko Haram: Comparable Threats for Social Control; Contrasting Threats for Legitimacy, Negotiation, Aggrandizement, and Advantage",
+   "2026 Rethinking halal tourism governance: toward a critical framework for sustainable destination transitions",
+   "2023 Negotiating CSO Legitimacy in Tanzanian Civic Space",
+   "2026 Entrepreneurship as resistance under institutional withdrawal: Trans and non-binary narratives in a post-DEI, digital and algorithmic platform mediation",
+   "None Hastings Crossings BIA'S approaches to social innovation in Downtown Eastside, Vancouver",
+   "2026 When Fans Construct Leadership Through Evolving Narratives in Digital Discursive Spaces",
+   "2026 Navigating Boundaries in International and Interdisciplinary Research Collaboration: Insights from a Collaborative Autoethnographic Exploration"
+  ],
+  "flag": "too narrow",
+  "fix": {
+   "action": "merge",
+   "names": [],
+   "merge_with": "legitimacy construction",
+   "reason": "\u201cLegitimacy negotiation\u201d is an uncommon label for the same interactional process of constructing, contesting, and securing legitimacy that scholars more commonly call legitimacy construction."
+  }
+ },
+ {
+  "kind": "phenomenon",
+  "lit": "Legitimacy",
+  "label": "organizational legitimacy",
+  "level": "organization",
+  "names": [
+   "organizational legitimacy"
+  ],
+  "others": null,
+  "hits": 1811,
+  "on_target": 10,
+  "n_titles": 10,
+  "titles": [
+   "2002 Securing organizational legitimacy",
+   "1986 Organizational Legitimacy and the Liability of Newness",
+   "2018 Organizational Legitimacy",
+   "2017 Organizational Legitimacy: Six Key Questions",
+   "1975 Organizational Legitimacy: Social Values and Organizational Behavior",
+   "2007 The Constitution of Organizational Legitimacy: A Narrative Perspective",
+   "2005 An Examination of Differences Between Organizational Legitimacy and Organizational Reputation*",
+   "1996 Organizational legitimacy and retail store patronage",
+   "1994 The implications of Organizational Legitimacy for Corporate Social Performance and Disclosure",
+   "2007 Organizational legitimacy as a motive for sustainability reporting"
+  ],
+  "flag": "ok"
+ },
+ {
+  "kind": "phenomenon",
+  "lit": "Categories and nascent markets",
+  "label": "nascent identity",
+  "level": "organization",
+  "names": [
+   "nascent identity"
+  ],
+  "others": null,
+  "hits": 31,
+  "on_target": 3,
+  "n_titles": 10,
+  "titles": [
+   "2000 Time, Globalization and the Nascent Identity of Mankind",
+   "2026 Building My Secure Base",
+   "2020 The Meaning of Belonging: Race and the Making of South Africa",
+   "2018 Infants and Mothers",
+   "2013 Organizational Identity Formation and Change",
+   "2018 Charisma*",
+   "2013 Organizational Identity Formation and Change",
+   "2015 Performing Secrecy in Paula Vogel\u2019s \u201cHow I Learned to Drive\u201d",
+   "2021 Performing Political Persuasion in the United States in the Early Years of the Republic",
+   "2011 Resistance and challenge: competing accounts in aftercare monitoring"
+  ],
+  "flag": "too narrow",
+  "fix": {
+   "action": "rename",
+   "names": [
+    "organizational identity formation",
+    "nascent organizational identity",
+    "emergent organizational identity",
+    "organizational identity construction",
+    "identity work"
+   ],
+   "merge_with": "",
+   "reason": "Scholars usually discuss the phenomenon as organizational identity formation/construction or identity work rather than the bare phrase \"nascent identity,\" which is too narrow and ambiguous."
+  },
+  "fix_check": {
+   "hits": 6005,
+   "on_target": 7,
+   "n_titles": 10,
+   "titles": [
+    "2013 Organizational Identity Formation and Change",
+    "2013 Organizational Identity Formation and Change",
+    "2018 The Stuff of Legend: History, Memory, and the Temporality of Organizational Identity Construction",
+    "2012 Micro-dynamics of Emergent Organizational Identity Change",
+    "2008 The Process of Organizational Identity Construction in Iterative Organizations",
+    "2010 Mediating Identity: A Study of Media Influence on Organizational Identity Construction in a Celebrity Firm",
+    "2012 Exploring Cultural Mechanisms of Organizational Identity Construction",
+    "2010 Identity work and play",
+    "2014 Identities and Identity Work in Organizations",
+    "2013 Identity Work and Legitimacy"
+   ],
+   "flag": "ok"
+  }
+ },
+ {
+  "kind": "phenomenon",
+  "lit": "Categories and nascent markets",
+  "label": "categorization processes",
+  "level": "field or industry",
+  "names": [
+   "categorization processes"
+  ],
+  "others": null,
+  "hits": 1225,
+  "on_target": 10,
+  "n_titles": 10,
+  "titles": [
+   "2000 Social Identity and Self-Categorization Processes in Organizational Contexts",
+   "2000 Social Identity and Self-Categorization Processes in Organizational Contexts",
+   "2005 Cultural Influences on Categorization Processes",
+   "1982 A Means-End Chain Model Based on Consumer Categorization Processes",
+   "1982 A Means-End Chain Model Based on Consumer Categorization Processes",
+   "2006 Multiple social categorization: Processes, models, and applications",
+   "2000 Categorization Processes",
+   "1994 Factors affecting social categorization processes in memory",
+   "1993 Consumers' Categorization Processes",
+   "2014 Social categorization processes"
+  ],
+  "flag": "ok"
+ },
+ {
+  "kind": "phenomenon",
+  "lit": "Categories and nascent markets",
+  "label": "categorization transitions",
+  "level": "field or industry",
+  "names": [
+   "categorization transitions"
+  ],
+  "others": null,
+  "hits": 9,
+  "on_target": 1,
+  "n_titles": 9,
+  "titles": [
+   "2025 Legal Status Categorization, Transitions, Starting Points as Employment Stratifying Mechanisms: Evidence from US Student-Migrant-Workers",
+   "2015 A Review and Framework of Control Authority Transitions in Automated Driving",
+   "2016 \u041a\u0410\u0422\u0415\u0413\u041e\u0420\u0406\u0407 \u0406 \u041f\u041e\u041d\u042f\u0422\u0422\u042f, \u0407\u0425\u041d\u0404 \u0421\u041f\u0406\u0412\u0412\u0406\u0414\u041d\u041e\u0428\u0415\u041d\u041d\u042f",
+   "2012 CATEGORIES AND NOTIONS, THEIR CORRELATION",
+   "2018 Use Cases for Assessing, Testing, and Validating the Human Machine Interface of Automated Driving Systems",
+   "2022 Building the Rule of Law in Post-Conflict States: International v. Mixed Model of Transitional Justice",
+   "2014 Modes of democratic transition",
+   "2006 \uccb4\uc81c\uc804\ud658\uad6d \ubc95\uc81c\uc758 \ud2b9\uc9d5\uacfc \uad6c\uc870",
+   "2012 Spatial-economic characterization of resilient urban destinations"
+  ],
+  "flag": "too narrow",
+  "fix": {
+   "action": "merge",
+   "names": [],
+   "merge_with": "category evolution",
+   "reason": "\u201cCategorization transitions\u201d is not a common standalone search term and the underlying phenomenon of categories changing over time is already covered by the established term \u201ccategory evolution.\u201d"
+  }
+ },
+ {
+  "kind": "phenomenon",
+  "lit": "Categories and nascent markets",
+  "label": "category conformity",
+  "level": "organization",
+  "names": [
+   "category conformity"
+  ],
+  "others": null,
+  "hits": 13,
+  "on_target": 1,
+  "n_titles": 10,
+  "titles": [
+   "2026 Proposal adequacy as an enabler of benefits from high distinctiveness: evidence from crowdfunding",
+   "2006 Network Moral Reconstruction: Problems and Measures Analysis",
+   "2008 Category Spanning, Naming Strategies and Performance Implications in the US Film Industry.",
+   "2010 POLITICS OF CONFORMITY: POWER FOR CREATING CHANGE",
+   "2019 Analyzing scientific approach and problem solving in salt hydrolysis topic",
+   "2013 Is the phonotactics of the Arabic complex coda sonority-based?",
+   "1966 Merton revisited: a new classification for deviant behavior.",
+   "2015 \"Faraway, So Close! Field Access and Status Rise in Case of Institutional Complexity\"",
+   "1971 On Vertical Differentiation of Sex Roles: Age Classes among the Nyakusa and Patterns of Interaction in Swedish Children's Books",
+   "1971 On Vertical Differentiation of Sex Roles: Age Classes among the Nyakusa and Patterns of Interaction in Swedish Children's Books"
+  ],
+  "flag": "too narrow",
+  "fix": {
+   "action": "rename",
+   "names": [
+    "categorical conformity",
+    "category fit",
+    "category typicality",
+    "categorical imperative"
+   ],
+   "merge_with": "",
+   "reason": "Scholars usually discuss organizational conformity to category expectations using labels such as categorical conformity, category fit/typicality, or the categorical imperative rather than the exact phrase \"category conformity.\""
+  },
+  "fix_check": {
+   "hits": 3439,
+   "on_target": 1,
+   "n_titles": 10,
+   "titles": [
+    "2014 Categorical Imperative",
+    "1949 The Categorical Imperative",
+    "1999 The Categorical Imperative: Securities Analysts and the Illegitimacy Discount",
+    "1958 The Categorical Imperative",
+    "1971 The Concept of the Categorical Imperative: A Study of the Place of the Categorical Imperative in Kant's Ethical Theory.",
+    "1989 The Categorical Imperative",
+    "1995 The Possibility of the Categorical Imperative",
+    "2014 Categorical Imperative",
+    "1953 A Categorical Imperative?",
+    "1948 The Categorical Imperative: A Study in Kant's Moral Philosophy"
+   ],
+   "flag": "off target"
+  }
+ },
+ {
+  "kind": "phenomenon",
+  "lit": "Categories and nascent markets",
+  "label": "category evolution",
+  "level": "field or industry",
+  "names": [
+   "category evolution"
+  ],
+  "others": null,
+  "hits": 67,
+  "on_target": 7,
+  "n_titles": 10,
+  "titles": [
+   "1987 Color\u2010Category Evolution and Shuswap Yellow\u2010with\u2010Green",
+   "1992 From Brightness to Hue: An Explanatory Model of Color-Category Evolution [and Comments and Reply]",
+   "2018 Optimal Distinctiveness in the Console Video Game Industry: An Exemplar-Based Model of Proto-Category Evolution",
+   "2024 INTERNATIONALIZATION AS AN INTERDISCIPLINARY CATEGORY: EVOLUTION OF THEORETICAL CONCEPT",
+   "1988 Role of Adult Input in Young Children's Category Evolution.",
+   "2019 GENESIS OF THE CATEGORIES \u00abEVOLUTION\u00bb AND \u00abDEVELOPMENT\u00bb OF ECONOMIC SYSTEMS IN ECONOMICS",
+   "1988 Role of adult input in young children's category evolution. I. An observational study",
+   "2024 System integration as an economic category: evolution of scientific views",
+   "2007 Category Evolution of Northern Type Drama in Ming Dynasty",
+   "1988 Role of adult input in young children's category evolution: II an experimental study"
+  ],
+  "flag": "ok"
+ },
+ {
+  "kind": "phenomenon",
+  "lit": "Categories and nascent markets",
+  "label": "crisis categorization",
+  "level": "field or industry",
+  "names": [
+   "crisis categorization"
+  ],
+  "others": null,
+  "hits": 8,
+  "on_target": 0,
+  "n_titles": 8,
+  "titles": [
+   "2013 Understanding Reputational Crisis: Definition, Properties, and Consequences",
+   "2013 Propagation of Financial Crises: A Heterogenous Agents Approach",
+   "2018 Modelling contagion of financial crises",
+   "2012 Fiscal Union: A Solution for the Euro Area Crisis?",
+   "2020 Tourism Crisis Management: Emerging Aspects and Challenges",
+   "2021 Strategi Komunikasi Krisis pada Masa Adaptasi Kebiasaan Baru di Bank Bukopin KCP Cianjur",
+   "2022 \u0e1c\u0e25\u0e01\u0e23\u0e30\u0e17\u0e1a\u0e08\u0e32\u0e01\u0e27\u0e01\u0e24\u0e15\u0e42\u0e04\u0e27\u0e14-19 \u0e17\u0e21\u0e15\u0e2d\u0e04\u0e32\u0e43\u0e0a\u0e08\u0e32\u0e22\u0e14\u0e32\u0e19\u0e17\u0e2d\u0e22\u0e2d\u0e32\u0e28\u0e22\u0e02\u0e2d\u0e07\u0e1c\u0e04\u0e32\u0e2d\u0e32\u0e2b\u0e32\u0e23 \u0e43\u0e19\u0e19\u0e04\u0e21\u0e2d\u0e15\u0e2a\u0e32\u0e2b\u0e01\u0e23\u0e23\u0e21\u0e19\u0e27\u0e19\u0e04\u0e23 \u0e08\u0e07\u0e2b\u0e27\u0e14\u0e1b\u0e17\u0e21\u0e18\u0e32\u0e19 \u0e43\u0e19\u0e0a\u0e27\u0e07 \u0e1e.\u0e28.2563 - 2564",
+   "2021 Strategi Komunikasi Krisis pada Masa Adaptasi Kebiasaan Baru di Bank Bukopin KCP Cianjur"
+  ],
+  "flag": "too narrow",
+  "fix": {
+   "action": "drop",
+   "names": [],
+   "merge_with": "",
+   "reason": "\u201cCrisis categorization\u201d is not a distinct field- or industry-level categorization phenomenon in this literature and instead retrieves generic crisis-type/classification work off target."
+  }
+ },
+ {
+  "kind": "phenomenon",
+  "lit": "Categories and nascent markets",
+  "label": "logic category formation",
+  "level": "field or industry",
+  "names": [
+   "logic category formation"
+  ],
+  "others": null,
+  "hits": 0,
+  "on_target": 0,
+  "n_titles": 0,
+  "titles": [],
+  "flag": "too narrow",
+  "fix": {
+   "action": "rename",
+   "names": [
+    "category formation",
+    "category emergence",
+    "category creation",
+    "market category formation",
+    "new category emergence"
+   ],
+   "merge_with": "",
+   "reason": "Scholars typically describe this phenomenon as category formation, emergence, or creation rather than the uncommon phrase \u201clogic category formation.\u201d"
+  },
+  "fix_check": {
+   "hits": 811,
+   "on_target": 5,
+   "n_titles": 10,
+   "titles": [
+    "2016 Where Do Market Categories Come From and How? Distinguishing Category Creation From Category Emergence",
+    "2019 Entrepreneurship-As-Practice and Market Category Formation: a Comparative Case Study",
+    "2016 Where Do Market Categories Come from and How? Distinguishing Category Creation from Category Emergence",
+    "1986 Transcending inductive category formation in learning",
+    "1971 Category formation and the history of religions",
+    "2014 A Tropological Perspective on Category Emergence",
+    "2002 Stereotype formation as category formation",
+    "2017 Things That Last? Category Creation, Imprinting, and Durability",
+    "2013 Category formation",
+    "1986 Category Formation"
+   ],
+   "flag": "off target"
+  }
+ },
+ {
+  "kind": "phenomenon",
+  "lit": "Categories and nascent markets",
+  "label": "market categorization",
+  "level": "field or industry",
+  "names": [
+   "market categorization"
+  ],
+  "others": null,
+  "hits": 71,
+  "on_target": 7,
+  "n_titles": 10,
+  "titles": [
+   "2017 From Categories to Categorization: A Social Perspective on Market Categorization",
+   "2017 The Discursive Perspective of Market Categorization: Interaction, Power, and Context",
+   "2015 Beyond Prototypes: Drivers of Market Categorization in Functional Foods and Nanotechnology",
+   "2020 Constructions, Claims, Resonance, Reflexivity: Language and Market Categorization",
+   "2026 THREE STUDIES AT THE INTERSECTION OF MARKET CATEGORIZATION AND ENTREPRENEURIAL ACTION",
+   "2025 A Review of Market Categorization Research: An Evolutionary Framework Across Perspectives and Stages",
+   "2023 Tapping foreign markets: Construction of legitimacy through market categorization in the internationalizing craft beer industry",
+   "2020 Volatility Spillover in the Cryptocurrency market: Categorization of the Cryptocurrency Market Based on their Primary Use and the Effects of COVID-19",
+   "2008 Determinants of Inbound Tourism to South Africa",
+   "2009 Marketing Strategies of Red Tours in Fujian Province"
+  ],
+  "flag": "ok"
+ },
+ {
+  "kind": "phenomenon",
+  "lit": "Categories and nascent markets",
+  "label": "nascent industry evolution",
+  "level": "field or industry",
+  "names": [
+   "nascent industry evolution"
+  ],
+  "others": null,
+  "hits": 0,
+  "on_target": 0,
+  "n_titles": 0,
+  "titles": [],
+  "flag": "too narrow",
+  "fix": {
+   "action": "rename",
+   "names": [
+    "industry emergence",
+    "emerging industries",
+    "industry formation",
+    "new industry creation",
+    "industry evolution"
+   ],
+   "merge_with": "",
+   "reason": "Scholars typically discuss this field-level phenomenon as industry emergence or formation rather than using the narrow phrase \"nascent industry evolution.\""
+  },
+  "fix_check": {
+   "hits": 5635,
+   "on_target": 10,
+   "n_titles": 10,
+   "titles": [
+    "2012 Industry evolution: Empirical studies on industry emergence",
+    "2005 How Governments Matter to New Industry Creation",
+    "None Innovation and industry evolution",
+    "2019 The Downside of Social Capital in New Industry Creation",
+    "1985 Innovation and Industry Evolution",
+    "2004 Managing New Industry Creation: Global Knowledge Formation and Entrepreneurship in High Technology",
+    "1986 Emerging industries and the burnout of pioneers",
+    "1999 Innovation, industry evolution and employment",
+    "1996 Uncertainty, Investment, and Industry Evolution",
+    "1992 Uncertainty, Investment, and Industry Evolution"
+   ],
+   "flag": "ok"
+  }
+ },
+ {
+  "kind": "phenomenon",
+  "lit": "Categories and nascent markets",
+  "label": "occupational professional categories",
+  "level": "group",
+  "names": [
+   "occupational professional categories"
+  ],
+  "others": null,
+  "hits": 4,
+  "on_target": 4,
+  "n_titles": 4,
+  "titles": [
+   "2016 The Expansion of the University Sector, the Emerging Professions and the New Professional Landscape : The Case of Sweden",
+   "2016 The Expansion of the University Sector, the Emerging Professions and the New Professional Landscape : The Case of Sweden : Working Papers in Sociology Linnaeus University",
+   "2012 The Expansion of Higher Education in the Swedish the Welfare State and the Reconfiguration of its Professional Workforce: the ASAN Conference: \u201cUnderstanding the Swedish Welfare Model,\u201d hosted by the Asan Institute for Policy Studies Seoul, Korea August 30-31, 2012",
+   "2012 The Expansion of Higher Education in the Swedish the Welfare State and the Reconfiguration of its Professional Workforce"
+  ],
+  "flag": "too narrow",
+  "fix": {
+   "action": "rename",
+   "names": [
+    "occupational categories",
+    "professional categories",
+    "occupational groups",
+    "professional groups"
+   ],
+   "merge_with": "",
+   "reason": "The combined phrase is uncommon and overly narrow, while scholars more often discuss these group-level classifications as occupational or professional categories/groups."
+  },
+  "fix_check": {
+   "hits": 21054,
+   "on_target": 10,
+   "n_titles": 10,
+   "titles": [
+    "2022 Estimates of COVID\u201019 vaccine uptake in major occupational groups and detailed occupational categories in the United States, April\u2013May 2021",
+    "1994 Occupational Categories",
+    "2024 Occupational categories",
+    "1993 Occupational Categories",
+    "2018 Occupational Categories",
+    "1968 Cultural Distances Among Occupational Categories",
+    "1991 The Enterprising Tendency of Occupational Groups",
+    "1976 Occupational categories and cultures",
+    "2012 PROFESSIONAL CATEGORIES",
+    "2013 Diaspora as an occupational category"
+   ],
+   "flag": "ok"
+  }
+ },
+ {
+  "kind": "phenomenon",
+  "lit": "Occupations and professions",
+  "label": "occupational resilience",
+  "level": "individual",
+  "names": [
+   "occupational resilience"
+  ],
+  "others": null,
+  "hits": 103,
+  "on_target": 9,
+  "n_titles": 10,
+  "titles": [
+   "2020 Occupational Resilience",
+   "2021 Occupational Resilience and Perception of Organizational Support",
+   "2019 LMX Relations and (In)Congruence for Occupational Resilience",
+   "2016 Occupational Resilience Assets Questionnaire: a multilevel measure",
+   "2019 An Analysis of the Relationship between Teachers\u2019 Subjective Wellbeing and Their Occupational Resilience",
+   "2021 The response to COVID\u201019: Occupational resilience and the resilience of daily occupations in action",
+   "2016 Development of occupational resilience beliefs scale for teacher candidates",
+   "2020 From prison to prominence : Occupational resilience and resilience work",
+   "2005 Occupational resilience: Protective factors among clinical social workers.",
+   "2017 Occupational Resilience Assets Questionnaire (ORA-Q): a multilevel measure."
+  ],
+  "flag": "ok"
+ },
+ {
+  "kind": "phenomenon",
+  "lit": "Occupations and professions",
+  "label": "occupational becoming",
+  "level": "individual",
+  "names": [
+   "occupational becoming"
+  ],
+  "others": null,
+  "hits": 0,
+  "on_target": 0,
+  "n_titles": 0,
+  "titles": [],
+  "flag": "too narrow",
+  "fix": {
+   "action": "rename",
+   "names": [
+    "occupational identity",
+    "occupational development",
+    "occupational adaptation",
+    "occupational transitions"
+   ],
+   "merge_with": "",
+   "reason": "Scholars usually discuss an individual's 'becoming' in occupation through identity, development, adaptation, or transition language rather than the uncommon exact phrase 'occupational becoming'."
+  },
+  "fix_check": {
+   "hits": 2369,
+   "on_target": 0,
+   "n_titles": 10,
+   "titles": [
+    "2011 Occupational Identity",
+    "2018 Homosexuelles Coming-Out als Occupational Transition und Ver\u00e4nderung der Occupational Identity",
+    "2004 Occupational Identity on the Edge",
+    "2000 Occupational identity of management accountants in Britain and Germany",
+    "2012 The Glass Slipper: \u201cIncorporating\u201d Occupational Identity in Management Studies",
+    "2005 Professions and occupational identities",
+    "2020 Occupational Identity",
+    "2021 Occupational identity",
+    "2011 Occupational Identities",
+    "2018 The opportunity not taken: The occupational identity of entrepreneurs in contexts of poverty"
+   ],
+   "flag": "off target"
+  }
+ },
+ {
+  "kind": "phenomenon",
+  "lit": "Occupations and professions",
+  "label": "occupational caste",
+  "level": "field or industry",
+  "names": [
+   "occupational caste"
+  ],
+  "others": null,
+  "hits": 56,
+  "on_target": 6,
+  "n_titles": 10,
+  "titles": [
+   "2023 Silicon Valley's Occupational Caste System",
+   "2025 Occupational Caste Groups\u2019 Illness and Health in India",
+   "1964 54. Notes on Occupational Castes Among the Gurage of South-West Ethiopia",
+   "2020 The Problems of Economic Development among the Hiras, an Occupational Caste of Assam",
+   "2010 The occupational caste groups and the English East India Company in Madras in the 17th and 18th Centuries",
+   "2020 Commerce and Caste: An inquiry into the Occupational Castes Groups and The English East India Company in Madras during 17th and 18th Centuries",
+   "2024 Glossary",
+   "2009 Chapter 7 Music in Urban Space",
+   "1983 A Somatometric Study on the People of Sri Lanka",
+   "2007 A Poverty Analysis in Baitadi District, Rural Far Western Hills of Nepal: An Inequality Decomposition Analysis"
+  ],
+  "flag": "ok"
+ },
+ {
+  "kind": "phenomenon",
+  "lit": "Occupations and professions",
+  "label": "occupational doing",
+  "level": "individual",
+  "names": [
+   "occupational doing"
+  ],
+  "others": null,
+  "hits": 0,
+  "on_target": 0,
+  "n_titles": 0,
+  "titles": [],
+  "flag": "too narrow",
+  "fix": {
+   "action": "rename",
+   "names": [
+    "doing occupations",
+    "occupational engagement",
+    "occupational performance",
+    "occupational participation"
+   ],
+   "merge_with": "",
+   "reason": "Scholars usually discuss the individual enactment of occupation using terms like engagement, performance, participation, or doing occupations rather than the uncommon phrase \"occupational doing.\""
+  },
+  "fix_check": {
+   "hits": 1434,
+   "on_target": 5,
+   "n_titles": 10,
+   "titles": [
+    "2014 Occupational Engagement Scale\u2013Student",
+    "2011 Mindfulness and Flow in Occupational Engagement: Presence in Doing",
+    "2005 Gender and occupational participation",
+    "2015 Occupational engagement, emotion and morality",
+    "1974 DUAL OCCUPATIONAL PARTICIPATION AND MIGRATION.",
+    "2025 OCCUPATIONAL PARTICIPATION OF WOMEN IN PUNJAB",
+    "2025 OCCUPATIONAL PARTICIPATION OF WOMEN IN PUNJAB",
+    "2020 Occupational Engagement and Partisanship in the United States",
+    "1984 Academic and Occupational Performance: A Quantitative Synthesis",
+    "2016 Social Support and Occupational Engagement Among Korean Undergraduates"
+   ],
+   "flag": "off target"
+  }
+ },
+ {
+  "kind": "phenomenon",
+  "lit": "Occupations and professions",
+  "label": "occupational professional categories",
+  "level": "group",
+  "names": [
+   "occupational professional categories"
+  ],
+  "others": null,
+  "hits": 4,
+  "on_target": 4,
+  "n_titles": 4,
+  "titles": [
+   "2016 The Expansion of the University Sector, the Emerging Professions and the New Professional Landscape : The Case of Sweden",
+   "2016 The Expansion of the University Sector, the Emerging Professions and the New Professional Landscape : The Case of Sweden : Working Papers in Sociology Linnaeus University",
+   "2012 The Expansion of Higher Education in the Swedish the Welfare State and the Reconfiguration of its Professional Workforce: the ASAN Conference: \u201cUnderstanding the Swedish Welfare Model,\u201d hosted by the Asan Institute for Policy Studies Seoul, Korea August 30-31, 2012",
+   "2012 The Expansion of Higher Education in the Swedish the Welfare State and the Reconfiguration of its Professional Workforce"
+  ],
+  "flag": "too narrow",
+  "fix": {
+   "action": "rename",
+   "names": [
+    "occupational categories",
+    "occupational groups",
+    "occupational classes",
+    "professional categories",
+    "professional groups"
+   ],
+   "merge_with": "",
+   "reason": "Scholars more commonly refer to groupings of occupations or professions as occupational categories, groups, or classes rather than the uncommon combined phrase \"occupational professional categories.\""
+  },
+  "fix_check": {
+   "hits": 22286,
+   "on_target": 10,
+   "n_titles": 10,
+   "titles": [
+    "2022 Estimates of COVID\u201019 vaccine uptake in major occupational groups and detailed occupational categories in the United States, April\u2013May 2021",
+    "1994 Occupational Categories",
+    "2024 Occupational categories",
+    "1993 Occupational Categories",
+    "2018 Occupational Categories",
+    "1958 The Construction and Use of an Occupational Class Scale",
+    "1968 Cultural Distances Among Occupational Categories",
+    "1991 The Enterprising Tendency of Occupational Groups",
+    "1976 Occupational categories and cultures",
+    "2012 PROFESSIONAL CATEGORIES"
+   ],
+   "flag": "ok"
+  }
+ },
+ {
+  "kind": "phenomenon",
+  "lit": "Occupations and professions",
+  "label": "occupational relating",
+  "level": "group",
+  "names": [
+   "occupational relating"
+  ],
+  "others": null,
+  "hits": 0,
+  "on_target": 0,
+  "n_titles": 0,
+  "titles": [],
+  "flag": "too narrow",
+  "fix": {
+   "action": "rename",
+   "names": [
+    "co-occupation",
+    "shared occupation",
+    "collective occupation",
+    "occupational belonging"
+   ],
+   "merge_with": "",
+   "reason": "Scholars usually describe the relational or group-level dimensions of occupation with terms such as co-occupation, shared/collective occupation, or occupational belonging rather than the phrase \u201coccupational relating.\u201d"
+  },
+  "fix_check": {
+   "hits": 186,
+   "on_target": 6,
+   "n_titles": 10,
+   "titles": [
+    "2014 Collective occupation in a Greek town",
+    "2010 Collective occupation and expropriation of property rural land",
+    "2013 From transfers to tax \u201cco-occupation\u201d",
+    "2022 Batok: The exploration of Indigenous Filipino tattooing as a resistive collective occupation",
+    "2015 Co-occupations: The caregiving challenges of mothers of children with cerebral palsy",
+    "2019 Comparing Compensation: Shared Occupations of Government and Private Industry",
+    "2025 Empowerment through participation : children co-creating occupational belonging",
+    "2025 Street racing: Shedding light on the dark side of a transgressive collective occupation",
+    "2021 Collective occupations and nature: Impacts of the coloniality of nature on rural and fishing communities in Chile",
+    "2022 Nursing students' experiences of horizontal violence and occupational belonging during clinical placements"
+   ],
+   "flag": "ok"
+  }
+ },
+ {
+  "kind": "mechanism",
+  "lit": "Mechanisms the ideas need",
+  "label": "allyship",
+  "level": "",
+  "names": [
+   "allyship",
+   "lgbtq allyship",
+   "male allyship",
+   "performative allyship",
+   "white allyship"
+  ],
+  "others": null,
+  "hits": 2846,
+  "on_target": 10,
+  "n_titles": 10,
+  "titles": [
+   "2020 Performative Allyship",
+   "2026 LGBTQ+ Allyship",
+   "2024 LGBTQ+ Allyship",
+   "2022 Towards an understanding of performative allyship: Definition, antecedents and consequences",
+   "2020 White Allyship",
+   "2020 White Allyship",
+   "2020 White Allyship",
+   "2018 Transracialism and White Allyship",
+   "2020 White Allyship",
+   "2020 White Allyship"
+  ],
+  "flag": "ok"
+ },
+ {
+  "kind": "mechanism",
+  "lit": "Mechanisms the ideas need",
+  "label": "anchoring and adjustment",
+  "level": "",
+  "names": [
+   "anchoring and adjustment"
+  ],
+  "others": null,
+  "hits": 727,
+  "on_target": 10,
+  "n_titles": 10,
+  "titles": [
+   "2006 The Anchoring-and-Adjustment Heuristic",
+   "2004 Perspective Taking as Egocentric Anchoring and Adjustment.",
+   "1986 An Anchoring and Adjustment Model of Spousal Predictions",
+   "1981 Anchoring and Adjustment in Probabilistic Inference in Auditing",
+   "1998 An Anchoring and Adjustment Model of Purchase Quantity Decisions",
+   "2012 Anchoring and adjustment during social inferences.",
+   "2012 Anchoring and Adjusting in Questionnaire Responses",
+   "1991 Overconfidence in estimation: Testing the anchoring-and-adjustment hypothesis",
+   "1998 An Anchoring and Adjustment Model of Purchase Quantity Decisions",
+   "2010 Neural correlates of anchoring-and-adjustment during mentalizing"
+  ],
+  "flag": "ok"
+ },
+ {
+  "kind": "mechanism",
+  "lit": "Mechanisms the ideas need",
+  "label": "asset revaluation",
+  "level": "",
+  "names": [
+   "asset revaluation",
+   "currency revaluation",
+   "fixed asset revaluation",
+   "retrospective revaluation",
+   "revaluation"
+  ],
+  "others": null,
+  "hits": 13258,
+  "on_target": 10,
+  "n_titles": 10,
+  "titles": [
+   "1992 Fixed Asset Revaluations and Managerial Incentives",
+   "2000 Fixed Asset Revaluation and Equity Depletion in the UK",
+   "2017 Fixed Asset Revaluation:",
+   "2012 Incentives for fixed asset revaluations: the UK evidence",
+   "2007 Motives for fixed-asset revaluation: An empirical analysis with Swiss data",
+   "2019 Fixed Asset Revaluation Motivations",
+   "2022 Fixed Asset Revaluation: Decision Making",
+   "2011 The Value Relevance of Fixed Assets Revaluation",
+   "1996 Fixed assets revaluations and their association with stock returns",
+   "2009 Fixed asset revaluation: management incentives and market reactions"
+  ],
+  "flag": "ok"
+ },
+ {
+  "kind": "mechanism",
+  "lit": "Mechanisms the ideas need",
+  "label": "attribution theory",
+  "level": "",
+  "names": [
+   "attribution theory"
+  ],
+  "others": null,
+  "hits": 5407,
+  "on_target": 10,
+  "n_titles": 10,
+  "titles": [
+   "1980 Attribution Theory and Research",
+   "1967 Attribution theory in social psychology",
+   "1986 An Attributional Theory of Motivation and Emotion",
+   "1977 An Attribution Theory of Leadership",
+   "1975 Achievement Motivation and Attribution Theory.",
+   "2020 An attributional theory of motivation",
+   "1985 An attributional theory of achievement motivation and emotion.",
+   "2014 Attribution Theory",
+   "2012 An Attribution Theory of Motivation",
+   "1972 Foundations of an attributional theory of performance."
+  ],
+  "flag": "ok"
+ },
+ {
+  "kind": "mechanism",
+  "lit": "Mechanisms the ideas need",
+  "label": "blame avoidance",
+  "level": "",
+  "names": [
+   "blame avoidance"
+  ],
+  "others": null,
+  "hits": 638,
+  "on_target": 10,
+  "n_titles": 10,
+  "titles": [
+   "1986 The Politics of Blame Avoidance",
+   "2014 Accountability and Blame\u2013Avoidance",
+   "2015 Reconciling Perspectives on Blame Avoidance Behaviour",
+   "2002 Partisanship, Blame Avoidance, and the Distribution of Legislative Pork",
+   "2007 What happens when transparency meets blame-avoidance?",
+   "2012 Blame Avoidance in Public Reporting",
+   "2012 Blame Avoidance and Credit Claiming Revisited",
+   "2019 Brexit and blame avoidance",
+   "2009 15 The Politics of Blame Avoidance",
+   "2014 Blame avoidance, electoral punishment and the perceptions of risk"
+  ],
+  "flag": "ok"
+ },
+ {
+  "kind": "mechanism",
+  "lit": "Mechanisms the ideas need",
+  "label": "boundary enforcement",
+  "level": "",
+  "names": [
+   "boundary enforcement"
+  ],
+  "others": null,
+  "hits": 330,
+  "on_target": 9,
+  "n_titles": 10,
+  "titles": [
+   "2013 Status boundary enforcement and the categorization of black\u2013white biracials",
+   "2026 The Boundary Enforcement Principle",
+   "2019 Fences, Walls, and Boundary Enforcement",
+   "2013 XXII. Vibrating boundaries\u2014enforced contours",
+   "2024 A reflection on governance, ethics and intellectual boundary enforcement in academic journals",
+   "2010 Diabolic Caminos in the Desert and Cat Fights on the R\u00edo: A Posthumanist Political Ecology of Boundary Enforcement in the United States\u2013Mexico Borderlands",
+   "2016 Boundary enforcement and social disruption through computer-mediated communication",
+   "2026 Institutional Boundary Enforcement: Preserving Institutional Authority in AI-Mediated Information Systems",
+   "2017 Are Beach Boundaries Enforceable? Real-Time Locational Uncertainty and the Right to Exclude",
+   "2026 RAGF: Boundary Enforcement as Governance Infrastructure for Agentic AI in Regulated Systems"
+  ],
+  "flag": "ok"
+ },
+ {
+  "kind": "mechanism",
+  "lit": "Mechanisms the ideas need",
+  "label": "boundary work",
+  "level": "",
+  "names": [
+   "boundary work"
+  ],
+  "others": null,
+  "hits": 3452,
+  "on_target": 10,
+  "n_titles": 10,
+  "titles": [
+   "2009 Boundary work in knowledge teams.",
+   "2019 Boundary Work",
+   "1988 Boundary Work",
+   "2018 Boundary Work",
+   "2005 Boundary Work",
+   "2014 Boundary work",
+   "2018 Boundary Work, Interloper Media, And Analytics In Newsrooms",
+   "2010 Boundary Work and the Complexity of Natural Resources Management",
+   "1998 Boundary work: Costing and caring in the social services",
+   "2013 Leadership as boundary work in healthcare teams"
+  ],
+  "flag": "ok"
+ },
+ {
+  "kind": "mechanism",
+  "lit": "Mechanisms the ideas need",
+  "label": "certification effect",
+  "level": "",
+  "names": [
+   "certification effect"
+  ],
+  "others": null,
+  "hits": 266,
+  "on_target": 10,
+  "n_titles": 10,
+  "titles": [
+   "2008 Certification Effect",
+   "2011 Certification Effect",
+   "2026 The Certification Effect of Government at IPO",
+   "2010 On syndicate composition, corporate structure and the certification effect of credit ratings",
+   "2013 Due Diligence on the Bidder and the Certification Effect",
+   "2010 Bank Certification Effect on CEO Compensation",
+   "2008 ISO9000 Certification Effect: Evidence from China",
+   "2018 Certification Effect of Venture Capital on KOSDAQ IPO Firms",
+   "2012 Certification effect and capital structure determinants in venture-backed companies",
+   "2023 The Founder certification effect, firm disclosures, and the cost of SEO financing"
+  ],
+  "flag": "ok"
+ },
+ {
+  "kind": "mechanism",
+  "lit": "Mechanisms the ideas need",
+  "label": "contest escalation",
+  "level": "",
+  "names": [
+   "contest escalation"
+  ],
+  "others": null,
+  "hits": 6,
+  "on_target": 3,
+  "n_titles": 6,
+  "titles": [
+   "2019 Rule and Resistance Beyond the Nation State: Contestation, Escalation, Exit",
+   "2010 Inter\u2010unit contests within a provisioned troop of Sichuan snub\u2010nosed monkeys (Rhinopithecus roxellana) in the Qinling Mountains, China",
+   "2021 Colonel Blotto's Tug of War",
+   "2020 Opportunity II: Death of the Nation\u2019s Father",
+   "2026 Conceptualizing the Jagged Frontier of AI-Enabled Control",
+   "2020 Intergroup Interactions in Crested Macaques (Macaca nigra): Factors Affecting Intergroup Encounter Outcome and Intensity"
+  ],
+  "flag": "too narrow",
+  "fix": {
+   "action": "rename",
+   "names": [
+    "political outbidding",
+    "ethnic outbidding",
+    "competitive outbidding",
+    "radical flank effect",
+    "conflict escalation"
+   ],
+   "merge_with": "",
+   "reason": "\u201cContest escalation\u201d is not a standard label; scholars more commonly describe this mechanism as outbidding, radical-flank dynamics, or conflict escalation in competitive/contentious settings."
+  },
+  "fix_check": {
+   "hits": 2294,
+   "on_target": 10,
+   "n_titles": 10,
+   "titles": [
+    "1987 Social Conflict: Escalation, Stalemate, and Settlement",
+    "1986 Social Conflict: Escalation, Stalemate, and Settlement",
+    "1993 Revenge and conflict escalation",
+    "1993 Revenge and Conflict Escalation",
+    "2017 Conflict Escalation",
+    "2013 \u2018Ethnic Outbidding\u2019 for Patronage: The 2010 Riots in Tarakan, Indonesia",
+    "2001 Conflict escalation and coping with workplace bullying: A replication and extension",
+    "2021 Turning discontent into votes: Economic inequality and ethnic outbidding",
+    "2015 Ethnic outbidding and nested competition: Explaining the extremism of ethnonational minority parties in Europe",
+    "1982 The Process of Conflict Escalation and Roles of Third Parties"
+   ],
+   "flag": "ok"
+  }
+ },
+ {
+  "kind": "mechanism",
+  "lit": "Mechanisms the ideas need",
+  "label": "cross-cutting cleavages",
+  "level": "",
+  "names": [
+   "cross-cutting cleavages"
+  ],
+  "others": null,
+  "hits": 148,
+  "on_target": 10,
+  "n_titles": 10,
+  "titles": [
+   "1975 Cross-Cutting Cleavages and Social Conflict",
+   "2011 The Measurement of Cross-cutting Cleavages and Other Multidimensional Cleavage Structures",
+   "2010 Cross-cutting Cleavages and Ethnic Voting: An Experimental Study of Cousinage in Mali",
+   "2010 Cross-Cuttingness, Cleavage Structures and Civil War Onset",
+   "2007 Cross-Cutting Cleavages and Government Spending",
+   "2019 Local Government Reform: Compromise Through Cross-Cutting Cleavages",
+   "2010 The Measurement of Cross-cutting Cleavages and Other Multidimensional Cleavage Structures",
+   "2018 The positions mainstream left parties adopt on immigration: A cross-cutting cleavage?",
+   "2016 Ethnicity, class, and civil war: the role of hierarchy, segmentation, and cross-cutting cleavages",
+   "2010 The Measurement of Cross-cutting Cleavages and Other Multidimensional Cleavage Structures"
+  ],
+  "flag": "ok"
+ },
+ {
+  "kind": "mechanism",
+  "lit": "Mechanisms the ideas need",
+  "label": "cultural backlash",
+  "level": "",
+  "names": [
+   "cultural backlash"
+  ],
+  "others": null,
+  "hits": 422,
+  "on_target": 10,
+  "n_titles": 10,
+  "titles": [
+   "2019 Cultural Backlash",
+   "2019 Cultural backlash Trump, Brexit, and authoritarian populism",
+   "2019 Cultural backlash: Trump, Brexit, and authoritarian populism",
+   "2019 Cultural backlash: Trump, Brexit, and authoritarian populism",
+   "2018 Modernisierungsverlierer, Cultural Backlash, Postdemokratie",
+   "2016 Trump, Brexit, and the Rise of Populism: Economic Have-Nots and Cultural Backlash",
+   "2021 Cultural Backlash? How (Not) to Explain the Rise of Authoritarian Populism",
+   "2019 The Cultural Backlash Theory",
+   "2019 Long-Term Economic Distress, Cultural Backlash, and Support for Brexit",
+   "2021 Cultural Backlash or Worldview Evolution?"
+  ],
+  "flag": "ok"
+ },
+ {
+  "kind": "mechanism",
+  "lit": "Mechanisms the ideas need",
+  "label": "diffusion of beliefs",
+  "level": "",
+  "names": [
+   "diffusion of beliefs"
+  ],
+  "others": null,
+  "hits": 23,
+  "on_target": 3,
+  "n_titles": 10,
+  "titles": [
+   "2011 What the Internet Does to the Diffusion of Beliefs",
+   "1958 Diffusion and Belief in a Collective Delusion: The Seattle Windshield Pitting Epidemic",
+   "2010 The first shall be last: Serial position effects in the case contestants evaluate each other",
+   "1969 The First Human Heart Transplant: A Study of Diffusion among Doctors",
+   "2019 Why do junctures become critical? Political discourse, agency, and joint belief shifts in comparative perspective",
+   "2015 Infectious diseases, contamination rumors and ethnic violence: Regimental mutinies in the Bengal Native Army in 1857 India",
+   "2025 Valuation by Influencer: Networks, Followers, and Market Behaviors",
+   "1993 Geographical diffusionism and Eurocentric history",
+   "2010 En el camino de la conversi\u00f3n\u2026 \u00bfcu\u00e1l es la direcci\u00f3n? / In the way of conversion\u2026 which is the direction?",
+   "2012 En el camino de la conversi\u00f3n\u2026 \u00bfcu\u00e1l es la direcci\u00f3n?"
+  ],
+  "flag": "too narrow",
+  "fix": {
+   "action": "rename",
+   "names": [
+    "diffusion of ideas",
+    "opinion diffusion",
+    "ideational diffusion",
+    "social contagion"
+   ],
+   "merge_with": "",
+   "reason": "Scholars more commonly describe the spread of beliefs as diffusion of ideas, opinion diffusion, ideational diffusion, or social contagion rather than using the narrow phrase \u201cdiffusion of beliefs.\u201d"
+  },
+  "fix_check": {
+   "hits": 1784,
+   "on_target": 5,
+   "n_titles": 10,
+   "titles": [
+    "2014 The Social Contagion of Generosity",
+    "1988 Social contagion of binge eating.",
+    "1988 Social contagion of binge eating.",
+    "2020 The Global Diffusion of Ideas",
+    "2007 Social Contagion of Violence",
+    "2007 Democratization and Ideational Diffusion: Europe, Mercosur and Social Citizenship*",
+    "2013 EU normative power and regionalism: Ideational diffusion and its limits",
+    "1987 Social Contagion and Innovation: Cohesion versus Structural Equivalence",
+    "2013 Transnational Diffusion: Norms, Ideas, and Policies",
+    "2010 Opinion Leadership and Social Contagion in New Product Diffusion"
+   ],
+   "flag": "off target"
+  }
+ },
+ {
+  "kind": "mechanism",
+  "lit": "Mechanisms the ideas need",
+  "label": "economization",
+  "level": "",
+  "names": [
+   "economization"
+  ],
+  "others": null,
+  "hits": 4611,
+  "on_target": 6,
+  "n_titles": 10,
+  "titles": [
+   "2017 The Economization of Life",
+   "2009 Economization, part 1: shifting attention from the economy towards processes of economization",
+   "2015 Economization Of Education",
+   "1995 Economizing on virtue",
+   "1991 Strategizing, economizing, and economic organization",
+   "2014 On Economizing the Theory of A-Bar Dependencies",
+   "1996 Economizing Behavior and the Concept of \u201cCuration\u201d",
+   "2010 Economization, part 2: a research programme for the study of markets",
+   "2018 The Economization of Diversity",
+   "2024 Economization"
+  ],
+  "flag": "ok"
+ },
+ {
+  "kind": "mechanism",
+  "lit": "Mechanisms the ideas need",
+  "label": "felt obligation",
+  "level": "",
+  "names": [
+   "felt obligation"
+  ],
+  "others": null,
+  "hits": 479,
+  "on_target": 10,
+  "n_titles": 10,
+  "titles": [
+   "1998 \"Because They're My Parents\": An Intergenerational Study of Felt Obligation and Parental Caregiving",
+   "1996 Felt Obligation Towards Parents in Mexican-American and Anglo-American Young Adults",
+   "2019 The role of felt obligation to mentor in mentor performance",
+   "2016 Felt Obligation to Work Unit Measure",
+   "2024 Reactance to Persuasive Messages Depends on Felt Obligation",
+   "2017 Trust in Supervisor and Job Engagement: Mediating Effects of Psychological Safety and Felt Obligation",
+   "2018 The importance of group\u2010focused transformational leadership and felt obligation for helping and group performance",
+   "2012 Felt obligation and the family life cycle: A study on intergenerational relationships",
+   "2020 Understanding the role of frontline employee felt obligation in services",
+   "2015 Indebtedness in cultural context: The role of culture in the felt obligation to reciprocate"
+  ],
+  "flag": "ok"
+ },
+ {
+  "kind": "mechanism",
+  "lit": "Mechanisms the ideas need",
+  "label": "imprinting",
+  "level": "",
+  "names": [
+   "imprinting"
+  ],
+  "others": null,
+  "hits": 32055,
+  "on_target": 8,
+  "n_titles": 10,
+  "titles": [
+   "2013 Imprinting: Toward a Multilevel Theory",
+   "2017 Imprinting and Early Learning",
+   "1961 Imprinting and Perceptual Learning",
+   "2014 Imprint\u2013environment Fit and Performance",
+   "1990 Is imprinting such a special case?",
+   "2022 The Algorithmic Imprint",
+   "1965 Imprinting and Early Learning",
+   "1973 Imprinting and Early Learning.",
+   "2005 Imprints of place",
+   "2020 Imprinting Beyond the Founding Phase: How Sedimented Imprints Develop over Time"
+  ],
+  "flag": "ok"
+ },
+ {
+  "kind": "mechanism",
+  "lit": "Mechanisms the ideas need",
+  "label": "information diffusion",
+  "level": "",
+  "names": [
+   "information diffusion"
+  ],
+  "others": null,
+  "hits": 2255,
+  "on_target": 10,
+  "n_titles": 10,
+  "titles": [
+   "2009 Communities, knowledge creation, and information diffusion",
+   "2000 Information Diffusion and Best Practice Adoption",
+   "2018 Trading and Information Diffusion in Over-the-Counter Markets",
+   "2007 Industry Information Diffusion and the Lead-lag Effect in Stock Returns",
+   "2013 Emotions and Information Diffusion in Social Media\u2014Sentiment of Microblogs and Sharing Behavior",
+   "2013 Information Diffusion among Agents: Implications for Humanitarian Operations",
+   "2016 Information Diffusion",
+   "1973 Information Diffusion",
+   "2000 Information diffusion within the electorate:",
+   "2015 Information diffusion in networks through social learning"
+  ],
+  "flag": "ok"
+ },
+ {
+  "kind": "mechanism",
+  "lit": "Mechanisms the ideas need",
+  "label": "institutional isomorphism",
+  "level": "",
+  "names": [
+   "institutional isomorphism"
+  ],
+  "others": null,
+  "hits": 1551,
+  "on_target": 10,
+  "n_titles": 10,
+  "titles": [
+   "2004 Institutional Isomorphism and Public Sector Organizations",
+   "2007 Limits to Institutional Isomorphism",
+   "2010 Institutional Isomorphism Revisited: Convergence and Divergence in Institutional Change",
+   "1989 The Faculty and Institutional Isomorphism",
+   "2008 Institutional Isomorphism",
+   "2020 Institutional Isomorphism",
+   "2022 Institutional Isomorphism",
+   "1983 The Iron Cage Revisited: Institutional Isomorphism and Collective Rationality in Organizational Fields",
+   "1983 The Iron Caged Revisited : Institutional Isomorphism and Collective Rationality in Organizational Fields",
+   "2004 The iron cage revisited institutional isomorphism and collective rationality in organizational fields"
+  ],
+  "flag": "ok"
+ },
+ {
+  "kind": "mechanism",
+  "lit": "Mechanisms the ideas need",
+  "label": "interlocking directorates",
+  "level": "",
+  "names": [
+   "director networks",
+   "interlocking directorates"
+  ],
+  "others": null,
+  "hits": 1447,
+  "on_target": 10,
+  "n_titles": 10,
+  "titles": [
+   "1969 The Interlocking Directorate",
+   "1981 Interlocking Directorates",
+   "1988 A Longitudinal Study of the Formation of Interlocking Directorates",
+   "1981 Interlocking Directorates.",
+   "1981 Interlocking Directorates and Interest Group Formation",
+   "1983 A Limited Rationality Model of Interlocking Directorates.",
+   "1983 Broken Ties: Interlocking Directorates and Intercorporate Coordination",
+   "1998 Lost in Space: The Geography of Corporate Interlocking Directorates",
+   "1975 Interlocking Directorates in the Top U.S. Corporations",
+   "1999 The rise of interlocking directorates in imperial Germany"
+  ],
+  "flag": "ok"
+ },
+ {
+  "kind": "mechanism",
+  "lit": "Mechanisms the ideas need",
+  "label": "media framing",
+  "level": "",
+  "names": [
+   "media framing"
+  ],
+  "others": null,
+  "hits": 5547,
+  "on_target": 10,
+  "n_titles": 10,
+  "titles": [
+   "2001 The Empirical Approach to the Study of Media Framing",
+   "2016 Media framing of aquaculture",
+   "2000 Media Framing and Effective Public Deliberation",
+   "2010 Media Framing of Trafficking",
+   "2007 Mass media framing of biotechnology news",
+   "2009 Media Framing and Policy Change After Columbine",
+   "1997 Media Framing of a Civil Liberties Conflict and Its Effect on Tolerance",
+   "2014 Media Framing of the Muslim World",
+   "2000 Media Framing and the Dynamics of Racial Policy Preferences",
+   "2017 Media Framing"
+  ],
+  "flag": "ok"
+ },
+ {
+  "kind": "mechanism",
+  "lit": "Mechanisms the ideas need",
+  "label": "moral framing",
+  "level": "",
+  "names": [
+   "moral framing"
+  ],
+  "others": null,
+  "hits": 588,
+  "on_target": 8,
+  "n_titles": 10,
+  "titles": [
+   "2025 Moral Framing in Politics (MFiP): A new resource and models for moral framing",
+   "2025 Moral Framing in Politics (MFiP): A new resource and models for moral framing",
+   "2011 \u201cDoing well by doing good\u201d? Ambivalent moral framing in organizations",
+   "2026 Communication, Protest, and Moral Framing",
+   "2025 Moral Framing and Asylum Policy",
+   "2026 Moral Framing and Asylum Policy",
+   "2013 Nature and the Moral Frame of Society",
+   "2024 Moral framing in Ukraine war coverage",
+   "2013 Phronesis and Psychopathy: The Moral Frame Problem",
+   "2005 Moral framing in dictator games by short"
+  ],
+  "flag": "ok"
+ },
+ {
+  "kind": "mechanism",
+  "lit": "Mechanisms the ideas need",
+  "label": "moral justification",
+  "level": "",
+  "names": [
+   "moral justification",
+   "moral justification of violence"
+  ],
+  "others": null,
+  "hits": 2746,
+  "on_target": 10,
+  "n_titles": 10,
+  "titles": [
+   "2002 The Moral Justification of Violence",
+   "2021 The Moral Justification of Violence",
+   "2019 Divide and conquer? Identity, threat, and moral justification of violence at the G20",
+   "2006 The modern furies: projection and superego subversion in the moral justification of violence",
+   "2026 Digital Radicalization and the Moral Justification of Violence: Evidence from Contemporary Bangladesh",
+   "2010 The Moral Justification for Journalism",
+   "2021 On the Moral Justification of Statistical Parity",
+   "1988 Moral Justification and Freedom",
+   "2015 Moral Justification",
+   "2018 Moral justification"
+  ],
+  "flag": "ok"
+ },
+ {
+  "kind": "mechanism",
+  "lit": "Mechanisms the ideas need",
+  "label": "moral licensing",
+  "level": "",
+  "names": [
+   "moral licensing"
+  ],
+  "others": null,
+  "hits": 543,
+  "on_target": 10,
+  "n_titles": 10,
+  "titles": [
+   "2018 Social Moral Licensing",
+   "2012 Citizenship and Counterproductive Work Behavior: A Moral Licensing View",
+   "2025 Moral Licensing",
+   "2013 MORAL CLEANSING AND MORAL LICENSES: EXPERIMENTAL EVIDENCE",
+   "2017 Moral licensing: a culture-moderated meta-analysis",
+   "2017 Moral Licensing and Disclosure",
+   "2016 A Moral License To Kill?",
+   "2021 Net Effects of Moral Licensing",
+   "2015 CEO-Directors and Moral License",
+   "2015 Moral Licensing Research Project"
+  ],
+  "flag": "ok"
+ },
+ {
+  "kind": "mechanism",
+  "lit": "Mechanisms the ideas need",
+  "label": "norm diffusion",
+  "level": "",
+  "names": [
+   "norm diffusion"
+  ],
+  "others": null,
+  "hits": 1035,
+  "on_target": 10,
+  "n_titles": 10,
+  "titles": [
+   "2011 Global Norm Diffusion in East Asia",
+   "2013 The R2P and Norm Diffusion: Towards A Framework of Norm Circulation",
+   "2006 Theorizing Norm Diffusion Within International Organizations",
+   "2011 Catch Us If You Can: Election Monitoring and International Norm Diffusion",
+   "2023 Norm Diffusion Beyond the West",
+   "2015 International Organizations and Norm Diffusion",
+   "2021 \u201cNorm Subsidiarity\u201d or \u201cNorm Diffusion\u201d?",
+   "2019 Norm diffusion in international relations",
+   "2005 Norm diffusion within international organizations: a case study of the World Bank",
+   "2009 2. Perspectives on Norm Diffusion"
+  ],
+  "flag": "ok"
+ },
+ {
+  "kind": "mechanism",
+  "lit": "Mechanisms the ideas need",
+  "label": "optimal distinctiveness",
+  "level": "",
+  "names": [
+   "optimal distinctiveness"
+  ],
+  "others": null,
+  "hits": 693,
+  "on_target": 10,
+  "n_titles": 10,
+  "titles": [
+   "2010 Optimal Distinctiveness Theory",
+   "2022 Optimal Distinctiveness",
+   "2003 Optimal distinctiveness, social identity, and the self.",
+   "2016 Optimal Distinctiveness Revisited",
+   "2018 Finding the threshold: A configurational approach to optimal distinctiveness",
+   "2001 Individual values, social identity, and optimal distinctiveness.",
+   "2024 Optimal Distinctiveness",
+   "2010 Optimal Distinctiveness",
+   "2025 Optimal distinctiveness",
+   "2020 Gaining Legitimacy by Being Different: Optimal Distinctiveness in Crowdfunding Platforms"
+  ],
+  "flag": "ok"
+ },
+ {
+  "kind": "mechanism",
+  "lit": "Mechanisms the ideas need",
+  "label": "priming",
+  "level": "",
+  "names": [
+   "priming"
+  ],
+  "others": null,
+  "hits": 19577,
+  "on_target": 10,
+  "n_titles": 10,
+  "titles": [
+   "2014 Priming is not Priming is not Priming",
+   "2015 Religious Priming",
+   "2009 Learning and Opinion Change, Not Priming: Reconsidering the Priming Hypothesis",
+   "2010 Lexical Priming",
+   "2003 Priming or Framing",
+   "2016 Priming in economics",
+   "2003 Masked priming : the state of the art",
+   "1997 Affective Priming",
+   "2002 On The Nature of the Affective Priming Effect: Affective Priming of Naming Responses",
+   "2002 Media Priming: A Synthesis"
+  ],
+  "flag": "ok"
+ },
+ {
+  "kind": "mechanism",
+  "lit": "Mechanisms the ideas need",
+  "label": "relational work",
+  "level": "",
+  "names": [
+   "relational work"
+  ],
+  "others": null,
+  "hits": 1372,
+  "on_target": 10,
+  "n_titles": 10,
+  "titles": [
+   "2005 Politeness Theory and Relational Work",
+   "2020 Relational Work in the Economy",
+   "2012 Relational Work and Economic Sociology",
+   "2013 The role of emotions in relational work",
+   "2008 Reflections on impoliteness, relational work and power.",
+   "2013 Relational work and interpersonal pragmatics",
+   "2014 Obfuscatory Relational Work and Disreputable Exchange",
+   "2008 18. Relational work, politeness, and identity construction",
+   "2014 Relational work",
+   "2017 Revealing Relational Work"
+  ],
+  "flag": "ok"
+ },
+ {
+  "kind": "mechanism",
+  "lit": "Mechanisms the ideas need",
+  "label": "relationship repair",
+  "level": "",
+  "names": [
+   "relationship repair",
+   "rupture and repair"
+  ],
+  "others": null,
+  "hits": 582,
+  "on_target": 10,
+  "n_titles": 10,
+  "titles": [
+   "2008 The Rupture and Repair of Cooperation in Borderline Personality Disorder",
+   "2024 Rupture and Repair",
+   "2019 Rupture and Repair:",
+   "2011 Rupture and Repair",
+   "2020 Rupture and repair",
+   "2023 Rupture and repair",
+   "2025 Rupture and Repair",
+   "2022 Rupture and Repair",
+   "2025 Rupture and repair",
+   "2025 Rupture and Repair"
+  ],
+  "flag": "ok"
+ },
+ {
+  "kind": "mechanism",
+  "lit": "Mechanisms the ideas need",
+  "label": "repair practices",
+  "level": "",
+  "names": [
+   "repair practices"
+  ],
+  "others": null,
+  "hits": 317,
+  "on_target": 10,
+  "n_titles": 10,
+  "titles": [
+   "2020 Repair Practices II",
+   "2020 Repair Practices I",
+   "2010 Repair Practices and Language Teaching",
+   "2020 Why do users (not) repair their devices? A study of the predictors of repair practices",
+   "2022 CITY OF REPAIR: Practicing the Future in Mexico City",
+   "2023 The Great Repair. Practices of Interstitial Change",
+   "2010 Teacher turn-allocation and repair practices in classroom interaction : a multisemiotic perspective",
+   "2021 The Interactional Organization of Video\u2010Mediated Collaborative Writing: Focus on Repair Practices",
+   "2025 A Preliminary Review of Service Design for Repair Practices",
+   "2024 Unusual Repair Practices of Telephone Technicians in Luxembourg"
+  ],
+  "flag": "ok"
+ },
+ {
+  "kind": "mechanism",
+  "lit": "Mechanisms the ideas need",
+  "label": "social contagion",
+  "level": "",
+  "names": [
+   "social contagion"
+  ],
+  "others": null,
+  "hits": 1133,
+  "on_target": 10,
+  "n_titles": 10,
+  "titles": [
+   "2014 The Social Contagion of Generosity",
+   "1988 Social contagion of binge eating.",
+   "1988 Social contagion of binge eating.",
+   "2007 Social Contagion of Violence",
+   "1987 Social Contagion and Innovation: Cohesion versus Structural Equivalence",
+   "2010 Opinion Leadership and Social Contagion in New Product Diffusion",
+   "2015 Social Contagion in New Product Trial and Repeat",
+   "2018 Social contagion of ethnic hostility",
+   "2014 Tragic, but not random: The social contagion of nonfatal gunshot injuries",
+   "2001 Medical Innovation Revisited: Social Contagion versus Marketing Effort"
+  ],
+  "flag": "ok"
+ },
+ {
+  "kind": "mechanism",
+  "lit": "Mechanisms the ideas need",
+  "label": "socialization",
+  "level": "",
+  "names": [
+   "socialization"
+  ],
+  "others": null,
+  "hits": 172419,
+  "on_target": 10,
+  "n_titles": 10,
+  "titles": [
+   "1974 Consumer Socialization",
+   "1990 Indexicality and socialization",
+   "1998 Parental Socialization of Emotion",
+   "1997 Socialization in Context",
+   "1986 Language Socialization",
+   "1976 A Contingency Theory of Socialization",
+   "2011 Transcending Socialization",
+   "1990 Socialization and hegemonic power",
+   "2007 Socialization tactics, proactive behavior, and newcomer learning: Integrating socialization models",
+   "1969 Socialization and Society."
+  ],
+  "flag": "ok"
+ },
+ {
+  "kind": "mechanism",
+  "lit": "Mechanisms the ideas need",
+  "label": "stigma by association",
+  "level": "",
+  "names": [
+   "associative stigma",
+   "family stigma",
+   "stigma by association"
+  ],
+  "others": null,
+  "hits": 860,
+  "on_target": 10,
+  "n_titles": 10,
+  "titles": [
+   "2002 Stigma by association",
+   "1998 Psychiatric Illness and Family Stigma",
+   "2014 Family Stigma: A Concept Analysis",
+   "2011 The infection of bad company: Stigma by association.",
+   "2008 Perceived Characteristics of Psychiatric Nurses: Stigma by Association",
+   "2017 Stigma by Association",
+   "1989 Family burden and family stigma in major mental illness.",
+   "2012 Associative Stigma among Mental Health Professionals",
+   "2008 Known by the Company We Keep: Stigma-By-Association Effects in the Workplace",
+   "2009 Epilepsy stigma and stigma by association in the workplace"
+  ],
+  "flag": "ok"
+ },
+ {
+  "kind": "mechanism",
+  "lit": "Mechanisms the ideas need",
+  "label": "stigma internalization",
+  "level": "",
+  "names": [
+   "stigma internalization"
+  ],
+  "others": null,
+  "hits": 182,
+  "on_target": 9,
+  "n_titles": 10,
+  "titles": [
+   "2013 Is stigma internalized? The longitudinal impact of public stigma on self-stigma.",
+   "2010 LGB of Color and White Individuals\u2019 Perceptions of Heterosexist Stigma, Internalized Homophobia, and Outness: Comparisons of Levels and Links",
+   "2012 Longitudinal Impact of Public Stigma on Self-Stigma: Is Societal Stigma Internalized?",
+   "2014 Effect of Organizational Support and Self-Esteem on the Stigma Internalization-Performance Linkage",
+   "2006 Racial--Ethnic Minority and Nonminority LGB Persons' Perceptions of Stigma, Internalized Homophobia, and Outness",
+   "2018 How might eating disorders stigmatization worsen eating disorders symptom severity? Evaluation of a stigma internalization model",
+   "2021 Mental Illness Stigma. A Comparative Cross-sectional Study of Social Stigma, Internalized Stigma and Self-esteem",
+   "2016 Discrimination, Internalized Homonegativity, and Attitudes Toward Children of Same\u2010Sex Parents: Can Secure Attachment Buffer Against Stigma Internalization?",
+   "2014 A Grounded Theory Investigation of Public Stigma, Internalized Stigma, and Mental Health Recovery in the Wellness Management and Recovery Program",
+   "2022 The Mediating Role of Stigma, Internalized Shame, and Autonomous Motivation in the Relationship Between Depression, Anxiety, and Psychological Help-Seeking Attitudes in Multiple Sclerosis"
+  ],
+  "flag": "ok"
+ },
+ {
+  "kind": "mechanism",
+  "lit": "Mechanisms the ideas need",
+  "label": "strategic choice theory",
+  "level": "",
+  "names": [
+   "strategic choice theory"
+  ],
+  "others": null,
+  "hits": 206,
+  "on_target": 10,
+  "n_titles": 10,
+  "titles": [
+   "2024 Strategic choice theory",
+   "2002 Strategic choice theory",
+   "2013 Strategic choice theory in purchasing",
+   "2016 A Strategic Choice Theory Taxonomy of Retailers\u2019 Strategic Orientations",
+   "2001 Conscious choice for organisational relocation: an application of strategic choice theories",
+   "2024 Strategic Choice Theory \u201cThe Strategic Choice Framework for Teaching IR\u201d",
+   "2017 Reinvigorating Conversations about Leadership: Application of Strategic Choice Theory to the Social Justice Organizational Leader",
+   "2026 The impact of regulatory distance and degree of internationalization on global and local CSR in MNEs: a strategic choice theory perspective",
+   "2018 An Analysis of the Siting Process of a NIMBY Facility in terms of the Strategic Choice Theory: A Case Study on the Use of the Open Application Approach for Jangseongkwangsan Substation",
+   "1997 Strategic Choice in the Analysis of Action, Structure, Organizations and Environment: Retrospect and Prospect"
+  ],
+  "flag": "ok"
+ },
+ {
+  "kind": "mechanism",
+  "lit": "Mechanisms the ideas need",
+  "label": "symbolic legitimation",
+  "level": "",
+  "names": [
+   "symbolic legitimation"
+  ],
+  "others": null,
+  "hits": 139,
+  "on_target": 10,
+  "n_titles": 10,
+  "titles": [
+   "2008 Symbolic Legitimation as Authorities Interaction",
+   "2017 The Symbolic Legitimation of the European Union : Patterns and Problems",
+   "2015 Exploring the Role of Symbolic Legitimation in Voluntary Journal List Adoption",
+   "2022 The disclosure of sustainable development goals (SDGs) by the top 50 Australian companies: substantive or symbolic legitimation?",
+   "2025 Does Generative AI Help New Venture Symbolic Legitimation?",
+   "2018 The Liberal Perspective and the Symbolic Legitimation of University Adult Education in the USA",
+   "2025 Cultural Mediations and Symbolic Legitimation in Claudia Sheinbaum's Inaugural Discourse",
+   "2025 Cultural Mediations and Symbolic Legitimation in Claudia Sheinbaum's Inaugural Discourse",
+   "2016 CARBON DISCLOSURE PRACTICES OF AEROSPACE AND AIRLINES COMPANIES: SUBSTANTIVE OR SYMBOLIC LEGITIMATION",
+   "2026 BETWEEN VISIBILITY AND SILENCING: THE SYMBOLIC LEGITIMATION OF CHILDHOODS THROUGH CHILDREN'S LITERATURE"
+  ],
+  "flag": "ok"
+ },
+ {
+  "kind": "mechanism",
+  "lit": "Mechanisms the ideas need",
+  "label": "team identification",
+  "level": "",
+  "names": [
+   "team identification"
+  ],
+  "others": null,
+  "hits": 1648,
+  "on_target": 10,
+  "n_titles": 10,
+  "titles": [
+   "2006 Understanding the positive social psychological benefits of sport team identification: The team identification-social psychological health model.",
+   "2012 Exploring the Development of Team Identification",
+   "2006 The Causes and Consequences of Sport Team Identification.",
+   "2017 The meaning of team in team identification",
+   "2005 Learning and Performance in Multidisciplinary Teams: The Importance of Collective Team Identification",
+   "2018 Team identification",
+   "2017 Identity crisis: a theoretical analysis of \u2018team identification\u2019 research",
+   "1991 The Positive Social and Self Concept Consequences of Sports Team Identification",
+   "2011 Team identification: a determining factor of performance",
+   "2010 Team identification, trust and conflict: a mediation model"
+  ],
+  "flag": "ok"
+ },
+ {
+  "kind": "mechanism",
+  "lit": "Mechanisms the ideas need",
+  "label": "transactive memory",
+  "level": "",
+  "names": [
+   "transactive memory"
+  ],
+  "others": null,
+  "hits": 1350,
+  "on_target": 10,
+  "n_titles": 10,
+  "titles": [
+   "1991 Transactive memory in close relationships.",
+   "2008 Transactive Memory Systems",
+   "1998 Retrieval processes in transactive memory systems.",
+   "1987 Transactive Memory: A Contemporary Analysis of the Group Mind",
+   "2005 Transactive Memory Systems, Learning, and Learning Transfer",
+   "2009 Transactive Memory in the Classroom",
+   "1995 A Computer Network Model of Human Transactive Memory",
+   "2001 Cognitive interdependence and convergent expectations in transactive memory.",
+   "2012 Transactive Memory Systems: A Microfoundation of Dynamic Capabilities",
+   "2003 Potential Benefits of Communication in Transactive Memory Systems"
+  ],
+  "flag": "ok"
+ }
+]

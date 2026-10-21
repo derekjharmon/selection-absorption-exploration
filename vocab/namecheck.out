@@ -1,0 +1,4 @@
+lists to check: 70
+flags: {('phenomenon', 'ok'): 17, ('phenomenon', 'too narrow'): 17, ('mechanism', 'ok'): 34, ('mechanism', 'too narrow'): 2}
+fix actions: {'merge': 5, 'rename': 13, 'drop': 1} | renames that now pass: 7 of 13
+wrote review_four_literatures.md

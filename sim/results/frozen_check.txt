@@ -1,0 +1,4 @@
+oracle    learning  spread  117.9 ± 0.6 | useful share 0.0098
+oracle    frozen    spread  173.4 ± 0.8 | useful share 0.0202
+spotting  learning  spread  276.3 ± 1.8 | useful share 0.2234
+spotting  frozen    spread  307.2 ± 1.8 | useful share 0.2093

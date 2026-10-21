@@ -1,0 +1,1554 @@
+{
+"keys": [
+"useful_cells",
+"noise_cells",
+"useful_papers",
+"noise_papers",
+"total",
+"ai_build",
+"ai_build_useful",
+"ai_build_noise",
+"explore_useful",
+"explore_noise",
+"eff_mechanisms"
+],
+"seeds": 20,
+"conds": [
+{
+"regime": "oracle",
+"follow_rate": 0.0
+},
+{
+"regime": "tail_only",
+"follow_rate": 0.0
+},
+{
+"regime": "convener",
+"q": 0.0,
+"V": 1,
+"rho": 0.0,
+"follow_rate": 0.0
+},
+{
+"regime": "convener",
+"q": 0.0,
+"V": 1,
+"rho": 0.2,
+"follow_rate": 0.0
+},
+{
+"regime": "convener",
+"q": 0.0,
+"V": 1,
+"rho": 0.5,
+"follow_rate": 0.0
+},
+{
+"regime": "convener",
+"q": 0.0,
+"V": 3,
+"rho": 0.0,
+"follow_rate": 0.0
+},
+{
+"regime": "convener",
+"q": 0.0,
+"V": 3,
+"rho": 0.2,
+"follow_rate": 0.0
+},
+{
+"regime": "convener",
+"q": 0.0,
+"V": 3,
+"rho": 0.5,
+"follow_rate": 0.0
+},
+{
+"regime": "convener",
+"q": 0.0,
+"V": 5,
+"rho": 0.0,
+"follow_rate": 0.0
+},
+{
+"regime": "convener",
+"q": 0.0,
+"V": 5,
+"rho": 0.2,
+"follow_rate": 0.0
+},
+{
+"regime": "convener",
+"q": 0.0,
+"V": 5,
+"rho": 0.5,
+"follow_rate": 0.0
+},
+{
+"regime": "convener",
+"q": 0.1,
+"V": 1,
+"rho": 0.0,
+"follow_rate": 0.0
+},
+{
+"regime": "convener",
+"q": 0.1,
+"V": 1,
+"rho": 0.2,
+"follow_rate": 0.0
+},
+{
+"regime": "convener",
+"q": 0.1,
+"V": 1,
+"rho": 0.5,
+"follow_rate": 0.0
+},
+{
+"regime": "convener",
+"q": 0.1,
+"V": 3,
+"rho": 0.0,
+"follow_rate": 0.0
+},
+{
+"regime": "convener",
+"q": 0.1,
+"V": 3,
+"rho": 0.2,
+"follow_rate": 0.0
+},
+{
+"regime": "convener",
+"q": 0.1,
+"V": 3,
+"rho": 0.5,
+"follow_rate": 0.0
+},
+{
+"regime": "convener",
+"q": 0.1,
+"V": 5,
+"rho": 0.0,
+"follow_rate": 0.0
+},
+{
+"regime": "convener",
+"q": 0.1,
+"V": 5,
+"rho": 0.2,
+"follow_rate": 0.0
+},
+{
+"regime": "convener",
+"q": 0.1,
+"V": 5,
+"rho": 0.5,
+"follow_rate": 0.0
+},
+{
+"regime": "convener",
+"q": 0.2,
+"V": 1,
+"rho": 0.0,
+"follow_rate": 0.0
+},
+{
+"regime": "convener",
+"q": 0.2,
+"V": 1,
+"rho": 0.2,
+"follow_rate": 0.0
+},
+{
+"regime": "convener",
+"q": 0.2,
+"V": 1,
+"rho": 0.5,
+"follow_rate": 0.0
+},
+{
+"regime": "convener",
+"q": 0.2,
+"V": 3,
+"rho": 0.0,
+"follow_rate": 0.0
+},
+{
+"regime": "convener",
+"q": 0.2,
+"V": 3,
+"rho": 0.2,
+"follow_rate": 0.0
+},
+{
+"regime": "convener",
+"q": 0.2,
+"V": 3,
+"rho": 0.5,
+"follow_rate": 0.0
+},
+{
+"regime": "convener",
+"q": 0.2,
+"V": 5,
+"rho": 0.0,
+"follow_rate": 0.0
+},
+{
+"regime": "convener",
+"q": 0.2,
+"V": 5,
+"rho": 0.2,
+"follow_rate": 0.0
+},
+{
+"regime": "convener",
+"q": 0.2,
+"V": 5,
+"rho": 0.5,
+"follow_rate": 0.0
+},
+{
+"regime": "convener",
+"q": 0.3,
+"V": 1,
+"rho": 0.0,
+"follow_rate": 0.0
+},
+{
+"regime": "convener",
+"q": 0.3,
+"V": 1,
+"rho": 0.2,
+"follow_rate": 0.0
+},
+{
+"regime": "convener",
+"q": 0.3,
+"V": 1,
+"rho": 0.5,
+"follow_rate": 0.0
+},
+{
+"regime": "convener",
+"q": 0.3,
+"V": 3,
+"rho": 0.0,
+"follow_rate": 0.0
+},
+{
+"regime": "convener",
+"q": 0.3,
+"V": 3,
+"rho": 0.2,
+"follow_rate": 0.0
+},
+{
+"regime": "convener",
+"q": 0.3,
+"V": 3,
+"rho": 0.5,
+"follow_rate": 0.0
+},
+{
+"regime": "convener",
+"q": 0.3,
+"V": 5,
+"rho": 0.0,
+"follow_rate": 0.0
+},
+{
+"regime": "convener",
+"q": 0.3,
+"V": 5,
+"rho": 0.2,
+"follow_rate": 0.0
+},
+{
+"regime": "convener",
+"q": 0.3,
+"V": 5,
+"rho": 0.5,
+"follow_rate": 0.0
+},
+{
+"regime": "convener",
+"q": 0.4,
+"V": 1,
+"rho": 0.0,
+"follow_rate": 0.0
+},
+{
+"regime": "convener",
+"q": 0.4,
+"V": 1,
+"rho": 0.2,
+"follow_rate": 0.0
+},
+{
+"regime": "convener",
+"q": 0.4,
+"V": 1,
+"rho": 0.5,
+"follow_rate": 0.0
+},
+{
+"regime": "convener",
+"q": 0.4,
+"V": 3,
+"rho": 0.0,
+"follow_rate": 0.0
+},
+{
+"regime": "convener",
+"q": 0.4,
+"V": 3,
+"rho": 0.2,
+"follow_rate": 0.0
+},
+{
+"regime": "convener",
+"q": 0.4,
+"V": 3,
+"rho": 0.5,
+"follow_rate": 0.0
+},
+{
+"regime": "convener",
+"q": 0.4,
+"V": 5,
+"rho": 0.0,
+"follow_rate": 0.0
+},
+{
+"regime": "convener",
+"q": 0.4,
+"V": 5,
+"rho": 0.2,
+"follow_rate": 0.0
+},
+{
+"regime": "convener",
+"q": 0.4,
+"V": 5,
+"rho": 0.5,
+"follow_rate": 0.0
+},
+{
+"regime": "convener",
+"q": 0.6,
+"V": 1,
+"rho": 0.0,
+"follow_rate": 0.0
+},
+{
+"regime": "convener",
+"q": 0.6,
+"V": 1,
+"rho": 0.2,
+"follow_rate": 0.0
+},
+{
+"regime": "convener",
+"q": 0.6,
+"V": 1,
+"rho": 0.5,
+"follow_rate": 0.0
+},
+{
+"regime": "convener",
+"q": 0.6,
+"V": 3,
+"rho": 0.0,
+"follow_rate": 0.0
+},
+{
+"regime": "convener",
+"q": 0.6,
+"V": 3,
+"rho": 0.2,
+"follow_rate": 0.0
+},
+{
+"regime": "convener",
+"q": 0.6,
+"V": 3,
+"rho": 0.5,
+"follow_rate": 0.0
+},
+{
+"regime": "convener",
+"q": 0.6,
+"V": 5,
+"rho": 0.0,
+"follow_rate": 0.0
+},
+{
+"regime": "convener",
+"q": 0.6,
+"V": 5,
+"rho": 0.2,
+"follow_rate": 0.0
+},
+{
+"regime": "convener",
+"q": 0.6,
+"V": 5,
+"rho": 0.5,
+"follow_rate": 0.0
+},
+{
+"regime": "convener",
+"q": 0.8,
+"V": 1,
+"rho": 0.0,
+"follow_rate": 0.0
+},
+{
+"regime": "convener",
+"q": 0.8,
+"V": 1,
+"rho": 0.2,
+"follow_rate": 0.0
+},
+{
+"regime": "convener",
+"q": 0.8,
+"V": 1,
+"rho": 0.5,
+"follow_rate": 0.0
+},
+{
+"regime": "convener",
+"q": 0.8,
+"V": 3,
+"rho": 0.0,
+"follow_rate": 0.0
+},
+{
+"regime": "convener",
+"q": 0.8,
+"V": 3,
+"rho": 0.2,
+"follow_rate": 0.0
+},
+{
+"regime": "convener",
+"q": 0.8,
+"V": 3,
+"rho": 0.5,
+"follow_rate": 0.0
+},
+{
+"regime": "convener",
+"q": 0.8,
+"V": 5,
+"rho": 0.0,
+"follow_rate": 0.0
+},
+{
+"regime": "convener",
+"q": 0.8,
+"V": 5,
+"rho": 0.2,
+"follow_rate": 0.0
+},
+{
+"regime": "convener",
+"q": 0.8,
+"V": 5,
+"rho": 0.5,
+"follow_rate": 0.0
+},
+{
+"regime": "convener",
+"q": 1.0,
+"V": 1,
+"rho": 0.0,
+"follow_rate": 0.0
+},
+{
+"regime": "convener",
+"q": 1.0,
+"V": 1,
+"rho": 0.2,
+"follow_rate": 0.0
+},
+{
+"regime": "convener",
+"q": 1.0,
+"V": 1,
+"rho": 0.5,
+"follow_rate": 0.0
+},
+{
+"regime": "convener",
+"q": 1.0,
+"V": 3,
+"rho": 0.0,
+"follow_rate": 0.0
+},
+{
+"regime": "convener",
+"q": 1.0,
+"V": 3,
+"rho": 0.2,
+"follow_rate": 0.0
+},
+{
+"regime": "convener",
+"q": 1.0,
+"V": 3,
+"rho": 0.5,
+"follow_rate": 0.0
+},
+{
+"regime": "convener",
+"q": 1.0,
+"V": 5,
+"rho": 0.0,
+"follow_rate": 0.0
+},
+{
+"regime": "convener",
+"q": 1.0,
+"V": 5,
+"rho": 0.2,
+"follow_rate": 0.0
+},
+{
+"regime": "convener",
+"q": 1.0,
+"V": 5,
+"rho": 0.5,
+"follow_rate": 0.0
+},
+{
+"regime": "oracle",
+"follow_rate": 0.5
+},
+{
+"regime": "tail_only",
+"follow_rate": 0.5
+},
+{
+"regime": "convener",
+"q": 0.0,
+"V": 1,
+"rho": 0.0,
+"follow_rate": 0.5
+},
+{
+"regime": "convener",
+"q": 0.0,
+"V": 1,
+"rho": 0.2,
+"follow_rate": 0.5
+},
+{
+"regime": "convener",
+"q": 0.0,
+"V": 1,
+"rho": 0.5,
+"follow_rate": 0.5
+},
+{
+"regime": "convener",
+"q": 0.0,
+"V": 3,
+"rho": 0.0,
+"follow_rate": 0.5
+},
+{
+"regime": "convener",
+"q": 0.0,
+"V": 3,
+"rho": 0.2,
+"follow_rate": 0.5
+},
+{
+"regime": "convener",
+"q": 0.0,
+"V": 3,
+"rho": 0.5,
+"follow_rate": 0.5
+},
+{
+"regime": "convener",
+"q": 0.0,
+"V": 5,
+"rho": 0.0,
+"follow_rate": 0.5
+},
+{
+"regime": "convener",
+"q": 0.0,
+"V": 5,
+"rho": 0.2,
+"follow_rate": 0.5
+},
+{
+"regime": "convener",
+"q": 0.0,
+"V": 5,
+"rho": 0.5,
+"follow_rate": 0.5
+},
+{
+"regime": "convener",
+"q": 0.1,
+"V": 1,
+"rho": 0.0,
+"follow_rate": 0.5
+},
+{
+"regime": "convener",
+"q": 0.1,
+"V": 1,
+"rho": 0.2,
+"follow_rate": 0.5
+},
+{
+"regime": "convener",
+"q": 0.1,
+"V": 1,
+"rho": 0.5,
+"follow_rate": 0.5
+},
+{
+"regime": "convener",
+"q": 0.1,
+"V": 3,
+"rho": 0.0,
+"follow_rate": 0.5
+},
+{
+"regime": "convener",
+"q": 0.1,
+"V": 3,
+"rho": 0.2,
+"follow_rate": 0.5
+},
+{
+"regime": "convener",
+"q": 0.1,
+"V": 3,
+"rho": 0.5,
+"follow_rate": 0.5
+},
+{
+"regime": "convener",
+"q": 0.1,
+"V": 5,
+"rho": 0.0,
+"follow_rate": 0.5
+},
+{
+"regime": "convener",
+"q": 0.1,
+"V": 5,
+"rho": 0.2,
+"follow_rate": 0.5
+},
+{
+"regime": "convener",
+"q": 0.1,
+"V": 5,
+"rho": 0.5,
+"follow_rate": 0.5
+},
+{
+"regime": "convener",
+"q": 0.2,
+"V": 1,
+"rho": 0.0,
+"follow_rate": 0.5
+},
+{
+"regime": "convener",
+"q": 0.2,
+"V": 1,
+"rho": 0.2,
+"follow_rate": 0.5
+},
+{
+"regime": "convener",
+"q": 0.2,
+"V": 1,
+"rho": 0.5,
+"follow_rate": 0.5
+},
+{
+"regime": "convener",
+"q": 0.2,
+"V": 3,
+"rho": 0.0,
+"follow_rate": 0.5
+},
+{
+"regime": "convener",
+"q": 0.2,
+"V": 3,
+"rho": 0.2,
+"follow_rate": 0.5
+},
+{
+"regime": "convener",
+"q": 0.2,
+"V": 3,
+"rho": 0.5,
+"follow_rate": 0.5
+},
+{
+"regime": "convener",
+"q": 0.2,
+"V": 5,
+"rho": 0.0,
+"follow_rate": 0.5
+},
+{
+"regime": "convener",
+"q": 0.2,
+"V": 5,
+"rho": 0.2,
+"follow_rate": 0.5
+},
+{
+"regime": "convener",
+"q": 0.2,
+"V": 5,
+"rho": 0.5,
+"follow_rate": 0.5
+},
+{
+"regime": "convener",
+"q": 0.3,
+"V": 1,
+"rho": 0.0,
+"follow_rate": 0.5
+},
+{
+"regime": "convener",
+"q": 0.3,
+"V": 1,
+"rho": 0.2,
+"follow_rate": 0.5
+},
+{
+"regime": "convener",
+"q": 0.3,
+"V": 1,
+"rho": 0.5,
+"follow_rate": 0.5
+},
+{
+"regime": "convener",
+"q": 0.3,
+"V": 3,
+"rho": 0.0,
+"follow_rate": 0.5
+},
+{
+"regime": "convener",
+"q": 0.3,
+"V": 3,
+"rho": 0.2,
+"follow_rate": 0.5
+},
+{
+"regime": "convener",
+"q": 0.3,
+"V": 3,
+"rho": 0.5,
+"follow_rate": 0.5
+},
+{
+"regime": "convener",
+"q": 0.3,
+"V": 5,
+"rho": 0.0,
+"follow_rate": 0.5
+},
+{
+"regime": "convener",
+"q": 0.3,
+"V": 5,
+"rho": 0.2,
+"follow_rate": 0.5
+},
+{
+"regime": "convener",
+"q": 0.3,
+"V": 5,
+"rho": 0.5,
+"follow_rate": 0.5
+},
+{
+"regime": "convener",
+"q": 0.4,
+"V": 1,
+"rho": 0.0,
+"follow_rate": 0.5
+},
+{
+"regime": "convener",
+"q": 0.4,
+"V": 1,
+"rho": 0.2,
+"follow_rate": 0.5
+},
+{
+"regime": "convener",
+"q": 0.4,
+"V": 1,
+"rho": 0.5,
+"follow_rate": 0.5
+},
+{
+"regime": "convener",
+"q": 0.4,
+"V": 3,
+"rho": 0.0,
+"follow_rate": 0.5
+},
+{
+"regime": "convener",
+"q": 0.4,
+"V": 3,
+"rho": 0.2,
+"follow_rate": 0.5
+},
+{
+"regime": "convener",
+"q": 0.4,
+"V": 3,
+"rho": 0.5,
+"follow_rate": 0.5
+},
+{
+"regime": "convener",
+"q": 0.4,
+"V": 5,
+"rho": 0.0,
+"follow_rate": 0.5
+},
+{
+"regime": "convener",
+"q": 0.4,
+"V": 5,
+"rho": 0.2,
+"follow_rate": 0.5
+},
+{
+"regime": "convener",
+"q": 0.4,
+"V": 5,
+"rho": 0.5,
+"follow_rate": 0.5
+},
+{
+"regime": "convener",
+"q": 0.6,
+"V": 1,
+"rho": 0.0,
+"follow_rate": 0.5
+},
+{
+"regime": "convener",
+"q": 0.6,
+"V": 1,
+"rho": 0.2,
+"follow_rate": 0.5
+},
+{
+"regime": "convener",
+"q": 0.6,
+"V": 1,
+"rho": 0.5,
+"follow_rate": 0.5
+},
+{
+"regime": "convener",
+"q": 0.6,
+"V": 3,
+"rho": 0.0,
+"follow_rate": 0.5
+},
+{
+"regime": "convener",
+"q": 0.6,
+"V": 3,
+"rho": 0.2,
+"follow_rate": 0.5
+},
+{
+"regime": "convener",
+"q": 0.6,
+"V": 3,
+"rho": 0.5,
+"follow_rate": 0.5
+},
+{
+"regime": "convener",
+"q": 0.6,
+"V": 5,
+"rho": 0.0,
+"follow_rate": 0.5
+},
+{
+"regime": "convener",
+"q": 0.6,
+"V": 5,
+"rho": 0.2,
+"follow_rate": 0.5
+},
+{
+"regime": "convener",
+"q": 0.6,
+"V": 5,
+"rho": 0.5,
+"follow_rate": 0.5
+},
+{
+"regime": "convener",
+"q": 0.8,
+"V": 1,
+"rho": 0.0,
+"follow_rate": 0.5
+},
+{
+"regime": "convener",
+"q": 0.8,
+"V": 1,
+"rho": 0.2,
+"follow_rate": 0.5
+},
+{
+"regime": "convener",
+"q": 0.8,
+"V": 1,
+"rho": 0.5,
+"follow_rate": 0.5
+},
+{
+"regime": "convener",
+"q": 0.8,
+"V": 3,
+"rho": 0.0,
+"follow_rate": 0.5
+},
+{
+"regime": "convener",
+"q": 0.8,
+"V": 3,
+"rho": 0.2,
+"follow_rate": 0.5
+},
+{
+"regime": "convener",
+"q": 0.8,
+"V": 3,
+"rho": 0.5,
+"follow_rate": 0.5
+},
+{
+"regime": "convener",
+"q": 0.8,
+"V": 5,
+"rho": 0.0,
+"follow_rate": 0.5
+},
+{
+"regime": "convener",
+"q": 0.8,
+"V": 5,
+"rho": 0.2,
+"follow_rate": 0.5
+},
+{
+"regime": "convener",
+"q": 0.8,
+"V": 5,
+"rho": 0.5,
+"follow_rate": 0.5
+},
+{
+"regime": "convener",
+"q": 1.0,
+"V": 1,
+"rho": 0.0,
+"follow_rate": 0.5
+},
+{
+"regime": "convener",
+"q": 1.0,
+"V": 1,
+"rho": 0.2,
+"follow_rate": 0.5
+},
+{
+"regime": "convener",
+"q": 1.0,
+"V": 1,
+"rho": 0.5,
+"follow_rate": 0.5
+},
+{
+"regime": "convener",
+"q": 1.0,
+"V": 3,
+"rho": 0.0,
+"follow_rate": 0.5
+},
+{
+"regime": "convener",
+"q": 1.0,
+"V": 3,
+"rho": 0.2,
+"follow_rate": 0.5
+},
+{
+"regime": "convener",
+"q": 1.0,
+"V": 3,
+"rho": 0.5,
+"follow_rate": 0.5
+},
+{
+"regime": "convener",
+"q": 1.0,
+"V": 5,
+"rho": 0.0,
+"follow_rate": 0.5
+},
+{
+"regime": "convener",
+"q": 1.0,
+"V": 5,
+"rho": 0.2,
+"follow_rate": 0.5
+},
+{
+"regime": "convener",
+"q": 1.0,
+"V": 5,
+"rho": 0.5,
+"follow_rate": 0.5
+},
+{
+"regime": "oracle",
+"follow_rate": 1.0
+},
+{
+"regime": "tail_only",
+"follow_rate": 1.0
+},
+{
+"regime": "convener",
+"q": 0.0,
+"V": 1,
+"rho": 0.0,
+"follow_rate": 1.0
+},
+{
+"regime": "convener",
+"q": 0.0,
+"V": 1,
+"rho": 0.2,
+"follow_rate": 1.0
+},
+{
+"regime": "convener",
+"q": 0.0,
+"V": 1,
+"rho": 0.5,
+"follow_rate": 1.0
+},
+{
+"regime": "convener",
+"q": 0.0,
+"V": 3,
+"rho": 0.0,
+"follow_rate": 1.0
+},
+{
+"regime": "convener",
+"q": 0.0,
+"V": 3,
+"rho": 0.2,
+"follow_rate": 1.0
+},
+{
+"regime": "convener",
+"q": 0.0,
+"V": 3,
+"rho": 0.5,
+"follow_rate": 1.0
+},
+{
+"regime": "convener",
+"q": 0.0,
+"V": 5,
+"rho": 0.0,
+"follow_rate": 1.0
+},
+{
+"regime": "convener",
+"q": 0.0,
+"V": 5,
+"rho": 0.2,
+"follow_rate": 1.0
+},
+{
+"regime": "convener",
+"q": 0.0,
+"V": 5,
+"rho": 0.5,
+"follow_rate": 1.0
+},
+{
+"regime": "convener",
+"q": 0.1,
+"V": 1,
+"rho": 0.0,
+"follow_rate": 1.0
+},
+{
+"regime": "convener",
+"q": 0.1,
+"V": 1,
+"rho": 0.2,
+"follow_rate": 1.0
+},
+{
+"regime": "convener",
+"q": 0.1,
+"V": 1,
+"rho": 0.5,
+"follow_rate": 1.0
+},
+{
+"regime": "convener",
+"q": 0.1,
+"V": 3,
+"rho": 0.0,
+"follow_rate": 1.0
+},
+{
+"regime": "convener",
+"q": 0.1,
+"V": 3,
+"rho": 0.2,
+"follow_rate": 1.0
+},
+{
+"regime": "convener",
+"q": 0.1,
+"V": 3,
+"rho": 0.5,
+"follow_rate": 1.0
+},
+{
+"regime": "convener",
+"q": 0.1,
+"V": 5,
+"rho": 0.0,
+"follow_rate": 1.0
+},
+{
+"regime": "convener",
+"q": 0.1,
+"V": 5,
+"rho": 0.2,
+"follow_rate": 1.0
+},
+{
+"regime": "convener",
+"q": 0.1,
+"V": 5,
+"rho": 0.5,
+"follow_rate": 1.0
+},
+{
+"regime": "convener",
+"q": 0.2,
+"V": 1,
+"rho": 0.0,
+"follow_rate": 1.0
+},
+{
+"regime": "convener",
+"q": 0.2,
+"V": 1,
+"rho": 0.2,
+"follow_rate": 1.0
+},
+{
+"regime": "convener",
+"q": 0.2,
+"V": 1,
+"rho": 0.5,
+"follow_rate": 1.0
+},
+{
+"regime": "convener",
+"q": 0.2,
+"V": 3,
+"rho": 0.0,
+"follow_rate": 1.0
+},
+{
+"regime": "convener",
+"q": 0.2,
+"V": 3,
+"rho": 0.2,
+"follow_rate": 1.0
+},
+{
+"regime": "convener",
+"q": 0.2,
+"V": 3,
+"rho": 0.5,
+"follow_rate": 1.0
+},
+{
+"regime": "convener",
+"q": 0.2,
+"V": 5,
+"rho": 0.0,
+"follow_rate": 1.0
+},
+{
+"regime": "convener",
+"q": 0.2,
+"V": 5,
+"rho": 0.2,
+"follow_rate": 1.0
+},
+{
+"regime": "convener",
+"q": 0.2,
+"V": 5,
+"rho": 0.5,
+"follow_rate": 1.0
+},
+{
+"regime": "convener",
+"q": 0.3,
+"V": 1,
+"rho": 0.0,
+"follow_rate": 1.0
+},
+{
+"regime": "convener",
+"q": 0.3,
+"V": 1,
+"rho": 0.2,
+"follow_rate": 1.0
+},
+{
+"regime": "convener",
+"q": 0.3,
+"V": 1,
+"rho": 0.5,
+"follow_rate": 1.0
+},
+{
+"regime": "convener",
+"q": 0.3,
+"V": 3,
+"rho": 0.0,
+"follow_rate": 1.0
+},
+{
+"regime": "convener",
+"q": 0.3,
+"V": 3,
+"rho": 0.2,
+"follow_rate": 1.0
+},
+{
+"regime": "convener",
+"q": 0.3,
+"V": 3,
+"rho": 0.5,
+"follow_rate": 1.0
+},
+{
+"regime": "convener",
+"q": 0.3,
+"V": 5,
+"rho": 0.0,
+"follow_rate": 1.0
+},
+{
+"regime": "convener",
+"q": 0.3,
+"V": 5,
+"rho": 0.2,
+"follow_rate": 1.0
+},
+{
+"regime": "convener",
+"q": 0.3,
+"V": 5,
+"rho": 0.5,
+"follow_rate": 1.0
+},
+{
+"regime": "convener",
+"q": 0.4,
+"V": 1,
+"rho": 0.0,
+"follow_rate": 1.0
+},
+{
+"regime": "convener",
+"q": 0.4,
+"V": 1,
+"rho": 0.2,
+"follow_rate": 1.0
+},
+{
+"regime": "convener",
+"q": 0.4,
+"V": 1,
+"rho": 0.5,
+"follow_rate": 1.0
+},
+{
+"regime": "convener",
+"q": 0.4,
+"V": 3,
+"rho": 0.0,
+"follow_rate": 1.0
+},
+{
+"regime": "convener",
+"q": 0.4,
+"V": 3,
+"rho": 0.2,
+"follow_rate": 1.0
+},
+{
+"regime": "convener",
+"q": 0.4,
+"V": 3,
+"rho": 0.5,
+"follow_rate": 1.0
+},
+{
+"regime": "convener",
+"q": 0.4,
+"V": 5,
+"rho": 0.0,
+"follow_rate": 1.0
+},
+{
+"regime": "convener",
+"q": 0.4,
+"V": 5,
+"rho": 0.2,
+"follow_rate": 1.0
+},
+{
+"regime": "convener",
+"q": 0.4,
+"V": 5,
+"rho": 0.5,
+"follow_rate": 1.0
+},
+{
+"regime": "convener",
+"q": 0.6,
+"V": 1,
+"rho": 0.0,
+"follow_rate": 1.0
+},
+{
+"regime": "convener",
+"q": 0.6,
+"V": 1,
+"rho": 0.2,
+"follow_rate": 1.0
+},
+{
+"regime": "convener",
+"q": 0.6,
+"V": 1,
+"rho": 0.5,
+"follow_rate": 1.0
+},
+{
+"regime": "convener",
+"q": 0.6,
+"V": 3,
+"rho": 0.0,
+"follow_rate": 1.0
+},
+{
+"regime": "convener",
+"q": 0.6,
+"V": 3,
+"rho": 0.2,
+"follow_rate": 1.0
+},
+{
+"regime": "convener",
+"q": 0.6,
+"V": 3,
+"rho": 0.5,
+"follow_rate": 1.0
+},
+{
+"regime": "convener",
+"q": 0.6,
+"V": 5,
+"rho": 0.0,
+"follow_rate": 1.0
+},
+{
+"regime": "convener",
+"q": 0.6,
+"V": 5,
+"rho": 0.2,
+"follow_rate": 1.0
+},
+{
+"regime": "convener",
+"q": 0.6,
+"V": 5,
+"rho": 0.5,
+"follow_rate": 1.0
+},
+{
+"regime": "convener",
+"q": 0.8,
+"V": 1,
+"rho": 0.0,
+"follow_rate": 1.0
+},
+{
+"regime": "convener",
+"q": 0.8,
+"V": 1,
+"rho": 0.2,
+"follow_rate": 1.0
+},
+{
+"regime": "convener",
+"q": 0.8,
+"V": 1,
+"rho": 0.5,
+"follow_rate": 1.0
+},
+{
+"regime": "convener",
+"q": 0.8,
+"V": 3,
+"rho": 0.0,
+"follow_rate": 1.0
+},
+{
+"regime": "convener",
+"q": 0.8,
+"V": 3,
+"rho": 0.2,
+"follow_rate": 1.0
+},
+{
+"regime": "convener",
+"q": 0.8,
+"V": 3,
+"rho": 0.5,
+"follow_rate": 1.0
+},
+{
+"regime": "convener",
+"q": 0.8,
+"V": 5,
+"rho": 0.0,
+"follow_rate": 1.0
+},
+{
+"regime": "convener",
+"q": 0.8,
+"V": 5,
+"rho": 0.2,
+"follow_rate": 1.0
+},
+{
+"regime": "convener",
+"q": 0.8,
+"V": 5,
+"rho": 0.5,
+"follow_rate": 1.0
+},
+{
+"regime": "convener",
+"q": 1.0,
+"V": 1,
+"rho": 0.0,
+"follow_rate": 1.0
+},
+{
+"regime": "convener",
+"q": 1.0,
+"V": 1,
+"rho": 0.2,
+"follow_rate": 1.0
+},
+{
+"regime": "convener",
+"q": 1.0,
+"V": 1,
+"rho": 0.5,
+"follow_rate": 1.0
+},
+{
+"regime": "convener",
+"q": 1.0,
+"V": 3,
+"rho": 0.0,
+"follow_rate": 1.0
+},
+{
+"regime": "convener",
+"q": 1.0,
+"V": 3,
+"rho": 0.2,
+"follow_rate": 1.0
+},
+{
+"regime": "convener",
+"q": 1.0,
+"V": 3,
+"rho": 0.5,
+"follow_rate": 1.0
+},
+{
+"regime": "convener",
+"q": 1.0,
+"V": 5,
+"rho": 0.0,
+"follow_rate": 1.0
+},
+{
+"regime": "convener",
+"q": 1.0,
+"V": 5,
+"rho": 0.2,
+"follow_rate": 1.0
+},
+{
+"regime": "convener",
+"q": 1.0,
+"V": 5,
+"rho": 0.5,
+"follow_rate": 1.0
+}
+]
+}

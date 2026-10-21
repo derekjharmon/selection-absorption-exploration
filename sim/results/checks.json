@@ -1,0 +1,24 @@
+{
+ "placebo": {
+  "tail_only": [
+   292.55,
+   3.450706449410033
+  ],
+  "convener_no_skill": [
+   293.05,
+   4.118540396791077
+  ],
+  "pass_": 1.0
+ },
+ "loop": {
+  "advantage_loop": 0.011498750000000002,
+  "advantage_frozen": 0.01067875,
+  "shrinks": 1.0
+ },
+ "direction": {
+  "convener": 953.5,
+  "tail_only": 292.55,
+  "oracle": 41.4,
+  "pass_": 1.0
+ }
+}

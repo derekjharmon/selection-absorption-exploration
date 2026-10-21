@@ -1,0 +1,68 @@
+{
+ "known": [
+  {
+   "key": "K1",
+   "idea": "Does a strong CSR record license later misconduct? Firms that do good may feel entitled to cut corners later.",
+   "phenomenon": "later misconduct after a strong CSR record",
+   "phenomenon_quote": "Does a strong CSR record license later misconduct?",
+   "level": "organization",
+   "mechanism": "moral licensing",
+   "mechanism_quote": "Firms that do good may feel entitled to cut corners later.",
+   "mechanism_home": "social sciences",
+   "mq_ok": true,
+   "row": "organizational misconduct",
+   "mech": "moral licensing",
+   "row_check": {
+    "hits": 1740,
+    "on": 10
+   },
+   "mech_check": {
+    "hits": 543,
+    "on": 10
+   },
+   "R_": 1740,
+   "C_": 543,
+   "O_": 8,
+   "share": 0.014732965009208104,
+   "cls": "filled"
+  },
+  {
+   "key": "K2",
+   "idea": "Do board interlocks confer organizational legitimacy? Firms tied through shared directors to well-regarded firms may borrow their legitimacy.",
+   "phenomenon": "organizational legitimacy from board interlocks",
+   "phenomenon_quote": "Do board interlocks confer organizational legitimacy?",
+   "level": "organization",
+   "mechanism": "legitimacy borrowing",
+   "mechanism_quote": "Firms tied through shared directors to well-regarded firms may borrow their legitimacy.",
+   "mechanism_home": "social sciences",
+   "mq_ok": true,
+   "row": "organizational legitimacy",
+   "mech": "symbolic legitimation",
+   "row_check": {
+    "hits": 1811,
+    "on": 10
+   },
+   "mech_check": {
+    "hits": 139,
+    "on": 10
+   },
+   "R_": 1811,
+   "C_": 139,
+   "O_": 3,
+   "share": 0.02158273381294964,
+   "cls": "filled"
+  },
+  {
+   "key": "K3",
+   "idea": "Does misconduct spread through an organization the way fatigue cracks grow in metal under repeated stress, with small violations accumulating until a sudden failure?",
+   "phenomenon": "spread of misconduct through an organization",
+   "phenomenon_quote": "misconduct spread through an organization",
+   "level": "organization",
+   "mechanism": "fatigue crack growth",
+   "mechanism_quote": "fatigue cracks grow in metal under repeated stress, with small violations accumulating until a sudden failure",
+   "mechanism_home": "outside the social sciences",
+   "mq_ok": true,
+   "cls": "outside the social sciences"
+  }
+ ]
+}

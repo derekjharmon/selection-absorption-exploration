@@ -1,0 +1,6 @@
+part A: 222 conditions x 20 seeds = 4440 runs
+part A done
+python3 sweep.py A  7622.72s user 59.50s system 1243% cpu 10:17.90 total
+part B: 225 conditions x 20 seeds = 4500 runs
+part B done
+python3 sweep.py B  8809.07s user 61.43s system 1256% cpu 11:46.25 total

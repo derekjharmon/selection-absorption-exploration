@@ -1,0 +1,17 @@
+phenomenon mentions 2689 | distinct 2242
+row verdicts {'too broad': 553, 'not a phenomenon': 561, 'phenomenon': 1127, 'missing': 1}
+kept rows before merge 1204
+row candidate pairs (same level, cosine >= .70) 2020
+rows after merge 1082 | levels {'individual': 361, 'organization': 444, 'group': 138, 'society': 53, 'field or industry': 86}
+
+ROW CHECKS
+  misconduct: ['managerial misconduct', 'organizational wrongdoing', 'ceo wrongdoing', 'post-misconduct decision-making', 'organizational misconduct governance', 'misconduct curbing']
+  organizational legitimacy: ['authority legitimacy', 'new-venture legitimacy', 'organizational legitimacy', 'venture legitimacy', 'legitimacy construction', 'legitimacy negotiation']
+  categories: ['crisis categorization', 'occupational professional categories', 'category conformity', 'market categorization', 'category evolution', 'categorization processes']
+  occupations/professions: ['occupational professional categories', 'occupational relating', 'occupational becoming', 'occupational doing', 'occupational caste', 'occupational resilience']
+  broad words absent: {'performance': True, 'behavior': True, 'outcomes': True, 'effectiveness': True}
+
+mechanisms needed (v2 reads + known cases): 44
+already on the menu (cosine >= .80): 10 | missing: 34
+added from OpenAlex keywords: 21 ['allyship', 'attribution theory', 'blame avoidance', 'boundary enforcement', 'certification effect', 'collective memory', 'contest escalation', 'diffusion', 'felt obligation', 'framing effects', 'institutionalization', 'interlocking directorates', 'legitimation', 'moral justification', 'normalization', 'rationalization', 'relationship repair', 'repair practices', 'asset revaluation', 'stigma by association']
+GAP CHECK board interlocks: ['interlocking directorates']

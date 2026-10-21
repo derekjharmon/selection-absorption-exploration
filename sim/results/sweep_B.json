@@ -1,0 +1,1908 @@
+{
+"keys": [
+"useful_cells",
+"noise_cells",
+"useful_papers",
+"noise_papers",
+"total",
+"ai_build",
+"ai_build_useful",
+"ai_build_noise",
+"explore_useful",
+"explore_noise",
+"eff_mechanisms"
+],
+"seeds": 20,
+"conds": [
+{
+"follow_rate": 0.0,
+"explore": 0.02,
+"rely": 0.0,
+"regime": "oracle"
+},
+{
+"follow_rate": 0.0,
+"explore": 0.02,
+"rely": 0.0,
+"regime": "tail_only"
+},
+{
+"follow_rate": 0.0,
+"explore": 0.02,
+"rely": 0.0,
+"regime": "convener",
+"q": 0.6,
+"V": 5,
+"rho": 0.2,
+"adopt": 0.25
+},
+{
+"follow_rate": 0.0,
+"explore": 0.02,
+"rely": 0.0,
+"regime": "convener",
+"q": 0.6,
+"V": 5,
+"rho": 0.2,
+"adopt": 0.5
+},
+{
+"follow_rate": 0.0,
+"explore": 0.02,
+"rely": 0.0,
+"regime": "convener",
+"q": 0.6,
+"V": 5,
+"rho": 0.2,
+"adopt": 1.0
+},
+{
+"follow_rate": 0.0,
+"explore": 0.02,
+"rely": 0.5,
+"regime": "oracle"
+},
+{
+"follow_rate": 0.0,
+"explore": 0.02,
+"rely": 0.5,
+"regime": "tail_only"
+},
+{
+"follow_rate": 0.0,
+"explore": 0.02,
+"rely": 0.5,
+"regime": "convener",
+"q": 0.6,
+"V": 5,
+"rho": 0.2,
+"adopt": 0.25
+},
+{
+"follow_rate": 0.0,
+"explore": 0.02,
+"rely": 0.5,
+"regime": "convener",
+"q": 0.6,
+"V": 5,
+"rho": 0.2,
+"adopt": 0.5
+},
+{
+"follow_rate": 0.0,
+"explore": 0.02,
+"rely": 0.5,
+"regime": "convener",
+"q": 0.6,
+"V": 5,
+"rho": 0.2,
+"adopt": 1.0
+},
+{
+"follow_rate": 0.0,
+"explore": 0.02,
+"rely": 1.0,
+"regime": "oracle"
+},
+{
+"follow_rate": 0.0,
+"explore": 0.02,
+"rely": 1.0,
+"regime": "tail_only"
+},
+{
+"follow_rate": 0.0,
+"explore": 0.02,
+"rely": 1.0,
+"regime": "convener",
+"q": 0.6,
+"V": 5,
+"rho": 0.2,
+"adopt": 0.25
+},
+{
+"follow_rate": 0.0,
+"explore": 0.02,
+"rely": 1.0,
+"regime": "convener",
+"q": 0.6,
+"V": 5,
+"rho": 0.2,
+"adopt": 0.5
+},
+{
+"follow_rate": 0.0,
+"explore": 0.02,
+"rely": 1.0,
+"regime": "convener",
+"q": 0.6,
+"V": 5,
+"rho": 0.2,
+"adopt": 1.0
+},
+{
+"follow_rate": 0.0,
+"explore": 0.05,
+"rely": 0.0,
+"regime": "oracle"
+},
+{
+"follow_rate": 0.0,
+"explore": 0.05,
+"rely": 0.0,
+"regime": "tail_only"
+},
+{
+"follow_rate": 0.0,
+"explore": 0.05,
+"rely": 0.0,
+"regime": "convener",
+"q": 0.6,
+"V": 5,
+"rho": 0.2,
+"adopt": 0.25
+},
+{
+"follow_rate": 0.0,
+"explore": 0.05,
+"rely": 0.0,
+"regime": "convener",
+"q": 0.6,
+"V": 5,
+"rho": 0.2,
+"adopt": 0.5
+},
+{
+"follow_rate": 0.0,
+"explore": 0.05,
+"rely": 0.0,
+"regime": "convener",
+"q": 0.6,
+"V": 5,
+"rho": 0.2,
+"adopt": 1.0
+},
+{
+"follow_rate": 0.0,
+"explore": 0.05,
+"rely": 0.5,
+"regime": "oracle"
+},
+{
+"follow_rate": 0.0,
+"explore": 0.05,
+"rely": 0.5,
+"regime": "tail_only"
+},
+{
+"follow_rate": 0.0,
+"explore": 0.05,
+"rely": 0.5,
+"regime": "convener",
+"q": 0.6,
+"V": 5,
+"rho": 0.2,
+"adopt": 0.25
+},
+{
+"follow_rate": 0.0,
+"explore": 0.05,
+"rely": 0.5,
+"regime": "convener",
+"q": 0.6,
+"V": 5,
+"rho": 0.2,
+"adopt": 0.5
+},
+{
+"follow_rate": 0.0,
+"explore": 0.05,
+"rely": 0.5,
+"regime": "convener",
+"q": 0.6,
+"V": 5,
+"rho": 0.2,
+"adopt": 1.0
+},
+{
+"follow_rate": 0.0,
+"explore": 0.05,
+"rely": 1.0,
+"regime": "oracle"
+},
+{
+"follow_rate": 0.0,
+"explore": 0.05,
+"rely": 1.0,
+"regime": "tail_only"
+},
+{
+"follow_rate": 0.0,
+"explore": 0.05,
+"rely": 1.0,
+"regime": "convener",
+"q": 0.6,
+"V": 5,
+"rho": 0.2,
+"adopt": 0.25
+},
+{
+"follow_rate": 0.0,
+"explore": 0.05,
+"rely": 1.0,
+"regime": "convener",
+"q": 0.6,
+"V": 5,
+"rho": 0.2,
+"adopt": 0.5
+},
+{
+"follow_rate": 0.0,
+"explore": 0.05,
+"rely": 1.0,
+"regime": "convener",
+"q": 0.6,
+"V": 5,
+"rho": 0.2,
+"adopt": 1.0
+},
+{
+"follow_rate": 0.0,
+"explore": 0.1,
+"rely": 0.0,
+"regime": "oracle"
+},
+{
+"follow_rate": 0.0,
+"explore": 0.1,
+"rely": 0.0,
+"regime": "tail_only"
+},
+{
+"follow_rate": 0.0,
+"explore": 0.1,
+"rely": 0.0,
+"regime": "convener",
+"q": 0.6,
+"V": 5,
+"rho": 0.2,
+"adopt": 0.25
+},
+{
+"follow_rate": 0.0,
+"explore": 0.1,
+"rely": 0.0,
+"regime": "convener",
+"q": 0.6,
+"V": 5,
+"rho": 0.2,
+"adopt": 0.5
+},
+{
+"follow_rate": 0.0,
+"explore": 0.1,
+"rely": 0.0,
+"regime": "convener",
+"q": 0.6,
+"V": 5,
+"rho": 0.2,
+"adopt": 1.0
+},
+{
+"follow_rate": 0.0,
+"explore": 0.1,
+"rely": 0.5,
+"regime": "oracle"
+},
+{
+"follow_rate": 0.0,
+"explore": 0.1,
+"rely": 0.5,
+"regime": "tail_only"
+},
+{
+"follow_rate": 0.0,
+"explore": 0.1,
+"rely": 0.5,
+"regime": "convener",
+"q": 0.6,
+"V": 5,
+"rho": 0.2,
+"adopt": 0.25
+},
+{
+"follow_rate": 0.0,
+"explore": 0.1,
+"rely": 0.5,
+"regime": "convener",
+"q": 0.6,
+"V": 5,
+"rho": 0.2,
+"adopt": 0.5
+},
+{
+"follow_rate": 0.0,
+"explore": 0.1,
+"rely": 0.5,
+"regime": "convener",
+"q": 0.6,
+"V": 5,
+"rho": 0.2,
+"adopt": 1.0
+},
+{
+"follow_rate": 0.0,
+"explore": 0.1,
+"rely": 1.0,
+"regime": "oracle"
+},
+{
+"follow_rate": 0.0,
+"explore": 0.1,
+"rely": 1.0,
+"regime": "tail_only"
+},
+{
+"follow_rate": 0.0,
+"explore": 0.1,
+"rely": 1.0,
+"regime": "convener",
+"q": 0.6,
+"V": 5,
+"rho": 0.2,
+"adopt": 0.25
+},
+{
+"follow_rate": 0.0,
+"explore": 0.1,
+"rely": 1.0,
+"regime": "convener",
+"q": 0.6,
+"V": 5,
+"rho": 0.2,
+"adopt": 0.5
+},
+{
+"follow_rate": 0.0,
+"explore": 0.1,
+"rely": 1.0,
+"regime": "convener",
+"q": 0.6,
+"V": 5,
+"rho": 0.2,
+"adopt": 1.0
+},
+{
+"follow_rate": 0.5,
+"explore": 0.02,
+"rely": 0.0,
+"regime": "oracle"
+},
+{
+"follow_rate": 0.5,
+"explore": 0.02,
+"rely": 0.0,
+"regime": "tail_only"
+},
+{
+"follow_rate": 0.5,
+"explore": 0.02,
+"rely": 0.0,
+"regime": "convener",
+"q": 0.6,
+"V": 5,
+"rho": 0.2,
+"adopt": 0.25
+},
+{
+"follow_rate": 0.5,
+"explore": 0.02,
+"rely": 0.0,
+"regime": "convener",
+"q": 0.6,
+"V": 5,
+"rho": 0.2,
+"adopt": 0.5
+},
+{
+"follow_rate": 0.5,
+"explore": 0.02,
+"rely": 0.0,
+"regime": "convener",
+"q": 0.6,
+"V": 5,
+"rho": 0.2,
+"adopt": 1.0
+},
+{
+"follow_rate": 0.5,
+"explore": 0.02,
+"rely": 0.5,
+"regime": "oracle"
+},
+{
+"follow_rate": 0.5,
+"explore": 0.02,
+"rely": 0.5,
+"regime": "tail_only"
+},
+{
+"follow_rate": 0.5,
+"explore": 0.02,
+"rely": 0.5,
+"regime": "convener",
+"q": 0.6,
+"V": 5,
+"rho": 0.2,
+"adopt": 0.25
+},
+{
+"follow_rate": 0.5,
+"explore": 0.02,
+"rely": 0.5,
+"regime": "convener",
+"q": 0.6,
+"V": 5,
+"rho": 0.2,
+"adopt": 0.5
+},
+{
+"follow_rate": 0.5,
+"explore": 0.02,
+"rely": 0.5,
+"regime": "convener",
+"q": 0.6,
+"V": 5,
+"rho": 0.2,
+"adopt": 1.0
+},
+{
+"follow_rate": 0.5,
+"explore": 0.02,
+"rely": 1.0,
+"regime": "oracle"
+},
+{
+"follow_rate": 0.5,
+"explore": 0.02,
+"rely": 1.0,
+"regime": "tail_only"
+},
+{
+"follow_rate": 0.5,
+"explore": 0.02,
+"rely": 1.0,
+"regime": "convener",
+"q": 0.6,
+"V": 5,
+"rho": 0.2,
+"adopt": 0.25
+},
+{
+"follow_rate": 0.5,
+"explore": 0.02,
+"rely": 1.0,
+"regime": "convener",
+"q": 0.6,
+"V": 5,
+"rho": 0.2,
+"adopt": 0.5
+},
+{
+"follow_rate": 0.5,
+"explore": 0.02,
+"rely": 1.0,
+"regime": "convener",
+"q": 0.6,
+"V": 5,
+"rho": 0.2,
+"adopt": 1.0
+},
+{
+"follow_rate": 0.5,
+"explore": 0.05,
+"rely": 0.0,
+"regime": "oracle"
+},
+{
+"follow_rate": 0.5,
+"explore": 0.05,
+"rely": 0.0,
+"regime": "tail_only"
+},
+{
+"follow_rate": 0.5,
+"explore": 0.05,
+"rely": 0.0,
+"regime": "convener",
+"q": 0.6,
+"V": 5,
+"rho": 0.2,
+"adopt": 0.25
+},
+{
+"follow_rate": 0.5,
+"explore": 0.05,
+"rely": 0.0,
+"regime": "convener",
+"q": 0.6,
+"V": 5,
+"rho": 0.2,
+"adopt": 0.5
+},
+{
+"follow_rate": 0.5,
+"explore": 0.05,
+"rely": 0.0,
+"regime": "convener",
+"q": 0.6,
+"V": 5,
+"rho": 0.2,
+"adopt": 1.0
+},
+{
+"follow_rate": 0.5,
+"explore": 0.05,
+"rely": 0.5,
+"regime": "oracle"
+},
+{
+"follow_rate": 0.5,
+"explore": 0.05,
+"rely": 0.5,
+"regime": "tail_only"
+},
+{
+"follow_rate": 0.5,
+"explore": 0.05,
+"rely": 0.5,
+"regime": "convener",
+"q": 0.6,
+"V": 5,
+"rho": 0.2,
+"adopt": 0.25
+},
+{
+"follow_rate": 0.5,
+"explore": 0.05,
+"rely": 0.5,
+"regime": "convener",
+"q": 0.6,
+"V": 5,
+"rho": 0.2,
+"adopt": 0.5
+},
+{
+"follow_rate": 0.5,
+"explore": 0.05,
+"rely": 0.5,
+"regime": "convener",
+"q": 0.6,
+"V": 5,
+"rho": 0.2,
+"adopt": 1.0
+},
+{
+"follow_rate": 0.5,
+"explore": 0.05,
+"rely": 1.0,
+"regime": "oracle"
+},
+{
+"follow_rate": 0.5,
+"explore": 0.05,
+"rely": 1.0,
+"regime": "tail_only"
+},
+{
+"follow_rate": 0.5,
+"explore": 0.05,
+"rely": 1.0,
+"regime": "convener",
+"q": 0.6,
+"V": 5,
+"rho": 0.2,
+"adopt": 0.25
+},
+{
+"follow_rate": 0.5,
+"explore": 0.05,
+"rely": 1.0,
+"regime": "convener",
+"q": 0.6,
+"V": 5,
+"rho": 0.2,
+"adopt": 0.5
+},
+{
+"follow_rate": 0.5,
+"explore": 0.05,
+"rely": 1.0,
+"regime": "convener",
+"q": 0.6,
+"V": 5,
+"rho": 0.2,
+"adopt": 1.0
+},
+{
+"follow_rate": 0.5,
+"explore": 0.1,
+"rely": 0.0,
+"regime": "oracle"
+},
+{
+"follow_rate": 0.5,
+"explore": 0.1,
+"rely": 0.0,
+"regime": "tail_only"
+},
+{
+"follow_rate": 0.5,
+"explore": 0.1,
+"rely": 0.0,
+"regime": "convener",
+"q": 0.6,
+"V": 5,
+"rho": 0.2,
+"adopt": 0.25
+},
+{
+"follow_rate": 0.5,
+"explore": 0.1,
+"rely": 0.0,
+"regime": "convener",
+"q": 0.6,
+"V": 5,
+"rho": 0.2,
+"adopt": 0.5
+},
+{
+"follow_rate": 0.5,
+"explore": 0.1,
+"rely": 0.0,
+"regime": "convener",
+"q": 0.6,
+"V": 5,
+"rho": 0.2,
+"adopt": 1.0
+},
+{
+"follow_rate": 0.5,
+"explore": 0.1,
+"rely": 0.5,
+"regime": "oracle"
+},
+{
+"follow_rate": 0.5,
+"explore": 0.1,
+"rely": 0.5,
+"regime": "tail_only"
+},
+{
+"follow_rate": 0.5,
+"explore": 0.1,
+"rely": 0.5,
+"regime": "convener",
+"q": 0.6,
+"V": 5,
+"rho": 0.2,
+"adopt": 0.25
+},
+{
+"follow_rate": 0.5,
+"explore": 0.1,
+"rely": 0.5,
+"regime": "convener",
+"q": 0.6,
+"V": 5,
+"rho": 0.2,
+"adopt": 0.5
+},
+{
+"follow_rate": 0.5,
+"explore": 0.1,
+"rely": 0.5,
+"regime": "convener",
+"q": 0.6,
+"V": 5,
+"rho": 0.2,
+"adopt": 1.0
+},
+{
+"follow_rate": 0.5,
+"explore": 0.1,
+"rely": 1.0,
+"regime": "oracle"
+},
+{
+"follow_rate": 0.5,
+"explore": 0.1,
+"rely": 1.0,
+"regime": "tail_only"
+},
+{
+"follow_rate": 0.5,
+"explore": 0.1,
+"rely": 1.0,
+"regime": "convener",
+"q": 0.6,
+"V": 5,
+"rho": 0.2,
+"adopt": 0.25
+},
+{
+"follow_rate": 0.5,
+"explore": 0.1,
+"rely": 1.0,
+"regime": "convener",
+"q": 0.6,
+"V": 5,
+"rho": 0.2,
+"adopt": 0.5
+},
+{
+"follow_rate": 0.5,
+"explore": 0.1,
+"rely": 1.0,
+"regime": "convener",
+"q": 0.6,
+"V": 5,
+"rho": 0.2,
+"adopt": 1.0
+},
+{
+"follow_rate": 1.0,
+"explore": 0.02,
+"rely": 0.0,
+"regime": "oracle"
+},
+{
+"follow_rate": 1.0,
+"explore": 0.02,
+"rely": 0.0,
+"regime": "tail_only"
+},
+{
+"follow_rate": 1.0,
+"explore": 0.02,
+"rely": 0.0,
+"regime": "convener",
+"q": 0.6,
+"V": 5,
+"rho": 0.2,
+"adopt": 0.25
+},
+{
+"follow_rate": 1.0,
+"explore": 0.02,
+"rely": 0.0,
+"regime": "convener",
+"q": 0.6,
+"V": 5,
+"rho": 0.2,
+"adopt": 0.5
+},
+{
+"follow_rate": 1.0,
+"explore": 0.02,
+"rely": 0.0,
+"regime": "convener",
+"q": 0.6,
+"V": 5,
+"rho": 0.2,
+"adopt": 1.0
+},
+{
+"follow_rate": 1.0,
+"explore": 0.02,
+"rely": 0.5,
+"regime": "oracle"
+},
+{
+"follow_rate": 1.0,
+"explore": 0.02,
+"rely": 0.5,
+"regime": "tail_only"
+},
+{
+"follow_rate": 1.0,
+"explore": 0.02,
+"rely": 0.5,
+"regime": "convener",
+"q": 0.6,
+"V": 5,
+"rho": 0.2,
+"adopt": 0.25
+},
+{
+"follow_rate": 1.0,
+"explore": 0.02,
+"rely": 0.5,
+"regime": "convener",
+"q": 0.6,
+"V": 5,
+"rho": 0.2,
+"adopt": 0.5
+},
+{
+"follow_rate": 1.0,
+"explore": 0.02,
+"rely": 0.5,
+"regime": "convener",
+"q": 0.6,
+"V": 5,
+"rho": 0.2,
+"adopt": 1.0
+},
+{
+"follow_rate": 1.0,
+"explore": 0.02,
+"rely": 1.0,
+"regime": "oracle"
+},
+{
+"follow_rate": 1.0,
+"explore": 0.02,
+"rely": 1.0,
+"regime": "tail_only"
+},
+{
+"follow_rate": 1.0,
+"explore": 0.02,
+"rely": 1.0,
+"regime": "convener",
+"q": 0.6,
+"V": 5,
+"rho": 0.2,
+"adopt": 0.25
+},
+{
+"follow_rate": 1.0,
+"explore": 0.02,
+"rely": 1.0,
+"regime": "convener",
+"q": 0.6,
+"V": 5,
+"rho": 0.2,
+"adopt": 0.5
+},
+{
+"follow_rate": 1.0,
+"explore": 0.02,
+"rely": 1.0,
+"regime": "convener",
+"q": 0.6,
+"V": 5,
+"rho": 0.2,
+"adopt": 1.0
+},
+{
+"follow_rate": 1.0,
+"explore": 0.05,
+"rely": 0.0,
+"regime": "oracle"
+},
+{
+"follow_rate": 1.0,
+"explore": 0.05,
+"rely": 0.0,
+"regime": "tail_only"
+},
+{
+"follow_rate": 1.0,
+"explore": 0.05,
+"rely": 0.0,
+"regime": "convener",
+"q": 0.6,
+"V": 5,
+"rho": 0.2,
+"adopt": 0.25
+},
+{
+"follow_rate": 1.0,
+"explore": 0.05,
+"rely": 0.0,
+"regime": "convener",
+"q": 0.6,
+"V": 5,
+"rho": 0.2,
+"adopt": 0.5
+},
+{
+"follow_rate": 1.0,
+"explore": 0.05,
+"rely": 0.0,
+"regime": "convener",
+"q": 0.6,
+"V": 5,
+"rho": 0.2,
+"adopt": 1.0
+},
+{
+"follow_rate": 1.0,
+"explore": 0.05,
+"rely": 0.5,
+"regime": "oracle"
+},
+{
+"follow_rate": 1.0,
+"explore": 0.05,
+"rely": 0.5,
+"regime": "tail_only"
+},
+{
+"follow_rate": 1.0,
+"explore": 0.05,
+"rely": 0.5,
+"regime": "convener",
+"q": 0.6,
+"V": 5,
+"rho": 0.2,
+"adopt": 0.25
+},
+{
+"follow_rate": 1.0,
+"explore": 0.05,
+"rely": 0.5,
+"regime": "convener",
+"q": 0.6,
+"V": 5,
+"rho": 0.2,
+"adopt": 0.5
+},
+{
+"follow_rate": 1.0,
+"explore": 0.05,
+"rely": 0.5,
+"regime": "convener",
+"q": 0.6,
+"V": 5,
+"rho": 0.2,
+"adopt": 1.0
+},
+{
+"follow_rate": 1.0,
+"explore": 0.05,
+"rely": 1.0,
+"regime": "oracle"
+},
+{
+"follow_rate": 1.0,
+"explore": 0.05,
+"rely": 1.0,
+"regime": "tail_only"
+},
+{
+"follow_rate": 1.0,
+"explore": 0.05,
+"rely": 1.0,
+"regime": "convener",
+"q": 0.6,
+"V": 5,
+"rho": 0.2,
+"adopt": 0.25
+},
+{
+"follow_rate": 1.0,
+"explore": 0.05,
+"rely": 1.0,
+"regime": "convener",
+"q": 0.6,
+"V": 5,
+"rho": 0.2,
+"adopt": 0.5
+},
+{
+"follow_rate": 1.0,
+"explore": 0.05,
+"rely": 1.0,
+"regime": "convener",
+"q": 0.6,
+"V": 5,
+"rho": 0.2,
+"adopt": 1.0
+},
+{
+"follow_rate": 1.0,
+"explore": 0.1,
+"rely": 0.0,
+"regime": "oracle"
+},
+{
+"follow_rate": 1.0,
+"explore": 0.1,
+"rely": 0.0,
+"regime": "tail_only"
+},
+{
+"follow_rate": 1.0,
+"explore": 0.1,
+"rely": 0.0,
+"regime": "convener",
+"q": 0.6,
+"V": 5,
+"rho": 0.2,
+"adopt": 0.25
+},
+{
+"follow_rate": 1.0,
+"explore": 0.1,
+"rely": 0.0,
+"regime": "convener",
+"q": 0.6,
+"V": 5,
+"rho": 0.2,
+"adopt": 0.5
+},
+{
+"follow_rate": 1.0,
+"explore": 0.1,
+"rely": 0.0,
+"regime": "convener",
+"q": 0.6,
+"V": 5,
+"rho": 0.2,
+"adopt": 1.0
+},
+{
+"follow_rate": 1.0,
+"explore": 0.1,
+"rely": 0.5,
+"regime": "oracle"
+},
+{
+"follow_rate": 1.0,
+"explore": 0.1,
+"rely": 0.5,
+"regime": "tail_only"
+},
+{
+"follow_rate": 1.0,
+"explore": 0.1,
+"rely": 0.5,
+"regime": "convener",
+"q": 0.6,
+"V": 5,
+"rho": 0.2,
+"adopt": 0.25
+},
+{
+"follow_rate": 1.0,
+"explore": 0.1,
+"rely": 0.5,
+"regime": "convener",
+"q": 0.6,
+"V": 5,
+"rho": 0.2,
+"adopt": 0.5
+},
+{
+"follow_rate": 1.0,
+"explore": 0.1,
+"rely": 0.5,
+"regime": "convener",
+"q": 0.6,
+"V": 5,
+"rho": 0.2,
+"adopt": 1.0
+},
+{
+"follow_rate": 1.0,
+"explore": 0.1,
+"rely": 1.0,
+"regime": "oracle"
+},
+{
+"follow_rate": 1.0,
+"explore": 0.1,
+"rely": 1.0,
+"regime": "tail_only"
+},
+{
+"follow_rate": 1.0,
+"explore": 0.1,
+"rely": 1.0,
+"regime": "convener",
+"q": 0.6,
+"V": 5,
+"rho": 0.2,
+"adopt": 0.25
+},
+{
+"follow_rate": 1.0,
+"explore": 0.1,
+"rely": 1.0,
+"regime": "convener",
+"q": 0.6,
+"V": 5,
+"rho": 0.2,
+"adopt": 0.5
+},
+{
+"follow_rate": 1.0,
+"explore": 0.1,
+"rely": 1.0,
+"regime": "convener",
+"q": 0.6,
+"V": 5,
+"rho": 0.2,
+"adopt": 1.0
+},
+{
+"follow_rate": 2.0,
+"explore": 0.02,
+"rely": 0.0,
+"regime": "oracle"
+},
+{
+"follow_rate": 2.0,
+"explore": 0.02,
+"rely": 0.0,
+"regime": "tail_only"
+},
+{
+"follow_rate": 2.0,
+"explore": 0.02,
+"rely": 0.0,
+"regime": "convener",
+"q": 0.6,
+"V": 5,
+"rho": 0.2,
+"adopt": 0.25
+},
+{
+"follow_rate": 2.0,
+"explore": 0.02,
+"rely": 0.0,
+"regime": "convener",
+"q": 0.6,
+"V": 5,
+"rho": 0.2,
+"adopt": 0.5
+},
+{
+"follow_rate": 2.0,
+"explore": 0.02,
+"rely": 0.0,
+"regime": "convener",
+"q": 0.6,
+"V": 5,
+"rho": 0.2,
+"adopt": 1.0
+},
+{
+"follow_rate": 2.0,
+"explore": 0.02,
+"rely": 0.5,
+"regime": "oracle"
+},
+{
+"follow_rate": 2.0,
+"explore": 0.02,
+"rely": 0.5,
+"regime": "tail_only"
+},
+{
+"follow_rate": 2.0,
+"explore": 0.02,
+"rely": 0.5,
+"regime": "convener",
+"q": 0.6,
+"V": 5,
+"rho": 0.2,
+"adopt": 0.25
+},
+{
+"follow_rate": 2.0,
+"explore": 0.02,
+"rely": 0.5,
+"regime": "convener",
+"q": 0.6,
+"V": 5,
+"rho": 0.2,
+"adopt": 0.5
+},
+{
+"follow_rate": 2.0,
+"explore": 0.02,
+"rely": 0.5,
+"regime": "convener",
+"q": 0.6,
+"V": 5,
+"rho": 0.2,
+"adopt": 1.0
+},
+{
+"follow_rate": 2.0,
+"explore": 0.02,
+"rely": 1.0,
+"regime": "oracle"
+},
+{
+"follow_rate": 2.0,
+"explore": 0.02,
+"rely": 1.0,
+"regime": "tail_only"
+},
+{
+"follow_rate": 2.0,
+"explore": 0.02,
+"rely": 1.0,
+"regime": "convener",
+"q": 0.6,
+"V": 5,
+"rho": 0.2,
+"adopt": 0.25
+},
+{
+"follow_rate": 2.0,
+"explore": 0.02,
+"rely": 1.0,
+"regime": "convener",
+"q": 0.6,
+"V": 5,
+"rho": 0.2,
+"adopt": 0.5
+},
+{
+"follow_rate": 2.0,
+"explore": 0.02,
+"rely": 1.0,
+"regime": "convener",
+"q": 0.6,
+"V": 5,
+"rho": 0.2,
+"adopt": 1.0
+},
+{
+"follow_rate": 2.0,
+"explore": 0.05,
+"rely": 0.0,
+"regime": "oracle"
+},
+{
+"follow_rate": 2.0,
+"explore": 0.05,
+"rely": 0.0,
+"regime": "tail_only"
+},
+{
+"follow_rate": 2.0,
+"explore": 0.05,
+"rely": 0.0,
+"regime": "convener",
+"q": 0.6,
+"V": 5,
+"rho": 0.2,
+"adopt": 0.25
+},
+{
+"follow_rate": 2.0,
+"explore": 0.05,
+"rely": 0.0,
+"regime": "convener",
+"q": 0.6,
+"V": 5,
+"rho": 0.2,
+"adopt": 0.5
+},
+{
+"follow_rate": 2.0,
+"explore": 0.05,
+"rely": 0.0,
+"regime": "convener",
+"q": 0.6,
+"V": 5,
+"rho": 0.2,
+"adopt": 1.0
+},
+{
+"follow_rate": 2.0,
+"explore": 0.05,
+"rely": 0.5,
+"regime": "oracle"
+},
+{
+"follow_rate": 2.0,
+"explore": 0.05,
+"rely": 0.5,
+"regime": "tail_only"
+},
+{
+"follow_rate": 2.0,
+"explore": 0.05,
+"rely": 0.5,
+"regime": "convener",
+"q": 0.6,
+"V": 5,
+"rho": 0.2,
+"adopt": 0.25
+},
+{
+"follow_rate": 2.0,
+"explore": 0.05,
+"rely": 0.5,
+"regime": "convener",
+"q": 0.6,
+"V": 5,
+"rho": 0.2,
+"adopt": 0.5
+},
+{
+"follow_rate": 2.0,
+"explore": 0.05,
+"rely": 0.5,
+"regime": "convener",
+"q": 0.6,
+"V": 5,
+"rho": 0.2,
+"adopt": 1.0
+},
+{
+"follow_rate": 2.0,
+"explore": 0.05,
+"rely": 1.0,
+"regime": "oracle"
+},
+{
+"follow_rate": 2.0,
+"explore": 0.05,
+"rely": 1.0,
+"regime": "tail_only"
+},
+{
+"follow_rate": 2.0,
+"explore": 0.05,
+"rely": 1.0,
+"regime": "convener",
+"q": 0.6,
+"V": 5,
+"rho": 0.2,
+"adopt": 0.25
+},
+{
+"follow_rate": 2.0,
+"explore": 0.05,
+"rely": 1.0,
+"regime": "convener",
+"q": 0.6,
+"V": 5,
+"rho": 0.2,
+"adopt": 0.5
+},
+{
+"follow_rate": 2.0,
+"explore": 0.05,
+"rely": 1.0,
+"regime": "convener",
+"q": 0.6,
+"V": 5,
+"rho": 0.2,
+"adopt": 1.0
+},
+{
+"follow_rate": 2.0,
+"explore": 0.1,
+"rely": 0.0,
+"regime": "oracle"
+},
+{
+"follow_rate": 2.0,
+"explore": 0.1,
+"rely": 0.0,
+"regime": "tail_only"
+},
+{
+"follow_rate": 2.0,
+"explore": 0.1,
+"rely": 0.0,
+"regime": "convener",
+"q": 0.6,
+"V": 5,
+"rho": 0.2,
+"adopt": 0.25
+},
+{
+"follow_rate": 2.0,
+"explore": 0.1,
+"rely": 0.0,
+"regime": "convener",
+"q": 0.6,
+"V": 5,
+"rho": 0.2,
+"adopt": 0.5
+},
+{
+"follow_rate": 2.0,
+"explore": 0.1,
+"rely": 0.0,
+"regime": "convener",
+"q": 0.6,
+"V": 5,
+"rho": 0.2,
+"adopt": 1.0
+},
+{
+"follow_rate": 2.0,
+"explore": 0.1,
+"rely": 0.5,
+"regime": "oracle"
+},
+{
+"follow_rate": 2.0,
+"explore": 0.1,
+"rely": 0.5,
+"regime": "tail_only"
+},
+{
+"follow_rate": 2.0,
+"explore": 0.1,
+"rely": 0.5,
+"regime": "convener",
+"q": 0.6,
+"V": 5,
+"rho": 0.2,
+"adopt": 0.25
+},
+{
+"follow_rate": 2.0,
+"explore": 0.1,
+"rely": 0.5,
+"regime": "convener",
+"q": 0.6,
+"V": 5,
+"rho": 0.2,
+"adopt": 0.5
+},
+{
+"follow_rate": 2.0,
+"explore": 0.1,
+"rely": 0.5,
+"regime": "convener",
+"q": 0.6,
+"V": 5,
+"rho": 0.2,
+"adopt": 1.0
+},
+{
+"follow_rate": 2.0,
+"explore": 0.1,
+"rely": 1.0,
+"regime": "oracle"
+},
+{
+"follow_rate": 2.0,
+"explore": 0.1,
+"rely": 1.0,
+"regime": "tail_only"
+},
+{
+"follow_rate": 2.0,
+"explore": 0.1,
+"rely": 1.0,
+"regime": "convener",
+"q": 0.6,
+"V": 5,
+"rho": 0.2,
+"adopt": 0.25
+},
+{
+"follow_rate": 2.0,
+"explore": 0.1,
+"rely": 1.0,
+"regime": "convener",
+"q": 0.6,
+"V": 5,
+"rho": 0.2,
+"adopt": 0.5
+},
+{
+"follow_rate": 2.0,
+"explore": 0.1,
+"rely": 1.0,
+"regime": "convener",
+"q": 0.6,
+"V": 5,
+"rho": 0.2,
+"adopt": 1.0
+},
+{
+"follow_rate": 4.0,
+"explore": 0.02,
+"rely": 0.0,
+"regime": "oracle"
+},
+{
+"follow_rate": 4.0,
+"explore": 0.02,
+"rely": 0.0,
+"regime": "tail_only"
+},
+{
+"follow_rate": 4.0,
+"explore": 0.02,
+"rely": 0.0,
+"regime": "convener",
+"q": 0.6,
+"V": 5,
+"rho": 0.2,
+"adopt": 0.25
+},
+{
+"follow_rate": 4.0,
+"explore": 0.02,
+"rely": 0.0,
+"regime": "convener",
+"q": 0.6,
+"V": 5,
+"rho": 0.2,
+"adopt": 0.5
+},
+{
+"follow_rate": 4.0,
+"explore": 0.02,
+"rely": 0.0,
+"regime": "convener",
+"q": 0.6,
+"V": 5,
+"rho": 0.2,
+"adopt": 1.0
+},
+{
+"follow_rate": 4.0,
+"explore": 0.02,
+"rely": 0.5,
+"regime": "oracle"
+},
+{
+"follow_rate": 4.0,
+"explore": 0.02,
+"rely": 0.5,
+"regime": "tail_only"
+},
+{
+"follow_rate": 4.0,
+"explore": 0.02,
+"rely": 0.5,
+"regime": "convener",
+"q": 0.6,
+"V": 5,
+"rho": 0.2,
+"adopt": 0.25
+},
+{
+"follow_rate": 4.0,
+"explore": 0.02,
+"rely": 0.5,
+"regime": "convener",
+"q": 0.6,
+"V": 5,
+"rho": 0.2,
+"adopt": 0.5
+},
+{
+"follow_rate": 4.0,
+"explore": 0.02,
+"rely": 0.5,
+"regime": "convener",
+"q": 0.6,
+"V": 5,
+"rho": 0.2,
+"adopt": 1.0
+},
+{
+"follow_rate": 4.0,
+"explore": 0.02,
+"rely": 1.0,
+"regime": "oracle"
+},
+{
+"follow_rate": 4.0,
+"explore": 0.02,
+"rely": 1.0,
+"regime": "tail_only"
+},
+{
+"follow_rate": 4.0,
+"explore": 0.02,
+"rely": 1.0,
+"regime": "convener",
+"q": 0.6,
+"V": 5,
+"rho": 0.2,
+"adopt": 0.25
+},
+{
+"follow_rate": 4.0,
+"explore": 0.02,
+"rely": 1.0,
+"regime": "convener",
+"q": 0.6,
+"V": 5,
+"rho": 0.2,
+"adopt": 0.5
+},
+{
+"follow_rate": 4.0,
+"explore": 0.02,
+"rely": 1.0,
+"regime": "convener",
+"q": 0.6,
+"V": 5,
+"rho": 0.2,
+"adopt": 1.0
+},
+{
+"follow_rate": 4.0,
+"explore": 0.05,
+"rely": 0.0,
+"regime": "oracle"
+},
+{
+"follow_rate": 4.0,
+"explore": 0.05,
+"rely": 0.0,
+"regime": "tail_only"
+},
+{
+"follow_rate": 4.0,
+"explore": 0.05,
+"rely": 0.0,
+"regime": "convener",
+"q": 0.6,
+"V": 5,
+"rho": 0.2,
+"adopt": 0.25
+},
+{
+"follow_rate": 4.0,
+"explore": 0.05,
+"rely": 0.0,
+"regime": "convener",
+"q": 0.6,
+"V": 5,
+"rho": 0.2,
+"adopt": 0.5
+},
+{
+"follow_rate": 4.0,
+"explore": 0.05,
+"rely": 0.0,
+"regime": "convener",
+"q": 0.6,
+"V": 5,
+"rho": 0.2,
+"adopt": 1.0
+},
+{
+"follow_rate": 4.0,
+"explore": 0.05,
+"rely": 0.5,
+"regime": "oracle"
+},
+{
+"follow_rate": 4.0,
+"explore": 0.05,
+"rely": 0.5,
+"regime": "tail_only"
+},
+{
+"follow_rate": 4.0,
+"explore": 0.05,
+"rely": 0.5,
+"regime": "convener",
+"q": 0.6,
+"V": 5,
+"rho": 0.2,
+"adopt": 0.25
+},
+{
+"follow_rate": 4.0,
+"explore": 0.05,
+"rely": 0.5,
+"regime": "convener",
+"q": 0.6,
+"V": 5,
+"rho": 0.2,
+"adopt": 0.5
+},
+{
+"follow_rate": 4.0,
+"explore": 0.05,
+"rely": 0.5,
+"regime": "convener",
+"q": 0.6,
+"V": 5,
+"rho": 0.2,
+"adopt": 1.0
+},
+{
+"follow_rate": 4.0,
+"explore": 0.05,
+"rely": 1.0,
+"regime": "oracle"
+},
+{
+"follow_rate": 4.0,
+"explore": 0.05,
+"rely": 1.0,
+"regime": "tail_only"
+},
+{
+"follow_rate": 4.0,
+"explore": 0.05,
+"rely": 1.0,
+"regime": "convener",
+"q": 0.6,
+"V": 5,
+"rho": 0.2,
+"adopt": 0.25
+},
+{
+"follow_rate": 4.0,
+"explore": 0.05,
+"rely": 1.0,
+"regime": "convener",
+"q": 0.6,
+"V": 5,
+"rho": 0.2,
+"adopt": 0.5
+},
+{
+"follow_rate": 4.0,
+"explore": 0.05,
+"rely": 1.0,
+"regime": "convener",
+"q": 0.6,
+"V": 5,
+"rho": 0.2,
+"adopt": 1.0
+},
+{
+"follow_rate": 4.0,
+"explore": 0.1,
+"rely": 0.0,
+"regime": "oracle"
+},
+{
+"follow_rate": 4.0,
+"explore": 0.1,
+"rely": 0.0,
+"regime": "tail_only"
+},
+{
+"follow_rate": 4.0,
+"explore": 0.1,
+"rely": 0.0,
+"regime": "convener",
+"q": 0.6,
+"V": 5,
+"rho": 0.2,
+"adopt": 0.25
+},
+{
+"follow_rate": 4.0,
+"explore": 0.1,
+"rely": 0.0,
+"regime": "convener",
+"q": 0.6,
+"V": 5,
+"rho": 0.2,
+"adopt": 0.5
+},
+{
+"follow_rate": 4.0,
+"explore": 0.1,
+"rely": 0.0,
+"regime": "convener",
+"q": 0.6,
+"V": 5,
+"rho": 0.2,
+"adopt": 1.0
+},
+{
+"follow_rate": 4.0,
+"explore": 0.1,
+"rely": 0.5,
+"regime": "oracle"
+},
+{
+"follow_rate": 4.0,
+"explore": 0.1,
+"rely": 0.5,
+"regime": "tail_only"
+},
+{
+"follow_rate": 4.0,
+"explore": 0.1,
+"rely": 0.5,
+"regime": "convener",
+"q": 0.6,
+"V": 5,
+"rho": 0.2,
+"adopt": 0.25
+},
+{
+"follow_rate": 4.0,
+"explore": 0.1,
+"rely": 0.5,
+"regime": "convener",
+"q": 0.6,
+"V": 5,
+"rho": 0.2,
+"adopt": 0.5
+},
+{
+"follow_rate": 4.0,
+"explore": 0.1,
+"rely": 0.5,
+"regime": "convener",
+"q": 0.6,
+"V": 5,
+"rho": 0.2,
+"adopt": 1.0
+},
+{
+"follow_rate": 4.0,
+"explore": 0.1,
+"rely": 1.0,
+"regime": "oracle"
+},
+{
+"follow_rate": 4.0,
+"explore": 0.1,
+"rely": 1.0,
+"regime": "tail_only"
+},
+{
+"follow_rate": 4.0,
+"explore": 0.1,
+"rely": 1.0,
+"regime": "convener",
+"q": 0.6,
+"V": 5,
+"rho": 0.2,
+"adopt": 0.25
+},
+{
+"follow_rate": 4.0,
+"explore": 0.1,
+"rely": 1.0,
+"regime": "convener",
+"q": 0.6,
+"V": 5,
+"rho": 0.2,
+"adopt": 0.5
+},
+{
+"follow_rate": 4.0,
+"explore": 0.1,
+"rely": 1.0,
+"regime": "convener",
+"q": 0.6,
+"V": 5,
+"rho": 0.2,
+"adopt": 1.0
+}
+]
+}

@@ -1,0 +1,43 @@
+mechanism mentions 3345 | distinct names 2562
+HTTP 429 {
+    "error": {
+        "message": "You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/orga
+verdicts {'not a mechanism': 927, 'generic': 877, 'specific': 758}
+kept names (after renames) 838
+candidate pairs (cosine >= .75) 55
+same pairs 15 | menu entries 824
+
+CHECKS
+  generic examples dropped: True
+  specific kept: {'moral licensing': True, 'adverse selection': True, 'agenda setting': True, 'social contagion': True, 'isomorphism': True}
+  must stay apart (False = apart, None = one missing): {'moral licensing / moral cleansing': False, 'adverse selection / moral hazard': False, 'agenda setting / framing': False}
+  must merge (True = merged, None = one missing): {'path dependence / path dependency': None, 'sensemaking / sense-making': None, 'signaling theory / signaling': True}
+
+largest merged entries:
+  framing effects (16): discursive framing, framing, framing effects, framing processes
+  social constructionism (16): social construction, social constructionism
+  reciprocity (14): reciprocation, reciprocity, repaying kindness, support reciprocation
+  signaling theory (14): group signaling, identity signaling, signaling, signaling theory
+  information processing theory (10): information processing, information processing theory
+  normative influence (10): norm-based influence, normative influence, social norms
+  social exchange theory (10): social exchange, social exchange theory, social-exchange
+  diffusion of innovations (9): behavioral diffusion, diffusion, diffusion of innovations, innovation adoption
+  self-regulation theory (9): self-regulation, self-regulation theory
+  social identification (9): identification, social identification
+  motivated reasoning (7): motivated beliefs, motivated processing, motivated reasoning
+  modernization theory (6): modernization, modernization theory
+  resource dependence (6): resource dependence, resource dependence theory, resource dependency
+  social embeddedness (6): embeddedness, social embeddedness
+  appraisal theory (5): appraisal, appraisal theory, event appraisal
+  attribution theory (5): attribution, attribution theory, social attribution
+  fundamental cause (5): fundamental cause, fundamental causes
+  relative deprivation (5): group deprivation, relative deprivation, relative deprivation rationale
+  social contagion (5): contagion, social contagion
+  social learning theory (5): social learning, social learning theory
+  attraction-selection-attrition (4): attraction selection attrition, attraction-selection-attrition, attraction–selection–attrition
+  cognitive dissonance (4): cognitive dissonance, dissonance
+  dynamic capabilities (4): capability reconfiguration, dynamic capabilities
+  ego depletion (4): depletion, ego depletion, ego-depletion theory
+  institutional isomorphism (4): institutional isomorphism, institutional pressure, institutional pressures, isomorphism
+
+field spread of menu: {'management': 148, 'sociology': 111, 'psychology': 225, 'communication': 81, 'political science': 109, 'economics': 150}

@@ -1,0 +1,52 @@
+Academy of Management Annals 371
+Journal of Management 209
+Annual Review of Sociology 406
+Annual Review of Psychology 394
+Annual Review of Political Science 379
+Annual Review of Economics 391
+Annals of the International Communication Association 251
+total abstracts 2401
+batches 164 to do 164
+HTTP 429 {
+    "error": {
+        "message": "You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.",
+        "type": "insufficient
+HTTP 429 {
+    "error": {
+        "message": "You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.",
+        "type": "insufficient
+HTTP 429 {
+    "error": {
+        "message": "You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.",
+        "type": "insufficient
+HTTP 429 {
+    "error": {
+        "message": "You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.",
+        "type": "insufficient
+HTTP 429 {
+    "error": {
+        "message": "You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.",
+        "type": "insufficient
+HTTP 429 {
+    "error": {
+        "message": "You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.",
+        "type": "insufficient
+HTTP 429 {
+    "error": {
+        "message": "You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.",
+        "type": "insufficient
+HTTP 429 {
+    "error": {
+        "message": "You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.",
+        "type": "insufficient
+reviews 2401 | phenomena 2695 (quotes verbatim 100%) | mechanisms 3346 (verbatim 100%)
+mechanisms by field: {'management': 744, 'sociology': 515, 'psychology': 727, 'political science': 487, 'economics': 633, 'communication': 240}
+distinct mechanism names: 2562
+most common: [('social construction', 16), ('framing', 12), ('collective action', 11), ('learning', 10), ('information processing', 10), ('coordination', 10), ('reciprocity', 10), ('persuasion', 10), ('self-regulation', 9), ('signaling', 9), ('discrimination', 9), ('sensemaking', 8), ('social influence', 8), ('identification', 8), ('legitimation', 8), ('reputation', 8), ('social exchange', 7), ('coercion', 7), ('cooperation', 7), ('selection', 7), ('path dependence', 6), ('integration', 6), ('institutional logics', 6), ('institutionalization', 6), ('feedback loops', 6)]
+  menu has 'moral licensing': ['moral licensing']
+  menu has 'interlock': []
+  menu has 'board interlock': []
+  menu has 'isomorphism': ['isomorphism', 'second-order isomorphism', 'mimetic isomorphism']
+  menu has 'social contagion': ['social contagion', 'prosocial contagion']
+  menu has 'agenda setting': ['agenda setting']
+  menu has 'adverse selection': ['adverse selection']

@@ -1,0 +1,469 @@
+{
+"keys": [
+"useful_cells",
+"noise_cells",
+"useful_papers",
+"noise_papers",
+"total",
+"ai_build",
+"ai_build_useful",
+"ai_build_noise",
+"explore_useful",
+"explore_noise",
+"eff_mechanisms"
+],
+"seeds": 20,
+"conds": [
+{
+"follow_rate": 2.0,
+"regime": "oracle",
+"rely": 1.0,
+"_variant": "Baseline",
+"_regime": "Everyone relies on AI (oracle)"
+},
+{
+"follow_rate": 2.0,
+"regime": "tail_only",
+"rely": 1.0,
+"_variant": "Baseline",
+"_regime": "Random untried ideas"
+},
+{
+"follow_rate": 2.0,
+"regime": "convener",
+"q": 0.6,
+"V": 5,
+"rho": 0.2,
+"rely": 1.0,
+"_variant": "Baseline",
+"_regime": "Spotting"
+},
+{
+"follow_rate": 2.0,
+"regime": "tail_only",
+"rely": 0.0,
+"_variant": "Baseline",
+"_regime": "No AI"
+},
+{
+"follow_rate": 2.0,
+"regime": "oracle",
+"rely": 1.0,
+"follow_mode": "extra",
+"_variant": "Follow-ups added on top of researchers' papers",
+"_regime": "Everyone relies on AI (oracle)"
+},
+{
+"follow_rate": 2.0,
+"regime": "tail_only",
+"rely": 1.0,
+"follow_mode": "extra",
+"_variant": "Follow-ups added on top of researchers' papers",
+"_regime": "Random untried ideas"
+},
+{
+"follow_rate": 2.0,
+"regime": "convener",
+"q": 0.6,
+"V": 5,
+"rho": 0.2,
+"rely": 1.0,
+"follow_mode": "extra",
+"_variant": "Follow-ups added on top of researchers' papers",
+"_regime": "Spotting"
+},
+{
+"follow_rate": 2.0,
+"regime": "tail_only",
+"rely": 0.0,
+"follow_mode": "extra",
+"_variant": "Follow-ups added on top of researchers' papers",
+"_regime": "No AI"
+},
+{
+"follow_rate": 2.0,
+"regime": "oracle",
+"rely": 1.0,
+"b": 0.05,
+"_variant": "5% of untried cells useful",
+"_regime": "Everyone relies on AI (oracle)"
+},
+{
+"follow_rate": 2.0,
+"regime": "tail_only",
+"rely": 1.0,
+"b": 0.05,
+"_variant": "5% of untried cells useful",
+"_regime": "Random untried ideas"
+},
+{
+"follow_rate": 2.0,
+"regime": "convener",
+"q": 0.6,
+"V": 5,
+"rho": 0.2,
+"rely": 1.0,
+"b": 0.05,
+"_variant": "5% of untried cells useful",
+"_regime": "Spotting"
+},
+{
+"follow_rate": 2.0,
+"regime": "tail_only",
+"rely": 0.0,
+"b": 0.05,
+"_variant": "5% of untried cells useful",
+"_regime": "No AI"
+},
+{
+"follow_rate": 2.0,
+"regime": "oracle",
+"rely": 1.0,
+"b": 0.2,
+"_variant": "20% of untried cells useful",
+"_regime": "Everyone relies on AI (oracle)"
+},
+{
+"follow_rate": 2.0,
+"regime": "tail_only",
+"rely": 1.0,
+"b": 0.2,
+"_variant": "20% of untried cells useful",
+"_regime": "Random untried ideas"
+},
+{
+"follow_rate": 2.0,
+"regime": "convener",
+"q": 0.6,
+"V": 5,
+"rho": 0.2,
+"rely": 1.0,
+"b": 0.2,
+"_variant": "20% of untried cells useful",
+"_regime": "Spotting"
+},
+{
+"follow_rate": 2.0,
+"regime": "tail_only",
+"rely": 0.0,
+"b": 0.2,
+"_variant": "20% of untried cells useful",
+"_regime": "No AI"
+},
+{
+"follow_rate": 2.0,
+"regime": "oracle",
+"rely": 1.0,
+"useful_tracks_popularity": 1.0,
+"_variant": "Useful ideas sit near popular mechanisms",
+"_regime": "Everyone relies on AI (oracle)"
+},
+{
+"follow_rate": 2.0,
+"regime": "tail_only",
+"rely": 1.0,
+"useful_tracks_popularity": 1.0,
+"_variant": "Useful ideas sit near popular mechanisms",
+"_regime": "Random untried ideas"
+},
+{
+"follow_rate": 2.0,
+"regime": "convener",
+"q": 0.6,
+"V": 5,
+"rho": 0.2,
+"rely": 1.0,
+"useful_tracks_popularity": 1.0,
+"_variant": "Useful ideas sit near popular mechanisms",
+"_regime": "Spotting"
+},
+{
+"follow_rate": 2.0,
+"regime": "tail_only",
+"rely": 0.0,
+"useful_tracks_popularity": 1.0,
+"_variant": "Useful ideas sit near popular mechanisms",
+"_regime": "No AI"
+},
+{
+"follow_rate": 2.0,
+"regime": "oracle",
+"rely": 1.0,
+"absorb_err": 0.05,
+"_variant": "Field misjudges 5% of new ideas",
+"_regime": "Everyone relies on AI (oracle)"
+},
+{
+"follow_rate": 2.0,
+"regime": "tail_only",
+"rely": 1.0,
+"absorb_err": 0.05,
+"_variant": "Field misjudges 5% of new ideas",
+"_regime": "Random untried ideas"
+},
+{
+"follow_rate": 2.0,
+"regime": "convener",
+"q": 0.6,
+"V": 5,
+"rho": 0.2,
+"rely": 1.0,
+"absorb_err": 0.05,
+"_variant": "Field misjudges 5% of new ideas",
+"_regime": "Spotting"
+},
+{
+"follow_rate": 2.0,
+"regime": "tail_only",
+"rely": 0.0,
+"absorb_err": 0.05,
+"_variant": "Field misjudges 5% of new ideas",
+"_regime": "No AI"
+},
+{
+"follow_rate": 2.0,
+"regime": "oracle",
+"rely": 1.0,
+"absorb_err": 0.2,
+"_variant": "Field misjudges 20% of new ideas",
+"_regime": "Everyone relies on AI (oracle)"
+},
+{
+"follow_rate": 2.0,
+"regime": "tail_only",
+"rely": 1.0,
+"absorb_err": 0.2,
+"_variant": "Field misjudges 20% of new ideas",
+"_regime": "Random untried ideas"
+},
+{
+"follow_rate": 2.0,
+"regime": "convener",
+"q": 0.6,
+"V": 5,
+"rho": 0.2,
+"rely": 1.0,
+"absorb_err": 0.2,
+"_variant": "Field misjudges 20% of new ideas",
+"_regime": "Spotting"
+},
+{
+"follow_rate": 2.0,
+"regime": "tail_only",
+"rely": 0.0,
+"absorb_err": 0.2,
+"_variant": "Field misjudges 20% of new ideas",
+"_regime": "No AI"
+},
+{
+"follow_rate": 2.0,
+"regime": "oracle",
+"rely": 1.0,
+"explore": 0.02,
+"_variant": "Exploration 2%",
+"_regime": "Everyone relies on AI (oracle)"
+},
+{
+"follow_rate": 2.0,
+"regime": "tail_only",
+"rely": 1.0,
+"explore": 0.02,
+"_variant": "Exploration 2%",
+"_regime": "Random untried ideas"
+},
+{
+"follow_rate": 2.0,
+"regime": "convener",
+"q": 0.6,
+"V": 5,
+"rho": 0.2,
+"rely": 1.0,
+"explore": 0.02,
+"_variant": "Exploration 2%",
+"_regime": "Spotting"
+},
+{
+"follow_rate": 2.0,
+"regime": "tail_only",
+"rely": 0.0,
+"explore": 0.02,
+"_variant": "Exploration 2%",
+"_regime": "No AI"
+},
+{
+"follow_rate": 2.0,
+"regime": "oracle",
+"rely": 1.0,
+"explore": 0.1,
+"_variant": "Exploration 10%",
+"_regime": "Everyone relies on AI (oracle)"
+},
+{
+"follow_rate": 2.0,
+"regime": "tail_only",
+"rely": 1.0,
+"explore": 0.1,
+"_variant": "Exploration 10%",
+"_regime": "Random untried ideas"
+},
+{
+"follow_rate": 2.0,
+"regime": "convener",
+"q": 0.6,
+"V": 5,
+"rho": 0.2,
+"rely": 1.0,
+"explore": 0.1,
+"_variant": "Exploration 10%",
+"_regime": "Spotting"
+},
+{
+"follow_rate": 2.0,
+"regime": "tail_only",
+"rely": 0.0,
+"explore": 0.1,
+"_variant": "Exploration 10%",
+"_regime": "No AI"
+},
+{
+"follow_rate": 2.0,
+"regime": "oracle",
+"rely": 1.0,
+"lam": 0.25,
+"_variant": "AI proposes fewer untried ideas (25%)",
+"_regime": "Everyone relies on AI (oracle)"
+},
+{
+"follow_rate": 2.0,
+"regime": "tail_only",
+"rely": 1.0,
+"lam": 0.25,
+"_variant": "AI proposes fewer untried ideas (25%)",
+"_regime": "Random untried ideas"
+},
+{
+"follow_rate": 2.0,
+"regime": "convener",
+"q": 0.6,
+"V": 5,
+"rho": 0.2,
+"rely": 1.0,
+"lam": 0.25,
+"_variant": "AI proposes fewer untried ideas (25%)",
+"_regime": "Spotting"
+},
+{
+"follow_rate": 2.0,
+"regime": "tail_only",
+"rely": 0.0,
+"lam": 0.25,
+"_variant": "AI proposes fewer untried ideas (25%)",
+"_regime": "No AI"
+},
+{
+"follow_rate": 2.0,
+"regime": "oracle",
+"rely": 1.0,
+"lam": 0.75,
+"_variant": "AI proposes more untried ideas (75%)",
+"_regime": "Everyone relies on AI (oracle)"
+},
+{
+"follow_rate": 2.0,
+"regime": "tail_only",
+"rely": 1.0,
+"lam": 0.75,
+"_variant": "AI proposes more untried ideas (75%)",
+"_regime": "Random untried ideas"
+},
+{
+"follow_rate": 2.0,
+"regime": "convener",
+"q": 0.6,
+"V": 5,
+"rho": 0.2,
+"rely": 1.0,
+"lam": 0.75,
+"_variant": "AI proposes more untried ideas (75%)",
+"_regime": "Spotting"
+},
+{
+"follow_rate": 2.0,
+"regime": "tail_only",
+"rely": 0.0,
+"lam": 0.75,
+"_variant": "AI proposes more untried ideas (75%)",
+"_regime": "No AI"
+},
+{
+"follow_rate": 2.0,
+"regime": "oracle",
+"rely": 1.0,
+"k": 5,
+"_variant": "AI lists 5 ideas",
+"_regime": "Everyone relies on AI (oracle)"
+},
+{
+"follow_rate": 2.0,
+"regime": "tail_only",
+"rely": 1.0,
+"k": 5,
+"_variant": "AI lists 5 ideas",
+"_regime": "Random untried ideas"
+},
+{
+"follow_rate": 2.0,
+"regime": "convener",
+"q": 0.6,
+"V": 5,
+"rho": 0.2,
+"rely": 1.0,
+"k": 5,
+"_variant": "AI lists 5 ideas",
+"_regime": "Spotting"
+},
+{
+"follow_rate": 2.0,
+"regime": "tail_only",
+"rely": 0.0,
+"k": 5,
+"_variant": "AI lists 5 ideas",
+"_regime": "No AI"
+},
+{
+"follow_rate": 2.0,
+"regime": "oracle",
+"rely": 1.0,
+"k": 20,
+"_variant": "AI lists 20 ideas",
+"_regime": "Everyone relies on AI (oracle)"
+},
+{
+"follow_rate": 2.0,
+"regime": "tail_only",
+"rely": 1.0,
+"k": 20,
+"_variant": "AI lists 20 ideas",
+"_regime": "Random untried ideas"
+},
+{
+"follow_rate": 2.0,
+"regime": "convener",
+"q": 0.6,
+"V": 5,
+"rho": 0.2,
+"rely": 1.0,
+"k": 20,
+"_variant": "AI lists 20 ideas",
+"_regime": "Spotting"
+},
+{
+"follow_rate": 2.0,
+"regime": "tail_only",
+"rely": 0.0,
+"k": 20,
+"_variant": "AI lists 20 ideas",
+"_regime": "No AI"
+}
+]
+}

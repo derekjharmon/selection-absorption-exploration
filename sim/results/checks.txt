@@ -1,0 +1,6 @@
+1. placebo: tail_only 292.6±3.5 vs no-skill convener 293.1±4.1 useful cells -> PASS
+2. loop: convener-minus-oracle useful share of record, loop 0.011 vs frozen model 0.011 -> shrinks (PASS)
+3. direction: useful cells reached at T: convener 953.5 | tail_only 292.6 | oracle 41.4 -> PASS
+   oracle                       useful cells   41.4 | noise cells  366.1 | useful share of record 0.001 | noise share 0.005
+   tail_only                    useful cells  292.6 | noise cells 2612.8 | useful share of record 0.004 | noise share 0.033
+   convener (q=.6,V=5,rho=.2)   useful cells  953.5 | noise cells 1965.9 | useful share of record 0.012 | noise share 0.025

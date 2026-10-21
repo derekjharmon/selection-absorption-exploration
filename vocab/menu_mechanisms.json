@@ -1,0 +1,11198 @@
+[
+ {
+  "canonical": "framing effects",
+  "mentions": 16,
+  "fields": {
+   "communication": 3,
+   "management": 4,
+   "sociology": 3,
+   "political science": 3,
+   "economics": 3
+  },
+  "search_names": [
+   "framing effects"
+  ],
+  "provenance_names": [
+   "discursive framing",
+   "framing",
+   "framing effects",
+   "framing processes"
+  ]
+ },
+ {
+  "canonical": "social constructionism",
+  "mentions": 16,
+  "fields": {
+   "management": 4,
+   "sociology": 6,
+   "political science": 1,
+   "communication": 5
+  },
+  "search_names": [
+   "social constructionism"
+  ],
+  "provenance_names": [
+   "social construction",
+   "social constructionism"
+  ]
+ },
+ {
+  "canonical": "reciprocity",
+  "mentions": 14,
+  "fields": {
+   "management": 2,
+   "sociology": 4,
+   "psychology": 3,
+   "economics": 4,
+   "communication": 1
+  },
+  "search_names": [
+   "reciprocity"
+  ],
+  "provenance_names": [
+   "reciprocation",
+   "reciprocity",
+   "repaying kindness",
+   "support reciprocation"
+  ]
+ },
+ {
+  "canonical": "signaling theory",
+  "mentions": 14,
+  "fields": {
+   "economics": 3,
+   "management": 5,
+   "sociology": 1,
+   "psychology": 2,
+   "political science": 3
+  },
+  "search_names": [
+   "signaling theory"
+  ],
+  "provenance_names": [
+   "group signaling",
+   "identity signaling",
+   "signaling",
+   "signaling theory"
+  ]
+ },
+ {
+  "canonical": "information processing theory",
+  "mentions": 10,
+  "fields": {
+   "management": 4,
+   "psychology": 4,
+   "political science": 1,
+   "economics": 1
+  },
+  "search_names": [
+   "information processing theory"
+  ],
+  "provenance_names": [
+   "information processing",
+   "information processing theory"
+  ]
+ },
+ {
+  "canonical": "normative influence",
+  "mentions": 10,
+  "fields": {
+   "psychology": 4,
+   "management": 1,
+   "sociology": 2,
+   "political science": 2,
+   "economics": 1
+  },
+  "search_names": [
+   "normative influence"
+  ],
+  "provenance_names": [
+   "norm-based influence",
+   "normative influence",
+   "social norms"
+  ]
+ },
+ {
+  "canonical": "social exchange theory",
+  "mentions": 10,
+  "fields": {
+   "management": 10
+  },
+  "search_names": [
+   "social exchange theory"
+  ],
+  "provenance_names": [
+   "social exchange",
+   "social exchange theory",
+   "social-exchange"
+  ]
+ },
+ {
+  "canonical": "diffusion of innovations",
+  "mentions": 9,
+  "fields": {
+   "sociology": 7,
+   "psychology": 1,
+   "communication": 1
+  },
+  "search_names": [
+   "diffusion of innovations"
+  ],
+  "provenance_names": [
+   "behavioral diffusion",
+   "diffusion",
+   "diffusion of innovations",
+   "innovation adoption"
+  ]
+ },
+ {
+  "canonical": "self-regulation theory",
+  "mentions": 9,
+  "fields": {
+   "management": 3,
+   "psychology": 6
+  },
+  "search_names": [
+   "self-regulation theory"
+  ],
+  "provenance_names": [
+   "self-regulation",
+   "self-regulation theory"
+  ]
+ },
+ {
+  "canonical": "social identification",
+  "mentions": 9,
+  "fields": {
+   "management": 4,
+   "psychology": 2,
+   "communication": 3
+  },
+  "search_names": [
+   "social identification"
+  ],
+  "provenance_names": [
+   "identification",
+   "social identification"
+  ]
+ },
+ {
+  "canonical": "sensemaking",
+  "mentions": 8,
+  "fields": {
+   "management": 8
+  },
+  "search_names": [
+   "sensemaking"
+  ],
+  "provenance_names": [
+   "sensemaking"
+  ]
+ },
+ {
+  "canonical": "motivated reasoning",
+  "mentions": 7,
+  "fields": {
+   "economics": 1,
+   "communication": 3,
+   "management": 1,
+   "psychology": 2
+  },
+  "search_names": [
+   "motivated reasoning"
+  ],
+  "provenance_names": [
+   "motivated beliefs",
+   "motivated processing",
+   "motivated reasoning"
+  ]
+ },
+ {
+  "canonical": "institutional logics",
+  "mentions": 6,
+  "fields": {
+   "management": 5,
+   "sociology": 1
+  },
+  "search_names": [
+   "institutional logics"
+  ],
+  "provenance_names": [
+   "institutional logics"
+  ]
+ },
+ {
+  "canonical": "intergenerational transmission",
+  "mentions": 6,
+  "fields": {
+   "sociology": 1,
+   "psychology": 4,
+   "economics": 1
+  },
+  "search_names": [
+   "intergenerational transmission"
+  ],
+  "provenance_names": [
+   "intergenerational transmission"
+  ]
+ },
+ {
+  "canonical": "intergroup contact",
+  "mentions": 6,
+  "fields": {
+   "psychology": 2,
+   "political science": 1,
+   "economics": 2,
+   "communication": 1
+  },
+  "search_names": [
+   "intergroup contact"
+  ],
+  "provenance_names": [
+   "intergroup contact"
+  ]
+ },
+ {
+  "canonical": "modernization theory",
+  "mentions": 6,
+  "fields": {
+   "sociology": 5,
+   "political science": 1
+  },
+  "search_names": [
+   "modernization theory"
+  ],
+  "provenance_names": [
+   "modernization",
+   "modernization theory"
+  ]
+ },
+ {
+  "canonical": "path dependence",
+  "mentions": 6,
+  "fields": {
+   "management": 1,
+   "sociology": 3,
+   "political science": 1,
+   "economics": 1
+  },
+  "search_names": [
+   "path dependence"
+  ],
+  "provenance_names": [
+   "path dependence"
+  ]
+ },
+ {
+  "canonical": "resource dependence",
+  "mentions": 6,
+  "fields": {
+   "management": 6
+  },
+  "search_names": [
+   "resource dependence",
+   "resource dependence theory",
+   "resource dependency"
+  ],
+  "provenance_names": [
+   "resource dependence",
+   "resource dependence theory",
+   "resource dependency"
+  ]
+ },
+ {
+  "canonical": "social embeddedness",
+  "mentions": 6,
+  "fields": {
+   "management": 2,
+   "sociology": 2,
+   "political science": 2
+  },
+  "search_names": [
+   "social embeddedness"
+  ],
+  "provenance_names": [
+   "embeddedness",
+   "social embeddedness"
+  ]
+ },
+ {
+  "canonical": "appraisal theory",
+  "mentions": 5,
+  "fields": {
+   "management": 3,
+   "psychology": 2
+  },
+  "search_names": [
+   "appraisal theory"
+  ],
+  "provenance_names": [
+   "appraisal",
+   "appraisal theory",
+   "event appraisal"
+  ]
+ },
+ {
+  "canonical": "attribution theory",
+  "mentions": 5,
+  "fields": {
+   "management": 3,
+   "psychology": 2
+  },
+  "search_names": [
+   "attribution theory"
+  ],
+  "provenance_names": [
+   "attribution",
+   "attribution theory",
+   "social attribution"
+  ]
+ },
+ {
+  "canonical": "fundamental cause",
+  "mentions": 5,
+  "fields": {
+   "sociology": 5
+  },
+  "search_names": [
+   "fundamental cause",
+   "fundamental causes"
+  ],
+  "provenance_names": [
+   "fundamental cause",
+   "fundamental causes"
+  ]
+ },
+ {
+  "canonical": "gene-environment interaction",
+  "mentions": 5,
+  "fields": {
+   "sociology": 2,
+   "psychology": 3
+  },
+  "search_names": [
+   "gene-environment interaction"
+  ],
+  "provenance_names": [
+   "gene-environment interaction"
+  ]
+ },
+ {
+  "canonical": "homophily",
+  "mentions": 5,
+  "fields": {
+   "sociology": 2,
+   "psychology": 1,
+   "political science": 1,
+   "communication": 1
+  },
+  "search_names": [
+   "homophily"
+  ],
+  "provenance_names": [
+   "homophily"
+  ]
+ },
+ {
+  "canonical": "racialization",
+  "mentions": 5,
+  "fields": {
+   "sociology": 4,
+   "political science": 1
+  },
+  "search_names": [
+   "racialization"
+  ],
+  "provenance_names": [
+   "racialization"
+  ]
+ },
+ {
+  "canonical": "relative deprivation",
+  "mentions": 5,
+  "fields": {
+   "psychology": 2,
+   "management": 2,
+   "communication": 1
+  },
+  "search_names": [
+   "relative deprivation"
+  ],
+  "provenance_names": [
+   "group deprivation",
+   "relative deprivation",
+   "relative deprivation rationale"
+  ]
+ },
+ {
+  "canonical": "social contagion",
+  "mentions": 5,
+  "fields": {
+   "psychology": 3,
+   "economics": 1,
+   "sociology": 1
+  },
+  "search_names": [
+   "social contagion"
+  ],
+  "provenance_names": [
+   "contagion",
+   "social contagion"
+  ]
+ },
+ {
+  "canonical": "social learning theory",
+  "mentions": 5,
+  "fields": {
+   "sociology": 1,
+   "psychology": 2,
+   "economics": 2
+  },
+  "search_names": [
+   "social learning theory"
+  ],
+  "provenance_names": [
+   "social learning",
+   "social learning theory"
+  ]
+ },
+ {
+  "canonical": "social reproduction",
+  "mentions": 5,
+  "fields": {
+   "sociology": 5
+  },
+  "search_names": [
+   "social reproduction"
+  ],
+  "provenance_names": [
+   "social reproduction"
+  ]
+ },
+ {
+  "canonical": "asymmetric information",
+  "mentions": 4,
+  "fields": {
+   "political science": 2,
+   "economics": 2
+  },
+  "search_names": [
+   "asymmetric information"
+  ],
+  "provenance_names": [
+   "asymmetric information"
+  ]
+ },
+ {
+  "canonical": "attraction-selection-attrition",
+  "mentions": 4,
+  "fields": {
+   "management": 4
+  },
+  "search_names": [
+   "attraction selection attrition",
+   "attraction-selection-attrition",
+   "attraction\u2013selection\u2013attrition"
+  ],
+  "provenance_names": [
+   "attraction selection attrition",
+   "attraction-selection-attrition",
+   "attraction\u2013selection\u2013attrition"
+  ]
+ },
+ {
+  "canonical": "bounded rationality",
+  "mentions": 4,
+  "fields": {
+   "management": 3,
+   "economics": 1
+  },
+  "search_names": [
+   "bounded rationality"
+  ],
+  "provenance_names": [
+   "bounded rationality"
+  ]
+ },
+ {
+  "canonical": "cognitive dissonance",
+  "mentions": 4,
+  "fields": {
+   "management": 2,
+   "communication": 2
+  },
+  "search_names": [
+   "cognitive dissonance"
+  ],
+  "provenance_names": [
+   "cognitive dissonance",
+   "dissonance"
+  ]
+ },
+ {
+  "canonical": "credible commitment",
+  "mentions": 4,
+  "fields": {
+   "political science": 4
+  },
+  "search_names": [
+   "credible commitment"
+  ],
+  "provenance_names": [
+   "credible commitment"
+  ]
+ },
+ {
+  "canonical": "dynamic capabilities",
+  "mentions": 4,
+  "fields": {
+   "management": 4
+  },
+  "search_names": [
+   "dynamic capabilities"
+  ],
+  "provenance_names": [
+   "capability reconfiguration",
+   "dynamic capabilities"
+  ]
+ },
+ {
+  "canonical": "ego depletion",
+  "mentions": 4,
+  "fields": {
+   "management": 4
+  },
+  "search_names": [
+   "ego depletion",
+   "ego-depletion theory"
+  ],
+  "provenance_names": [
+   "depletion",
+   "ego depletion",
+   "ego-depletion theory"
+  ]
+ },
+ {
+  "canonical": "emotional contagion",
+  "mentions": 4,
+  "fields": {
+   "management": 2,
+   "psychology": 2
+  },
+  "search_names": [
+   "emotional contagion"
+  ],
+  "provenance_names": [
+   "emotional contagion"
+  ]
+ },
+ {
+  "canonical": "institutional isomorphism",
+  "mentions": 4,
+  "fields": {
+   "management": 4
+  },
+  "search_names": [
+   "institutional isomorphism"
+  ],
+  "provenance_names": [
+   "institutional isomorphism",
+   "institutional pressure",
+   "institutional pressures",
+   "isomorphism"
+  ]
+ },
+ {
+  "canonical": "matching theory",
+  "mentions": 4,
+  "fields": {
+   "management": 1,
+   "economics": 2,
+   "sociology": 1
+  },
+  "search_names": [
+   "matching theory"
+  ],
+  "provenance_names": [
+   "matching",
+   "matching processes",
+   "matching theory"
+  ]
+ },
+ {
+  "canonical": "moral hazard",
+  "mentions": 4,
+  "fields": {
+   "economics": 4
+  },
+  "search_names": [
+   "moral hazard"
+  ],
+  "provenance_names": [
+   "moral hazard"
+  ]
+ },
+ {
+  "canonical": "peer effects",
+  "mentions": 4,
+  "fields": {
+   "economics": 4
+  },
+  "search_names": [
+   "peer effects"
+  ],
+  "provenance_names": [
+   "peer effects"
+  ]
+ },
+ {
+  "canonical": "response inhibition",
+  "mentions": 4,
+  "fields": {
+   "psychology": 4
+  },
+  "search_names": [
+   "response inhibition"
+  ],
+  "provenance_names": [
+   "response inhibition"
+  ]
+ },
+ {
+  "canonical": "self-determination theory",
+  "mentions": 4,
+  "fields": {
+   "management": 4
+  },
+  "search_names": [
+   "self-determination theory"
+  ],
+  "provenance_names": [
+   "self-determination theory"
+  ]
+ },
+ {
+  "canonical": "social categorization",
+  "mentions": 4,
+  "fields": {
+   "psychology": 3,
+   "management": 1
+  },
+  "search_names": [
+   "social categorization"
+  ],
+  "provenance_names": [
+   "group-based categorization",
+   "social categorization"
+  ]
+ },
+ {
+  "canonical": "social comparison",
+  "mentions": 4,
+  "fields": {
+   "management": 1,
+   "psychology": 1,
+   "economics": 1,
+   "communication": 1
+  },
+  "search_names": [
+   "social comparison"
+  ],
+  "provenance_names": [
+   "social comparison"
+  ]
+ },
+ {
+  "canonical": "social control theory",
+  "mentions": 4,
+  "fields": {
+   "sociology": 2,
+   "political science": 2
+  },
+  "search_names": [
+   "social control theory"
+  ],
+  "provenance_names": [
+   "social control",
+   "social control theory"
+  ]
+ },
+ {
+  "canonical": "spillover effects",
+  "mentions": 4,
+  "fields": {
+   "political science": 1,
+   "economics": 2,
+   "management": 1
+  },
+  "search_names": [
+   "spillover effects"
+  ],
+  "provenance_names": [
+   "community spillovers",
+   "geopolitical risk spillovers",
+   "shock spillovers",
+   "spillover effects",
+   "spillover mechanism"
+  ]
+ },
+ {
+  "canonical": "structuration",
+  "mentions": 4,
+  "fields": {
+   "management": 3,
+   "communication": 1
+  },
+  "search_names": [
+   "structuration"
+  ],
+  "provenance_names": [
+   "structuration"
+  ]
+ },
+ {
+  "canonical": "subjectification",
+  "mentions": 4,
+  "fields": {
+   "management": 4
+  },
+  "search_names": [
+   "subjectification"
+  ],
+  "provenance_names": [
+   "subjectification",
+   "subjectivizing"
+  ]
+ },
+ {
+  "canonical": "upper echelons theory",
+  "mentions": 4,
+  "fields": {
+   "management": 4
+  },
+  "search_names": [
+   "upper echelons",
+   "upper echelons theory"
+  ],
+  "provenance_names": [
+   "upper echelons",
+   "upper echelons theory"
+  ]
+ },
+ {
+  "canonical": "adverse selection",
+  "mentions": 3,
+  "fields": {
+   "economics": 3
+  },
+  "search_names": [
+   "adverse selection"
+  ],
+  "provenance_names": [
+   "adverse selection"
+  ]
+ },
+ {
+  "canonical": "assortative mating",
+  "mentions": 3,
+  "fields": {
+   "sociology": 2,
+   "psychology": 1
+  },
+  "search_names": [
+   "assortative mating"
+  ],
+  "provenance_names": [
+   "assortative mating"
+  ]
+ },
+ {
+  "canonical": "boundary work",
+  "mentions": 3,
+  "fields": {
+   "political science": 1,
+   "sociology": 1,
+   "management": 1
+  },
+  "search_names": [
+   "boundary work"
+  ],
+  "provenance_names": [
+   "boundary drawing",
+   "boundary marking",
+   "boundary work"
+  ]
+ },
+ {
+  "canonical": "bridging social capital",
+  "mentions": 3,
+  "fields": {
+   "sociology": 1,
+   "management": 2
+  },
+  "search_names": [
+   "bridging social capital"
+  ],
+  "provenance_names": [
+   "bridging",
+   "bridging social capital",
+   "socio-cultural bridging"
+  ]
+ },
+ {
+  "canonical": "brokerage",
+  "mentions": 3,
+  "fields": {
+   "sociology": 2,
+   "political science": 1
+  },
+  "search_names": [
+   "brokerage"
+  ],
+  "provenance_names": [
+   "brokerage"
+  ]
+ },
+ {
+  "canonical": "conservation of resources",
+  "mentions": 3,
+  "fields": {
+   "management": 3
+  },
+  "search_names": [
+   "conservation of resources"
+  ],
+  "provenance_names": [
+   "conservation of resources"
+  ]
+ },
+ {
+  "canonical": "deterrence",
+  "mentions": 3,
+  "fields": {
+   "political science": 1,
+   "economics": 2
+  },
+  "search_names": [
+   "deterrence"
+  ],
+  "provenance_names": [
+   "deterrence"
+  ]
+ },
+ {
+  "canonical": "disintermediation",
+  "mentions": 3,
+  "fields": {
+   "management": 2,
+   "sociology": 1
+  },
+  "search_names": [
+   "disintermediation"
+  ],
+  "provenance_names": [
+   "disintermediation"
+  ]
+ },
+ {
+  "canonical": "exit, voice, and loyalty",
+  "mentions": 3,
+  "fields": {
+   "political science": 3
+  },
+  "search_names": [
+   "exit, voice, and loyalty"
+  ],
+  "provenance_names": [
+   "exit",
+   "exit, voice, and loyalty",
+   "voice"
+  ]
+ },
+ {
+  "canonical": "free riding",
+  "mentions": 3,
+  "fields": {
+   "political science": 3
+  },
+  "search_names": [
+   "free riding",
+   "free-rider problem",
+   "free-riding"
+  ],
+  "provenance_names": [
+   "free riding",
+   "free-rider problem",
+   "free-riding"
+  ]
+ },
+ {
+  "canonical": "habit formation",
+  "mentions": 3,
+  "fields": {
+   "psychology": 3
+  },
+  "search_names": [
+   "habit formation"
+  ],
+  "provenance_names": [
+   "habit formation"
+  ]
+ },
+ {
+  "canonical": "heuristics and biases",
+  "mentions": 3,
+  "fields": {
+   "management": 2,
+   "economics": 1
+  },
+  "search_names": [
+   "heuristics and biases"
+  ],
+  "provenance_names": [
+   "heuristics",
+   "heuristics and biases"
+  ]
+ },
+ {
+  "canonical": "imprinting",
+  "mentions": 3,
+  "fields": {
+   "management": 3
+  },
+  "search_names": [
+   "imprinting"
+  ],
+  "provenance_names": [
+   "imprinting"
+  ]
+ },
+ {
+  "canonical": "information asymmetry",
+  "mentions": 3,
+  "fields": {
+   "management": 1,
+   "political science": 2
+  },
+  "search_names": [
+   "information asymmetry"
+  ],
+  "provenance_names": [
+   "information asymmetry"
+  ]
+ },
+ {
+  "canonical": "inoculation theory",
+  "mentions": 3,
+  "fields": {
+   "management": 1,
+   "psychology": 1,
+   "communication": 1
+  },
+  "search_names": [
+   "inoculation theory"
+  ],
+  "provenance_names": [
+   "inoculation",
+   "inoculation theory"
+  ]
+ },
+ {
+  "canonical": "interdependence theory",
+  "mentions": 3,
+  "fields": {
+   "management": 1,
+   "psychology": 1,
+   "communication": 1
+  },
+  "search_names": [
+   "interdependence theory"
+  ],
+  "provenance_names": [
+   "interdependence",
+   "interdependence processes",
+   "interdependence theory"
+  ]
+ },
+ {
+  "canonical": "leader-member exchange",
+  "mentions": 3,
+  "fields": {
+   "management": 2,
+   "communication": 1
+  },
+  "search_names": [
+   "leader-member exchange"
+  ],
+  "provenance_names": [
+   "leader-member exchange"
+  ]
+ },
+ {
+  "canonical": "media framing",
+  "mentions": 3,
+  "fields": {
+   "political science": 1,
+   "communication": 2
+  },
+  "search_names": [
+   "media framing"
+  ],
+  "provenance_names": [
+   "media framing"
+  ]
+ },
+ {
+  "canonical": "mediatization",
+  "mentions": 3,
+  "fields": {
+   "management": 1,
+   "communication": 2
+  },
+  "search_names": [
+   "mediatization"
+  ],
+  "provenance_names": [
+   "mediatization"
+  ]
+ },
+ {
+  "canonical": "network effects",
+  "mentions": 3,
+  "fields": {
+   "management": 1,
+   "sociology": 2
+  },
+  "search_names": [
+   "network effects"
+  ],
+  "provenance_names": [
+   "network effects"
+  ]
+ },
+ {
+  "canonical": "organizational decoupling",
+  "mentions": 3,
+  "fields": {
+   "management": 3
+  },
+  "search_names": [
+   "organizational decoupling"
+  ],
+  "provenance_names": [
+   "decoupling",
+   "organizational decoupling"
+  ]
+ },
+ {
+  "canonical": "pavlovian conditioning",
+  "mentions": 3,
+  "fields": {
+   "psychology": 2,
+   "economics": 1
+  },
+  "search_names": [
+   "pavlovian conditioning"
+  ],
+  "provenance_names": [
+   "pavlovian conditioning"
+  ]
+ },
+ {
+  "canonical": "performance feedback",
+  "mentions": 3,
+  "fields": {
+   "management": 3
+  },
+  "search_names": [
+   "performance feedback"
+  ],
+  "provenance_names": [
+   "performance feedback"
+  ]
+ },
+ {
+  "canonical": "racial formation",
+  "mentions": 3,
+  "fields": {
+   "sociology": 2,
+   "political science": 1
+  },
+  "search_names": [
+   "racial formation"
+  ],
+  "provenance_names": [
+   "racial formation"
+  ]
+ },
+ {
+  "canonical": "reinforcement learning",
+  "mentions": 3,
+  "fields": {
+   "psychology": 3
+  },
+  "search_names": [
+   "reinforcement learning"
+  ],
+  "provenance_names": [
+   "reinforcement learning"
+  ]
+ },
+ {
+  "canonical": "relational dialectics",
+  "mentions": 3,
+  "fields": {
+   "management": 2,
+   "communication": 1
+  },
+  "search_names": [
+   "relational dialectics"
+  ],
+  "provenance_names": [
+   "relational dialectics"
+  ]
+ },
+ {
+  "canonical": "rent seeking",
+  "mentions": 3,
+  "fields": {
+   "economics": 3
+  },
+  "search_names": [
+   "rent seeking"
+  ],
+  "provenance_names": [
+   "rent seeking"
+  ]
+ },
+ {
+  "canonical": "resource-based view",
+  "mentions": 3,
+  "fields": {
+   "management": 3
+  },
+  "search_names": [
+   "resource-based theory",
+   "resource-based view"
+  ],
+  "provenance_names": [
+   "resource-based theory",
+   "resource-based view"
+  ]
+ },
+ {
+  "canonical": "search frictions",
+  "mentions": 3,
+  "fields": {
+   "economics": 3
+  },
+  "search_names": [
+   "search frictions"
+  ],
+  "provenance_names": [
+   "search frictions"
+  ]
+ },
+ {
+  "canonical": "secularization",
+  "mentions": 3,
+  "fields": {
+   "sociology": 2,
+   "psychology": 1
+  },
+  "search_names": [
+   "secularization"
+  ],
+  "provenance_names": [
+   "secularization"
+  ]
+ },
+ {
+  "canonical": "securitization",
+  "mentions": 3,
+  "fields": {
+   "sociology": 2,
+   "political science": 1
+  },
+  "search_names": [
+   "securitization"
+  ],
+  "provenance_names": [
+   "securitization"
+  ]
+ },
+ {
+  "canonical": "selective exposure",
+  "mentions": 3,
+  "fields": {
+   "political science": 1,
+   "communication": 2
+  },
+  "search_names": [
+   "selective exposure"
+  ],
+  "provenance_names": [
+   "selective exposure"
+  ]
+ },
+ {
+  "canonical": "self-selection",
+  "mentions": 3,
+  "fields": {
+   "management": 1,
+   "economics": 2
+  },
+  "search_names": [
+   "self-selection"
+  ],
+  "provenance_names": [
+   "self-selection"
+  ]
+ },
+ {
+  "canonical": "social information processing",
+  "mentions": 3,
+  "fields": {
+   "management": 2,
+   "communication": 1
+  },
+  "search_names": [
+   "social information processing"
+  ],
+  "provenance_names": [
+   "social information processing"
+  ]
+ },
+ {
+  "canonical": "status seeking",
+  "mentions": 3,
+  "fields": {
+   "psychology": 2,
+   "political science": 1
+  },
+  "search_names": [
+   "status seeking"
+  ],
+  "provenance_names": [
+   "status seeking",
+   "status strivings"
+  ]
+ },
+ {
+  "canonical": "strength of weak ties",
+  "mentions": 3,
+  "fields": {
+   "sociology": 2,
+   "communication": 1
+  },
+  "search_names": [
+   "strength of weak ties"
+  ],
+  "provenance_names": [
+   "strength of weak ties"
+  ]
+ },
+ {
+  "canonical": "transactive memory systems",
+  "mentions": 3,
+  "fields": {
+   "management": 3
+  },
+  "search_names": [
+   "transactive memory systems"
+  ],
+  "provenance_names": [
+   "transactive memory systems"
+  ]
+ },
+ {
+  "canonical": "agenda setting",
+  "mentions": 2,
+  "fields": {
+   "political science": 2
+  },
+  "search_names": [
+   "agenda setting"
+  ],
+  "provenance_names": [
+   "agenda setting"
+  ]
+ },
+ {
+  "canonical": "allostatic load",
+  "mentions": 2,
+  "fields": {
+   "psychology": 1,
+   "sociology": 1
+  },
+  "search_names": [
+   "allostatic load"
+  ],
+  "provenance_names": [
+   "allostatic load",
+   "physiological wear and tear"
+  ]
+ },
+ {
+  "canonical": "anthropomorphizing",
+  "mentions": 2,
+  "fields": {
+   "management": 2
+  },
+  "search_names": [
+   "anthropomorphizing"
+  ],
+  "provenance_names": [
+   "anthropomorphizing"
+  ]
+ },
+ {
+  "canonical": "approach motivation",
+  "mentions": 2,
+  "fields": {
+   "psychology": 2
+  },
+  "search_names": [
+   "approach motivation"
+  ],
+  "provenance_names": [
+   "approach motivation"
+  ]
+ },
+ {
+  "canonical": "attention restoration theory",
+  "mentions": 2,
+  "fields": {
+   "management": 2
+  },
+  "search_names": [
+   "attention restoration theory"
+  ],
+  "provenance_names": [
+   "attention restoration theory"
+  ]
+ },
+ {
+  "canonical": "attentional capture",
+  "mentions": 2,
+  "fields": {
+   "psychology": 2
+  },
+  "search_names": [
+   "attentional capture"
+  ],
+  "provenance_names": [
+   "attentional capture"
+  ]
+ },
+ {
+  "canonical": "bank runs",
+  "mentions": 2,
+  "fields": {
+   "economics": 2
+  },
+  "search_names": [
+   "bank runs"
+  ],
+  "provenance_names": [
+   "bank runs"
+  ]
+ },
+ {
+  "canonical": "bequest motive",
+  "mentions": 2,
+  "fields": {
+   "economics": 2
+  },
+  "search_names": [
+   "bequest motive",
+   "bequest motives"
+  ],
+  "provenance_names": [
+   "bequest motive",
+   "bequest motives"
+  ]
+ },
+ {
+  "canonical": "biological embedding",
+  "mentions": 2,
+  "fields": {
+   "psychology": 1,
+   "sociology": 1
+  },
+  "search_names": [
+   "biological embedding"
+  ],
+  "provenance_names": [
+   "biological embedding",
+   "getting under skin"
+  ]
+ },
+ {
+  "canonical": "blame attribution",
+  "mentions": 2,
+  "fields": {
+   "political science": 2
+  },
+  "search_names": [
+   "blame attribution"
+  ],
+  "provenance_names": [
+   "blame attribution"
+  ]
+ },
+ {
+  "canonical": "boundary making",
+  "mentions": 2,
+  "fields": {
+   "sociology": 2
+  },
+  "search_names": [
+   "boundary making"
+  ],
+  "provenance_names": [
+   "boundary making"
+  ]
+ },
+ {
+  "canonical": "capital-labor substitution",
+  "mentions": 2,
+  "fields": {
+   "economics": 2
+  },
+  "search_names": [
+   "capital-labor substitution"
+  ],
+  "provenance_names": [
+   "capital-labor substitution"
+  ]
+ },
+ {
+  "canonical": "choice architecture",
+  "mentions": 2,
+  "fields": {
+   "management": 1,
+   "psychology": 1
+  },
+  "search_names": [
+   "choice architecture"
+  ],
+  "provenance_names": [
+   "choice architecture"
+  ]
+ },
+ {
+  "canonical": "clientelism",
+  "mentions": 2,
+  "fields": {
+   "political science": 2
+  },
+  "search_names": [
+   "clientelism"
+  ],
+  "provenance_names": [
+   "clientelism"
+  ]
+ },
+ {
+  "canonical": "co-optation",
+  "mentions": 2,
+  "fields": {
+   "sociology": 1,
+   "political science": 1
+  },
+  "search_names": [
+   "co-optation"
+  ],
+  "provenance_names": [
+   "co-optation"
+  ]
+ },
+ {
+  "canonical": "cognitive bias",
+  "mentions": 2,
+  "fields": {
+   "economics": 1,
+   "communication": 1
+  },
+  "search_names": [
+   "cognitive bias"
+  ],
+  "provenance_names": [
+   "bias",
+   "biased cognitions",
+   "cognitive bias"
+  ]
+ },
+ {
+  "canonical": "commitment problems",
+  "mentions": 2,
+  "fields": {
+   "political science": 1,
+   "economics": 1
+  },
+  "search_names": [
+   "commitment problems"
+  ],
+  "provenance_names": [
+   "commitment problems"
+  ]
+ },
+ {
+  "canonical": "communication privacy management",
+  "mentions": 2,
+  "fields": {
+   "communication": 2
+  },
+  "search_names": [
+   "communication privacy management"
+  ],
+  "provenance_names": [
+   "communication privacy management"
+  ]
+ },
+ {
+  "canonical": "communicative constitution",
+  "mentions": 2,
+  "fields": {
+   "communication": 2
+  },
+  "search_names": [
+   "communicative constitution"
+  ],
+  "provenance_names": [
+   "communicative constitution"
+  ]
+ },
+ {
+  "canonical": "compatibility principle",
+  "mentions": 2,
+  "fields": {
+   "management": 2
+  },
+  "search_names": [
+   "compatibility principle"
+  ],
+  "provenance_names": [
+   "compatibility principle"
+  ]
+ },
+ {
+  "canonical": "consumption smoothing",
+  "mentions": 2,
+  "fields": {
+   "economics": 2
+  },
+  "search_names": [
+   "consumption smoothing"
+  ],
+  "provenance_names": [
+   "consumption smoothing"
+  ]
+ },
+ {
+  "canonical": "creative destruction",
+  "mentions": 2,
+  "fields": {
+   "management": 1,
+   "economics": 1
+  },
+  "search_names": [
+   "creative destruction"
+  ],
+  "provenance_names": [
+   "creative destruction"
+  ]
+ },
+ {
+  "canonical": "developmental cascades",
+  "mentions": 2,
+  "fields": {
+   "psychology": 2
+  },
+  "search_names": [
+   "developmental cascades"
+  ],
+  "provenance_names": [
+   "developmental cascades"
+  ]
+ },
+ {
+  "canonical": "directed technical change",
+  "mentions": 2,
+  "fields": {
+   "economics": 2
+  },
+  "search_names": [
+   "directed technical change"
+  ],
+  "provenance_names": [
+   "directed technical change"
+  ]
+ },
+ {
+  "canonical": "dual-process model",
+  "mentions": 2,
+  "fields": {
+   "management": 2
+  },
+  "search_names": [
+   "dual-process model",
+   "dual-process theory"
+  ],
+  "provenance_names": [
+   "dual process",
+   "dual-process model",
+   "dual-process theory"
+  ]
+ },
+ {
+  "canonical": "dyadic coping",
+  "mentions": 2,
+  "fields": {
+   "psychology": 2
+  },
+  "search_names": [
+   "dyadic coping"
+  ],
+  "provenance_names": [
+   "dyadic coping"
+  ]
+ },
+ {
+  "canonical": "electoral accountability",
+  "mentions": 2,
+  "fields": {
+   "political science": 1,
+   "economics": 1
+  },
+  "search_names": [
+   "electoral accountability"
+  ],
+  "provenance_names": [
+   "electoral accountability"
+  ]
+ },
+ {
+  "canonical": "electoral connection",
+  "mentions": 2,
+  "fields": {
+   "political science": 2
+  },
+  "search_names": [
+   "electoral connection"
+  ],
+  "provenance_names": [
+   "electoral connection"
+  ]
+ },
+ {
+  "canonical": "embodied cognition",
+  "mentions": 2,
+  "fields": {
+   "management": 2
+  },
+  "search_names": [
+   "embodied cognition"
+  ],
+  "provenance_names": [
+   "embodied cognition"
+  ]
+ },
+ {
+  "canonical": "emotional labor",
+  "mentions": 2,
+  "fields": {
+   "sociology": 2
+  },
+  "search_names": [
+   "emotional labor"
+  ],
+  "provenance_names": [
+   "emotional labor"
+  ]
+ },
+ {
+  "canonical": "expectancy-value theory",
+  "mentions": 2,
+  "fields": {
+   "psychology": 2
+  },
+  "search_names": [
+   "expectancy-value theory"
+  ],
+  "provenance_names": [
+   "expectancy-value",
+   "expectancy-value theory"
+  ]
+ },
+ {
+  "canonical": "gene-by-environment interactions",
+  "mentions": 2,
+  "fields": {
+   "psychology": 2
+  },
+  "search_names": [
+   "gene-by-environment interactions"
+  ],
+  "provenance_names": [
+   "gene-by-environment interactions"
+  ]
+ },
+ {
+  "canonical": "hot cognition",
+  "mentions": 2,
+  "fields": {
+   "political science": 1,
+   "psychology": 1
+  },
+  "search_names": [
+   "hot cognition"
+  ],
+  "provenance_names": [
+   "hot cognition",
+   "hot-cognitive defense"
+  ]
+ },
+ {
+  "canonical": "ideological legitimation",
+  "mentions": 2,
+  "fields": {
+   "sociology": 1,
+   "political science": 1
+  },
+  "search_names": [
+   "ideological legitimation"
+  ],
+  "provenance_names": [
+   "ideological legitimation"
+  ]
+ },
+ {
+  "canonical": "impression management",
+  "mentions": 2,
+  "fields": {
+   "management": 1,
+   "communication": 1
+  },
+  "search_names": [
+   "impression management"
+  ],
+  "provenance_names": [
+   "impression management",
+   "strategic image construction"
+  ]
+ },
+ {
+  "canonical": "incentive effects",
+  "mentions": 2,
+  "fields": {
+   "political science": 1,
+   "economics": 1
+  },
+  "search_names": [
+   "incentive effects"
+  ],
+  "provenance_names": [
+   "bureaucratic incentives",
+   "incentive effects",
+   "market incentives"
+  ]
+ },
+ {
+  "canonical": "increasing returns",
+  "mentions": 2,
+  "fields": {
+   "economics": 2
+  },
+  "search_names": [
+   "increasing returns"
+  ],
+  "provenance_names": [
+   "increasing returns"
+  ]
+ },
+ {
+  "canonical": "indirect reciprocity",
+  "mentions": 2,
+  "fields": {
+   "psychology": 2
+  },
+  "search_names": [
+   "indirect reciprocity"
+  ],
+  "provenance_names": [
+   "indirect reciprocity"
+  ]
+ },
+ {
+  "canonical": "instrumental conditioning",
+  "mentions": 2,
+  "fields": {
+   "psychology": 1,
+   "economics": 1
+  },
+  "search_names": [
+   "instrumental conditioning"
+  ],
+  "provenance_names": [
+   "instrumental conditioning"
+  ]
+ },
+ {
+  "canonical": "interaction ritual chain",
+  "mentions": 2,
+  "fields": {
+   "management": 2
+  },
+  "search_names": [
+   "interaction ritual chain"
+  ],
+  "provenance_names": [
+   "interaction ritual chain"
+  ]
+ },
+ {
+  "canonical": "issue framing",
+  "mentions": 2,
+  "fields": {
+   "management": 2
+  },
+  "search_names": [
+   "issue framing"
+  ],
+  "provenance_names": [
+   "issue framing"
+  ]
+ },
+ {
+  "canonical": "knowledge recombination",
+  "mentions": 2,
+  "fields": {
+   "management": 2
+  },
+  "search_names": [
+   "knowledge recombination"
+  ],
+  "provenance_names": [
+   "knowledge recombination"
+  ]
+ },
+ {
+  "canonical": "limited attention",
+  "mentions": 2,
+  "fields": {
+   "political science": 1,
+   "economics": 1
+  },
+  "search_names": [
+   "limited attention"
+  ],
+  "provenance_names": [
+   "limited attention"
+  ]
+ },
+ {
+  "canonical": "liquidity constraints",
+  "mentions": 2,
+  "fields": {
+   "economics": 2
+  },
+  "search_names": [
+   "liquidity constraints"
+  ],
+  "provenance_names": [
+   "liquidity constraints"
+  ]
+ },
+ {
+  "canonical": "loss aversion",
+  "mentions": 2,
+  "fields": {
+   "economics": 2
+  },
+  "search_names": [
+   "loss aversion"
+  ],
+  "provenance_names": [
+   "loss aversion"
+  ]
+ },
+ {
+  "canonical": "market for corporate control",
+  "mentions": 2,
+  "fields": {
+   "management": 2
+  },
+  "search_names": [
+   "market for corporate control"
+  ],
+  "provenance_names": [
+   "market for corporate control"
+  ]
+ },
+ {
+  "canonical": "means-ends decoupling",
+  "mentions": 2,
+  "fields": {
+   "management": 2
+  },
+  "search_names": [
+   "means-ends decoupling",
+   "means\u2013ends decoupling"
+  ],
+  "provenance_names": [
+   "means-ends decoupling",
+   "means\u2013ends decoupling"
+  ]
+ },
+ {
+  "canonical": "media priming",
+  "mentions": 2,
+  "fields": {
+   "political science": 1,
+   "communication": 1
+  },
+  "search_names": [
+   "media priming"
+  ],
+  "provenance_names": [
+   "media priming"
+  ]
+ },
+ {
+  "canonical": "mediation",
+  "mentions": 2,
+  "fields": {
+   "management": 2
+  },
+  "search_names": [
+   "mediation"
+  ],
+  "provenance_names": [
+   "mediating",
+   "mediation"
+  ]
+ },
+ {
+  "canonical": "memory consolidation",
+  "mentions": 2,
+  "fields": {
+   "psychology": 2
+  },
+  "search_names": [
+   "memory consolidation"
+  ],
+  "provenance_names": [
+   "memory consolidation"
+  ]
+ },
+ {
+  "canonical": "mental simulation",
+  "mentions": 2,
+  "fields": {
+   "psychology": 1,
+   "communication": 1
+  },
+  "search_names": [
+   "mental simulation"
+  ],
+  "provenance_names": [
+   "mental simulation"
+  ]
+ },
+ {
+  "canonical": "mental time travel",
+  "mentions": 2,
+  "fields": {
+   "management": 1,
+   "psychology": 1
+  },
+  "search_names": [
+   "mental time travel"
+  ],
+  "provenance_names": [
+   "mental time travel"
+  ]
+ },
+ {
+  "canonical": "mentalizing",
+  "mentions": 2,
+  "fields": {
+   "psychology": 2
+  },
+  "search_names": [
+   "mentalizing"
+  ],
+  "provenance_names": [
+   "mentalizing"
+  ]
+ },
+ {
+  "canonical": "metacognition",
+  "mentions": 2,
+  "fields": {
+   "psychology": 2
+  },
+  "search_names": [
+   "metacognition"
+  ],
+  "provenance_names": [
+   "meta-cognition",
+   "metacognition",
+   "metacognitive processes"
+  ]
+ },
+ {
+  "canonical": "moral licensing",
+  "mentions": 2,
+  "fields": {
+   "management": 1,
+   "psychology": 1
+  },
+  "search_names": [
+   "moral licensing"
+  ],
+  "provenance_names": [
+   "moral licensing"
+  ]
+ },
+ {
+  "canonical": "multisensory integration",
+  "mentions": 2,
+  "fields": {
+   "psychology": 2
+  },
+  "search_names": [
+   "multisensory integration"
+  ],
+  "provenance_names": [
+   "multisensory integration"
+  ]
+ },
+ {
+  "canonical": "natural selection",
+  "mentions": 2,
+  "fields": {
+   "psychology": 2
+  },
+  "search_names": [
+   "natural selection"
+  ],
+  "provenance_names": [
+   "natural selection"
+  ]
+ },
+ {
+  "canonical": "network externalities",
+  "mentions": 2,
+  "fields": {
+   "management": 1,
+   "sociology": 1
+  },
+  "search_names": [
+   "network externalities"
+  ],
+  "provenance_names": [
+   "network externalities"
+  ]
+ },
+ {
+  "canonical": "norm enforcement",
+  "mentions": 2,
+  "fields": {
+   "sociology": 1,
+   "psychology": 1
+  },
+  "search_names": [
+   "norm enforcement"
+  ],
+  "provenance_names": [
+   "norm enforcement"
+  ]
+ },
+ {
+  "canonical": "opportunity hoarding",
+  "mentions": 2,
+  "fields": {
+   "sociology": 2
+  },
+  "search_names": [
+   "opportunity hoarding"
+  ],
+  "provenance_names": [
+   "opportunity hoarding"
+  ]
+ },
+ {
+  "canonical": "overconfidence",
+  "mentions": 2,
+  "fields": {
+   "political science": 1,
+   "economics": 1
+  },
+  "search_names": [
+   "overconfidence"
+  ],
+  "provenance_names": [
+   "overconfidence"
+  ]
+ },
+ {
+  "canonical": "perception-action coupling",
+  "mentions": 2,
+  "fields": {
+   "psychology": 2
+  },
+  "search_names": [
+   "perception-action coupling"
+  ],
+  "provenance_names": [
+   "perception-action coupling"
+  ]
+ },
+ {
+  "canonical": "policy diffusion",
+  "mentions": 2,
+  "fields": {
+   "sociology": 2
+  },
+  "search_names": [
+   "policy diffusion"
+  ],
+  "provenance_names": [
+   "policy diffusion"
+  ]
+ },
+ {
+  "canonical": "policy-practice decoupling",
+  "mentions": 2,
+  "fields": {
+   "management": 2
+  },
+  "search_names": [
+   "policy-practice decoupling",
+   "policy\u2013practice decoupling"
+  ],
+  "provenance_names": [
+   "policy-practice decoupling",
+   "policy\u2013practice decoupling"
+  ]
+ },
+ {
+  "canonical": "political entrepreneurship",
+  "mentions": 2,
+  "fields": {
+   "political science": 2
+  },
+  "search_names": [
+   "political entrepreneurship"
+  ],
+  "provenance_names": [
+   "political entrepreneurship"
+  ]
+ },
+ {
+  "canonical": "political opportunity structures",
+  "mentions": 2,
+  "fields": {
+   "political science": 1,
+   "sociology": 1
+  },
+  "search_names": [
+   "political opportunity structures"
+  ],
+  "provenance_names": [
+   "political opportunity expansion",
+   "political opportunity structures"
+  ]
+ },
+ {
+  "canonical": "positive feedback loop",
+  "mentions": 2,
+  "fields": {
+   "political science": 1,
+   "economics": 1
+  },
+  "search_names": [
+   "positive feedback loop"
+  ],
+  "provenance_names": [
+   "positive feedback",
+   "positive feedback loop",
+   "positive feedbacks"
+  ]
+ },
+ {
+  "canonical": "price signaling",
+  "mentions": 2,
+  "fields": {
+   "economics": 2
+  },
+  "search_names": [
+   "price signaling"
+  ],
+  "provenance_names": [
+   "price signaling"
+  ]
+ },
+ {
+  "canonical": "principal-agent problem",
+  "mentions": 2,
+  "fields": {
+   "political science": 2
+  },
+  "search_names": [
+   "principal-agent problem"
+  ],
+  "provenance_names": [
+   "principal-agent control",
+   "principal-agent problem"
+  ]
+ },
+ {
+  "canonical": "probability weighting",
+  "mentions": 2,
+  "fields": {
+   "economics": 2
+  },
+  "search_names": [
+   "probability weighting"
+  ],
+  "provenance_names": [
+   "biased assessments of probability",
+   "probability weighting"
+  ]
+ },
+ {
+  "canonical": "processing fluency",
+  "mentions": 2,
+  "fields": {
+   "psychology": 2
+  },
+  "search_names": [
+   "processing fluency"
+  ],
+  "provenance_names": [
+   "processing fluency"
+  ]
+ },
+ {
+  "canonical": "racial socialization",
+  "mentions": 2,
+  "fields": {
+   "psychology": 2
+  },
+  "search_names": [
+   "racial socialization"
+  ],
+  "provenance_names": [
+   "racial socialization"
+  ]
+ },
+ {
+  "canonical": "relational schema",
+  "mentions": 2,
+  "fields": {
+   "management": 2
+  },
+  "search_names": [
+   "relational schema"
+  ],
+  "provenance_names": [
+   "relational schema"
+  ]
+ },
+ {
+  "canonical": "rent-seeking",
+  "mentions": 2,
+  "fields": {
+   "political science": 1,
+   "economics": 1
+  },
+  "search_names": [
+   "rent-seeking"
+  ],
+  "provenance_names": [
+   "rent-seeking"
+  ]
+ },
+ {
+  "canonical": "resource mobilization",
+  "mentions": 2,
+  "fields": {
+   "sociology": 2
+  },
+  "search_names": [
+   "resource mobilization"
+  ],
+  "provenance_names": [
+   "resource mobilization"
+  ]
+ },
+ {
+  "canonical": "retrospective voting",
+  "mentions": 2,
+  "fields": {
+   "political science": 2
+  },
+  "search_names": [
+   "retrospective voting"
+  ],
+  "provenance_names": [
+   "retrospective voting"
+  ]
+ },
+ {
+  "canonical": "risk sharing",
+  "mentions": 2,
+  "fields": {
+   "economics": 2
+  },
+  "search_names": [
+   "risk sharing"
+  ],
+  "provenance_names": [
+   "risk sharing"
+  ]
+ },
+ {
+  "canonical": "search and matching",
+  "mentions": 2,
+  "fields": {
+   "economics": 2
+  },
+  "search_names": [
+   "search and matching"
+  ],
+  "provenance_names": [
+   "search and matching"
+  ]
+ },
+ {
+  "canonical": "second demographic transition",
+  "mentions": 2,
+  "fields": {
+   "sociology": 1,
+   "economics": 1
+  },
+  "search_names": [
+   "second demographic transition"
+  ],
+  "provenance_names": [
+   "second demographic transition"
+  ]
+ },
+ {
+  "canonical": "segmented assimilation",
+  "mentions": 2,
+  "fields": {
+   "sociology": 2
+  },
+  "search_names": [
+   "segmented assimilation"
+  ],
+  "provenance_names": [
+   "segmented assimilation"
+  ]
+ },
+ {
+  "canonical": "self-explanation",
+  "mentions": 2,
+  "fields": {
+   "psychology": 2
+  },
+  "search_names": [
+   "self-explanation"
+  ],
+  "provenance_names": [
+   "self-explanation"
+  ]
+ },
+ {
+  "canonical": "self-presentation",
+  "mentions": 2,
+  "fields": {
+   "psychology": 2
+  },
+  "search_names": [
+   "self-presentation"
+  ],
+  "provenance_names": [
+   "self-presentation"
+  ]
+ },
+ {
+  "canonical": "sensegiving",
+  "mentions": 2,
+  "fields": {
+   "management": 2
+  },
+  "search_names": [
+   "sensegiving"
+  ],
+  "provenance_names": [
+   "sensegiving"
+  ]
+ },
+ {
+  "canonical": "slippery slope",
+  "mentions": 2,
+  "fields": {
+   "management": 1,
+   "psychology": 1
+  },
+  "search_names": [
+   "slippery slope"
+  ],
+  "provenance_names": [
+   "slippery slope"
+  ]
+ },
+ {
+  "canonical": "social disorganization",
+  "mentions": 2,
+  "fields": {
+   "sociology": 2
+  },
+  "search_names": [
+   "social disorganization"
+  ],
+  "provenance_names": [
+   "social disorganization"
+  ]
+ },
+ {
+  "canonical": "social influence",
+  "mentions": 2,
+  "fields": {
+   "economics": 1,
+   "management": 1
+  },
+  "search_names": [
+   "social influence"
+  ],
+  "provenance_names": [
+   "social influence",
+   "social influences",
+   "social-influence"
+  ]
+ },
+ {
+  "canonical": "social interaction",
+  "mentions": 2,
+  "fields": {
+   "economics": 2
+  },
+  "search_names": [
+   "social interaction"
+  ],
+  "provenance_names": [
+   "social interaction",
+   "social interactions"
+  ]
+ },
+ {
+  "canonical": "spatial assimilation",
+  "mentions": 2,
+  "fields": {
+   "sociology": 2
+  },
+  "search_names": [
+   "spatial assimilation"
+  ],
+  "provenance_names": [
+   "spatial assimilation"
+  ]
+ },
+ {
+  "canonical": "tax incidence",
+  "mentions": 2,
+  "fields": {
+   "economics": 2
+  },
+  "search_names": [
+   "tax incidence"
+  ],
+  "provenance_names": [
+   "tax incidence"
+  ]
+ },
+ {
+  "canonical": "theory of mind",
+  "mentions": 2,
+  "fields": {
+   "psychology": 2
+  },
+  "search_names": [
+   "theory of mind"
+  ],
+  "provenance_names": [
+   "theory of mind"
+  ]
+ },
+ {
+  "canonical": "transactive memory",
+  "mentions": 2,
+  "fields": {
+   "psychology": 1,
+   "communication": 1
+  },
+  "search_names": [
+   "transactive memory"
+  ],
+  "provenance_names": [
+   "transactive memory"
+  ]
+ },
+ {
+  "canonical": "uncertainty reduction",
+  "mentions": 2,
+  "fields": {
+   "management": 2
+  },
+  "search_names": [
+   "uncertainty reduction"
+  ],
+  "provenance_names": [
+   "uncertainty reduction"
+  ]
+ },
+ {
+  "canonical": "venue shopping",
+  "mentions": 2,
+  "fields": {
+   "sociology": 1,
+   "political science": 1
+  },
+  "search_names": [
+   "venue shopping"
+  ],
+  "provenance_names": [
+   "venue shopping"
+  ]
+ },
+ {
+  "canonical": "active forgetting",
+  "mentions": 1,
+  "fields": {
+   "psychology": 1
+  },
+  "search_names": [
+   "active forgetting"
+  ],
+  "provenance_names": [
+   "active forgetting"
+  ]
+ },
+ {
+  "canonical": "adaptive calibration",
+  "mentions": 1,
+  "fields": {
+   "psychology": 1
+  },
+  "search_names": [
+   "adaptive calibration"
+  ],
+  "provenance_names": [
+   "adaptive calibration"
+  ]
+ },
+ {
+  "canonical": "adaptive mating strategies",
+  "mentions": 1,
+  "fields": {
+   "psychology": 1
+  },
+  "search_names": [
+   "adaptive mating strategies"
+  ],
+  "provenance_names": [
+   "adaptive mating strategies"
+  ]
+ },
+ {
+  "canonical": "administrative burden",
+  "mentions": 1,
+  "fields": {
+   "sociology": 1
+  },
+  "search_names": [
+   "administrative burden"
+  ],
+  "provenance_names": [
+   "administrative burden"
+  ]
+ },
+ {
+  "canonical": "affect labeling",
+  "mentions": 1,
+  "fields": {
+   "psychology": 1
+  },
+  "search_names": [
+   "affect labeling"
+  ],
+  "provenance_names": [
+   "affect labeling",
+   "emotion labeling"
+  ]
+ },
+ {
+  "canonical": "agenda control",
+  "mentions": 1,
+  "fields": {
+   "political science": 1
+  },
+  "search_names": [
+   "agenda control"
+  ],
+  "provenance_names": [
+   "agenda control"
+  ]
+ },
+ {
+  "canonical": "agglomeration benefits",
+  "mentions": 1,
+  "fields": {
+   "economics": 1
+  },
+  "search_names": [
+   "agglomeration benefits"
+  ],
+  "provenance_names": [
+   "agglomeration benefits"
+  ]
+ },
+ {
+  "canonical": "agglomeration economies",
+  "mentions": 1,
+  "fields": {
+   "economics": 1
+  },
+  "search_names": [
+   "agglomeration economies"
+  ],
+  "provenance_names": [
+   "agglomeration economies"
+  ]
+ },
+ {
+  "canonical": "algorithmic control",
+  "mentions": 1,
+  "fields": {
+   "communication": 1
+  },
+  "search_names": [
+   "algorithmic control"
+  ],
+  "provenance_names": [
+   "algorithmic control"
+  ]
+ },
+ {
+  "canonical": "algorithmic intermediation",
+  "mentions": 1,
+  "fields": {
+   "sociology": 1
+  },
+  "search_names": [
+   "algorithmic intermediation"
+  ],
+  "provenance_names": [
+   "algorithmic intermediation"
+  ]
+ },
+ {
+  "canonical": "altruistic punishment",
+  "mentions": 1,
+  "fields": {
+   "psychology": 1
+  },
+  "search_names": [
+   "altruistic punishment"
+  ],
+  "provenance_names": [
+   "altruistic punishment"
+  ]
+ },
+ {
+  "canonical": "ambiguity aversion",
+  "mentions": 1,
+  "fields": {
+   "economics": 1
+  },
+  "search_names": [
+   "ambiguity aversion"
+  ],
+  "provenance_names": [
+   "ambiguity aversion"
+  ]
+ },
+ {
+  "canonical": "anchoring and adjustment",
+  "mentions": 1,
+  "fields": {
+   "management": 1
+  },
+  "search_names": [
+   "anchoring and adjustment"
+  ],
+  "provenance_names": [
+   "anchoring and adjustment"
+  ]
+ },
+ {
+  "canonical": "anger activism model",
+  "mentions": 1,
+  "fields": {
+   "communication": 1
+  },
+  "search_names": [
+   "anger activism model"
+  ],
+  "provenance_names": [
+   "anger activism model"
+  ]
+ },
+ {
+  "canonical": "anthropomorphism",
+  "mentions": 1,
+  "fields": {
+   "psychology": 1
+  },
+  "search_names": [
+   "anthropomorphism"
+  ],
+  "provenance_names": [
+   "anthropomorphism"
+  ]
+ },
+ {
+  "canonical": "apology-forgiveness cycle",
+  "mentions": 1,
+  "fields": {
+   "psychology": 1
+  },
+  "search_names": [
+   "apology-forgiveness cycle"
+  ],
+  "provenance_names": [
+   "apology-forgiveness cycle"
+  ]
+ },
+ {
+  "canonical": "arbitrage",
+  "mentions": 1,
+  "fields": {
+   "psychology": 1
+  },
+  "search_names": [
+   "arbitrage"
+  ],
+  "provenance_names": [
+   "arbitrage"
+  ]
+ },
+ {
+  "canonical": "arousal regulation",
+  "mentions": 1,
+  "fields": {
+   "psychology": 1
+  },
+  "search_names": [
+   "arousal regulation"
+  ],
+  "provenance_names": [
+   "arousal regulation",
+   "stress/arousal regulation"
+  ]
+ },
+ {
+  "canonical": "arousal theory",
+  "mentions": 1,
+  "fields": {
+   "management": 1
+  },
+  "search_names": [
+   "arousal theory"
+  ],
+  "provenance_names": [
+   "arousal theory"
+  ]
+ },
+ {
+  "canonical": "asa processes",
+  "mentions": 1,
+  "fields": {
+   "management": 1
+  },
+  "search_names": [
+   "asa processes"
+  ],
+  "provenance_names": [
+   "asa processes"
+  ]
+ },
+ {
+  "canonical": "associative learning",
+  "mentions": 1,
+  "fields": {
+   "psychology": 1
+  },
+  "search_names": [
+   "associative learning"
+  ],
+  "provenance_names": [
+   "associative learning"
+  ]
+ },
+ {
+  "canonical": "assumed similarity",
+  "mentions": 1,
+  "fields": {
+   "psychology": 1
+  },
+  "search_names": [
+   "assumed similarity"
+  ],
+  "provenance_names": [
+   "assumed similarity"
+  ]
+ },
+ {
+  "canonical": "attachment theory",
+  "mentions": 1,
+  "fields": {
+   "economics": 1
+  },
+  "search_names": [
+   "attachment theory"
+  ],
+  "provenance_names": [
+   "attachment",
+   "attachment theory"
+  ]
+ },
+ {
+  "canonical": "attitude moralization",
+  "mentions": 1,
+  "fields": {
+   "psychology": 1
+  },
+  "search_names": [
+   "attitude moralization"
+  ],
+  "provenance_names": [
+   "attitude moralization"
+  ]
+ },
+ {
+  "canonical": "audience costs",
+  "mentions": 1,
+  "fields": {
+   "political science": 1
+  },
+  "search_names": [
+   "audience costs"
+  ],
+  "provenance_names": [
+   "audience costs"
+  ]
+ },
+ {
+  "canonical": "audience tuning",
+  "mentions": 1,
+  "fields": {
+   "psychology": 1
+  },
+  "search_names": [
+   "audience tuning"
+  ],
+  "provenance_names": [
+   "audience tuning"
+  ]
+ },
+ {
+  "canonical": "autocratic predation",
+  "mentions": 1,
+  "fields": {
+   "political science": 1
+  },
+  "search_names": [
+   "autocratic predation"
+  ],
+  "provenance_names": [
+   "autocratic predation"
+  ]
+ },
+ {
+  "canonical": "banal nationalism",
+  "mentions": 1,
+  "fields": {
+   "sociology": 1
+  },
+  "search_names": [
+   "banal nationalism"
+  ],
+  "provenance_names": [
+   "banal nationalism"
+  ]
+ },
+ {
+  "canonical": "bargaining theory",
+  "mentions": 1,
+  "fields": {
+   "economics": 1
+  },
+  "search_names": [
+   "bargaining theory"
+  ],
+  "provenance_names": [
+   "bargaining theory",
+   "multilateral bargaining"
+  ]
+ },
+ {
+  "canonical": "bayesian updating",
+  "mentions": 1,
+  "fields": {
+   "economics": 1
+  },
+  "search_names": [
+   "bayesian updating"
+  ],
+  "provenance_names": [
+   "bayesian updating",
+   "belief updating"
+  ]
+ },
+ {
+  "canonical": "behavioral activation",
+  "mentions": 1,
+  "fields": {
+   "psychology": 1
+  },
+  "search_names": [
+   "behavioral activation"
+  ],
+  "provenance_names": [
+   "behavioral activation"
+  ]
+ },
+ {
+  "canonical": "behavioral mimicry",
+  "mentions": 1,
+  "fields": {
+   "psychology": 1
+  },
+  "search_names": [
+   "behavioral mimicry"
+  ],
+  "provenance_names": [
+   "behavioral mimicry"
+  ]
+ },
+ {
+  "canonical": "benefit-finding",
+  "mentions": 1,
+  "fields": {
+   "psychology": 1
+  },
+  "search_names": [
+   "benefit-finding"
+  ],
+  "provenance_names": [
+   "benefit-finding"
+  ]
+ },
+ {
+  "canonical": "blame misattribution",
+  "mentions": 1,
+  "fields": {
+   "political science": 1
+  },
+  "search_names": [
+   "blame misattribution"
+  ],
+  "provenance_names": [
+   "blame misattribution"
+  ]
+ },
+ {
+  "canonical": "bottom-up attention",
+  "mentions": 1,
+  "fields": {
+   "economics": 1
+  },
+  "search_names": [
+   "bottom-up attention"
+  ],
+  "provenance_names": [
+   "bottom-up attention"
+  ]
+ },
+ {
+  "canonical": "boundary maintenance",
+  "mentions": 1,
+  "fields": {
+   "sociology": 1
+  },
+  "search_names": [
+   "boundary maintenance"
+  ],
+  "provenance_names": [
+   "boundary maintenance"
+  ]
+ },
+ {
+  "canonical": "boundary spanning",
+  "mentions": 1,
+  "fields": {
+   "management": 1
+  },
+  "search_names": [
+   "boundary spanning"
+  ],
+  "provenance_names": [
+   "boundary spanning"
+  ]
+ },
+ {
+  "canonical": "boundary-spanning",
+  "mentions": 1,
+  "fields": {
+   "sociology": 1
+  },
+  "search_names": [
+   "boundary-spanning"
+  ],
+  "provenance_names": [
+   "boundary-spanning"
+  ]
+ },
+ {
+  "canonical": "bounded ethicality",
+  "mentions": 1,
+  "fields": {
+   "psychology": 1
+  },
+  "search_names": [
+   "bounded ethicality"
+  ],
+  "provenance_names": [
+   "bounded ethicality"
+  ]
+ },
+ {
+  "canonical": "bubble/crash dynamics",
+  "mentions": 1,
+  "fields": {
+   "sociology": 1
+  },
+  "search_names": [
+   "bubble/crash dynamics"
+  ],
+  "provenance_names": [
+   "bubble/crash dynamics"
+  ]
+ },
+ {
+  "canonical": "bunching",
+  "mentions": 1,
+  "fields": {
+   "economics": 1
+  },
+  "search_names": [
+   "bunching"
+  ],
+  "provenance_names": [
+   "bunching"
+  ]
+ },
+ {
+  "canonical": "bureaucratic agency problem",
+  "mentions": 1,
+  "fields": {
+   "political science": 1
+  },
+  "search_names": [
+   "bureaucratic agency problem"
+  ],
+  "provenance_names": [
+   "bureaucratic agency problem"
+  ]
+ },
+ {
+  "canonical": "capital accumulation",
+  "mentions": 1,
+  "fields": {
+   "sociology": 1
+  },
+  "search_names": [
+   "capital accumulation"
+  ],
+  "provenance_names": [
+   "capital accumulation"
+  ]
+ },
+ {
+  "canonical": "capital-skill complementarity",
+  "mentions": 1,
+  "fields": {
+   "economics": 1
+  },
+  "search_names": [
+   "capital-skill complementarity"
+  ],
+  "provenance_names": [
+   "capital-skill complementarity"
+  ]
+ },
+ {
+  "canonical": "carbon leakage",
+  "mentions": 1,
+  "fields": {
+   "economics": 1
+  },
+  "search_names": [
+   "carbon leakage"
+  ],
+  "provenance_names": [
+   "carbon leakage"
+  ]
+ },
+ {
+  "canonical": "careless responding",
+  "mentions": 1,
+  "fields": {
+   "psychology": 1
+  },
+  "search_names": [
+   "careless responding"
+  ],
+  "provenance_names": [
+   "careless responding"
+  ]
+ },
+ {
+  "canonical": "cascade effects",
+  "mentions": 1,
+  "fields": {
+   "sociology": 1
+  },
+  "search_names": [
+   "cascade effects"
+  ],
+  "provenance_names": [
+   "cascade effects",
+   "shock cascades"
+  ]
+ },
+ {
+  "canonical": "centralization",
+  "mentions": 1,
+  "fields": {
+   "political science": 1
+  },
+  "search_names": [
+   "centralization"
+  ],
+  "provenance_names": [
+   "centralization",
+   "centralization of power"
+  ]
+ },
+ {
+  "canonical": "challenge appraisal",
+  "mentions": 1,
+  "fields": {
+   "management": 1
+  },
+  "search_names": [
+   "challenge appraisal"
+  ],
+  "provenance_names": [
+   "challenge appraisal"
+  ]
+ },
+ {
+  "canonical": "character assassination",
+  "mentions": 1,
+  "fields": {
+   "communication": 1
+  },
+  "search_names": [
+   "character assassination"
+  ],
+  "provenance_names": [
+   "character assassination"
+  ]
+ },
+ {
+  "canonical": "cheap talk communication",
+  "mentions": 1,
+  "fields": {
+   "economics": 1
+  },
+  "search_names": [
+   "cheap talk communication"
+  ],
+  "provenance_names": [
+   "cheap talk communication"
+  ]
+ },
+ {
+  "canonical": "checks and balances",
+  "mentions": 1,
+  "fields": {
+   "management": 1
+  },
+  "search_names": [
+   "checks and balances"
+  ],
+  "provenance_names": [
+   "checks and balances"
+  ]
+ },
+ {
+  "canonical": "choking",
+  "mentions": 1,
+  "fields": {
+   "economics": 1
+  },
+  "search_names": [
+   "choking"
+  ],
+  "provenance_names": [
+   "choking"
+  ]
+ },
+ {
+  "canonical": "claimsmaking",
+  "mentions": 1,
+  "fields": {
+   "communication": 1
+  },
+  "search_names": [
+   "claimsmaking"
+  ],
+  "provenance_names": [
+   "claimsmaking"
+  ]
+ },
+ {
+  "canonical": "cleavage structuring",
+  "mentions": 1,
+  "fields": {
+   "political science": 1
+  },
+  "search_names": [
+   "cleavage structuring"
+  ],
+  "provenance_names": [
+   "cleavage structuring"
+  ]
+ },
+ {
+  "canonical": "co-constitution",
+  "mentions": 1,
+  "fields": {
+   "sociology": 1
+  },
+  "search_names": [
+   "co-constitution"
+  ],
+  "provenance_names": [
+   "co-constitution",
+   "coconstitution"
+  ]
+ },
+ {
+  "canonical": "coarse semantic coding",
+  "mentions": 1,
+  "fields": {
+   "psychology": 1
+  },
+  "search_names": [
+   "coarse semantic coding"
+  ],
+  "provenance_names": [
+   "coarse semantic coding"
+  ]
+ },
+ {
+  "canonical": "cochlear filtering",
+  "mentions": 1,
+  "fields": {
+   "psychology": 1
+  },
+  "search_names": [
+   "cochlear filtering"
+  ],
+  "provenance_names": [
+   "cochlear filtering"
+  ]
+ },
+ {
+  "canonical": "cognitive accessibility",
+  "mentions": 1,
+  "fields": {
+   "psychology": 1
+  },
+  "search_names": [
+   "cognitive accessibility"
+  ],
+  "provenance_names": [
+   "cognitive accessibility"
+  ]
+ },
+ {
+  "canonical": "cognitive adaptation",
+  "mentions": 1,
+  "fields": {
+   "psychology": 1
+  },
+  "search_names": [
+   "cognitive adaptation"
+  ],
+  "provenance_names": [
+   "cognitive adaptation"
+  ]
+ },
+ {
+  "canonical": "cognitive biases",
+  "mentions": 1,
+  "fields": {
+   "economics": 1
+  },
+  "search_names": [
+   "cognitive biases"
+  ],
+  "provenance_names": [
+   "behavioral biases",
+   "cognitive biases"
+  ]
+ },
+ {
+  "canonical": "cognitive consistency",
+  "mentions": 1,
+  "fields": {
+   "psychology": 1
+  },
+  "search_names": [
+   "cognitive consistency"
+  ],
+  "provenance_names": [
+   "cognitive consistency",
+   "consistency seeking"
+  ]
+ },
+ {
+  "canonical": "cognitive discrepancy theory",
+  "mentions": 1,
+  "fields": {
+   "management": 1
+  },
+  "search_names": [
+   "cognitive discrepancy theory"
+  ],
+  "provenance_names": [
+   "cognitive discrepancy theory"
+  ]
+ },
+ {
+  "canonical": "cognitive dissonance theory",
+  "mentions": 1,
+  "fields": {
+   "management": 1
+  },
+  "search_names": [
+   "cognitive dissonance theory"
+  ],
+  "provenance_names": [
+   "cognitive dissonance theory"
+  ]
+ },
+ {
+  "canonical": "cognitive reappraisal",
+  "mentions": 1,
+  "fields": {
+   "psychology": 1
+  },
+  "search_names": [
+   "cognitive reappraisal"
+  ],
+  "provenance_names": [
+   "cognitive reappraisal",
+   "reappraisal"
+  ]
+ },
+ {
+  "canonical": "cognitive schema theory",
+  "mentions": 1,
+  "fields": {
+   "communication": 1
+  },
+  "search_names": [
+   "cognitive schema theory"
+  ],
+  "provenance_names": [
+   "cognitive schema theory"
+  ]
+ },
+ {
+  "canonical": "cognitive social learning",
+  "mentions": 1,
+  "fields": {
+   "psychology": 1
+  },
+  "search_names": [
+   "cognitive social learning"
+  ],
+  "provenance_names": [
+   "cognitive social learning"
+  ]
+ },
+ {
+  "canonical": "collaborative inhibition",
+  "mentions": 1,
+  "fields": {
+   "psychology": 1
+  },
+  "search_names": [
+   "collaborative inhibition"
+  ],
+  "provenance_names": [
+   "collaborative inhibition"
+  ]
+ },
+ {
+  "canonical": "collective poverty trap",
+  "mentions": 1,
+  "fields": {
+   "economics": 1
+  },
+  "search_names": [
+   "collective poverty trap"
+  ],
+  "provenance_names": [
+   "collective poverty trap"
+  ]
+ },
+ {
+  "canonical": "commitment in anarchy",
+  "mentions": 1,
+  "fields": {
+   "political science": 1
+  },
+  "search_names": [
+   "commitment in anarchy"
+  ],
+  "provenance_names": [
+   "commitment in anarchy"
+  ]
+ },
+ {
+  "canonical": "common coding",
+  "mentions": 1,
+  "fields": {
+   "psychology": 1
+  },
+  "search_names": [
+   "common coding"
+  ],
+  "provenance_names": [
+   "common coding"
+  ]
+ },
+ {
+  "canonical": "common currency representation",
+  "mentions": 1,
+  "fields": {
+   "psychology": 1
+  },
+  "search_names": [
+   "common currency representation"
+  ],
+  "provenance_names": [
+   "common currency representation"
+  ]
+ },
+ {
+  "canonical": "communal sharing",
+  "mentions": 1,
+  "fields": {
+   "psychology": 1
+  },
+  "search_names": [
+   "communal sharing"
+  ],
+  "provenance_names": [
+   "communal sharing"
+  ]
+ },
+ {
+  "canonical": "communication accommodation",
+  "mentions": 1,
+  "fields": {
+   "communication": 1
+  },
+  "search_names": [
+   "communication accommodation"
+  ],
+  "provenance_names": [
+   "communication accommodation"
+  ]
+ },
+ {
+  "canonical": "communicative capitalism",
+  "mentions": 1,
+  "fields": {
+   "communication": 1
+  },
+  "search_names": [
+   "communicative capitalism"
+  ],
+  "provenance_names": [
+   "communicative capitalism"
+  ]
+ },
+ {
+  "canonical": "comparative advantage",
+  "mentions": 1,
+  "fields": {
+   "economics": 1
+  },
+  "search_names": [
+   "comparative advantage"
+  ],
+  "provenance_names": [
+   "comparative advantage"
+  ]
+ },
+ {
+  "canonical": "competing logics",
+  "mentions": 1,
+  "fields": {
+   "management": 1
+  },
+  "search_names": [
+   "competing logics"
+  ],
+  "provenance_names": [
+   "competing logics"
+  ]
+ },
+ {
+  "canonical": "competitive victimhood",
+  "mentions": 1,
+  "fields": {
+   "psychology": 1
+  },
+  "search_names": [
+   "competitive victimhood"
+  ],
+  "provenance_names": [
+   "competitive victimhood"
+  ]
+ },
+ {
+  "canonical": "competitor derogation",
+  "mentions": 1,
+  "fields": {
+   "psychology": 1
+  },
+  "search_names": [
+   "competitor derogation"
+  ],
+  "provenance_names": [
+   "competitor derogation"
+  ]
+ },
+ {
+  "canonical": "compromise avoidance",
+  "mentions": 1,
+  "fields": {
+   "psychology": 1
+  },
+  "search_names": [
+   "compromise avoidance"
+  ],
+  "provenance_names": [
+   "compromise avoidance"
+  ]
+ },
+ {
+  "canonical": "compromise effect",
+  "mentions": 1,
+  "fields": {
+   "psychology": 1
+  },
+  "search_names": [
+   "compromise effect"
+  ],
+  "provenance_names": [
+   "compromise effect"
+  ]
+ },
+ {
+  "canonical": "conceptual combination",
+  "mentions": 1,
+  "fields": {
+   "psychology": 1
+  },
+  "search_names": [
+   "conceptual combination"
+  ],
+  "provenance_names": [
+   "conceptual combination"
+  ]
+ },
+ {
+  "canonical": "conceptual fluency",
+  "mentions": 1,
+  "fields": {
+   "psychology": 1
+  },
+  "search_names": [
+   "conceptual fluency"
+  ],
+  "provenance_names": [
+   "conceptual fluency"
+  ]
+ },
+ {
+  "canonical": "conditional cooperation",
+  "mentions": 1,
+  "fields": {
+   "psychology": 1
+  },
+  "search_names": [
+   "conditional cooperation"
+  ],
+  "provenance_names": [
+   "conditional cooperation"
+  ]
+ },
+ {
+  "canonical": "conditioned reflexes",
+  "mentions": 1,
+  "fields": {
+   "psychology": 1
+  },
+  "search_names": [
+   "conditioned reflexes"
+  ],
+  "provenance_names": [
+   "conditioned reflexes"
+  ]
+ },
+ {
+  "canonical": "configuration theory",
+  "mentions": 1,
+  "fields": {
+   "management": 1
+  },
+  "search_names": [
+   "configuration theory"
+  ],
+  "provenance_names": [
+   "configuration theory"
+  ]
+ },
+ {
+  "canonical": "confirmation bias",
+  "mentions": 1,
+  "fields": {
+   "management": 1
+  },
+  "search_names": [
+   "confirmation bias"
+  ],
+  "provenance_names": [
+   "confirmation bias"
+  ]
+ },
+ {
+  "canonical": "conflict detection",
+  "mentions": 1,
+  "fields": {
+   "psychology": 1
+  },
+  "search_names": [
+   "conflict detection"
+  ],
+  "provenance_names": [
+   "conflict detection"
+  ]
+ },
+ {
+  "canonical": "conflict trap",
+  "mentions": 1,
+  "fields": {
+   "economics": 1
+  },
+  "search_names": [
+   "conflict trap"
+  ],
+  "provenance_names": [
+   "conflict trap",
+   "war traps"
+  ]
+ },
+ {
+  "canonical": "conformity",
+  "mentions": 1,
+  "fields": {
+   "psychology": 1
+  },
+  "search_names": [
+   "conformity"
+  ],
+  "provenance_names": [
+   "conformity"
+  ]
+ },
+ {
+  "canonical": "conformity to group norms",
+  "mentions": 1,
+  "fields": {
+   "economics": 1
+  },
+  "search_names": [
+   "conformity to group norms"
+  ],
+  "provenance_names": [
+   "conformity to group norms"
+  ]
+ },
+ {
+  "canonical": "consistency principle",
+  "mentions": 1,
+  "fields": {
+   "psychology": 1
+  },
+  "search_names": [
+   "consistency principle"
+  ],
+  "provenance_names": [
+   "consistency principle"
+  ]
+ },
+ {
+  "canonical": "construal level",
+  "mentions": 1,
+  "fields": {
+   "psychology": 1
+  },
+  "search_names": [
+   "construal level"
+  ],
+  "provenance_names": [
+   "construal level"
+  ]
+ },
+ {
+  "canonical": "consumption externalities",
+  "mentions": 1,
+  "fields": {
+   "economics": 1
+  },
+  "search_names": [
+   "consumption externalities"
+  ],
+  "provenance_names": [
+   "consumption externalities"
+  ]
+ },
+ {
+  "canonical": "contact hypothesis",
+  "mentions": 1,
+  "fields": {
+   "economics": 1
+  },
+  "search_names": [
+   "contact hypothesis"
+  ],
+  "provenance_names": [
+   "contact hypothesis",
+   "social contact"
+  ]
+ },
+ {
+  "canonical": "contingency theory",
+  "mentions": 1,
+  "fields": {
+   "management": 1
+  },
+  "search_names": [
+   "contingency theory"
+  ],
+  "provenance_names": [
+   "contingency theory"
+  ]
+ },
+ {
+  "canonical": "controlling images",
+  "mentions": 1,
+  "fields": {
+   "sociology": 1
+  },
+  "search_names": [
+   "controlling images"
+  ],
+  "provenance_names": [
+   "controlling images"
+  ]
+ },
+ {
+  "canonical": "cost shifting",
+  "mentions": 1,
+  "fields": {
+   "political science": 1
+  },
+  "search_names": [
+   "cost shifting"
+  ],
+  "provenance_names": [
+   "cost shifting"
+  ]
+ },
+ {
+  "canonical": "costless signaling",
+  "mentions": 1,
+  "fields": {
+   "political science": 1
+  },
+  "search_names": [
+   "costless signaling"
+  ],
+  "provenance_names": [
+   "costless signaling"
+  ]
+ },
+ {
+  "canonical": "costly signaling",
+  "mentions": 1,
+  "fields": {
+   "political science": 1
+  },
+  "search_names": [
+   "costly signaling"
+  ],
+  "provenance_names": [
+   "costly signaling"
+  ]
+ },
+ {
+  "canonical": "cost\u2013benefit voting",
+  "mentions": 1,
+  "fields": {
+   "economics": 1
+  },
+  "search_names": [
+   "cost\u2013benefit voting"
+  ],
+  "provenance_names": [
+   "cost\u2013benefit voting"
+  ]
+ },
+ {
+  "canonical": "counterfactual thought",
+  "mentions": 1,
+  "fields": {
+   "psychology": 1
+  },
+  "search_names": [
+   "counterfactual thought"
+  ],
+  "provenance_names": [
+   "counterfactual thought"
+  ]
+ },
+ {
+  "canonical": "credential signaling",
+  "mentions": 1,
+  "fields": {
+   "sociology": 1
+  },
+  "search_names": [
+   "credential signaling"
+  ],
+  "provenance_names": [
+   "credential signaling"
+  ]
+ },
+ {
+  "canonical": "critical mass",
+  "mentions": 1,
+  "fields": {
+   "communication": 1
+  },
+  "search_names": [
+   "critical mass"
+  ],
+  "provenance_names": [
+   "critical mass"
+  ]
+ },
+ {
+  "canonical": "critical periods",
+  "mentions": 1,
+  "fields": {
+   "psychology": 1
+  },
+  "search_names": [
+   "critical periods"
+  ],
+  "provenance_names": [
+   "critical periods"
+  ]
+ },
+ {
+  "canonical": "cross-cutting cleavages",
+  "mentions": 1,
+  "fields": {
+   "political science": 1
+  },
+  "search_names": [
+   "cross-cutting cleavages"
+  ],
+  "provenance_names": [
+   "cross-cutting cleavages"
+  ]
+ },
+ {
+  "canonical": "crowding out",
+  "mentions": 1,
+  "fields": {
+   "political science": 1
+  },
+  "search_names": [
+   "crowding out"
+  ],
+  "provenance_names": [
+   "crowding out"
+  ]
+ },
+ {
+  "canonical": "cue combination",
+  "mentions": 1,
+  "fields": {
+   "psychology": 1
+  },
+  "search_names": [
+   "cue combination"
+  ],
+  "provenance_names": [
+   "cue combination"
+  ]
+ },
+ {
+  "canonical": "cultivation",
+  "mentions": 1,
+  "fields": {
+   "communication": 1
+  },
+  "search_names": [
+   "cultivation"
+  ],
+  "provenance_names": [
+   "cultivation"
+  ]
+ },
+ {
+  "canonical": "cultural backlash",
+  "mentions": 1,
+  "fields": {
+   "political science": 1
+  },
+  "search_names": [
+   "cultural backlash"
+  ],
+  "provenance_names": [
+   "cultural backlash"
+  ]
+ },
+ {
+  "canonical": "cultural imperialism",
+  "mentions": 1,
+  "fields": {
+   "communication": 1
+  },
+  "search_names": [
+   "cultural imperialism"
+  ],
+  "provenance_names": [
+   "cultural imperialism"
+  ]
+ },
+ {
+  "canonical": "cultural mismatches",
+  "mentions": 1,
+  "fields": {
+   "psychology": 1
+  },
+  "search_names": [
+   "cultural mismatches"
+  ],
+  "provenance_names": [
+   "cultural mismatches"
+  ]
+ },
+ {
+  "canonical": "cultural reproduction",
+  "mentions": 1,
+  "fields": {
+   "sociology": 1
+  },
+  "search_names": [
+   "cultural reproduction"
+  ],
+  "provenance_names": [
+   "cultural reproduction"
+  ]
+ },
+ {
+  "canonical": "cultural transmission",
+  "mentions": 1,
+  "fields": {
+   "psychology": 1
+  },
+  "search_names": [
+   "cultural transmission"
+  ],
+  "provenance_names": [
+   "cultural transmission",
+   "social transmission"
+  ]
+ },
+ {
+  "canonical": "culture-gene coevolution",
+  "mentions": 1,
+  "fields": {
+   "psychology": 1
+  },
+  "search_names": [
+   "culture-gene coevolution"
+  ],
+  "provenance_names": [
+   "culture-gene coevolution"
+  ]
+ },
+ {
+  "canonical": "cumulative advantage",
+  "mentions": 1,
+  "fields": {
+   "sociology": 1
+  },
+  "search_names": [
+   "cumulative advantage"
+  ],
+  "provenance_names": [
+   "cumulative advantage"
+  ]
+ },
+ {
+  "canonical": "cumulative cultural evolution",
+  "mentions": 1,
+  "fields": {
+   "psychology": 1
+  },
+  "search_names": [
+   "cumulative cultural evolution"
+  ],
+  "provenance_names": [
+   "cumulative cultural evolution"
+  ]
+ },
+ {
+  "canonical": "cumulative disadvantage",
+  "mentions": 1,
+  "fields": {
+   "sociology": 1
+  },
+  "search_names": [
+   "cumulative disadvantage"
+  ],
+  "provenance_names": [
+   "cumulative disadvantage"
+  ]
+ },
+ {
+  "canonical": "data externalities",
+  "mentions": 1,
+  "fields": {
+   "economics": 1
+  },
+  "search_names": [
+   "data externalities"
+  ],
+  "provenance_names": [
+   "data externalities"
+  ]
+ },
+ {
+  "canonical": "deadline effect",
+  "mentions": 1,
+  "fields": {
+   "economics": 1
+  },
+  "search_names": [
+   "deadline effect"
+  ],
+  "provenance_names": [
+   "deadline effect"
+  ]
+ },
+ {
+  "canonical": "decoy effects",
+  "mentions": 1,
+  "fields": {
+   "economics": 1
+  },
+  "search_names": [
+   "decoy effects"
+  ],
+  "provenance_names": [
+   "decoy effects"
+  ]
+ },
+ {
+  "canonical": "deep encoding",
+  "mentions": 1,
+  "fields": {
+   "psychology": 1
+  },
+  "search_names": [
+   "deep encoding"
+  ],
+  "provenance_names": [
+   "deep encoding"
+  ]
+ },
+ {
+  "canonical": "deflation trap",
+  "mentions": 1,
+  "fields": {
+   "economics": 1
+  },
+  "search_names": [
+   "deflation trap"
+  ],
+  "provenance_names": [
+   "deflation trap"
+  ]
+ },
+ {
+  "canonical": "dehumanization",
+  "mentions": 1,
+  "fields": {
+   "psychology": 1
+  },
+  "search_names": [
+   "dehumanization"
+  ],
+  "provenance_names": [
+   "dehumanization"
+  ]
+ },
+ {
+  "canonical": "delayed price adjustment",
+  "mentions": 1,
+  "fields": {
+   "economics": 1
+  },
+  "search_names": [
+   "delayed price adjustment"
+  ],
+  "provenance_names": [
+   "delayed price adjustment"
+  ]
+ },
+ {
+  "canonical": "demonstration effects",
+  "mentions": 1,
+  "fields": {
+   "political science": 1
+  },
+  "search_names": [
+   "demonstration effects"
+  ],
+  "provenance_names": [
+   "demonstration effects"
+  ]
+ },
+ {
+  "canonical": "depth of processing",
+  "mentions": 1,
+  "fields": {
+   "communication": 1
+  },
+  "search_names": [
+   "depth of processing"
+  ],
+  "provenance_names": [
+   "depth of processing"
+  ]
+ },
+ {
+  "canonical": "derogation of the victim",
+  "mentions": 1,
+  "fields": {
+   "sociology": 1
+  },
+  "search_names": [
+   "derogation of the victim"
+  ],
+  "provenance_names": [
+   "derogation of the victim"
+  ]
+ },
+ {
+  "canonical": "desensitization",
+  "mentions": 1,
+  "fields": {
+   "communication": 1
+  },
+  "search_names": [
+   "desensitization"
+  ],
+  "provenance_names": [
+   "desensitization"
+  ]
+ },
+ {
+  "canonical": "developmental cascade",
+  "mentions": 1,
+  "fields": {
+   "psychology": 1
+  },
+  "search_names": [
+   "developmental cascade"
+  ],
+  "provenance_names": [
+   "developmental cascade"
+  ]
+ },
+ {
+  "canonical": "diaspora channel",
+  "mentions": 1,
+  "fields": {
+   "political science": 1
+  },
+  "search_names": [
+   "diaspora channel"
+  ],
+  "provenance_names": [
+   "diaspora channel"
+  ]
+ },
+ {
+  "canonical": "differential susceptibility",
+  "mentions": 1,
+  "fields": {
+   "psychology": 1
+  },
+  "search_names": [
+   "differential susceptibility"
+  ],
+  "provenance_names": [
+   "differential susceptibility"
+  ]
+ },
+ {
+  "canonical": "diffusion of beliefs",
+  "mentions": 1,
+  "fields": {
+   "sociology": 1
+  },
+  "search_names": [
+   "diffusion of beliefs"
+  ],
+  "provenance_names": [
+   "diffusion of beliefs",
+   "informational and belief diffusion"
+  ]
+ },
+ {
+  "canonical": "diffusion of innovation theory",
+  "mentions": 1,
+  "fields": {
+   "communication": 1
+  },
+  "search_names": [
+   "diffusion of innovation theory"
+  ],
+  "provenance_names": [
+   "diffusion of innovation theory"
+  ]
+ },
+ {
+  "canonical": "direct network effects",
+  "mentions": 1,
+  "fields": {
+   "economics": 1
+  },
+  "search_names": [
+   "direct network effects"
+  ],
+  "provenance_names": [
+   "direct externalities",
+   "direct network effects"
+  ]
+ },
+ {
+  "canonical": "documentary method of interpretation",
+  "mentions": 1,
+  "fields": {
+   "sociology": 1
+  },
+  "search_names": [
+   "documentary method of interpretation"
+  ],
+  "provenance_names": [
+   "documentary method of interpretation"
+  ]
+ },
+ {
+  "canonical": "doing age",
+  "mentions": 1,
+  "fields": {
+   "sociology": 1
+  },
+  "search_names": [
+   "doing age"
+  ],
+  "provenance_names": [
+   "doing age"
+  ]
+ },
+ {
+  "canonical": "dopamine receptor downregulation",
+  "mentions": 1,
+  "fields": {
+   "psychology": 1
+  },
+  "search_names": [
+   "dopamine receptor downregulation"
+  ],
+  "provenance_names": [
+   "dopamine receptor downregulation"
+  ]
+ },
+ {
+  "canonical": "downward accountability",
+  "mentions": 1,
+  "fields": {
+   "political science": 1
+  },
+  "search_names": [
+   "downward accountability"
+  ],
+  "provenance_names": [
+   "downward accountability"
+  ]
+ },
+ {
+  "canonical": "dual-process models",
+  "mentions": 1,
+  "fields": {
+   "psychology": 1
+  },
+  "search_names": [
+   "dual-process models"
+  ],
+  "provenance_names": [
+   "dual-process models"
+  ]
+ },
+ {
+  "canonical": "dual-process theories",
+  "mentions": 1,
+  "fields": {
+   "psychology": 1
+  },
+  "search_names": [
+   "dual-process theories"
+  ],
+  "provenance_names": [
+   "dual-process theories"
+  ]
+ },
+ {
+  "canonical": "dual-store theory",
+  "mentions": 1,
+  "fields": {
+   "psychology": 1
+  },
+  "search_names": [
+   "dual-store theory"
+  ],
+  "provenance_names": [
+   "dual-store theory"
+  ]
+ },
+ {
+  "canonical": "dyadic emotion regulation",
+  "mentions": 1,
+  "fields": {
+   "psychology": 1
+  },
+  "search_names": [
+   "dyadic emotion regulation"
+  ],
+  "provenance_names": [
+   "dyadic emotion regulation"
+  ]
+ },
+ {
+  "canonical": "dynamic complementarities",
+  "mentions": 1,
+  "fields": {
+   "economics": 1
+  },
+  "search_names": [
+   "dynamic complementarities"
+  ],
+  "provenance_names": [
+   "dynamic complementarities"
+  ]
+ },
+ {
+  "canonical": "dynamic inconsistency",
+  "mentions": 1,
+  "fields": {
+   "economics": 1
+  },
+  "search_names": [
+   "dynamic inconsistency"
+  ],
+  "provenance_names": [
+   "dynamic inconsistency"
+  ]
+ },
+ {
+  "canonical": "earmarking money",
+  "mentions": 1,
+  "fields": {
+   "sociology": 1
+  },
+  "search_names": [
+   "earmarking money"
+  ],
+  "provenance_names": [
+   "earmarking money"
+  ]
+ },
+ {
+  "canonical": "echo chambers",
+  "mentions": 1,
+  "fields": {
+   "economics": 1
+  },
+  "search_names": [
+   "echo chambers"
+  ],
+  "provenance_names": [
+   "echo chambers"
+  ]
+ },
+ {
+  "canonical": "ecologically unequal exchange",
+  "mentions": 1,
+  "fields": {
+   "sociology": 1
+  },
+  "search_names": [
+   "ecologically unequal exchange"
+  ],
+  "provenance_names": [
+   "ecologically unequal exchange"
+  ]
+ },
+ {
+  "canonical": "economization",
+  "mentions": 1,
+  "fields": {
+   "management": 1
+  },
+  "search_names": [
+   "economization"
+  ],
+  "provenance_names": [
+   "economization"
+  ]
+ },
+ {
+  "canonical": "ecosystem orchestration",
+  "mentions": 1,
+  "fields": {
+   "management": 1
+  },
+  "search_names": [
+   "ecosystem orchestration"
+  ],
+  "provenance_names": [
+   "ecosystem orchestration"
+  ]
+ },
+ {
+  "canonical": "ecosystem-driven open adaptation",
+  "mentions": 1,
+  "fields": {
+   "management": 1
+  },
+  "search_names": [
+   "ecosystem-driven open adaptation"
+  ],
+  "provenance_names": [
+   "ecosystem-driven open adaptation"
+  ]
+ },
+ {
+  "canonical": "eductive stability",
+  "mentions": 1,
+  "fields": {
+   "economics": 1
+  },
+  "search_names": [
+   "eductive stability"
+  ],
+  "provenance_names": [
+   "eductive stability"
+  ]
+ },
+ {
+  "canonical": "effectuation",
+  "mentions": 1,
+  "fields": {
+   "management": 1
+  },
+  "search_names": [
+   "effectuation"
+  ],
+  "provenance_names": [
+   "effectuation"
+  ]
+ },
+ {
+  "canonical": "efficient coding",
+  "mentions": 1,
+  "fields": {
+   "psychology": 1
+  },
+  "search_names": [
+   "efficient coding"
+  ],
+  "provenance_names": [
+   "efficient coding"
+  ]
+ },
+ {
+  "canonical": "efficient grease hypothesis",
+  "mentions": 1,
+  "fields": {
+   "political science": 1
+  },
+  "search_names": [
+   "efficient grease hypothesis"
+  ],
+  "provenance_names": [
+   "efficient grease hypothesis"
+  ]
+ },
+ {
+  "canonical": "effort-based decision making",
+  "mentions": 1,
+  "fields": {
+   "psychology": 1
+  },
+  "search_names": [
+   "effort-based decision making"
+  ],
+  "provenance_names": [
+   "effort-based decision making"
+  ]
+ },
+ {
+  "canonical": "effortful inhibition",
+  "mentions": 1,
+  "fields": {
+   "psychology": 1
+  },
+  "search_names": [
+   "effortful inhibition"
+  ],
+  "provenance_names": [
+   "effortful inhibition"
+  ]
+ },
+ {
+  "canonical": "elaboration likelihood model",
+  "mentions": 1,
+  "fields": {
+   "communication": 1
+  },
+  "search_names": [
+   "elaboration likelihood model"
+  ],
+  "provenance_names": [
+   "elaboration likelihood model"
+  ]
+ },
+ {
+  "canonical": "electoral punishment",
+  "mentions": 1,
+  "fields": {
+   "political science": 1
+  },
+  "search_names": [
+   "electoral punishment"
+  ],
+  "provenance_names": [
+   "electoral punishment"
+  ]
+ },
+ {
+  "canonical": "electoral sanctioning",
+  "mentions": 1,
+  "fields": {
+   "political science": 1
+  },
+  "search_names": [
+   "electoral sanctioning"
+  ],
+  "provenance_names": [
+   "electoral sanctioning"
+  ]
+ },
+ {
+  "canonical": "electoral selection",
+  "mentions": 1,
+  "fields": {
+   "political science": 1
+  },
+  "search_names": [
+   "electoral selection"
+  ],
+  "provenance_names": [
+   "electoral selection"
+  ]
+ },
+ {
+  "canonical": "elite capture",
+  "mentions": 1,
+  "fields": {
+   "political science": 1
+  },
+  "search_names": [
+   "elite capture"
+  ],
+  "provenance_names": [
+   "elite capture"
+  ]
+ },
+ {
+  "canonical": "elite collusion",
+  "mentions": 1,
+  "fields": {
+   "political science": 1
+  },
+  "search_names": [
+   "elite collusion"
+  ],
+  "provenance_names": [
+   "elite collusion"
+  ]
+ },
+ {
+  "canonical": "elite cueing",
+  "mentions": 1,
+  "fields": {
+   "political science": 1
+  },
+  "search_names": [
+   "elite cueing"
+  ],
+  "provenance_names": [
+   "elite cueing"
+  ]
+ },
+ {
+  "canonical": "elite pacting",
+  "mentions": 1,
+  "fields": {
+   "political science": 1
+  },
+  "search_names": [
+   "elite pacting"
+  ],
+  "provenance_names": [
+   "elite pacting"
+  ]
+ },
+ {
+  "canonical": "emergent discrimination",
+  "mentions": 1,
+  "fields": {
+   "sociology": 1
+  },
+  "search_names": [
+   "emergent discrimination"
+  ],
+  "provenance_names": [
+   "emergent discrimination"
+  ]
+ },
+ {
+  "canonical": "emergent organizing",
+  "mentions": 1,
+  "fields": {
+   "management": 1
+  },
+  "search_names": [
+   "emergent organizing"
+  ],
+  "provenance_names": [
+   "emergent organizing"
+  ]
+ },
+ {
+  "canonical": "emotion regulation",
+  "mentions": 1,
+  "fields": {
+   "psychology": 1
+  },
+  "search_names": [
+   "emotion regulation"
+  ],
+  "provenance_names": [
+   "affect regulation",
+   "emotion regulation"
+  ]
+ },
+ {
+  "canonical": "emotion signaling",
+  "mentions": 1,
+  "fields": {
+   "psychology": 1
+  },
+  "search_names": [
+   "emotion signaling"
+  ],
+  "provenance_names": [
+   "emotion signaling"
+  ]
+ },
+ {
+  "canonical": "emotional mirroring",
+  "mentions": 1,
+  "fields": {
+   "psychology": 1
+  },
+  "search_names": [
+   "emotional mirroring"
+  ],
+  "provenance_names": [
+   "emotional mirroring"
+  ]
+ },
+ {
+  "canonical": "emotions as social information",
+  "mentions": 1,
+  "fields": {
+   "psychology": 1
+  },
+  "search_names": [
+   "emotions as social information"
+  ],
+  "provenance_names": [
+   "emotions as social information"
+  ]
+ },
+ {
+  "canonical": "empathic identification",
+  "mentions": 1,
+  "fields": {
+   "communication": 1
+  },
+  "search_names": [
+   "empathic identification"
+  ],
+  "provenance_names": [
+   "empathic identification"
+  ]
+ },
+ {
+  "canonical": "endogenous technical change",
+  "mentions": 1,
+  "fields": {
+   "economics": 1
+  },
+  "search_names": [
+   "endogenous technical change"
+  ],
+  "provenance_names": [
+   "endogenous technical change"
+  ]
+ },
+ {
+  "canonical": "endorser effect",
+  "mentions": 1,
+  "fields": {
+   "communication": 1
+  },
+  "search_names": [
+   "endorser effect"
+  ],
+  "provenance_names": [
+   "endorser effect"
+  ]
+ },
+ {
+  "canonical": "ensemble perception",
+  "mentions": 1,
+  "fields": {
+   "psychology": 1
+  },
+  "search_names": [
+   "ensemble perception"
+  ],
+  "provenance_names": [
+   "ensemble perception"
+  ]
+ },
+ {
+  "canonical": "entrainment",
+  "mentions": 1,
+  "fields": {
+   "psychology": 1
+  },
+  "search_names": [
+   "entrainment"
+  ],
+  "provenance_names": [
+   "entrainment"
+  ]
+ },
+ {
+  "canonical": "entrepreneurial signaling",
+  "mentions": 1,
+  "fields": {
+   "management": 1
+  },
+  "search_names": [
+   "entrepreneurial signaling"
+  ],
+  "provenance_names": [
+   "entrepreneurial signaling"
+  ]
+ },
+ {
+  "canonical": "environmental inheritance",
+  "mentions": 1,
+  "fields": {
+   "psychology": 1
+  },
+  "search_names": [
+   "environmental inheritance"
+  ],
+  "provenance_names": [
+   "environmental inheritance"
+  ]
+ },
+ {
+  "canonical": "error management theory",
+  "mentions": 1,
+  "fields": {
+   "psychology": 1
+  },
+  "search_names": [
+   "error management theory"
+  ],
+  "provenance_names": [
+   "error management",
+   "error management theory"
+  ]
+ },
+ {
+  "canonical": "errorful learning",
+  "mentions": 1,
+  "fields": {
+   "psychology": 1
+  },
+  "search_names": [
+   "errorful learning"
+  ],
+  "provenance_names": [
+   "errorful learning"
+  ]
+ },
+ {
+  "canonical": "escalation of commitment",
+  "mentions": 1,
+  "fields": {
+   "management": 1
+  },
+  "search_names": [
+   "escalation of commitment"
+  ],
+  "provenance_names": [
+   "escalation of commitment"
+  ]
+ },
+ {
+  "canonical": "ethical fading",
+  "mentions": 1,
+  "fields": {
+   "psychology": 1
+  },
+  "search_names": [
+   "ethical fading"
+  ],
+  "provenance_names": [
+   "ethical fading"
+  ]
+ },
+ {
+  "canonical": "ethnic-racial socialization",
+  "mentions": 1,
+  "fields": {
+   "communication": 1
+  },
+  "search_names": [
+   "ethnic-racial socialization"
+  ],
+  "provenance_names": [
+   "ethnic-racial socialization"
+  ]
+ },
+ {
+  "canonical": "evaluative conditioning",
+  "mentions": 1,
+  "fields": {
+   "psychology": 1
+  },
+  "search_names": [
+   "evaluative conditioning"
+  ],
+  "provenance_names": [
+   "evaluative conditioning"
+  ]
+ },
+ {
+  "canonical": "event segmentation",
+  "mentions": 1,
+  "fields": {
+   "psychology": 1
+  },
+  "search_names": [
+   "event segmentation"
+  ],
+  "provenance_names": [
+   "event segmentation"
+  ]
+ },
+ {
+  "canonical": "excitation transfer",
+  "mentions": 1,
+  "fields": {
+   "communication": 1
+  },
+  "search_names": [
+   "excitation transfer"
+  ],
+  "provenance_names": [
+   "excitation transfer"
+  ]
+ },
+ {
+  "canonical": "executive aggrandizement",
+  "mentions": 1,
+  "fields": {
+   "political science": 1
+  },
+  "search_names": [
+   "executive aggrandizement"
+  ],
+  "provenance_names": [
+   "executive aggrandizement"
+  ]
+ },
+ {
+  "canonical": "exemplification theory",
+  "mentions": 1,
+  "fields": {
+   "communication": 1
+  },
+  "search_names": [
+   "exemplification theory"
+  ],
+  "provenance_names": [
+   "exemplification theory"
+  ]
+ },
+ {
+  "canonical": "expectation-based reference points",
+  "mentions": 1,
+  "fields": {
+   "economics": 1
+  },
+  "search_names": [
+   "expectation-based reference points"
+  ],
+  "provenance_names": [
+   "expectation-based reference points"
+  ]
+ },
+ {
+  "canonical": "expected utility theory",
+  "mentions": 1,
+  "fields": {
+   "economics": 1
+  },
+  "search_names": [
+   "expected utility theory"
+  ],
+  "provenance_names": [
+   "expected utility maximization",
+   "expected utility theory"
+  ]
+ },
+ {
+  "canonical": "expenditure switching",
+  "mentions": 1,
+  "fields": {
+   "economics": 1
+  },
+  "search_names": [
+   "expenditure switching"
+  ],
+  "provenance_names": [
+   "expenditure switching"
+  ]
+ },
+ {
+  "canonical": "exploration and exploitation",
+  "mentions": 1,
+  "fields": {
+   "management": 1
+  },
+  "search_names": [
+   "exploration and exploitation"
+  ],
+  "provenance_names": [
+   "exploration and exploitation",
+   "exploratory learning"
+  ]
+ },
+ {
+  "canonical": "export discipline",
+  "mentions": 1,
+  "fields": {
+   "political science": 1
+  },
+  "search_names": [
+   "export discipline"
+  ],
+  "provenance_names": [
+   "export discipline"
+  ]
+ },
+ {
+  "canonical": "extended agency model",
+  "mentions": 1,
+  "fields": {
+   "management": 1
+  },
+  "search_names": [
+   "extended agency model"
+  ],
+  "provenance_names": [
+   "extended agency model"
+  ]
+ },
+ {
+  "canonical": "extrinsic interpersonal emotion regulation",
+  "mentions": 1,
+  "fields": {
+   "psychology": 1
+  },
+  "search_names": [
+   "extrinsic interpersonal emotion regulation"
+  ],
+  "provenance_names": [
+   "extrinsic interpersonal emotion regulation"
+  ]
+ },
+ {
+  "canonical": "failure of contingent thinking",
+  "mentions": 1,
+  "fields": {
+   "economics": 1
+  },
+  "search_names": [
+   "failure of contingent thinking"
+  ],
+  "provenance_names": [
+   "failure of contingent thinking"
+  ]
+ },
+ {
+  "canonical": "false consciousness",
+  "mentions": 1,
+  "fields": {
+   "communication": 1
+  },
+  "search_names": [
+   "false consciousness"
+  ],
+  "provenance_names": [
+   "false consciousness"
+  ]
+ },
+ {
+  "canonical": "far transfer",
+  "mentions": 1,
+  "fields": {
+   "psychology": 1
+  },
+  "search_names": [
+   "far transfer"
+  ],
+  "provenance_names": [
+   "far transfer"
+  ]
+ },
+ {
+  "canonical": "fashion cycles",
+  "mentions": 1,
+  "fields": {
+   "sociology": 1
+  },
+  "search_names": [
+   "fashion cycles"
+  ],
+  "provenance_names": [
+   "fashion cycles"
+  ]
+ },
+ {
+  "canonical": "fast-and-frugal heuristics",
+  "mentions": 1,
+  "fields": {
+   "management": 1
+  },
+  "search_names": [
+   "fast-and-frugal heuristics"
+  ],
+  "provenance_names": [
+   "fast-and-frugal heuristics"
+  ]
+ },
+ {
+  "canonical": "fear extinction",
+  "mentions": 1,
+  "fields": {
+   "psychology": 1
+  },
+  "search_names": [
+   "fear extinction"
+  ],
+  "provenance_names": [
+   "fear extinction"
+  ]
+ },
+ {
+  "canonical": "feature-based plasticity",
+  "mentions": 1,
+  "fields": {
+   "psychology": 1
+  },
+  "search_names": [
+   "feature-based plasticity"
+  ],
+  "provenance_names": [
+   "feature-based plasticity"
+  ]
+ },
+ {
+  "canonical": "feedback loop",
+  "mentions": 1,
+  "fields": {
+   "management": 1
+  },
+  "search_names": [
+   "feedback loop"
+  ],
+  "provenance_names": [
+   "binary loop",
+   "feedback loop"
+  ]
+ },
+ {
+  "canonical": "field structuration",
+  "mentions": 1,
+  "fields": {
+   "sociology": 1
+  },
+  "search_names": [
+   "field structuration"
+  ],
+  "provenance_names": [
+   "field structuration"
+  ]
+ },
+ {
+  "canonical": "fire sales",
+  "mentions": 1,
+  "fields": {
+   "economics": 1
+  },
+  "search_names": [
+   "fire sales"
+  ],
+  "provenance_names": [
+   "fire sales"
+  ]
+ },
+ {
+  "canonical": "fiscal competition",
+  "mentions": 1,
+  "fields": {
+   "economics": 1
+  },
+  "search_names": [
+   "fiscal competition"
+  ],
+  "provenance_names": [
+   "fiscal competition"
+  ]
+ },
+ {
+  "canonical": "fisherian debt-deflation",
+  "mentions": 1,
+  "fields": {
+   "economics": 1
+  },
+  "search_names": [
+   "fisherian debt-deflation"
+  ],
+  "provenance_names": [
+   "fisherian debt-deflation"
+  ]
+ },
+ {
+  "canonical": "flight to collateral",
+  "mentions": 1,
+  "fields": {
+   "economics": 1
+  },
+  "search_names": [
+   "flight to collateral"
+  ],
+  "provenance_names": [
+   "flight to collateral"
+  ]
+ },
+ {
+  "canonical": "fraud triangle",
+  "mentions": 1,
+  "fields": {
+   "management": 1
+  },
+  "search_names": [
+   "fraud triangle"
+  ],
+  "provenance_names": [
+   "fraud triangle"
+  ]
+ },
+ {
+  "canonical": "frictional matching",
+  "mentions": 1,
+  "fields": {
+   "economics": 1
+  },
+  "search_names": [
+   "frictional matching"
+  ],
+  "provenance_names": [
+   "frictional matching"
+  ]
+ },
+ {
+  "canonical": "functional differentiation",
+  "mentions": 1,
+  "fields": {
+   "political science": 1
+  },
+  "search_names": [
+   "functional differentiation"
+  ],
+  "provenance_names": [
+   "functional differentiation"
+  ]
+ },
+ {
+  "canonical": "fundamental cause theory",
+  "mentions": 1,
+  "fields": {
+   "sociology": 1
+  },
+  "search_names": [
+   "fundamental cause theory"
+  ],
+  "provenance_names": [
+   "fundamental cause theory"
+  ]
+ },
+ {
+  "canonical": "funding currency channel",
+  "mentions": 1,
+  "fields": {
+   "economics": 1
+  },
+  "search_names": [
+   "funding currency channel"
+  ],
+  "provenance_names": [
+   "funding currency channel"
+  ]
+ },
+ {
+  "canonical": "gain-loss framing",
+  "mentions": 1,
+  "fields": {
+   "communication": 1
+  },
+  "search_names": [
+   "gain-loss framing"
+  ],
+  "provenance_names": [
+   "gain-loss framing"
+  ]
+ },
+ {
+  "canonical": "gender display",
+  "mentions": 1,
+  "fields": {
+   "sociology": 1
+  },
+  "search_names": [
+   "gender display"
+  ],
+  "provenance_names": [
+   "gender display"
+  ]
+ },
+ {
+  "canonical": "gender identity threat",
+  "mentions": 1,
+  "fields": {
+   "psychology": 1
+  },
+  "search_names": [
+   "gender identity threat"
+  ],
+  "provenance_names": [
+   "gender identity threat"
+  ]
+ },
+ {
+  "canonical": "gene-environment correlation",
+  "mentions": 1,
+  "fields": {
+   "sociology": 1
+  },
+  "search_names": [
+   "gene-environment correlation"
+  ],
+  "provenance_names": [
+   "gene-environment correlation"
+  ]
+ },
+ {
+  "canonical": "general aggression model",
+  "mentions": 1,
+  "fields": {
+   "communication": 1
+  },
+  "search_names": [
+   "general aggression model"
+  ],
+  "provenance_names": [
+   "general aggression model"
+  ]
+ },
+ {
+  "canonical": "global liquidity transmission",
+  "mentions": 1,
+  "fields": {
+   "economics": 1
+  },
+  "search_names": [
+   "global liquidity transmission"
+  ],
+  "provenance_names": [
+   "global liquidity transmission"
+  ]
+ },
+ {
+  "canonical": "goal activation",
+  "mentions": 1,
+  "fields": {
+   "psychology": 1
+  },
+  "search_names": [
+   "goal activation"
+  ],
+  "provenance_names": [
+   "goal activation"
+  ]
+ },
+ {
+  "canonical": "goal contagion",
+  "mentions": 1,
+  "fields": {
+   "psychology": 1
+  },
+  "search_names": [
+   "goal contagion"
+  ],
+  "provenance_names": [
+   "goal contagion"
+  ]
+ },
+ {
+  "canonical": "goal disengagement",
+  "mentions": 1,
+  "fields": {
+   "psychology": 1
+  },
+  "search_names": [
+   "goal disengagement"
+  ],
+  "provenance_names": [
+   "goal disengagement"
+  ]
+ },
+ {
+  "canonical": "goal-directed servomechanisms",
+  "mentions": 1,
+  "fields": {
+   "psychology": 1
+  },
+  "search_names": [
+   "goal-directed servomechanisms"
+  ],
+  "provenance_names": [
+   "goal-directed servomechanisms"
+  ]
+ },
+ {
+  "canonical": "governmentality",
+  "mentions": 1,
+  "fields": {
+   "sociology": 1
+  },
+  "search_names": [
+   "governmentality"
+  ],
+  "provenance_names": [
+   "governmentality"
+  ]
+ },
+ {
+  "canonical": "graduated reciprocation",
+  "mentions": 1,
+  "fields": {
+   "management": 1
+  },
+  "search_names": [
+   "graduated reciprocation"
+  ],
+  "provenance_names": [
+   "graduated reciprocation"
+  ]
+ },
+ {
+  "canonical": "group faultlines",
+  "mentions": 1,
+  "fields": {
+   "communication": 1
+  },
+  "search_names": [
+   "group faultlines"
+  ],
+  "provenance_names": [
+   "faultline",
+   "group faultlines"
+  ]
+ },
+ {
+  "canonical": "group lending",
+  "mentions": 1,
+  "fields": {
+   "economics": 1
+  },
+  "search_names": [
+   "group lending"
+  ],
+  "provenance_names": [
+   "group lending"
+  ]
+ },
+ {
+  "canonical": "group threat",
+  "mentions": 1,
+  "fields": {
+   "sociology": 1
+  },
+  "search_names": [
+   "group threat"
+  ],
+  "provenance_names": [
+   "group threat"
+  ]
+ },
+ {
+  "canonical": "growth machine",
+  "mentions": 1,
+  "fields": {
+   "sociology": 1
+  },
+  "search_names": [
+   "growth machine"
+  ],
+  "provenance_names": [
+   "growth machine"
+  ]
+ },
+ {
+  "canonical": "habit discontinuities",
+  "mentions": 1,
+  "fields": {
+   "psychology": 1
+  },
+  "search_names": [
+   "habit discontinuities"
+  ],
+  "provenance_names": [
+   "habit discontinuities"
+  ]
+ },
+ {
+  "canonical": "herding",
+  "mentions": 1,
+  "fields": {
+   "economics": 1
+  },
+  "search_names": [
+   "herding"
+  ],
+  "provenance_names": [
+   "herding"
+  ]
+ },
+ {
+  "canonical": "heuristic processing",
+  "mentions": 1,
+  "fields": {
+   "sociology": 1
+  },
+  "search_names": [
+   "heuristic processing"
+  ],
+  "provenance_names": [
+   "heuristic processing"
+  ]
+ },
+ {
+  "canonical": "heuristic-systematic processing",
+  "mentions": 1,
+  "fields": {
+   "communication": 1
+  },
+  "search_names": [
+   "heuristic-systematic processing"
+  ],
+  "provenance_names": [
+   "heuristic-systematic processing"
+  ]
+ },
+ {
+  "canonical": "hidden action",
+  "mentions": 1,
+  "fields": {
+   "political science": 1
+  },
+  "search_names": [
+   "hidden action"
+  ],
+  "provenance_names": [
+   "hidden action"
+  ]
+ },
+ {
+  "canonical": "homophilous sorting",
+  "mentions": 1,
+  "fields": {
+   "political science": 1
+  },
+  "search_names": [
+   "homophilous sorting"
+  ],
+  "provenance_names": [
+   "homophilous sorting"
+  ]
+ },
+ {
+  "canonical": "homophily principle",
+  "mentions": 1,
+  "fields": {
+   "sociology": 1
+  },
+  "search_names": [
+   "homophily principle"
+  ],
+  "provenance_names": [
+   "homophily principle"
+  ]
+ },
+ {
+  "canonical": "household bargaining",
+  "mentions": 1,
+  "fields": {
+   "political science": 1
+  },
+  "search_names": [
+   "household bargaining"
+  ],
+  "provenance_names": [
+   "household bargaining"
+  ]
+ },
+ {
+  "canonical": "hpa axis activation",
+  "mentions": 1,
+  "fields": {
+   "psychology": 1
+  },
+  "search_names": [
+   "hpa axis activation"
+  ],
+  "provenance_names": [
+   "hpa axis activation"
+  ]
+ },
+ {
+  "canonical": "hpa axis upregulation",
+  "mentions": 1,
+  "fields": {
+   "sociology": 1
+  },
+  "search_names": [
+   "hpa axis upregulation"
+  ],
+  "provenance_names": [
+   "hpa axis upregulation"
+  ]
+ },
+ {
+  "canonical": "human capital spillovers",
+  "mentions": 1,
+  "fields": {
+   "economics": 1
+  },
+  "search_names": [
+   "human capital spillovers"
+  ],
+  "provenance_names": [
+   "human capital spillovers"
+  ]
+ },
+ {
+  "canonical": "human self-domestication",
+  "mentions": 1,
+  "fields": {
+   "psychology": 1
+  },
+  "search_names": [
+   "human self-domestication"
+  ],
+  "provenance_names": [
+   "human self-domestication"
+  ]
+ },
+ {
+  "canonical": "hypercorrection effect",
+  "mentions": 1,
+  "fields": {
+   "psychology": 1
+  },
+  "search_names": [
+   "hypercorrection effect"
+  ],
+  "provenance_names": [
+   "hypercorrection effect"
+  ]
+ },
+ {
+  "canonical": "identity fusion",
+  "mentions": 1,
+  "fields": {
+   "psychology": 1
+  },
+  "search_names": [
+   "identity fusion"
+  ],
+  "provenance_names": [
+   "identity fusion"
+  ]
+ },
+ {
+  "canonical": "identity threat",
+  "mentions": 1,
+  "fields": {
+   "psychology": 1
+  },
+  "search_names": [
+   "identity threat"
+  ],
+  "provenance_names": [
+   "identity threat"
+  ]
+ },
+ {
+  "canonical": "identity work",
+  "mentions": 1,
+  "fields": {
+   "management": 1
+  },
+  "search_names": [
+   "identity work"
+  ],
+  "provenance_names": [
+   "identity work"
+  ]
+ },
+ {
+  "canonical": "identity-based information processing",
+  "mentions": 1,
+  "fields": {
+   "political science": 1
+  },
+  "search_names": [
+   "identity-based information processing"
+  ],
+  "provenance_names": [
+   "identity-based information processing"
+  ]
+ },
+ {
+  "canonical": "identity-based motivation",
+  "mentions": 1,
+  "fields": {
+   "political science": 1
+  },
+  "search_names": [
+   "identity-based motivation"
+  ],
+  "provenance_names": [
+   "identity-based motivation"
+  ]
+ },
+ {
+  "canonical": "illusory truth",
+  "mentions": 1,
+  "fields": {
+   "psychology": 1
+  },
+  "search_names": [
+   "illusory truth"
+  ],
+  "provenance_names": [
+   "illusory truth"
+  ]
+ },
+ {
+  "canonical": "implementation intentions",
+  "mentions": 1,
+  "fields": {
+   "psychology": 1
+  },
+  "search_names": [
+   "implementation intentions"
+  ],
+  "provenance_names": [
+   "implementation intentions"
+  ]
+ },
+ {
+  "canonical": "implicit bias",
+  "mentions": 1,
+  "fields": {
+   "psychology": 1
+  },
+  "search_names": [
+   "implicit bias"
+  ],
+  "provenance_names": [
+   "implicit bias"
+  ]
+ },
+ {
+  "canonical": "implicit leadership theory",
+  "mentions": 1,
+  "fields": {
+   "management": 1
+  },
+  "search_names": [
+   "implicit leadership theory"
+  ],
+  "provenance_names": [
+   "implicit leadership",
+   "implicit leadership theory"
+  ]
+ },
+ {
+  "canonical": "implicit statistical learning",
+  "mentions": 1,
+  "fields": {
+   "psychology": 1
+  },
+  "search_names": [
+   "implicit statistical learning"
+  ],
+  "provenance_names": [
+   "implicit statistical learning"
+  ]
+ },
+ {
+  "canonical": "impression management theory",
+  "mentions": 1,
+  "fields": {
+   "management": 1
+  },
+  "search_names": [
+   "impression management theory"
+  ],
+  "provenance_names": [
+   "impression management theory"
+  ]
+ },
+ {
+  "canonical": "inadvertent signaling",
+  "mentions": 1,
+  "fields": {
+   "political science": 1
+  },
+  "search_names": [
+   "inadvertent signaling"
+  ],
+  "provenance_names": [
+   "inadvertent signaling"
+  ]
+ },
+ {
+  "canonical": "incapacitation",
+  "mentions": 1,
+  "fields": {
+   "economics": 1
+  },
+  "search_names": [
+   "incapacitation"
+  ],
+  "provenance_names": [
+   "incapacitation"
+  ]
+ },
+ {
+  "canonical": "incentive alignment",
+  "mentions": 1,
+  "fields": {
+   "sociology": 1
+  },
+  "search_names": [
+   "incentive alignment"
+  ],
+  "provenance_names": [
+   "incentive alignment"
+  ]
+ },
+ {
+  "canonical": "incentive misalignment",
+  "mentions": 1,
+  "fields": {
+   "economics": 1
+  },
+  "search_names": [
+   "incentive misalignment"
+  ],
+  "provenance_names": [
+   "incentive misalignment",
+   "misaligned incentives"
+  ]
+ },
+ {
+  "canonical": "incentive motivation",
+  "mentions": 1,
+  "fields": {
+   "psychology": 1
+  },
+  "search_names": [
+   "incentive motivation"
+  ],
+  "provenance_names": [
+   "incentive motivation"
+  ]
+ },
+ {
+  "canonical": "incentive sensitization",
+  "mentions": 1,
+  "fields": {
+   "psychology": 1
+  },
+  "search_names": [
+   "incentive sensitization"
+  ],
+  "provenance_names": [
+   "incentive sensitization"
+  ]
+ },
+ {
+  "canonical": "incentives",
+  "mentions": 1,
+  "fields": {
+   "economics": 1
+  },
+  "search_names": [
+   "incentives"
+  ],
+  "provenance_names": [
+   "incentives",
+   "student effort incentives"
+  ]
+ },
+ {
+  "canonical": "incomplete contract theory",
+  "mentions": 1,
+  "fields": {
+   "economics": 1
+  },
+  "search_names": [
+   "incomplete contract theory"
+  ],
+  "provenance_names": [
+   "incomplete contract theory",
+   "incomplete contracting"
+  ]
+ },
+ {
+  "canonical": "induced innovation",
+  "mentions": 1,
+  "fields": {
+   "economics": 1
+  },
+  "search_names": [
+   "induced innovation"
+  ],
+  "provenance_names": [
+   "induced innovation"
+  ]
+ },
+ {
+  "canonical": "inequality aversion",
+  "mentions": 1,
+  "fields": {
+   "economics": 1
+  },
+  "search_names": [
+   "inequality aversion"
+  ],
+  "provenance_names": [
+   "inequality aversion"
+  ]
+ },
+ {
+  "canonical": "inequality cascades",
+  "mentions": 1,
+  "fields": {
+   "management": 1
+  },
+  "search_names": [
+   "inequality cascades"
+  ],
+  "provenance_names": [
+   "inequality cascades"
+  ]
+ },
+ {
+  "canonical": "informant deference",
+  "mentions": 1,
+  "fields": {
+   "psychology": 1
+  },
+  "search_names": [
+   "informant deference"
+  ],
+  "provenance_names": [
+   "informant deference"
+  ]
+ },
+ {
+  "canonical": "information brokerage",
+  "mentions": 1,
+  "fields": {
+   "management": 1
+  },
+  "search_names": [
+   "information brokerage"
+  ],
+  "provenance_names": [
+   "information brokerage"
+  ]
+ },
+ {
+  "canonical": "information diffusion",
+  "mentions": 1,
+  "fields": {
+   "political science": 1
+  },
+  "search_names": [
+   "information diffusion"
+  ],
+  "provenance_names": [
+   "information diffusion"
+  ]
+ },
+ {
+  "canonical": "information sampling biases",
+  "mentions": 1,
+  "fields": {
+   "psychology": 1
+  },
+  "search_names": [
+   "information sampling biases"
+  ],
+  "provenance_names": [
+   "information sampling biases"
+  ]
+ },
+ {
+  "canonical": "informational lobbying",
+  "mentions": 1,
+  "fields": {
+   "political science": 1
+  },
+  "search_names": [
+   "informational lobbying"
+  ],
+  "provenance_names": [
+   "informational lobbying"
+  ]
+ },
+ {
+  "canonical": "ingroup bias",
+  "mentions": 1,
+  "fields": {
+   "economics": 1
+  },
+  "search_names": [
+   "ingroup bias"
+  ],
+  "provenance_names": [
+   "ingroup bias"
+  ]
+ },
+ {
+  "canonical": "ingroup favoritism",
+  "mentions": 1,
+  "fields": {
+   "psychology": 1
+  },
+  "search_names": [
+   "ingroup favoritism"
+  ],
+  "provenance_names": [
+   "ingroup favoritism"
+  ]
+ },
+ {
+  "canonical": "injunctive norms",
+  "mentions": 1,
+  "fields": {
+   "psychology": 1
+  },
+  "search_names": [
+   "injunctive norms"
+  ],
+  "provenance_names": [
+   "injunctive norms"
+  ]
+ },
+ {
+  "canonical": "input-output linkages",
+  "mentions": 1,
+  "fields": {
+   "economics": 1
+  },
+  "search_names": [
+   "input-output linkages"
+  ],
+  "provenance_names": [
+   "input-output linkages"
+  ]
+ },
+ {
+  "canonical": "input\u2013output linkages",
+  "mentions": 1,
+  "fields": {
+   "economics": 1
+  },
+  "search_names": [
+   "input\u2013output linkages"
+  ],
+  "provenance_names": [
+   "input\u2013output linkages"
+  ]
+ },
+ {
+  "canonical": "institutional capture",
+  "mentions": 1,
+  "fields": {
+   "political science": 1
+  },
+  "search_names": [
+   "institutional capture"
+  ],
+  "provenance_names": [
+   "institutional capture"
+  ]
+ },
+ {
+  "canonical": "institutional discrimination",
+  "mentions": 1,
+  "fields": {
+   "sociology": 1
+  },
+  "search_names": [
+   "institutional discrimination"
+  ],
+  "provenance_names": [
+   "institutional discrimination"
+  ]
+ },
+ {
+  "canonical": "institutional entrepreneurship",
+  "mentions": 1,
+  "fields": {
+   "management": 1
+  },
+  "search_names": [
+   "institutional entrepreneurship"
+  ],
+  "provenance_names": [
+   "institutional entrepreneurship"
+  ]
+ },
+ {
+  "canonical": "institutionalized myths",
+  "mentions": 1,
+  "fields": {
+   "management": 1
+  },
+  "search_names": [
+   "institutionalized myths"
+  ],
+  "provenance_names": [
+   "institutionalized myths"
+  ]
+ },
+ {
+  "canonical": "instructional humor processing",
+  "mentions": 1,
+  "fields": {
+   "communication": 1
+  },
+  "search_names": [
+   "instructional humor processing"
+  ],
+  "provenance_names": [
+   "instructional humor processing"
+  ]
+ },
+ {
+  "canonical": "interactional synchrony",
+  "mentions": 1,
+  "fields": {
+   "psychology": 1
+  },
+  "search_names": [
+   "interactional synchrony"
+  ],
+  "provenance_names": [
+   "interactional synchrony"
+  ]
+ },
+ {
+  "canonical": "interactionist model of teasing",
+  "mentions": 1,
+  "fields": {
+   "communication": 1
+  },
+  "search_names": [
+   "interactionist model of teasing"
+  ],
+  "provenance_names": [
+   "interactionist model of teasing"
+  ]
+ },
+ {
+  "canonical": "interest convergence",
+  "mentions": 1,
+  "fields": {
+   "sociology": 1
+  },
+  "search_names": [
+   "interest convergence"
+  ],
+  "provenance_names": [
+   "interest convergence"
+  ]
+ },
+ {
+  "canonical": "interference control",
+  "mentions": 1,
+  "fields": {
+   "psychology": 1
+  },
+  "search_names": [
+   "interference control"
+  ],
+  "provenance_names": [
+   "interference control"
+  ]
+ },
+ {
+  "canonical": "intergenerational risk sharing",
+  "mentions": 1,
+  "fields": {
+   "economics": 1
+  },
+  "search_names": [
+   "intergenerational risk sharing"
+  ],
+  "provenance_names": [
+   "intergenerational risk sharing"
+  ]
+ },
+ {
+  "canonical": "interjurisdictional spillovers",
+  "mentions": 1,
+  "fields": {
+   "economics": 1
+  },
+  "search_names": [
+   "interjurisdictional spillovers"
+  ],
+  "provenance_names": [
+   "interjurisdictional spillovers"
+  ]
+ },
+ {
+  "canonical": "internal clock",
+  "mentions": 1,
+  "fields": {
+   "psychology": 1
+  },
+  "search_names": [
+   "internal clock"
+  ],
+  "provenance_names": [
+   "internal clock"
+  ]
+ },
+ {
+  "canonical": "internalities",
+  "mentions": 1,
+  "fields": {
+   "economics": 1
+  },
+  "search_names": [
+   "internalities"
+  ],
+  "provenance_names": [
+   "internalities"
+  ]
+ },
+ {
+  "canonical": "international monetary spillovers",
+  "mentions": 1,
+  "fields": {
+   "economics": 1
+  },
+  "search_names": [
+   "international monetary spillovers"
+  ],
+  "provenance_names": [
+   "international monetary spillovers"
+  ]
+ },
+ {
+  "canonical": "interoception",
+  "mentions": 1,
+  "fields": {
+   "psychology": 1
+  },
+  "search_names": [
+   "interoception"
+  ],
+  "provenance_names": [
+   "interoception"
+  ]
+ },
+ {
+  "canonical": "interorganizational spillover",
+  "mentions": 1,
+  "fields": {
+   "management": 1
+  },
+  "search_names": [
+   "interorganizational spillover"
+  ],
+  "provenance_names": [
+   "interorganizational spillover"
+  ]
+ },
+ {
+  "canonical": "interpersonal emotion regulation",
+  "mentions": 1,
+  "fields": {
+   "psychology": 1
+  },
+  "search_names": [
+   "interpersonal emotion regulation"
+  ],
+  "provenance_names": [
+   "interpersonal emotion regulation"
+  ]
+ },
+ {
+  "canonical": "interpretive coordination",
+  "mentions": 1,
+  "fields": {
+   "sociology": 1
+  },
+  "search_names": [
+   "interpretive coordination"
+  ],
+  "provenance_names": [
+   "interpretive coordination"
+  ]
+ },
+ {
+  "canonical": "inventory adjustment",
+  "mentions": 1,
+  "fields": {
+   "economics": 1
+  },
+  "search_names": [
+   "inventory adjustment"
+  ],
+  "provenance_names": [
+   "inventory adjustment"
+  ]
+ },
+ {
+  "canonical": "invisible hand",
+  "mentions": 1,
+  "fields": {
+   "political science": 1
+  },
+  "search_names": [
+   "invisible hand"
+  ],
+  "provenance_names": [
+   "invisible hand"
+  ]
+ },
+ {
+  "canonical": "invisible primary",
+  "mentions": 1,
+  "fields": {
+   "political science": 1
+  },
+  "search_names": [
+   "invisible primary"
+  ],
+  "provenance_names": [
+   "invisible primary"
+  ]
+ },
+ {
+  "canonical": "issue bundling",
+  "mentions": 1,
+  "fields": {
+   "political science": 1
+  },
+  "search_names": [
+   "issue bundling"
+  ],
+  "provenance_names": [
+   "issue bundling"
+  ]
+ },
+ {
+  "canonical": "issue selling",
+  "mentions": 1,
+  "fields": {
+   "management": 1
+  },
+  "search_names": [
+   "issue selling"
+  ],
+  "provenance_names": [
+   "issue selling"
+  ]
+ },
+ {
+  "canonical": "job demands theory",
+  "mentions": 1,
+  "fields": {
+   "management": 1
+  },
+  "search_names": [
+   "job demands theory"
+  ],
+  "provenance_names": [
+   "job demands theory"
+  ]
+ },
+ {
+  "canonical": "job ladder",
+  "mentions": 1,
+  "fields": {
+   "economics": 1
+  },
+  "search_names": [
+   "job ladder"
+  ],
+  "provenance_names": [
+   "job ladder"
+  ]
+ },
+ {
+  "canonical": "knowledge gap",
+  "mentions": 1,
+  "fields": {
+   "communication": 1
+  },
+  "search_names": [
+   "knowledge gap"
+  ],
+  "provenance_names": [
+   "knowledge gap"
+  ]
+ },
+ {
+  "canonical": "labeling theory",
+  "mentions": 1,
+  "fields": {
+   "sociology": 1
+  },
+  "search_names": [
+   "labeling theory"
+  ],
+  "provenance_names": [
+   "labeling",
+   "labeling theory"
+  ]
+ },
+ {
+  "canonical": "labor complementarity",
+  "mentions": 1,
+  "fields": {
+   "economics": 1
+  },
+  "search_names": [
+   "labor complementarity"
+  ],
+  "provenance_names": [
+   "labor complementarity"
+  ]
+ },
+ {
+  "canonical": "labor market frictions",
+  "mentions": 1,
+  "fields": {
+   "economics": 1
+  },
+  "search_names": [
+   "labor market frictions"
+  ],
+  "provenance_names": [
+   "labor market frictions"
+  ]
+ },
+ {
+  "canonical": "labor market sorting",
+  "mentions": 1,
+  "fields": {
+   "economics": 1
+  },
+  "search_names": [
+   "labor market sorting"
+  ],
+  "provenance_names": [
+   "labor market sorting"
+  ]
+ },
+ {
+  "canonical": "labor-market frictions",
+  "mentions": 1,
+  "fields": {
+   "economics": 1
+  },
+  "search_names": [
+   "labor-market frictions"
+  ],
+  "provenance_names": [
+   "labor-market frictions"
+  ]
+ },
+ {
+  "canonical": "language and cultural brokering",
+  "mentions": 1,
+  "fields": {
+   "communication": 1
+  },
+  "search_names": [
+   "language and cultural brokering"
+  ],
+  "provenance_names": [
+   "language and cultural brokering"
+  ]
+ },
+ {
+  "canonical": "learning from testimony",
+  "mentions": 1,
+  "fields": {
+   "psychology": 1
+  },
+  "search_names": [
+   "learning from testimony"
+  ],
+  "provenance_names": [
+   "learning from testimony"
+  ]
+ },
+ {
+  "canonical": "legal regulatory entrepreneurship",
+  "mentions": 1,
+  "fields": {
+   "management": 1
+  },
+  "search_names": [
+   "legal regulatory entrepreneurship"
+  ],
+  "provenance_names": [
+   "legal regulatory entrepreneurship"
+  ]
+ },
+ {
+  "canonical": "lending cycles",
+  "mentions": 1,
+  "fields": {
+   "economics": 1
+  },
+  "search_names": [
+   "lending cycles"
+  ],
+  "provenance_names": [
+   "lending cycles"
+  ]
+ },
+ {
+  "canonical": "level of aspiration",
+  "mentions": 1,
+  "fields": {
+   "management": 1
+  },
+  "search_names": [
+   "level of aspiration"
+  ],
+  "provenance_names": [
+   "level of aspiration"
+  ]
+ },
+ {
+  "canonical": "levels of processing",
+  "mentions": 1,
+  "fields": {
+   "psychology": 1
+  },
+  "search_names": [
+   "levels of processing"
+  ],
+  "provenance_names": [
+   "levels of processing"
+  ]
+ },
+ {
+  "canonical": "leverage cycle",
+  "mentions": 1,
+  "fields": {
+   "economics": 1
+  },
+  "search_names": [
+   "leverage cycle"
+  ],
+  "provenance_names": [
+   "leverage cycle"
+  ]
+ },
+ {
+  "canonical": "liability of newness",
+  "mentions": 1,
+  "fields": {
+   "management": 1
+  },
+  "search_names": [
+   "liability of newness"
+  ],
+  "provenance_names": [
+   "liability of newness"
+  ]
+ },
+ {
+  "canonical": "life-cycle saving",
+  "mentions": 1,
+  "fields": {
+   "economics": 1
+  },
+  "search_names": [
+   "life-cycle saving"
+  ],
+  "provenance_names": [
+   "life-cycle saving"
+  ]
+ },
+ {
+  "canonical": "limited commitment",
+  "mentions": 1,
+  "fields": {
+   "economics": 1
+  },
+  "search_names": [
+   "limited commitment"
+  ],
+  "provenance_names": [
+   "limited commitment"
+  ]
+ },
+ {
+  "canonical": "linkage politics",
+  "mentions": 1,
+  "fields": {
+   "political science": 1
+  },
+  "search_names": [
+   "linkage politics"
+  ],
+  "provenance_names": [
+   "linkage politics"
+  ]
+ },
+ {
+  "canonical": "logrolling",
+  "mentions": 1,
+  "fields": {
+   "economics": 1
+  },
+  "search_names": [
+   "logrolling"
+  ],
+  "provenance_names": [
+   "logrolling"
+  ]
+ },
+ {
+  "canonical": "love-for-variety",
+  "mentions": 1,
+  "fields": {
+   "economics": 1
+  },
+  "search_names": [
+   "love-for-variety"
+  ],
+  "provenance_names": [
+   "love-for-variety"
+  ]
+ },
+ {
+  "canonical": "man bites dog effect",
+  "mentions": 1,
+  "fields": {
+   "political science": 1
+  },
+  "search_names": [
+   "man bites dog effect"
+  ],
+  "provenance_names": [
+   "man bites dog effect"
+  ]
+ },
+ {
+  "canonical": "managed competition",
+  "mentions": 1,
+  "fields": {
+   "economics": 1
+  },
+  "search_names": [
+   "managed competition"
+  ],
+  "provenance_names": [
+   "managed competition"
+  ]
+ },
+ {
+  "canonical": "managed visibility",
+  "mentions": 1,
+  "fields": {
+   "management": 1
+  },
+  "search_names": [
+   "managed visibility"
+  ],
+  "provenance_names": [
+   "managed visibility"
+  ]
+ },
+ {
+  "canonical": "managerial power theory",
+  "mentions": 1,
+  "fields": {
+   "management": 1
+  },
+  "search_names": [
+   "managerial power theory"
+  ],
+  "provenance_names": [
+   "managerial power theory"
+  ]
+ },
+ {
+  "canonical": "many-to-many matching",
+  "mentions": 1,
+  "fields": {
+   "economics": 1
+  },
+  "search_names": [
+   "many-to-many matching"
+  ],
+  "provenance_names": [
+   "many-to-many matching"
+  ]
+ },
+ {
+  "canonical": "market discipline",
+  "mentions": 1,
+  "fields": {
+   "political science": 1
+  },
+  "search_names": [
+   "market discipline"
+  ],
+  "provenance_names": [
+   "market discipline",
+   "private-sector discipline"
+  ]
+ },
+ {
+  "canonical": "marshall's second law",
+  "mentions": 1,
+  "fields": {
+   "economics": 1
+  },
+  "search_names": [
+   "marshall's second law"
+  ],
+  "provenance_names": [
+   "marshall's second law"
+  ]
+ },
+ {
+  "canonical": "measurement reactivity",
+  "mentions": 1,
+  "fields": {
+   "sociology": 1
+  },
+  "search_names": [
+   "measurement reactivity"
+  ],
+  "provenance_names": [
+   "measurement reactivity",
+   "reactivity"
+  ]
+ },
+ {
+  "canonical": "media effects",
+  "mentions": 1,
+  "fields": {
+   "communication": 1
+  },
+  "search_names": [
+   "media effects"
+  ],
+  "provenance_names": [
+   "media effects",
+   "media influence/effects"
+  ]
+ },
+ {
+  "canonical": "mediated intergroup contact",
+  "mentions": 1,
+  "fields": {
+   "communication": 1
+  },
+  "search_names": [
+   "mediated intergroup contact"
+  ],
+  "provenance_names": [
+   "mediated intergroup contact"
+  ]
+ },
+ {
+  "canonical": "medicalization",
+  "mentions": 1,
+  "fields": {
+   "communication": 1
+  },
+  "search_names": [
+   "medicalization"
+  ],
+  "provenance_names": [
+   "medicalization"
+  ]
+ },
+ {
+  "canonical": "memory reactivation",
+  "mentions": 1,
+  "fields": {
+   "psychology": 1
+  },
+  "search_names": [
+   "memory reactivation"
+  ],
+  "provenance_names": [
+   "memory reactivation"
+  ]
+ },
+ {
+  "canonical": "memory reconstruction",
+  "mentions": 1,
+  "fields": {
+   "psychology": 1
+  },
+  "search_names": [
+   "memory reconstruction"
+  ],
+  "provenance_names": [
+   "memory reconstruction"
+  ]
+ },
+ {
+  "canonical": "memory socialization",
+  "mentions": 1,
+  "fields": {
+   "psychology": 1
+  },
+  "search_names": [
+   "memory socialization"
+  ],
+  "provenance_names": [
+   "memory socialization"
+  ]
+ },
+ {
+  "canonical": "mental-state inference",
+  "mentions": 1,
+  "fields": {
+   "psychology": 1
+  },
+  "search_names": [
+   "mental-state inference"
+  ],
+  "provenance_names": [
+   "mental-state inference"
+  ]
+ },
+ {
+  "canonical": "menu effects",
+  "mentions": 1,
+  "fields": {
+   "economics": 1
+  },
+  "search_names": [
+   "menu effects"
+  ],
+  "provenance_names": [
+   "menu effects"
+  ]
+ },
+ {
+  "canonical": "mere exposure effects",
+  "mentions": 1,
+  "fields": {
+   "psychology": 1
+  },
+  "search_names": [
+   "mere exposure effects"
+  ],
+  "provenance_names": [
+   "mere exposure effects"
+  ]
+ },
+ {
+  "canonical": "meta-cognitive control",
+  "mentions": 1,
+  "fields": {
+   "psychology": 1
+  },
+  "search_names": [
+   "meta-cognitive control"
+  ],
+  "provenance_names": [
+   "meta-cognitive control"
+  ]
+ },
+ {
+  "canonical": "metaphorical framing",
+  "mentions": 1,
+  "fields": {
+   "communication": 1
+  },
+  "search_names": [
+   "metaphorical framing"
+  ],
+  "provenance_names": [
+   "metaphorical framing"
+  ]
+ },
+ {
+  "canonical": "migrant network effects",
+  "mentions": 1,
+  "fields": {
+   "economics": 1
+  },
+  "search_names": [
+   "migrant network effects"
+  ],
+  "provenance_names": [
+   "migrant network effects",
+   "migrant networks"
+  ]
+ },
+ {
+  "canonical": "mimetic isomorphism",
+  "mentions": 1,
+  "fields": {
+   "political science": 1
+  },
+  "search_names": [
+   "mimetic isomorphism"
+  ],
+  "provenance_names": [
+   "mimetic isomorphism"
+  ]
+ },
+ {
+  "canonical": "misinformation effect",
+  "mentions": 1,
+  "fields": {
+   "psychology": 1
+  },
+  "search_names": [
+   "misinformation effect"
+  ],
+  "provenance_names": [
+   "misinformation effect"
+  ]
+ },
+ {
+  "canonical": "misspecified learning",
+  "mentions": 1,
+  "fields": {
+   "economics": 1
+  },
+  "search_names": [
+   "misspecified learning"
+  ],
+  "provenance_names": [
+   "misspecified learning"
+  ]
+ },
+ {
+  "canonical": "mobilization",
+  "mentions": 1,
+  "fields": {
+   "political science": 1
+  },
+  "search_names": [
+   "mobilization"
+  ],
+  "provenance_names": [
+   "mobilization",
+   "mobilizing"
+  ]
+ },
+ {
+  "canonical": "mobilizational spillovers",
+  "mentions": 1,
+  "fields": {
+   "political science": 1
+  },
+  "search_names": [
+   "mobilizational spillovers"
+  ],
+  "provenance_names": [
+   "mobilizational spillovers"
+  ]
+ },
+ {
+  "canonical": "mobilizing structures",
+  "mentions": 1,
+  "fields": {
+   "political science": 1
+  },
+  "search_names": [
+   "mobilizing structures"
+  ],
+  "provenance_names": [
+   "mobilizing structures"
+  ]
+ },
+ {
+  "canonical": "model-based control",
+  "mentions": 1,
+  "fields": {
+   "psychology": 1
+  },
+  "search_names": [
+   "model-based control"
+  ],
+  "provenance_names": [
+   "model-based control"
+  ]
+ },
+ {
+  "canonical": "model-based learning",
+  "mentions": 1,
+  "fields": {
+   "psychology": 1
+  },
+  "search_names": [
+   "model-based learning"
+  ],
+  "provenance_names": [
+   "model-based learning"
+  ]
+ },
+ {
+  "canonical": "model-free control",
+  "mentions": 1,
+  "fields": {
+   "psychology": 1
+  },
+  "search_names": [
+   "model-free control"
+  ],
+  "provenance_names": [
+   "model-free control"
+  ]
+ },
+ {
+  "canonical": "model-free learning",
+  "mentions": 1,
+  "fields": {
+   "psychology": 1
+  },
+  "search_names": [
+   "model-free learning"
+  ],
+  "provenance_names": [
+   "model-free learning"
+  ]
+ },
+ {
+  "canonical": "monetary transmission",
+  "mentions": 1,
+  "fields": {
+   "economics": 1
+  },
+  "search_names": [
+   "monetary transmission"
+  ],
+  "provenance_names": [
+   "monetary transmission"
+  ]
+ },
+ {
+  "canonical": "mood management theory",
+  "mentions": 1,
+  "fields": {
+   "communication": 1
+  },
+  "search_names": [
+   "mood management theory"
+  ],
+  "provenance_names": [
+   "mood management theory"
+  ]
+ },
+ {
+  "canonical": "moral cleansing",
+  "mentions": 1,
+  "fields": {
+   "management": 1
+  },
+  "search_names": [
+   "moral cleansing"
+  ],
+  "provenance_names": [
+   "moral cleansing"
+  ]
+ },
+ {
+  "canonical": "moral consistency",
+  "mentions": 1,
+  "fields": {
+   "psychology": 1
+  },
+  "search_names": [
+   "moral consistency"
+  ],
+  "provenance_names": [
+   "moral consistency"
+  ]
+ },
+ {
+  "canonical": "moral framing",
+  "mentions": 1,
+  "fields": {
+   "communication": 1
+  },
+  "search_names": [
+   "moral framing"
+  ],
+  "provenance_names": [
+   "moral framing"
+  ]
+ },
+ {
+  "canonical": "moral self-regulation",
+  "mentions": 1,
+  "fields": {
+   "management": 1
+  },
+  "search_names": [
+   "moral self-regulation"
+  ],
+  "provenance_names": [
+   "moral self-regulation"
+  ]
+ },
+ {
+  "canonical": "mortality selection",
+  "mentions": 1,
+  "fields": {
+   "economics": 1
+  },
+  "search_names": [
+   "mortality selection"
+  ],
+  "provenance_names": [
+   "mortality selection"
+  ]
+ },
+ {
+  "canonical": "motivated attention",
+  "mentions": 1,
+  "fields": {
+   "economics": 1
+  },
+  "search_names": [
+   "motivated attention"
+  ],
+  "provenance_names": [
+   "motivated attention"
+  ]
+ },
+ {
+  "canonical": "motivated blindness",
+  "mentions": 1,
+  "fields": {
+   "psychology": 1
+  },
+  "search_names": [
+   "motivated blindness"
+  ],
+  "provenance_names": [
+   "motivated blindness"
+  ]
+ },
+ {
+  "canonical": "motivated mediated message processing",
+  "mentions": 1,
+  "fields": {
+   "communication": 1
+  },
+  "search_names": [
+   "motivated mediated message processing"
+  ],
+  "provenance_names": [
+   "motivated mediated message processing"
+  ]
+ },
+ {
+  "canonical": "motivation",
+  "mentions": 1,
+  "fields": {
+   "management": 1
+  },
+  "search_names": [
+   "motivation"
+  ],
+  "provenance_names": [
+   "motivation",
+   "motivations"
+  ]
+ },
+ {
+  "canonical": "motor planning",
+  "mentions": 1,
+  "fields": {
+   "psychology": 1
+  },
+  "search_names": [
+   "motor planning"
+  ],
+  "provenance_names": [
+   "motor planning"
+  ]
+ },
+ {
+  "canonical": "multiple agency theory",
+  "mentions": 1,
+  "fields": {
+   "management": 1
+  },
+  "search_names": [
+   "multiple agency theory"
+  ],
+  "provenance_names": [
+   "multiple agency theory"
+  ]
+ },
+ {
+  "canonical": "mutual forbearance",
+  "mentions": 1,
+  "fields": {
+   "management": 1
+  },
+  "search_names": [
+   "mutual forbearance"
+  ],
+  "provenance_names": [
+   "mutual forbearance"
+  ]
+ },
+ {
+  "canonical": "narrative transportation",
+  "mentions": 1,
+  "fields": {
+   "communication": 1
+  },
+  "search_names": [
+   "narrative transportation"
+  ],
+  "provenance_names": [
+   "narrative transportation"
+  ]
+ },
+ {
+  "canonical": "negativity bias",
+  "mentions": 1,
+  "fields": {
+   "management": 1
+  },
+  "search_names": [
+   "negativity bias"
+  ],
+  "provenance_names": [
+   "negative bias",
+   "negativity bias"
+  ]
+ },
+ {
+  "canonical": "neighborhood effects",
+  "mentions": 1,
+  "fields": {
+   "sociology": 1
+  },
+  "search_names": [
+   "neighborhood effects"
+  ],
+  "provenance_names": [
+   "neighborhood effects"
+  ]
+ },
+ {
+  "canonical": "network closure",
+  "mentions": 1,
+  "fields": {
+   "sociology": 1
+  },
+  "search_names": [
+   "network closure"
+  ],
+  "provenance_names": [
+   "network closure"
+  ]
+ },
+ {
+  "canonical": "neuroplasticity",
+  "mentions": 1,
+  "fields": {
+   "psychology": 1
+  },
+  "search_names": [
+   "neuroplasticity"
+  ],
+  "provenance_names": [
+   "neuroplasticity"
+  ]
+ },
+ {
+  "canonical": "news framing",
+  "mentions": 1,
+  "fields": {
+   "communication": 1
+  },
+  "search_names": [
+   "news framing"
+  ],
+  "provenance_names": [
+   "news framing"
+  ]
+ },
+ {
+  "canonical": "niche construction",
+  "mentions": 1,
+  "fields": {
+   "psychology": 1
+  },
+  "search_names": [
+   "niche construction"
+  ],
+  "provenance_names": [
+   "niche construction"
+  ]
+ },
+ {
+  "canonical": "nocebo effect",
+  "mentions": 1,
+  "fields": {
+   "psychology": 1
+  },
+  "search_names": [
+   "nocebo effect"
+  ],
+  "provenance_names": [
+   "nocebo effect"
+  ]
+ },
+ {
+  "canonical": "nominal rigidities",
+  "mentions": 1,
+  "fields": {
+   "economics": 1
+  },
+  "search_names": [
+   "nominal rigidities"
+  ],
+  "provenance_names": [
+   "nominal rigidities"
+  ]
+ },
+ {
+  "canonical": "noradrenergic neuromodulation",
+  "mentions": 1,
+  "fields": {
+   "psychology": 1
+  },
+  "search_names": [
+   "noradrenergic neuromodulation"
+  ],
+  "provenance_names": [
+   "noradrenergic neuromodulation"
+  ]
+ },
+ {
+  "canonical": "norm diffusion",
+  "mentions": 1,
+  "fields": {
+   "political science": 1
+  },
+  "search_names": [
+   "norm diffusion"
+  ],
+  "provenance_names": [
+   "norm diffusion"
+  ]
+ },
+ {
+  "canonical": "norm emergence",
+  "mentions": 1,
+  "fields": {
+   "sociology": 1
+  },
+  "search_names": [
+   "norm emergence"
+  ],
+  "provenance_names": [
+   "norm emergence"
+  ]
+ },
+ {
+  "canonical": "normative pressures",
+  "mentions": 1,
+  "fields": {
+   "sociology": 1
+  },
+  "search_names": [
+   "normative pressures"
+  ],
+  "provenance_names": [
+   "normative pressures"
+  ]
+ },
+ {
+  "canonical": "nudging",
+  "mentions": 1,
+  "fields": {
+   "psychology": 1
+  },
+  "search_names": [
+   "nudging"
+  ],
+  "provenance_names": [
+   "nudging"
+  ]
+ },
+ {
+  "canonical": "obfuscated exchange",
+  "mentions": 1,
+  "fields": {
+   "sociology": 1
+  },
+  "search_names": [
+   "obfuscated exchange"
+  ],
+  "provenance_names": [
+   "obfuscated exchange"
+  ]
+ },
+ {
+  "canonical": "object affordances",
+  "mentions": 1,
+  "fields": {
+   "sociology": 1
+  },
+  "search_names": [
+   "object affordances"
+  ],
+  "provenance_names": [
+   "object affordances"
+  ]
+ },
+ {
+  "canonical": "objectification",
+  "mentions": 1,
+  "fields": {
+   "psychology": 1
+  },
+  "search_names": [
+   "objectification"
+  ],
+  "provenance_names": [
+   "objectification"
+  ]
+ },
+ {
+  "canonical": "observational learning",
+  "mentions": 1,
+  "fields": {
+   "psychology": 1
+  },
+  "search_names": [
+   "observational learning"
+  ],
+  "provenance_names": [
+   "observational learning"
+  ]
+ },
+ {
+  "canonical": "opponent process",
+  "mentions": 1,
+  "fields": {
+   "psychology": 1
+  },
+  "search_names": [
+   "opponent process"
+  ],
+  "provenance_names": [
+   "opponent process"
+  ]
+ },
+ {
+  "canonical": "oppositional culture",
+  "mentions": 1,
+  "fields": {
+   "sociology": 1
+  },
+  "search_names": [
+   "oppositional culture"
+  ],
+  "provenance_names": [
+   "oppositional culture"
+  ]
+ },
+ {
+  "canonical": "opt-out defaults",
+  "mentions": 1,
+  "fields": {
+   "economics": 1
+  },
+  "search_names": [
+   "opt-out defaults"
+  ],
+  "provenance_names": [
+   "opt-out defaults"
+  ]
+ },
+ {
+  "canonical": "optimal distinctiveness",
+  "mentions": 1,
+  "fields": {
+   "management": 1
+  },
+  "search_names": [
+   "optimal distinctiveness"
+  ],
+  "provenance_names": [
+   "optimal distinctiveness"
+  ]
+ },
+ {
+  "canonical": "optimism bias",
+  "mentions": 1,
+  "fields": {
+   "economics": 1
+  },
+  "search_names": [
+   "optimism bias"
+  ],
+  "provenance_names": [
+   "excessive optimism",
+   "optimism bias"
+  ]
+ },
+ {
+  "canonical": "organizational socialization",
+  "mentions": 1,
+  "fields": {
+   "communication": 1
+  },
+  "search_names": [
+   "organizational socialization"
+  ],
+  "provenance_names": [
+   "organizational socialization"
+  ]
+ },
+ {
+  "canonical": "otherization",
+  "mentions": 1,
+  "fields": {
+   "communication": 1
+  },
+  "search_names": [
+   "otherization"
+  ],
+  "provenance_names": [
+   "otherization"
+  ]
+ },
+ {
+  "canonical": "overconfidence bias",
+  "mentions": 1,
+  "fields": {
+   "management": 1
+  },
+  "search_names": [
+   "overconfidence bias"
+  ],
+  "provenance_names": [
+   "overconfidence bias"
+  ]
+ },
+ {
+  "canonical": "parasocial contact",
+  "mentions": 1,
+  "fields": {
+   "communication": 1
+  },
+  "search_names": [
+   "parasocial contact"
+  ],
+  "provenance_names": [
+   "parasocial contact"
+  ]
+ },
+ {
+  "canonical": "parasocial interaction",
+  "mentions": 1,
+  "fields": {
+   "communication": 1
+  },
+  "search_names": [
+   "parasocial interaction"
+  ],
+  "provenance_names": [
+   "parasocial interaction"
+  ]
+ },
+ {
+  "canonical": "parasocial relationships",
+  "mentions": 1,
+  "fields": {
+   "communication": 1
+  },
+  "search_names": [
+   "parasocial relationships"
+  ],
+  "provenance_names": [
+   "parasocial relationships"
+  ]
+ },
+ {
+  "canonical": "parental investment",
+  "mentions": 1,
+  "fields": {
+   "economics": 1
+  },
+  "search_names": [
+   "parental investment"
+  ],
+  "provenance_names": [
+   "parental investment"
+  ]
+ },
+ {
+  "canonical": "parental vocational anticipatory socialization",
+  "mentions": 1,
+  "fields": {
+   "communication": 1
+  },
+  "search_names": [
+   "parental vocational anticipatory socialization"
+  ],
+  "provenance_names": [
+   "parental vocational anticipatory socialization"
+  ]
+ },
+ {
+  "canonical": "partially mixed selectivity",
+  "mentions": 1,
+  "fields": {
+   "psychology": 1
+  },
+  "search_names": [
+   "partially mixed selectivity"
+  ],
+  "provenance_names": [
+   "partially mixed selectivity"
+  ]
+ },
+ {
+  "canonical": "particularistic targeting",
+  "mentions": 1,
+  "fields": {
+   "political science": 1
+  },
+  "search_names": [
+   "particularistic targeting"
+  ],
+  "provenance_names": [
+   "particularistic targeting"
+  ]
+ },
+ {
+  "canonical": "partisan cheerleading",
+  "mentions": 1,
+  "fields": {
+   "political science": 1
+  },
+  "search_names": [
+   "partisan cheerleading"
+  ],
+  "provenance_names": [
+   "partisan cheerleading"
+  ]
+ },
+ {
+  "canonical": "partisan cues",
+  "mentions": 1,
+  "fields": {
+   "political science": 1
+  },
+  "search_names": [
+   "partisan cues"
+  ],
+  "provenance_names": [
+   "partisan cues"
+  ]
+ },
+ {
+  "canonical": "path integration",
+  "mentions": 1,
+  "fields": {
+   "psychology": 1
+  },
+  "search_names": [
+   "path integration"
+  ],
+  "provenance_names": [
+   "path integration"
+  ]
+ },
+ {
+  "canonical": "path-dependence",
+  "mentions": 1,
+  "fields": {
+   "management": 1
+  },
+  "search_names": [
+   "path-dependence"
+  ],
+  "provenance_names": [
+   "path-dependence"
+  ]
+ },
+ {
+  "canonical": "pecuniary externality",
+  "mentions": 1,
+  "fields": {
+   "economics": 1
+  },
+  "search_names": [
+   "pecuniary externality"
+  ],
+  "provenance_names": [
+   "pecuniary externality"
+  ]
+ },
+ {
+  "canonical": "peer pressure",
+  "mentions": 1,
+  "fields": {
+   "political science": 1
+  },
+  "search_names": [
+   "peer pressure"
+  ],
+  "provenance_names": [
+   "peer pressure"
+  ]
+ },
+ {
+  "canonical": "peptide-facilitated attachment",
+  "mentions": 1,
+  "fields": {
+   "psychology": 1
+  },
+  "search_names": [
+   "peptide-facilitated attachment"
+  ],
+  "provenance_names": [
+   "peptide-facilitated attachment"
+  ]
+ },
+ {
+  "canonical": "perceptual decoupling",
+  "mentions": 1,
+  "fields": {
+   "psychology": 1
+  },
+  "search_names": [
+   "perceptual decoupling"
+  ],
+  "provenance_names": [
+   "perceptual decoupling"
+  ]
+ },
+ {
+  "canonical": "perceptual fluency",
+  "mentions": 1,
+  "fields": {
+   "psychology": 1
+  },
+  "search_names": [
+   "perceptual fluency"
+  ],
+  "provenance_names": [
+   "perceptual fluency"
+  ]
+ },
+ {
+  "canonical": "perspective taking",
+  "mentions": 1,
+  "fields": {
+   "psychology": 1
+  },
+  "search_names": [
+   "perspective taking"
+  ],
+  "provenance_names": [
+   "perspective taking"
+  ]
+ },
+ {
+  "canonical": "perspective-taking",
+  "mentions": 1,
+  "fields": {
+   "communication": 1
+  },
+  "search_names": [
+   "perspective-taking"
+  ],
+  "provenance_names": [
+   "perspective-taking"
+  ]
+ },
+ {
+  "canonical": "philanthropic legitimation",
+  "mentions": 1,
+  "fields": {
+   "sociology": 1
+  },
+  "search_names": [
+   "philanthropic legitimation"
+  ],
+  "provenance_names": [
+   "philanthropic legitimation"
+  ]
+ },
+ {
+  "canonical": "physical-social pain overlap",
+  "mentions": 1,
+  "fields": {
+   "psychology": 1
+  },
+  "search_names": [
+   "physical-social pain overlap"
+  ],
+  "provenance_names": [
+   "physical-social pain overlap"
+  ]
+ },
+ {
+  "canonical": "place stratification",
+  "mentions": 1,
+  "fields": {
+   "sociology": 1
+  },
+  "search_names": [
+   "place stratification"
+  ],
+  "provenance_names": [
+   "place stratification"
+  ]
+ },
+ {
+  "canonical": "placebo effects",
+  "mentions": 1,
+  "fields": {
+   "psychology": 1
+  },
+  "search_names": [
+   "placebo effects"
+  ],
+  "provenance_names": [
+   "placebo effects"
+  ]
+ },
+ {
+  "canonical": "planned behavior",
+  "mentions": 1,
+  "fields": {
+   "communication": 1
+  },
+  "search_names": [
+   "planned behavior"
+  ],
+  "provenance_names": [
+   "planned behavior"
+  ]
+ },
+ {
+  "canonical": "platformization",
+  "mentions": 1,
+  "fields": {
+   "communication": 1
+  },
+  "search_names": [
+   "platformization"
+  ],
+  "provenance_names": [
+   "platformization"
+  ]
+ },
+ {
+  "canonical": "policy bundling",
+  "mentions": 1,
+  "fields": {
+   "management": 1
+  },
+  "search_names": [
+   "policy bundling"
+  ],
+  "provenance_names": [
+   "policy bundling"
+  ]
+ },
+ {
+  "canonical": "policy drift",
+  "mentions": 1,
+  "fields": {
+   "political science": 1
+  },
+  "search_names": [
+   "policy drift"
+  ],
+  "provenance_names": [
+   "policy drift"
+  ]
+ },
+ {
+  "canonical": "policy feedback",
+  "mentions": 1,
+  "fields": {
+   "political science": 1
+  },
+  "search_names": [
+   "policy feedback"
+  ],
+  "provenance_names": [
+   "policy feedback"
+  ]
+ },
+ {
+  "canonical": "political institutional imprinting",
+  "mentions": 1,
+  "fields": {
+   "management": 1
+  },
+  "search_names": [
+   "political institutional imprinting"
+  ],
+  "provenance_names": [
+   "political institutional imprinting"
+  ]
+ },
+ {
+  "canonical": "political priming",
+  "mentions": 1,
+  "fields": {
+   "communication": 1
+  },
+  "search_names": [
+   "political priming"
+  ],
+  "provenance_names": [
+   "political priming"
+  ]
+ },
+ {
+  "canonical": "political socialization",
+  "mentions": 1,
+  "fields": {
+   "sociology": 1
+  },
+  "search_names": [
+   "political socialization"
+  ],
+  "provenance_names": [
+   "political socialization"
+  ]
+ },
+ {
+  "canonical": "positive immigrant selectivity",
+  "mentions": 1,
+  "fields": {
+   "sociology": 1
+  },
+  "search_names": [
+   "positive immigrant selectivity"
+  ],
+  "provenance_names": [
+   "positive immigrant selectivity"
+  ]
+ },
+ {
+  "canonical": "poverty trap",
+  "mentions": 1,
+  "fields": {
+   "economics": 1
+  },
+  "search_names": [
+   "poverty trap"
+  ],
+  "provenance_names": [
+   "poverty trap"
+  ]
+ },
+ {
+  "canonical": "practicing retrieval",
+  "mentions": 1,
+  "fields": {
+   "psychology": 1
+  },
+  "search_names": [
+   "practicing retrieval"
+  ],
+  "provenance_names": [
+   "practicing retrieval"
+  ]
+ },
+ {
+  "canonical": "precautionary saving",
+  "mentions": 1,
+  "fields": {
+   "economics": 1
+  },
+  "search_names": [
+   "precautionary saving"
+  ],
+  "provenance_names": [
+   "precautionary saving"
+  ]
+ },
+ {
+  "canonical": "predictive coding",
+  "mentions": 1,
+  "fields": {
+   "psychology": 1
+  },
+  "search_names": [
+   "predictive coding"
+  ],
+  "provenance_names": [
+   "predictive coding"
+  ]
+ },
+ {
+  "canonical": "predictive processing",
+  "mentions": 1,
+  "fields": {
+   "psychology": 1
+  },
+  "search_names": [
+   "predictive processing"
+  ],
+  "provenance_names": [
+   "predictive processing",
+   "top-down predictive processes"
+  ]
+ },
+ {
+  "canonical": "preference falsification",
+  "mentions": 1,
+  "fields": {
+   "political science": 1
+  },
+  "search_names": [
+   "preference falsification"
+  ],
+  "provenance_names": [
+   "preference falsification"
+  ]
+ },
+ {
+  "canonical": "prefrontal regulation",
+  "mentions": 1,
+  "fields": {
+   "psychology": 1
+  },
+  "search_names": [
+   "prefrontal regulation"
+  ],
+  "provenance_names": [
+   "prefrontal regulation"
+  ]
+ },
+ {
+  "canonical": "present bias",
+  "mentions": 1,
+  "fields": {
+   "economics": 1
+  },
+  "search_names": [
+   "present bias"
+  ],
+  "provenance_names": [
+   "present bias"
+  ]
+ },
+ {
+  "canonical": "price discrimination",
+  "mentions": 1,
+  "fields": {
+   "economics": 1
+  },
+  "search_names": [
+   "price discrimination"
+  ],
+  "provenance_names": [
+   "price discrimination"
+  ]
+ },
+ {
+  "canonical": "price transmission",
+  "mentions": 1,
+  "fields": {
+   "economics": 1
+  },
+  "search_names": [
+   "price transmission"
+  ],
+  "provenance_names": [
+   "price transmission"
+  ]
+ },
+ {
+  "canonical": "pricing to market",
+  "mentions": 1,
+  "fields": {
+   "economics": 1
+  },
+  "search_names": [
+   "pricing to market"
+  ],
+  "provenance_names": [
+   "pricing to market"
+  ]
+ },
+ {
+  "canonical": "priming",
+  "mentions": 1,
+  "fields": {
+   "communication": 1
+  },
+  "search_names": [
+   "priming"
+  ],
+  "provenance_names": [
+   "priming"
+  ]
+ },
+ {
+  "canonical": "principal\u2013agent dilemmas",
+  "mentions": 1,
+  "fields": {
+   "political science": 1
+  },
+  "search_names": [
+   "principal\u2013agent dilemmas"
+  ],
+  "provenance_names": [
+   "principal\u2013agent dilemmas"
+  ]
+ },
+ {
+  "canonical": "privacy boundary regulation",
+  "mentions": 1,
+  "fields": {
+   "communication": 1
+  },
+  "search_names": [
+   "privacy boundary regulation"
+  ],
+  "provenance_names": [
+   "privacy boundary regulation"
+  ]
+ },
+ {
+  "canonical": "privacy calculus",
+  "mentions": 1,
+  "fields": {
+   "management": 1
+  },
+  "search_names": [
+   "privacy calculus"
+  ],
+  "provenance_names": [
+   "privacy calculus"
+  ]
+ },
+ {
+  "canonical": "proactive coping",
+  "mentions": 1,
+  "fields": {
+   "management": 1
+  },
+  "search_names": [
+   "proactive coping"
+  ],
+  "provenance_names": [
+   "proactive coping"
+  ]
+ },
+ {
+  "canonical": "problematic integration",
+  "mentions": 1,
+  "fields": {
+   "communication": 1
+  },
+  "search_names": [
+   "problematic integration"
+  ],
+  "provenance_names": [
+   "problematic integration"
+  ]
+ },
+ {
+  "canonical": "problemistic search",
+  "mentions": 1,
+  "fields": {
+   "management": 1
+  },
+  "search_names": [
+   "problemistic search"
+  ],
+  "provenance_names": [
+   "problemistic search"
+  ]
+ },
+ {
+  "canonical": "procedural justice",
+  "mentions": 1,
+  "fields": {
+   "sociology": 1
+  },
+  "search_names": [
+   "procedural justice"
+  ],
+  "provenance_names": [
+   "procedural justice"
+  ]
+ },
+ {
+  "canonical": "prosocial contagion",
+  "mentions": 1,
+  "fields": {
+   "psychology": 1
+  },
+  "search_names": [
+   "prosocial contagion"
+  ],
+  "provenance_names": [
+   "prosocial contagion"
+  ]
+ },
+ {
+  "canonical": "prosocial signaling",
+  "mentions": 1,
+  "fields": {
+   "economics": 1
+  },
+  "search_names": [
+   "prosocial signaling"
+  ],
+  "provenance_names": [
+   "prosocial signaling"
+  ]
+ },
+ {
+  "canonical": "provider bias",
+  "mentions": 1,
+  "fields": {
+   "sociology": 1
+  },
+  "search_names": [
+   "provider bias"
+  ],
+  "provenance_names": [
+   "provider bias"
+  ]
+ },
+ {
+  "canonical": "proximity voting",
+  "mentions": 1,
+  "fields": {
+   "economics": 1
+  },
+  "search_names": [
+   "proximity voting"
+  ],
+  "provenance_names": [
+   "distance minimization",
+   "proximity voting"
+  ]
+ },
+ {
+  "canonical": "psychological essentialism",
+  "mentions": 1,
+  "fields": {
+   "psychology": 1
+  },
+  "search_names": [
+   "psychological essentialism"
+  ],
+  "provenance_names": [
+   "psychological essentialism"
+  ]
+ },
+ {
+  "canonical": "quantity discounts",
+  "mentions": 1,
+  "fields": {
+   "economics": 1
+  },
+  "search_names": [
+   "quantity discounts"
+  ],
+  "provenance_names": [
+   "quantity discounts"
+  ]
+ },
+ {
+  "canonical": "race-making",
+  "mentions": 1,
+  "fields": {
+   "political science": 1
+  },
+  "search_names": [
+   "race-making"
+  ],
+  "provenance_names": [
+   "race-making"
+  ]
+ },
+ {
+  "canonical": "racial ascription",
+  "mentions": 1,
+  "fields": {
+   "sociology": 1
+  },
+  "search_names": [
+   "racial ascription"
+  ],
+  "provenance_names": [
+   "racial ascription"
+  ]
+ },
+ {
+  "canonical": "racial categorization",
+  "mentions": 1,
+  "fields": {
+   "sociology": 1
+  },
+  "search_names": [
+   "racial categorization"
+  ],
+  "provenance_names": [
+   "racial categorization"
+  ]
+ },
+ {
+  "canonical": "racial cueing",
+  "mentions": 1,
+  "fields": {
+   "political science": 1
+  },
+  "search_names": [
+   "racial cueing"
+  ],
+  "provenance_names": [
+   "racial cueing"
+  ]
+ },
+ {
+  "canonical": "racial priming",
+  "mentions": 1,
+  "fields": {
+   "political science": 1
+  },
+  "search_names": [
+   "racial priming"
+  ],
+  "provenance_names": [
+   "racial priming"
+  ]
+ },
+ {
+  "canonical": "racial threat",
+  "mentions": 1,
+  "fields": {
+   "sociology": 1
+  },
+  "search_names": [
+   "racial threat"
+  ],
+  "provenance_names": [
+   "racial threat"
+  ]
+ },
+ {
+  "canonical": "racialized assimilation",
+  "mentions": 1,
+  "fields": {
+   "sociology": 1
+  },
+  "search_names": [
+   "racialized assimilation"
+  ],
+  "provenance_names": [
+   "racialized assimilation"
+  ]
+ },
+ {
+  "canonical": "racialized sorting",
+  "mentions": 1,
+  "fields": {
+   "sociology": 1
+  },
+  "search_names": [
+   "racialized sorting"
+  ],
+  "provenance_names": [
+   "racialized sorting"
+  ]
+ },
+ {
+  "canonical": "racist dehumanization",
+  "mentions": 1,
+  "fields": {
+   "political science": 1
+  },
+  "search_names": [
+   "racist dehumanization"
+  ],
+  "provenance_names": [
+   "racist dehumanization"
+  ]
+ },
+ {
+  "canonical": "rational action theory",
+  "mentions": 1,
+  "fields": {
+   "management": 1
+  },
+  "search_names": [
+   "rational action theory"
+  ],
+  "provenance_names": [
+   "rational action",
+   "rational action theory"
+  ]
+ },
+ {
+  "canonical": "rational bubbles",
+  "mentions": 1,
+  "fields": {
+   "economics": 1
+  },
+  "search_names": [
+   "rational bubbles"
+  ],
+  "provenance_names": [
+   "rational bubbles"
+  ]
+ },
+ {
+  "canonical": "rational choice theory",
+  "mentions": 1,
+  "fields": {
+   "political science": 1
+  },
+  "search_names": [
+   "rational choice theory"
+  ],
+  "provenance_names": [
+   "rational choice",
+   "rational choice theory"
+  ]
+ },
+ {
+  "canonical": "rational expectations",
+  "mentions": 1,
+  "fields": {
+   "economics": 1
+  },
+  "search_names": [
+   "rational expectations"
+  ],
+  "provenance_names": [
+   "rational expectations"
+  ]
+ },
+ {
+  "canonical": "reactance",
+  "mentions": 1,
+  "fields": {
+   "communication": 1
+  },
+  "search_names": [
+   "reactance"
+  ],
+  "provenance_names": [
+   "reactance"
+  ]
+ },
+ {
+  "canonical": "reactive ethnicity",
+  "mentions": 1,
+  "fields": {
+   "sociology": 1
+  },
+  "search_names": [
+   "reactive ethnicity"
+  ],
+  "provenance_names": [
+   "reactive ethnicity"
+  ]
+ },
+ {
+  "canonical": "reactive religiosity",
+  "mentions": 1,
+  "fields": {
+   "sociology": 1
+  },
+  "search_names": [
+   "reactive religiosity"
+  ],
+  "provenance_names": [
+   "reactive religiosity"
+  ]
+ },
+ {
+  "canonical": "real rigidities",
+  "mentions": 1,
+  "fields": {
+   "economics": 1
+  },
+  "search_names": [
+   "real rigidities"
+  ],
+  "provenance_names": [
+   "real rigidities"
+  ]
+ },
+ {
+  "canonical": "reality monitoring",
+  "mentions": 1,
+  "fields": {
+   "psychology": 1
+  },
+  "search_names": [
+   "reality monitoring"
+  ],
+  "provenance_names": [
+   "reality monitoring"
+  ]
+ },
+ {
+  "canonical": "reasoned action approach",
+  "mentions": 1,
+  "fields": {
+   "communication": 1
+  },
+  "search_names": [
+   "reasoned action approach"
+  ],
+  "provenance_names": [
+   "reasoned action approach"
+  ]
+ },
+ {
+  "canonical": "recoupling",
+  "mentions": 1,
+  "fields": {
+   "management": 1
+  },
+  "search_names": [
+   "recoupling"
+  ],
+  "provenance_names": [
+   "recoupling"
+  ]
+ },
+ {
+  "canonical": "reference dependence",
+  "mentions": 1,
+  "fields": {
+   "economics": 1
+  },
+  "search_names": [
+   "reference dependence"
+  ],
+  "provenance_names": [
+   "reference dependence"
+  ]
+ },
+ {
+  "canonical": "reference-dependent preferences",
+  "mentions": 1,
+  "fields": {
+   "economics": 1
+  },
+  "search_names": [
+   "reference-dependent preferences"
+  ],
+  "provenance_names": [
+   "reference-dependent preferences"
+  ]
+ },
+ {
+  "canonical": "regime change cascade",
+  "mentions": 1,
+  "fields": {
+   "political science": 1
+  },
+  "search_names": [
+   "regime change cascade"
+  ],
+  "provenance_names": [
+   "regime change cascade"
+  ]
+ },
+ {
+  "canonical": "regulatory capture",
+  "mentions": 1,
+  "fields": {
+   "economics": 1
+  },
+  "search_names": [
+   "regulatory capture"
+  ],
+  "provenance_names": [
+   "capture",
+   "regulatory capture"
+  ]
+ },
+ {
+  "canonical": "regulatory fit theory",
+  "mentions": 1,
+  "fields": {
+   "management": 1
+  },
+  "search_names": [
+   "regulatory fit theory"
+  ],
+  "provenance_names": [
+   "regulatory fit theory"
+  ]
+ },
+ {
+  "canonical": "relational contracting",
+  "mentions": 1,
+  "fields": {
+   "economics": 1
+  },
+  "search_names": [
+   "relational contracting"
+  ],
+  "provenance_names": [
+   "relational contracting"
+  ]
+ },
+ {
+  "canonical": "relational dialectics theory",
+  "mentions": 1,
+  "fields": {
+   "communication": 1
+  },
+  "search_names": [
+   "relational dialectics theory"
+  ],
+  "provenance_names": [
+   "relational dialectics theory"
+  ]
+ },
+ {
+  "canonical": "relational turbulence",
+  "mentions": 1,
+  "fields": {
+   "communication": 1
+  },
+  "search_names": [
+   "relational turbulence"
+  ],
+  "provenance_names": [
+   "relational turbulence"
+  ]
+ },
+ {
+  "canonical": "relational work",
+  "mentions": 1,
+  "fields": {
+   "sociology": 1
+  },
+  "search_names": [
+   "relational work"
+  ],
+  "provenance_names": [
+   "relational work"
+  ]
+ },
+ {
+  "canonical": "relative group position",
+  "mentions": 1,
+  "fields": {
+   "sociology": 1
+  },
+  "search_names": [
+   "relative group position"
+  ],
+  "provenance_names": [
+   "relative group position"
+  ]
+ },
+ {
+  "canonical": "rent shifting",
+  "mentions": 1,
+  "fields": {
+   "economics": 1
+  },
+  "search_names": [
+   "rent shifting"
+  ],
+  "provenance_names": [
+   "rent shifting"
+  ]
+ },
+ {
+  "canonical": "representational mutation",
+  "mentions": 1,
+  "fields": {
+   "psychology": 1
+  },
+  "search_names": [
+   "representational mutation"
+  ],
+  "provenance_names": [
+   "representational mutation"
+  ]
+ },
+ {
+  "canonical": "reputation effects",
+  "mentions": 1,
+  "fields": {
+   "sociology": 1
+  },
+  "search_names": [
+   "reputation effects"
+  ],
+  "provenance_names": [
+   "reputation effects"
+  ]
+ },
+ {
+  "canonical": "residential sorting",
+  "mentions": 1,
+  "fields": {
+   "sociology": 1
+  },
+  "search_names": [
+   "residential sorting"
+  ],
+  "provenance_names": [
+   "residential sorting"
+  ]
+ },
+ {
+  "canonical": "resource orchestration",
+  "mentions": 1,
+  "fields": {
+   "management": 1
+  },
+  "search_names": [
+   "resource orchestration"
+  ],
+  "provenance_names": [
+   "resource orchestration"
+  ]
+ },
+ {
+  "canonical": "responsibility attribution",
+  "mentions": 1,
+  "fields": {
+   "communication": 1
+  },
+  "search_names": [
+   "responsibility attribution"
+  ],
+  "provenance_names": [
+   "responsibility attribution"
+  ]
+ },
+ {
+  "canonical": "reterritorialization",
+  "mentions": 1,
+  "fields": {
+   "sociology": 1
+  },
+  "search_names": [
+   "reterritorialization"
+  ],
+  "provenance_names": [
+   "reterritorialization"
+  ]
+ },
+ {
+  "canonical": "retrieval-induced forgetting",
+  "mentions": 1,
+  "fields": {
+   "psychology": 1
+  },
+  "search_names": [
+   "retrieval-induced forgetting"
+  ],
+  "provenance_names": [
+   "retrieval-induced forgetting"
+  ]
+ },
+ {
+  "canonical": "retrieved context theory",
+  "mentions": 1,
+  "fields": {
+   "psychology": 1
+  },
+  "search_names": [
+   "retrieved context theory"
+  ],
+  "provenance_names": [
+   "retrieved context theory"
+  ]
+ },
+ {
+  "canonical": "ricardian equivalence",
+  "mentions": 1,
+  "fields": {
+   "economics": 1
+  },
+  "search_names": [
+   "ricardian equivalence"
+  ],
+  "provenance_names": [
+   "ricardian equivalence"
+  ]
+ },
+ {
+  "canonical": "risk information seeking",
+  "mentions": 1,
+  "fields": {
+   "communication": 1
+  },
+  "search_names": [
+   "risk information seeking"
+  ],
+  "provenance_names": [
+   "risk information seeking"
+  ]
+ },
+ {
+  "canonical": "risk pooling",
+  "mentions": 1,
+  "fields": {
+   "sociology": 1
+  },
+  "search_names": [
+   "risk pooling"
+  ],
+  "provenance_names": [
+   "risk pooling"
+  ]
+ },
+ {
+  "canonical": "robust action",
+  "mentions": 1,
+  "fields": {
+   "sociology": 1
+  },
+  "search_names": [
+   "robust action"
+  ],
+  "provenance_names": [
+   "robust action"
+  ]
+ },
+ {
+  "canonical": "role congruity",
+  "mentions": 1,
+  "fields": {
+   "management": 1
+  },
+  "search_names": [
+   "role congruity"
+  ],
+  "provenance_names": [
+   "role congruity"
+  ]
+ },
+ {
+  "canonical": "role incongruity",
+  "mentions": 1,
+  "fields": {
+   "management": 1
+  },
+  "search_names": [
+   "role incongruity"
+  ],
+  "provenance_names": [
+   "role incongruity"
+  ]
+ },
+ {
+  "canonical": "routine transfer",
+  "mentions": 1,
+  "fields": {
+   "management": 1
+  },
+  "search_names": [
+   "routine transfer"
+  ],
+  "provenance_names": [
+   "routine transfer"
+  ]
+ },
+ {
+  "canonical": "ruler-ruled contracting",
+  "mentions": 1,
+  "fields": {
+   "political science": 1
+  },
+  "search_names": [
+   "ruler-ruled contracting"
+  ],
+  "provenance_names": [
+   "ruler-ruled contracting"
+  ]
+ },
+ {
+  "canonical": "rumination",
+  "mentions": 1,
+  "fields": {
+   "psychology": 1
+  },
+  "search_names": [
+   "rumination"
+  ],
+  "provenance_names": [
+   "rumination"
+  ]
+ },
+ {
+  "canonical": "sacralization",
+  "mentions": 1,
+  "fields": {
+   "sociology": 1
+  },
+  "search_names": [
+   "sacralization"
+  ],
+  "provenance_names": [
+   "sacralization"
+  ]
+ },
+ {
+  "canonical": "salience attribution",
+  "mentions": 1,
+  "fields": {
+   "psychology": 1
+  },
+  "search_names": [
+   "salience attribution"
+  ],
+  "provenance_names": [
+   "salience attribution"
+  ]
+ },
+ {
+  "canonical": "scale shifts",
+  "mentions": 1,
+  "fields": {
+   "sociology": 1
+  },
+  "search_names": [
+   "scale shifts"
+  ],
+  "provenance_names": [
+   "scale shifts"
+  ]
+ },
+ {
+  "canonical": "scientization",
+  "mentions": 1,
+  "fields": {
+   "management": 1
+  },
+  "search_names": [
+   "scientization"
+  ],
+  "provenance_names": [
+   "scientization"
+  ]
+ },
+ {
+  "canonical": "scope of conflict",
+  "mentions": 1,
+  "fields": {
+   "political science": 1
+  },
+  "search_names": [
+   "scope of conflict"
+  ],
+  "provenance_names": [
+   "scope of conflict"
+  ]
+ },
+ {
+  "canonical": "screening theory",
+  "mentions": 1,
+  "fields": {
+   "economics": 1
+  },
+  "search_names": [
+   "screening theory"
+  ],
+  "provenance_names": [
+   "screening",
+   "screening theory"
+  ]
+ },
+ {
+  "canonical": "search externalities",
+  "mentions": 1,
+  "fields": {
+   "economics": 1
+  },
+  "search_names": [
+   "search externalities"
+  ],
+  "provenance_names": [
+   "search externalities"
+  ]
+ },
+ {
+  "canonical": "search-and-matching frictions",
+  "mentions": 1,
+  "fields": {
+   "economics": 1
+  },
+  "search_names": [
+   "search-and-matching frictions"
+  ],
+  "provenance_names": [
+   "search-and-matching frictions"
+  ]
+ },
+ {
+  "canonical": "second-order isomorphism",
+  "mentions": 1,
+  "fields": {
+   "psychology": 1
+  },
+  "search_names": [
+   "second-order isomorphism"
+  ],
+  "provenance_names": [
+   "second-order isomorphism"
+  ]
+ },
+ {
+  "canonical": "security dilemma",
+  "mentions": 1,
+  "fields": {
+   "political science": 1
+  },
+  "search_names": [
+   "security dilemma"
+  ],
+  "provenance_names": [
+   "security dilemma"
+  ]
+ },
+ {
+  "canonical": "security theory of humor",
+  "mentions": 1,
+  "fields": {
+   "communication": 1
+  },
+  "search_names": [
+   "security theory of humor"
+  ],
+  "provenance_names": [
+   "security theory of humor"
+  ]
+ },
+ {
+  "canonical": "selection neglect",
+  "mentions": 1,
+  "fields": {
+   "political science": 1
+  },
+  "search_names": [
+   "selection neglect"
+  ],
+  "provenance_names": [
+   "selection neglect"
+  ]
+ },
+ {
+  "canonical": "selective attention",
+  "mentions": 1,
+  "fields": {
+   "psychology": 1
+  },
+  "search_names": [
+   "selective attention"
+  ],
+  "provenance_names": [
+   "selective attention"
+  ]
+ },
+ {
+  "canonical": "selective incentives",
+  "mentions": 1,
+  "fields": {
+   "political science": 1
+  },
+  "search_names": [
+   "selective incentives"
+  ],
+  "provenance_names": [
+   "selective incentives"
+  ]
+ },
+ {
+  "canonical": "selective migration",
+  "mentions": 1,
+  "fields": {
+   "sociology": 1
+  },
+  "search_names": [
+   "selective migration"
+  ],
+  "provenance_names": [
+   "selective migration"
+  ]
+ },
+ {
+  "canonical": "selective self-presentation",
+  "mentions": 1,
+  "fields": {
+   "communication": 1
+  },
+  "search_names": [
+   "selective self-presentation"
+  ],
+  "provenance_names": [
+   "selective self-presentation"
+  ]
+ },
+ {
+  "canonical": "selective visual attention",
+  "mentions": 1,
+  "fields": {
+   "psychology": 1
+  },
+  "search_names": [
+   "selective visual attention"
+  ],
+  "provenance_names": [
+   "selective visual attention"
+  ]
+ },
+ {
+  "canonical": "self-affirmation",
+  "mentions": 1,
+  "fields": {
+   "psychology": 1
+  },
+  "search_names": [
+   "self-affirmation"
+  ],
+  "provenance_names": [
+   "self-affirmation"
+  ]
+ },
+ {
+  "canonical": "self-categorization",
+  "mentions": 1,
+  "fields": {
+   "psychology": 1
+  },
+  "search_names": [
+   "self-categorization"
+  ],
+  "provenance_names": [
+   "self-categorization"
+  ]
+ },
+ {
+  "canonical": "self-enhancement",
+  "mentions": 1,
+  "fields": {
+   "management": 1
+  },
+  "search_names": [
+   "self-enhancement"
+  ],
+  "provenance_names": [
+   "self-enhancement"
+  ]
+ },
+ {
+  "canonical": "self-fulfilling prophecies",
+  "mentions": 1,
+  "fields": {
+   "psychology": 1
+  },
+  "search_names": [
+   "self-fulfilling prophecies"
+  ],
+  "provenance_names": [
+   "self-fulfilling prophecies"
+  ]
+ },
+ {
+  "canonical": "self-regulated learning",
+  "mentions": 1,
+  "fields": {
+   "psychology": 1
+  },
+  "search_names": [
+   "self-regulated learning"
+  ],
+  "provenance_names": [
+   "self-regulated learning"
+  ]
+ },
+ {
+  "canonical": "self-regulation of prejudice",
+  "mentions": 1,
+  "fields": {
+   "psychology": 1
+  },
+  "search_names": [
+   "self-regulation of prejudice"
+  ],
+  "provenance_names": [
+   "self-regulation of prejudice"
+  ]
+ },
+ {
+  "canonical": "self-regulatory focus",
+  "mentions": 1,
+  "fields": {
+   "management": 1
+  },
+  "search_names": [
+   "self-regulatory focus"
+  ],
+  "provenance_names": [
+   "self-regulatory focus"
+  ]
+ },
+ {
+  "canonical": "self-reinforcing paths",
+  "mentions": 1,
+  "fields": {
+   "political science": 1
+  },
+  "search_names": [
+   "self-reinforcing paths"
+  ],
+  "provenance_names": [
+   "self-reinforcing paths"
+  ]
+ },
+ {
+  "canonical": "sensitive period",
+  "mentions": 1,
+  "fields": {
+   "psychology": 1
+  },
+  "search_names": [
+   "sensitive period"
+  ],
+  "provenance_names": [
+   "sensitive period"
+  ]
+ },
+ {
+  "canonical": "sensitive periods",
+  "mentions": 1,
+  "fields": {
+   "psychology": 1
+  },
+  "search_names": [
+   "sensitive periods"
+  ],
+  "provenance_names": [
+   "sensitive periods"
+  ]
+ },
+ {
+  "canonical": "sensitization",
+  "mentions": 1,
+  "fields": {
+   "management": 1
+  },
+  "search_names": [
+   "sensitization"
+  ],
+  "provenance_names": [
+   "sensitization"
+  ]
+ },
+ {
+  "canonical": "sequential search",
+  "mentions": 1,
+  "fields": {
+   "management": 1
+  },
+  "search_names": [
+   "sequential search"
+  ],
+  "provenance_names": [
+   "sequential search"
+  ]
+ },
+ {
+  "canonical": "serial dependence",
+  "mentions": 1,
+  "fields": {
+   "psychology": 1
+  },
+  "search_names": [
+   "serial dependence"
+  ],
+  "provenance_names": [
+   "serial dependence"
+  ]
+ },
+ {
+  "canonical": "sexual selection",
+  "mentions": 1,
+  "fields": {
+   "psychology": 1
+  },
+  "search_names": [
+   "sexual selection"
+  ],
+  "provenance_names": [
+   "sexual selection"
+  ]
+ },
+ {
+  "canonical": "shaming",
+  "mentions": 1,
+  "fields": {
+   "management": 1
+  },
+  "search_names": [
+   "shaming"
+  ],
+  "provenance_names": [
+   "shaming",
+   "shaming behaviors"
+  ]
+ },
+ {
+  "canonical": "shaping",
+  "mentions": 1,
+  "fields": {
+   "management": 1
+  },
+  "search_names": [
+   "shaping"
+  ],
+  "provenance_names": [
+   "shaping"
+  ]
+ },
+ {
+  "canonical": "shirking",
+  "mentions": 1,
+  "fields": {
+   "political science": 1
+  },
+  "search_names": [
+   "shirking"
+  ],
+  "provenance_names": [
+   "shirking"
+  ]
+ },
+ {
+  "canonical": "simple heuristics",
+  "mentions": 1,
+  "fields": {
+   "management": 1
+  },
+  "search_names": [
+   "simple heuristics"
+  ],
+  "provenance_names": [
+   "simple heuristics",
+   "simple rule heuristics"
+  ]
+ },
+ {
+  "canonical": "situated enactment",
+  "mentions": 1,
+  "fields": {
+   "management": 1
+  },
+  "search_names": [
+   "situated enactment"
+  ],
+  "provenance_names": [
+   "situated enactment"
+  ]
+ },
+ {
+  "canonical": "situational theory of problem solving",
+  "mentions": 1,
+  "fields": {
+   "communication": 1
+  },
+  "search_names": [
+   "situational theory of problem solving"
+  ],
+  "provenance_names": [
+   "situational theory of problem solving"
+  ]
+ },
+ {
+  "canonical": "situational theory of publics",
+  "mentions": 1,
+  "fields": {
+   "communication": 1
+  },
+  "search_names": [
+   "situational theory of publics"
+  ],
+  "provenance_names": [
+   "situational theory of publics"
+  ]
+ },
+ {
+  "canonical": "skill-biased technological change",
+  "mentions": 1,
+  "fields": {
+   "political science": 1
+  },
+  "search_names": [
+   "skill-biased technological change"
+  ],
+  "provenance_names": [
+   "skill-biased technological change"
+  ]
+ },
+ {
+  "canonical": "sleep-dependent memory consolidation",
+  "mentions": 1,
+  "fields": {
+   "psychology": 1
+  },
+  "search_names": [
+   "sleep-dependent memory consolidation"
+  ],
+  "provenance_names": [
+   "processing memories during sleep",
+   "sleep-dependent memory consolidation"
+  ]
+ },
+ {
+  "canonical": "sluggish price adjustment",
+  "mentions": 1,
+  "fields": {
+   "economics": 1
+  },
+  "search_names": [
+   "sluggish price adjustment"
+  ],
+  "provenance_names": [
+   "sluggish price adjustment"
+  ]
+ },
+ {
+  "canonical": "social class culture cycles",
+  "mentions": 1,
+  "fields": {
+   "psychology": 1
+  },
+  "search_names": [
+   "social class culture cycles"
+  ],
+  "provenance_names": [
+   "social class culture cycles"
+  ]
+ },
+ {
+  "canonical": "social closure",
+  "mentions": 1,
+  "fields": {
+   "sociology": 1
+  },
+  "search_names": [
+   "social closure"
+  ],
+  "provenance_names": [
+   "social closure"
+  ]
+ },
+ {
+  "canonical": "social defense mechanisms",
+  "mentions": 1,
+  "fields": {
+   "management": 1
+  },
+  "search_names": [
+   "social defense mechanisms"
+  ],
+  "provenance_names": [
+   "social defense",
+   "social defense mechanisms"
+  ]
+ },
+ {
+  "canonical": "social dominance theory",
+  "mentions": 1,
+  "fields": {
+   "psychology": 1
+  },
+  "search_names": [
+   "social dominance theory"
+  ],
+  "provenance_names": [
+   "social dominance",
+   "social dominance theory"
+  ]
+ },
+ {
+  "canonical": "social embeddedness theory",
+  "mentions": 1,
+  "fields": {
+   "management": 1
+  },
+  "search_names": [
+   "social embeddedness theory"
+  ],
+  "provenance_names": [
+   "social embeddedness theory"
+  ]
+ },
+ {
+  "canonical": "social enforcement",
+  "mentions": 1,
+  "fields": {
+   "management": 1
+  },
+  "search_names": [
+   "social enforcement"
+  ],
+  "provenance_names": [
+   "social enforcement",
+   "socially enforced practices"
+  ]
+ },
+ {
+  "canonical": "social exchange affect theory",
+  "mentions": 1,
+  "fields": {
+   "management": 1
+  },
+  "search_names": [
+   "social exchange affect theory"
+  ],
+  "provenance_names": [
+   "social exchange affect theory"
+  ]
+ },
+ {
+  "canonical": "social identity theory",
+  "mentions": 1,
+  "fields": {
+   "communication": 1
+  },
+  "search_names": [
+   "social identity theory"
+  ],
+  "provenance_names": [
+   "social identity theory"
+  ]
+ },
+ {
+  "canonical": "social image concerns",
+  "mentions": 1,
+  "fields": {
+   "economics": 1
+  },
+  "search_names": [
+   "social image concerns"
+  ],
+  "provenance_names": [
+   "social image concerns"
+  ]
+ },
+ {
+  "canonical": "social information-processing",
+  "mentions": 1,
+  "fields": {
+   "management": 1
+  },
+  "search_names": [
+   "social information-processing"
+  ],
+  "provenance_names": [
+   "social information-processing"
+  ]
+ },
+ {
+  "canonical": "socialization",
+  "mentions": 1,
+  "fields": {
+   "management": 1
+  },
+  "search_names": [
+   "socialization"
+  ],
+  "provenance_names": [
+   "socialization",
+   "socialization processes"
+  ]
+ },
+ {
+  "canonical": "socially desirable responding",
+  "mentions": 1,
+  "fields": {
+   "psychology": 1
+  },
+  "search_names": [
+   "socially desirable responding"
+  ],
+  "provenance_names": [
+   "socially desirable responding"
+  ]
+ },
+ {
+  "canonical": "socioecological adaptation",
+  "mentions": 1,
+  "fields": {
+   "psychology": 1
+  },
+  "search_names": [
+   "socioecological adaptation"
+  ],
+  "provenance_names": [
+   "socioecological adaptation",
+   "socioecological adaption"
+  ]
+ },
+ {
+  "canonical": "source attribution perspective",
+  "mentions": 1,
+  "fields": {
+   "management": 1
+  },
+  "search_names": [
+   "source attribution perspective"
+  ],
+  "provenance_names": [
+   "source attribution perspective"
+  ]
+ },
+ {
+  "canonical": "source monitoring",
+  "mentions": 1,
+  "fields": {
+   "psychology": 1
+  },
+  "search_names": [
+   "source monitoring"
+  ],
+  "provenance_names": [
+   "source monitoring"
+  ]
+ },
+ {
+  "canonical": "sovereignty rents",
+  "mentions": 1,
+  "fields": {
+   "political science": 1
+  },
+  "search_names": [
+   "sovereignty rents"
+  ],
+  "provenance_names": [
+   "sovereignty rents"
+  ]
+ },
+ {
+  "canonical": "spatial attention",
+  "mentions": 1,
+  "fields": {
+   "psychology": 1
+  },
+  "search_names": [
+   "spatial attention"
+  ],
+  "provenance_names": [
+   "spatial attention"
+  ]
+ },
+ {
+  "canonical": "spatial bargaining",
+  "mentions": 1,
+  "fields": {
+   "economics": 1
+  },
+  "search_names": [
+   "spatial bargaining"
+  ],
+  "provenance_names": [
+   "spatial bargaining"
+  ]
+ },
+ {
+  "canonical": "spatial diffusion",
+  "mentions": 1,
+  "fields": {
+   "economics": 1
+  },
+  "search_names": [
+   "spatial diffusion"
+  ],
+  "provenance_names": [
+   "geographic diffusion",
+   "spatial diffusion"
+  ]
+ },
+ {
+  "canonical": "spatial propinquity",
+  "mentions": 1,
+  "fields": {
+   "sociology": 1
+  },
+  "search_names": [
+   "spatial propinquity"
+  ],
+  "provenance_names": [
+   "spatial propinquity"
+  ]
+ },
+ {
+  "canonical": "spatial sorting",
+  "mentions": 1,
+  "fields": {
+   "economics": 1
+  },
+  "search_names": [
+   "spatial sorting"
+  ],
+  "provenance_names": [
+   "spatial sorting"
+  ]
+ },
+ {
+  "canonical": "special interest capture",
+  "mentions": 1,
+  "fields": {
+   "political science": 1
+  },
+  "search_names": [
+   "special interest capture"
+  ],
+  "provenance_names": [
+   "special interest capture"
+  ]
+ },
+ {
+  "canonical": "squeaky wheel effect",
+  "mentions": 1,
+  "fields": {
+   "political science": 1
+  },
+  "search_names": [
+   "squeaky wheel effect"
+  ],
+  "provenance_names": [
+   "squeaky wheel effect"
+  ]
+ },
+ {
+  "canonical": "state-based racialization",
+  "mentions": 1,
+  "fields": {
+   "sociology": 1
+  },
+  "search_names": [
+   "state-based racialization"
+  ],
+  "provenance_names": [
+   "state-based racialization"
+  ]
+ },
+ {
+  "canonical": "state-society synergy",
+  "mentions": 1,
+  "fields": {
+   "sociology": 1
+  },
+  "search_names": [
+   "state-society synergy"
+  ],
+  "provenance_names": [
+   "state-society synergy"
+  ]
+ },
+ {
+  "canonical": "statistical discrimination",
+  "mentions": 1,
+  "fields": {
+   "management": 1
+  },
+  "search_names": [
+   "statistical discrimination"
+  ],
+  "provenance_names": [
+   "statistical discrimination"
+  ]
+ },
+ {
+  "canonical": "statistical learning",
+  "mentions": 1,
+  "fields": {
+   "psychology": 1
+  },
+  "search_names": [
+   "statistical learning"
+  ],
+  "provenance_names": [
+   "statistical learning"
+  ]
+ },
+ {
+  "canonical": "status generalization",
+  "mentions": 1,
+  "fields": {
+   "management": 1
+  },
+  "search_names": [
+   "status generalization"
+  ],
+  "provenance_names": [
+   "status generalization"
+  ]
+ },
+ {
+  "canonical": "stereotype activation",
+  "mentions": 1,
+  "fields": {
+   "communication": 1
+  },
+  "search_names": [
+   "stereotype activation"
+  ],
+  "provenance_names": [
+   "stereotype activation"
+  ]
+ },
+ {
+  "canonical": "stereotype threat",
+  "mentions": 1,
+  "fields": {
+   "psychology": 1
+  },
+  "search_names": [
+   "stereotype threat"
+  ],
+  "provenance_names": [
+   "stereotype threat"
+  ]
+ },
+ {
+  "canonical": "stereotyping",
+  "mentions": 1,
+  "fields": {
+   "psychology": 1
+  },
+  "search_names": [
+   "stereotyping"
+  ],
+  "provenance_names": [
+   "gender stereotyping",
+   "stereotyping"
+  ]
+ },
+ {
+  "canonical": "stigma internalization",
+  "mentions": 1,
+  "fields": {
+   "psychology": 1
+  },
+  "search_names": [
+   "stigma internalization"
+  ],
+  "provenance_names": [
+   "stigma internalization"
+  ]
+ },
+ {
+  "canonical": "stigmatization",
+  "mentions": 1,
+  "fields": {
+   "management": 1
+  },
+  "search_names": [
+   "stigmatization"
+  ],
+  "provenance_names": [
+   "stigma mechanism",
+   "stigmatization"
+  ]
+ },
+ {
+  "canonical": "stimulus generalization",
+  "mentions": 1,
+  "fields": {
+   "psychology": 1
+  },
+  "search_names": [
+   "stimulus generalization"
+  ],
+  "provenance_names": [
+   "care generalization",
+   "stimulus generalization"
+  ]
+ },
+ {
+  "canonical": "stochastic choice",
+  "mentions": 1,
+  "fields": {
+   "economics": 1
+  },
+  "search_names": [
+   "stochastic choice"
+  ],
+  "provenance_names": [
+   "stochastic choice"
+  ]
+ },
+ {
+  "canonical": "strategic choice theory",
+  "mentions": 1,
+  "fields": {
+   "political science": 1
+  },
+  "search_names": [
+   "strategic choice theory"
+  ],
+  "provenance_names": [
+   "strategic choice",
+   "strategic choice theory"
+  ]
+ },
+ {
+  "canonical": "strategic interaction",
+  "mentions": 1,
+  "fields": {
+   "economics": 1
+  },
+  "search_names": [
+   "strategic interaction"
+  ],
+  "provenance_names": [
+   "strategic interaction",
+   "strategic interactions"
+  ]
+ },
+ {
+  "canonical": "strategic judicial behavior",
+  "mentions": 1,
+  "fields": {
+   "political science": 1
+  },
+  "search_names": [
+   "strategic judicial behavior"
+  ],
+  "provenance_names": [
+   "strategic judicial behavior"
+  ]
+ },
+ {
+  "canonical": "strategic substitutes",
+  "mentions": 1,
+  "fields": {
+   "economics": 1
+  },
+  "search_names": [
+   "strategic substitutes"
+  ],
+  "provenance_names": [
+   "strategic substitutes"
+  ]
+ },
+ {
+  "canonical": "stress contagion",
+  "mentions": 1,
+  "fields": {
+   "communication": 1
+  },
+  "search_names": [
+   "stress contagion"
+  ],
+  "provenance_names": [
+   "stress contagion"
+  ]
+ },
+ {
+  "canonical": "stress-induced overeating",
+  "mentions": 1,
+  "fields": {
+   "psychology": 1
+  },
+  "search_names": [
+   "stress-induced overeating"
+  ],
+  "provenance_names": [
+   "stress-induced overeating"
+  ]
+ },
+ {
+  "canonical": "striatal control shift",
+  "mentions": 1,
+  "fields": {
+   "psychology": 1
+  },
+  "search_names": [
+   "striatal control shift"
+  ],
+  "provenance_names": [
+   "striatal control shift"
+  ]
+ },
+ {
+  "canonical": "structural differentiation",
+  "mentions": 1,
+  "fields": {
+   "sociology": 1
+  },
+  "search_names": [
+   "structural differentiation"
+  ],
+  "provenance_names": [
+   "structural differentiation"
+  ]
+ },
+ {
+  "canonical": "structural holes",
+  "mentions": 1,
+  "fields": {
+   "management": 1
+  },
+  "search_names": [
+   "structural holes"
+  ],
+  "provenance_names": [
+   "structural holes"
+  ]
+ },
+ {
+  "canonical": "structural localism",
+  "mentions": 1,
+  "fields": {
+   "management": 1
+  },
+  "search_names": [
+   "structural localism"
+  ],
+  "provenance_names": [
+   "structural localism"
+  ]
+ },
+ {
+  "canonical": "subjectivation",
+  "mentions": 1,
+  "fields": {
+   "communication": 1
+  },
+  "search_names": [
+   "subjectivation"
+  ],
+  "provenance_names": [
+   "subjectivation"
+  ]
+ },
+ {
+  "canonical": "subjective expected utility",
+  "mentions": 1,
+  "fields": {
+   "economics": 1
+  },
+  "search_names": [
+   "subjective expected utility"
+  ],
+  "provenance_names": [
+   "subjective expected utility"
+  ]
+ },
+ {
+  "canonical": "superstar effects",
+  "mentions": 1,
+  "fields": {
+   "economics": 1
+  },
+  "search_names": [
+   "superstar effects"
+  ],
+  "provenance_names": [
+   "superstar effects"
+  ]
+ },
+ {
+  "canonical": "switching costs",
+  "mentions": 1,
+  "fields": {
+   "economics": 1
+  },
+  "search_names": [
+   "switching costs"
+  ],
+  "provenance_names": [
+   "switching costs"
+  ]
+ },
+ {
+  "canonical": "symbolic boundaries",
+  "mentions": 1,
+  "fields": {
+   "sociology": 1
+  },
+  "search_names": [
+   "symbolic boundaries"
+  ],
+  "provenance_names": [
+   "symbolic boundaries"
+  ]
+ },
+ {
+  "canonical": "symbolic legitimation",
+  "mentions": 1,
+  "fields": {
+   "sociology": 1
+  },
+  "search_names": [
+   "symbolic legitimation"
+  ],
+  "provenance_names": [
+   "symbolic legitimation"
+  ]
+ },
+ {
+  "canonical": "symbolic politics",
+  "mentions": 1,
+  "fields": {
+   "sociology": 1
+  },
+  "search_names": [
+   "symbolic politics"
+  ],
+  "provenance_names": [
+   "symbolic politics"
+  ]
+ },
+ {
+  "canonical": "sympathetic nervous system activation",
+  "mentions": 1,
+  "fields": {
+   "sociology": 1
+  },
+  "search_names": [
+   "sympathetic nervous system activation"
+  ],
+  "provenance_names": [
+   "sympathetic nervous system activation"
+  ]
+ },
+ {
+  "canonical": "synchrony across brains",
+  "mentions": 1,
+  "fields": {
+   "psychology": 1
+  },
+  "search_names": [
+   "synchrony across brains"
+  ],
+  "provenance_names": [
+   "synchrony across brains"
+  ]
+ },
+ {
+  "canonical": "syntactic boot-strapping",
+  "mentions": 1,
+  "fields": {
+   "psychology": 1
+  },
+  "search_names": [
+   "syntactic boot-strapping"
+  ],
+  "provenance_names": [
+   "syntactic boot-strapping"
+  ]
+ },
+ {
+  "canonical": "system 1 processing",
+  "mentions": 1,
+  "fields": {
+   "communication": 1
+  },
+  "search_names": [
+   "system 1 processing"
+  ],
+  "provenance_names": [
+   "system 1 processing"
+  ]
+ },
+ {
+  "canonical": "tactical voting",
+  "mentions": 1,
+  "fields": {
+   "political science": 1
+  },
+  "search_names": [
+   "tactical voting"
+  ],
+  "provenance_names": [
+   "tactical voting"
+  ]
+ },
+ {
+  "canonical": "task-based plasticity",
+  "mentions": 1,
+  "fields": {
+   "psychology": 1
+  },
+  "search_names": [
+   "task-based plasticity"
+  ],
+  "provenance_names": [
+   "task-based plasticity"
+  ]
+ },
+ {
+  "canonical": "taste-based discrimination",
+  "mentions": 1,
+  "fields": {
+   "management": 1
+  },
+  "search_names": [
+   "taste-based discrimination"
+  ],
+  "provenance_names": [
+   "taste-based discrimination"
+  ]
+ },
+ {
+  "canonical": "team-member exchange",
+  "mentions": 1,
+  "fields": {
+   "communication": 1
+  },
+  "search_names": [
+   "team-member exchange"
+  ],
+  "provenance_names": [
+   "team-member exchange"
+  ]
+ },
+ {
+  "canonical": "technological determinism",
+  "mentions": 1,
+  "fields": {
+   "communication": 1
+  },
+  "search_names": [
+   "technological determinism"
+  ],
+  "provenance_names": [
+   "technological determinism"
+  ]
+ },
+ {
+  "canonical": "technology affordances",
+  "mentions": 1,
+  "fields": {
+   "communication": 1
+  },
+  "search_names": [
+   "technology affordances"
+  ],
+  "provenance_names": [
+   "technology affordances"
+  ]
+ },
+ {
+  "canonical": "tempered radicalism",
+  "mentions": 1,
+  "fields": {
+   "management": 1
+  },
+  "search_names": [
+   "tempered radicalism"
+  ],
+  "provenance_names": [
+   "tempered radicalism"
+  ]
+ },
+ {
+  "canonical": "territorial claims-making",
+  "mentions": 1,
+  "fields": {
+   "political science": 1
+  },
+  "search_names": [
+   "territorial claims-making"
+  ],
+  "provenance_names": [
+   "territorial claims-making"
+  ]
+ },
+ {
+  "canonical": "the chaffee principle",
+  "mentions": 1,
+  "fields": {
+   "communication": 1
+  },
+  "search_names": [
+   "the chaffee principle"
+  ],
+  "provenance_names": [
+   "the chaffee principle"
+  ]
+ },
+ {
+  "canonical": "third-party enforcement",
+  "mentions": 1,
+  "fields": {
+   "political science": 1
+  },
+  "search_names": [
+   "third-party enforcement"
+  ],
+  "provenance_names": [
+   "third-party enforcement"
+  ]
+ },
+ {
+  "canonical": "third-party punishment",
+  "mentions": 1,
+  "fields": {
+   "political science": 1
+  },
+  "search_names": [
+   "third-party punishment"
+  ],
+  "provenance_names": [
+   "third-party punishment"
+  ]
+ },
+ {
+  "canonical": "threat appraisal",
+  "mentions": 1,
+  "fields": {
+   "management": 1
+  },
+  "search_names": [
+   "threat appraisal"
+  ],
+  "provenance_names": [
+   "threat appraisal"
+  ]
+ },
+ {
+  "canonical": "threat-rigidity",
+  "mentions": 1,
+  "fields": {
+   "management": 1
+  },
+  "search_names": [
+   "threat-rigidity"
+  ],
+  "provenance_names": [
+   "threat-rigidity"
+  ]
+ },
+ {
+  "canonical": "threshold bias",
+  "mentions": 1,
+  "fields": {
+   "political science": 1
+  },
+  "search_names": [
+   "threshold bias"
+  ],
+  "provenance_names": [
+   "threshold bias"
+  ]
+ },
+ {
+  "canonical": "thwarted belongingness",
+  "mentions": 1,
+  "fields": {
+   "communication": 1
+  },
+  "search_names": [
+   "thwarted belongingness"
+  ],
+  "provenance_names": [
+   "thwarted belongingness"
+  ]
+ },
+ {
+  "canonical": "tiebout-like sorting",
+  "mentions": 1,
+  "fields": {
+   "economics": 1
+  },
+  "search_names": [
+   "tiebout-like sorting"
+  ],
+  "provenance_names": [
+   "tiebout-like sorting"
+  ]
+ },
+ {
+  "canonical": "tight coupling",
+  "mentions": 1,
+  "fields": {
+   "sociology": 1
+  },
+  "search_names": [
+   "tight coupling"
+  ],
+  "provenance_names": [
+   "tight coupling"
+  ]
+ },
+ {
+  "canonical": "time discounting",
+  "mentions": 1,
+  "fields": {
+   "political science": 1
+  },
+  "search_names": [
+   "time discounting"
+  ],
+  "provenance_names": [
+   "time discounting"
+  ]
+ },
+ {
+  "canonical": "top-down inhibitory control",
+  "mentions": 1,
+  "fields": {
+   "psychology": 1
+  },
+  "search_names": [
+   "top-down inhibitory control"
+  ],
+  "provenance_names": [
+   "top-down inhibitory control"
+  ]
+ },
+ {
+  "canonical": "tournament theory",
+  "mentions": 1,
+  "fields": {
+   "management": 1
+  },
+  "search_names": [
+   "tournament theory"
+  ],
+  "provenance_names": [
+   "tournament theory"
+  ]
+ },
+ {
+  "canonical": "trade diversion",
+  "mentions": 1,
+  "fields": {
+   "economics": 1
+  },
+  "search_names": [
+   "trade diversion"
+  ],
+  "provenance_names": [
+   "trade diversion"
+  ]
+ },
+ {
+  "canonical": "transaction cost theory",
+  "mentions": 1,
+  "fields": {
+   "management": 1
+  },
+  "search_names": [
+   "transaction cost theory"
+  ],
+  "provenance_names": [
+   "transaction cost theory"
+  ]
+ },
+ {
+  "canonical": "treadmill of production",
+  "mentions": 1,
+  "fields": {
+   "sociology": 1
+  },
+  "search_names": [
+   "treadmill of production"
+  ],
+  "provenance_names": [
+   "treadmill of production"
+  ]
+ },
+ {
+  "canonical": "triffin dilemma",
+  "mentions": 1,
+  "fields": {
+   "economics": 1
+  },
+  "search_names": [
+   "triffin dilemma"
+  ],
+  "provenance_names": [
+   "triffin dilemma"
+  ]
+ },
+ {
+  "canonical": "truth bias",
+  "mentions": 1,
+  "fields": {
+   "psychology": 1
+  },
+  "search_names": [
+   "truth bias"
+  ],
+  "provenance_names": [
+   "truth bias"
+  ]
+ },
+ {
+  "canonical": "truthiness",
+  "mentions": 1,
+  "fields": {
+   "psychology": 1
+  },
+  "search_names": [
+   "truthiness"
+  ],
+  "provenance_names": [
+   "truthiness"
+  ]
+ },
+ {
+  "canonical": "uncertainty management",
+  "mentions": 1,
+  "fields": {
+   "communication": 1
+  },
+  "search_names": [
+   "uncertainty management"
+  ],
+  "provenance_names": [
+   "uncertainty management"
+  ]
+ },
+ {
+  "canonical": "unconscious inference",
+  "mentions": 1,
+  "fields": {
+   "psychology": 1
+  },
+  "search_names": [
+   "unconscious inference"
+  ],
+  "provenance_names": [
+   "unconscious inference"
+  ]
+ },
+ {
+  "canonical": "upper-income bias",
+  "mentions": 1,
+  "fields": {
+   "political science": 1
+  },
+  "search_names": [
+   "upper-income bias"
+  ],
+  "provenance_names": [
+   "upper-income bias"
+  ]
+ },
+ {
+  "canonical": "us-versus-them framing",
+  "mentions": 1,
+  "fields": {
+   "political science": 1
+  },
+  "search_names": [
+   "us-versus-them framing"
+  ],
+  "provenance_names": [
+   "us-versus-them appeals",
+   "us-versus-them framing"
+  ]
+ },
+ {
+  "canonical": "valuation entrepreneurship",
+  "mentions": 1,
+  "fields": {
+   "sociology": 1
+  },
+  "search_names": [
+   "valuation entrepreneurship"
+  ],
+  "provenance_names": [
+   "valuation entrepreneurship"
+  ]
+ },
+ {
+  "canonical": "value-based decision-making",
+  "mentions": 1,
+  "fields": {
+   "psychology": 1
+  },
+  "search_names": [
+   "value-based decision-making"
+  ],
+  "provenance_names": [
+   "value-based decision-making"
+  ]
+ },
+ {
+  "canonical": "value-directed remembering",
+  "mentions": 1,
+  "fields": {
+   "psychology": 1
+  },
+  "search_names": [
+   "value-directed remembering"
+  ],
+  "provenance_names": [
+   "value-directed remembering"
+  ]
+ },
+ {
+  "canonical": "value-guided decision making",
+  "mentions": 1,
+  "fields": {
+   "psychology": 1
+  },
+  "search_names": [
+   "value-guided decision making"
+  ],
+  "provenance_names": [
+   "value-guided decision making"
+  ]
+ },
+ {
+  "canonical": "variational preferences",
+  "mentions": 1,
+  "fields": {
+   "economics": 1
+  },
+  "search_names": [
+   "variational preferences"
+  ],
+  "provenance_names": [
+   "variational preferences"
+  ]
+ },
+ {
+  "canonical": "variety seeking",
+  "mentions": 1,
+  "fields": {
+   "psychology": 1
+  },
+  "search_names": [
+   "variety seeking"
+  ],
+  "provenance_names": [
+   "variety seeking"
+  ]
+ },
+ {
+  "canonical": "vertical integration",
+  "mentions": 1,
+  "fields": {
+   "economics": 1
+  },
+  "search_names": [
+   "vertical integration"
+  ],
+  "provenance_names": [
+   "vertical integration"
+  ]
+ },
+ {
+  "canonical": "vicarious contact",
+  "mentions": 1,
+  "fields": {
+   "communication": 1
+  },
+  "search_names": [
+   "vicarious contact"
+  ],
+  "provenance_names": [
+   "vicarious contact"
+  ]
+ },
+ {
+  "canonical": "victim valorization",
+  "mentions": 1,
+  "fields": {
+   "sociology": 1
+  },
+  "search_names": [
+   "victim valorization"
+  ],
+  "provenance_names": [
+   "victim valorization"
+  ]
+ },
+ {
+  "canonical": "victim-blaming",
+  "mentions": 1,
+  "fields": {
+   "communication": 1
+  },
+  "search_names": [
+   "victim-blaming"
+  ],
+  "provenance_names": [
+   "victim-blaming"
+  ]
+ },
+ {
+  "canonical": "violent flanks",
+  "mentions": 1,
+  "fields": {
+   "political science": 1
+  },
+  "search_names": [
+   "violent flanks"
+  ],
+  "provenance_names": [
+   "violent flanks"
+  ]
+ },
+ {
+  "canonical": "visual securitization",
+  "mentions": 1,
+  "fields": {
+   "communication": 1
+  },
+  "search_names": [
+   "visual securitization"
+  ],
+  "provenance_names": [
+   "visual securitization"
+  ]
+ },
+ {
+  "canonical": "visuo-vestibular integration",
+  "mentions": 1,
+  "fields": {
+   "psychology": 1
+  },
+  "search_names": [
+   "visuo-vestibular integration"
+  ],
+  "provenance_names": [
+   "visuo-vestibular integration"
+  ]
+ },
+ {
+  "canonical": "volitional self-regulation",
+  "mentions": 1,
+  "fields": {
+   "psychology": 1
+  },
+  "search_names": [
+   "volitional self-regulation"
+  ],
+  "provenance_names": [
+   "volitional self-regulation"
+  ]
+ },
+ {
+  "canonical": "vote buying",
+  "mentions": 1,
+  "fields": {
+   "political science": 1
+  },
+  "search_names": [
+   "vote buying"
+  ],
+  "provenance_names": [
+   "vote buying"
+  ]
+ },
+ {
+  "canonical": "vote trading",
+  "mentions": 1,
+  "fields": {
+   "economics": 1
+  },
+  "search_names": [
+   "vote trading"
+  ],
+  "provenance_names": [
+   "vote trading"
+  ]
+ },
+ {
+  "canonical": "voter coordination",
+  "mentions": 1,
+  "fields": {
+   "political science": 1
+  },
+  "search_names": [
+   "voter coordination"
+  ],
+  "provenance_names": [
+   "voter coordination"
+  ]
+ },
+ {
+  "canonical": "voter mobilization",
+  "mentions": 1,
+  "fields": {
+   "economics": 1
+  },
+  "search_names": [
+   "voter mobilization"
+  ],
+  "provenance_names": [
+   "voter mobilization"
+  ]
+ },
+ {
+  "canonical": "vulnerability-cue sensitivity",
+  "mentions": 1,
+  "fields": {
+   "psychology": 1
+  },
+  "search_names": [
+   "vulnerability-cue sensitivity"
+  ],
+  "provenance_names": [
+   "vulnerability-cue sensitivity"
+  ]
+ },
+ {
+  "canonical": "wage rigidity",
+  "mentions": 1,
+  "fields": {
+   "economics": 1
+  },
+  "search_names": [
+   "wage rigidity"
+  ],
+  "provenance_names": [
+   "wage rigidity"
+  ]
+ },
+ {
+  "canonical": "winner-take-all markets",
+  "mentions": 1,
+  "fields": {
+   "economics": 1
+  },
+  "search_names": [
+   "winner-take-all markets"
+  ],
+  "provenance_names": [
+   "winner-take-all markets"
+  ]
+ },
+ {
+  "canonical": "wiring minimization",
+  "mentions": 1,
+  "fields": {
+   "psychology": 1
+  },
+  "search_names": [
+   "wiring minimization"
+  ],
+  "provenance_names": [
+   "wiring minimization"
+  ]
+ },
+ {
+  "canonical": "work devotion schema",
+  "mentions": 1,
+  "fields": {
+   "psychology": 1
+  },
+  "search_names": [
+   "work devotion schema"
+  ],
+  "provenance_names": [
+   "work devotion schema"
+  ]
+ },
+ {
+  "canonical": "work-family border theory",
+  "mentions": 1,
+  "fields": {
+   "communication": 1
+  },
+  "search_names": [
+   "work-family border theory"
+  ],
+  "provenance_names": [
+   "work-family border theory"
+  ]
+ },
+ {
+  "canonical": "work-nonwork spillover",
+  "mentions": 1,
+  "fields": {
+   "management": 1
+  },
+  "search_names": [
+   "work-nonwork spillover"
+  ],
+  "provenance_names": [
+   "work-nonwork spillover"
+  ]
+ },
+ {
+  "canonical": "allyship",
+  "search_names": [
+   "allyship",
+   "lgbtq allyship",
+   "male allyship",
+   "performative allyship",
+   "white allyship"
+  ],
+  "provenance_names": [
+   "allyship"
+  ],
+  "mentions": 0,
+  "fields": {
+   "openalex keywords": 1
+  },
+  "source": "openalex keywords"
+ },
+ {
+  "canonical": "blame avoidance",
+  "search_names": [
+   "blame avoidance"
+  ],
+  "provenance_names": [
+   "blame avoidance"
+  ],
+  "mentions": 0,
+  "fields": {
+   "openalex keywords": 1
+  },
+  "source": "openalex keywords"
+ },
+ {
+  "canonical": "boundary enforcement",
+  "search_names": [
+   "boundary enforcement"
+  ],
+  "provenance_names": [
+   "boundary policing"
+  ],
+  "mentions": 0,
+  "fields": {
+   "openalex keywords": 1
+  },
+  "source": "openalex keywords"
+ },
+ {
+  "canonical": "certification effect",
+  "search_names": [
+   "certification effect"
+  ],
+  "provenance_names": [
+   "certification effect"
+  ],
+  "mentions": 0,
+  "fields": {
+   "openalex keywords": 1
+  },
+  "source": "openalex keywords"
+ },
+ {
+  "canonical": "contest escalation",
+  "search_names": [
+   "contest escalation"
+  ],
+  "provenance_names": [
+   "competitive escalation"
+  ],
+  "mentions": 0,
+  "fields": {
+   "openalex keywords": 1
+  },
+  "source": "openalex keywords"
+ },
+ {
+  "canonical": "felt obligation",
+  "search_names": [
+   "felt obligation"
+  ],
+  "provenance_names": [
+   "felt obligation"
+  ],
+  "mentions": 0,
+  "fields": {
+   "openalex keywords": 1
+  },
+  "source": "openalex keywords"
+ },
+ {
+  "canonical": "interlocking directorates",
+  "search_names": [
+   "director networks",
+   "interlocking directorates"
+  ],
+  "provenance_names": [
+   "interlocking directorates"
+  ],
+  "mentions": 0,
+  "fields": {
+   "openalex keywords": 1
+  },
+  "source": "openalex keywords"
+ },
+ {
+  "canonical": "moral justification",
+  "search_names": [
+   "moral justification",
+   "moral justification of violence"
+  ],
+  "provenance_names": [
+   "moral justification"
+  ],
+  "mentions": 0,
+  "fields": {
+   "openalex keywords": 1
+  },
+  "source": "openalex keywords"
+ },
+ {
+  "canonical": "relationship repair",
+  "search_names": [
+   "relationship repair",
+   "rupture and repair"
+  ],
+  "provenance_names": [
+   "relationship repair"
+  ],
+  "mentions": 0,
+  "fields": {
+   "openalex keywords": 1
+  },
+  "source": "openalex keywords"
+ },
+ {
+  "canonical": "repair practices",
+  "search_names": [
+   "repair practices"
+  ],
+  "provenance_names": [
+   "repair practices"
+  ],
+  "mentions": 0,
+  "fields": {
+   "openalex keywords": 1
+  },
+  "source": "openalex keywords"
+ },
+ {
+  "canonical": "asset revaluation",
+  "search_names": [
+   "asset revaluation",
+   "currency revaluation",
+   "fixed asset revaluation",
+   "retrospective revaluation",
+   "revaluation"
+  ],
+  "provenance_names": [
+   "revaluation"
+  ],
+  "mentions": 0,
+  "fields": {
+   "openalex keywords": 1
+  },
+  "source": "openalex keywords"
+ },
+ {
+  "canonical": "stigma by association",
+  "search_names": [
+   "associative stigma",
+   "family stigma",
+   "stigma by association"
+  ],
+  "provenance_names": [
+   "stigma by association"
+  ],
+  "mentions": 0,
+  "fields": {
+   "openalex keywords": 1
+  },
+  "source": "openalex keywords"
+ },
+ {
+  "canonical": "team identification",
+  "search_names": [
+   "team identification"
+  ],
+  "provenance_names": [
+   "team identification"
+  ],
+  "mentions": 0,
+  "fields": {
+   "openalex keywords": 1
+  },
+  "source": "openalex keywords"
+ }
+]

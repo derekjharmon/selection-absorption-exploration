@@ -1,0 +1,8 @@
+grid done
+python3 extras_runs.py grid  4.42s user 0.03s system 99% cpu 4.473 total
+gate: 84 conditions x 20 seeds
+gate done
+python3 extras_runs.py gate  3167.66s user 21.36s system 1263% cpu 4:12.32 total
+robust: 52 conditions x 20 seeds
+robust done
+python3 extras_runs.py robust  2035.55s user 12.05s system 1271% cpu 2:41.08 total

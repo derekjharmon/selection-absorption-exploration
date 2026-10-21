@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.DS_Store
+# local caches and reruns
+placement/v3_emb.npz
+placement/v3_namecheck.json
+placement/placement_v3_rerun.json
+vocab/sources.json
+vocab/extracted.jsonl

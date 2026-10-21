@@ -1,0 +1,11 @@
+Data license
+
+The derived data in vocab/ (the phenomenon and mechanism vocabularies, the extraction records with quote offsets,
+verdicts, pairs, and name checks), sim/results/, and sim/tables/ are licensed under the Creative Commons Attribution
+4.0 International License (CC BY 4.0): https://creativecommons.org/licenses/by/4.0/
+
+Source metadata (OpenAlex identifiers, DOIs, titles, years, journals) comes from OpenAlex (https://openalex.org),
+which releases its metadata under CC0. No abstract text is redistributed; vocab/verify_quotes.py refetches abstracts
+from OpenAlex to reproduce and check the extraction's quotes.
+
+Copyright (c) 2026 Anonymous authors (named after review)
