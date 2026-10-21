@@ -1,0 +1,1068 @@
+{
+ "version": "v4",
+ "run": "3",
+ "results": [
+  {
+   "key": "K1",
+   "idea": "Does a strong CSR record license later misconduct? Firms that do good may feel entitled to cut corners later.",
+   "phenomenon": "later misconduct after a strong CSR record",
+   "phenomenon_quote": "Does a strong CSR record license later misconduct?",
+   "level": "organization",
+   "mechanism": "moral licensing",
+   "mechanism_quote": "Firms that do good may feel entitled to cut corners later.",
+   "mechanism_home": "social sciences",
+   "mq_ok": true,
+   "mech_check": {
+    "hits": 543,
+    "on": 10
+   },
+   "phen_check": {
+    "hits": 1740,
+    "on": 10
+   },
+   "row": "organizational misconduct",
+   "row_src": "menu",
+   "row_names": [
+    "corporate misconduct",
+    "organizational misconduct",
+    "organizational wrongdoing"
+   ],
+   "mech": "moral licensing",
+   "mech_src": "menu",
+   "mech_names": [
+    "moral licensing"
+   ],
+   "R_": 1664,
+   "C_": 515,
+   "O_": 7,
+   "share": 0.013592233009708738,
+   "cls": "filled"
+  },
+  {
+   "key": "K2",
+   "idea": "Do board interlocks confer organizational legitimacy? Firms tied through shared directors to well-regarded firms may borrow their legitimacy.",
+   "phenomenon": "organizational legitimacy from board interlocks",
+   "phenomenon_quote": "Do board interlocks confer organizational legitimacy?",
+   "level": "organization",
+   "mechanism": "legitimacy borrowing",
+   "mechanism_quote": "Firms tied through shared directors to well-regarded firms may borrow their legitimacy.",
+   "mechanism_home": "social sciences",
+   "mq_ok": true,
+   "mech_added": {
+    "name": "legitimacy transfer",
+    "names": [
+     "legitimacy transfer",
+     "transfer of legitimacy",
+     "borrowed legitimacy",
+     "legitimacy borrowing",
+     "legitimation by association",
+     "legitimacy by association"
+    ],
+    "check": {
+     "hits": 186,
+     "on": 9
+    }
+   },
+   "phen_check": {
+    "hits": 1811,
+    "on": 10
+   },
+   "row": "organizational legitimacy",
+   "row_src": "menu",
+   "row_names": [
+    "organizational legitimacy"
+   ],
+   "mech": "legitimacy transfer",
+   "mech_src": "added",
+   "mech_names": [
+    "legitimacy transfer",
+    "transfer of legitimacy",
+    "borrowed legitimacy",
+    "legitimacy borrowing",
+    "legitimation by association",
+    "legitimacy by association"
+   ],
+   "R_": 1781,
+   "C_": 186,
+   "O_": 7,
+   "share": 0.03763440860215054,
+   "cls": "filled"
+  },
+  {
+   "key": "K3",
+   "idea": "Does misconduct spread through an organization the way fatigue cracks grow in metal under repeated stress, with small violations accumulating until a sudden failure?",
+   "phenomenon": "spread of misconduct through an organization",
+   "phenomenon_quote": "misconduct spread through an organization",
+   "level": "organization",
+   "mechanism": "fatigue crack growth",
+   "mechanism_quote": "the way fatigue cracks grow in metal under repeated stress, with small violations accumulating until a sudden failure",
+   "mechanism_home": "outside the social sciences",
+   "mq_ok": true,
+   "cls": "outside the social sciences"
+  },
+  {
+   "key": "F1",
+   "idea": "Do new ventures signal their quality to investors through costly signals such as founders' credentials, and does signaling help them raise funding?",
+   "phenomenon": "new venture fundraising",
+   "phenomenon_quote": "does signaling help them raise funding",
+   "level": "organization",
+   "mechanism": "costly signaling",
+   "mechanism_quote": "signal their quality to investors through costly signals such as founders' credentials",
+   "mechanism_home": "social sciences",
+   "mq_ok": true,
+   "mech_check": {
+    "hits": 1452,
+    "on": 10
+   },
+   "phen_check": {
+    "hits": 7,
+    "on": 4
+   },
+   "cls": "names unusable"
+  },
+  {
+   "key": "F2",
+   "idea": "Does agency theory explain how boards design executive compensation, tying pay to performance to align CEOs' interests with shareholders'?",
+   "phenomenon": "board design of executive compensation",
+   "phenomenon_quote": "how boards design executive compensation",
+   "level": "organization",
+   "mechanism": "agency theory",
+   "mechanism_quote": "tying pay to performance to align CEOs' interests with shareholders'",
+   "mechanism_home": "social sciences",
+   "mq_ok": true,
+   "mech_check": {
+    "hits": 2538,
+    "on": 10
+   },
+   "phen_added": {
+    "name": "executive compensation design",
+    "names": [
+     "executive compensation design",
+     "executive pay design",
+     "executive compensation contracting",
+     "executive pay contracting",
+     "executive compensation policy",
+     "executive compensation arrangements"
+    ],
+    "check": {
+     "hits": 628,
+     "on": 10
+    }
+   },
+   "row": "executive compensation design",
+   "row_src": "added",
+   "row_names": [
+    "executive compensation design",
+    "executive pay design",
+    "executive compensation contracting",
+    "executive pay contracting",
+    "executive compensation policy",
+    "executive compensation arrangements"
+   ],
+   "mech": "principal-agent problem",
+   "mech_src": "menu",
+   "mech_names": [
+    "principal-agent problem"
+   ],
+   "R_": 628,
+   "C_": 2538,
+   "O_": 4,
+   "share": 0.006369426751592357,
+   "cls": "tail"
+  },
+  {
+   "key": "F3",
+   "idea": "Do employees reciprocate fair treatment through social exchange by engaging in organizational citizenship behavior?",
+   "phenomenon": "organizational citizenship behavior",
+   "phenomenon_quote": "engaging in organizational citizenship behavior",
+   "level": "individual",
+   "mechanism": "social exchange",
+   "mechanism_quote": "reciprocate fair treatment through social exchange",
+   "mechanism_home": "social sciences",
+   "mq_ok": true,
+   "mech_check": {
+    "hits": 13350,
+    "on": 10
+   },
+   "phen_check": {
+    "hits": 23930,
+    "on": 10
+   },
+   "row": "citizenship behaviors",
+   "row_src": "menu",
+   "row_names": [
+    "citizenship behaviors"
+   ],
+   "mech": "social exchange theory",
+   "mech_src": "menu",
+   "mech_names": [
+    "social exchange theory"
+   ],
+   "R_": 23930,
+   "C_": 13350,
+   "O_": 887,
+   "share": 0.06644194756554307,
+   "cls": "filled"
+  },
+  {
+   "key": "F4",
+   "idea": "Do organizations adopt the same management practices as their peers through institutional isomorphism, imitating others to appear legitimate?",
+   "phenomenon": "organizations adopting the same management practices as peers",
+   "phenomenon_quote": "organizations adopt the same management practices as their peers",
+   "level": "organization",
+   "mechanism": "institutional isomorphism",
+   "mechanism_quote": "through institutional isomorphism, imitating others to appear legitimate",
+   "mechanism_home": "social sciences",
+   "mq_ok": true,
+   "mech_check": {
+    "hits": 1551,
+    "on": 10
+   },
+   "phen_check": {
+    "hits": 61,
+    "on": 10
+   },
+   "row": "strategic imitation",
+   "row_src": "menu",
+   "row_names": [
+    "strategic imitation"
+   ],
+   "mech": "institutional isomorphism",
+   "mech_src": "menu",
+   "mech_names": [
+    "institutional isomorphism"
+   ],
+   "R_": 61,
+   "C_": 1516,
+   "O_": 0,
+   "share": 0.0,
+   "cls": "too small to judge"
+  },
+  {
+   "key": "F5",
+   "idea": "Does prospect theory explain managerial risk taking, with managers taking more risk when firm performance falls below their reference point?",
+   "phenomenon": "managerial risk taking",
+   "phenomenon_quote": "managerial risk taking",
+   "level": "individual",
+   "mechanism": "prospect theory",
+   "mechanism_quote": "prospect theory explain managerial risk taking, with managers taking more risk when firm performance falls below their reference point",
+   "mechanism_home": "social sciences",
+   "mq_ok": true,
+   "mech_added": {
+    "name": "prospect theory",
+    "names": [
+     "prospect theory"
+    ],
+    "check": {
+     "hits": 10136,
+     "on": 10
+    }
+   },
+   "phen_check": {
+    "hits": 46598,
+    "on": 10
+   },
+   "row": "risk taking",
+   "row_src": "menu",
+   "row_names": [
+    "risk taking"
+   ],
+   "mech": "prospect theory",
+   "mech_src": "added",
+   "mech_names": [
+    "prospect theory"
+   ],
+   "R_": 46598,
+   "C_": 10136,
+   "O_": 428,
+   "share": 0.04222573007103394,
+   "cls": "filled"
+  },
+  {
+   "key": "F6",
+   "idea": "Do managers keep investing in failing projects because of escalation of commitment to their earlier decisions?",
+   "phenomenon": "managers keep investing in failing projects",
+   "phenomenon_quote": "managers keep investing in failing projects",
+   "level": "individual",
+   "mechanism": "escalation of commitment",
+   "mechanism_quote": "because of escalation of commitment to their earlier decisions",
+   "mechanism_home": "social sciences",
+   "mq_ok": true,
+   "mech_check": {
+    "hits": 995,
+    "on": 10
+   },
+   "phen_added": {
+    "name": "escalation of commitment",
+    "names": [
+     "escalation of commitment",
+     "escalating commitment",
+     "commitment escalation",
+     "escalation of commitment behavior",
+     "nonrational escalation of commitment",
+     "escalation tendency"
+    ],
+    "check": {
+     "hits": 1237,
+     "on": 10
+    }
+   },
+   "row": "escalation of commitment",
+   "row_src": "added",
+   "row_names": [
+    "escalation of commitment",
+    "escalating commitment",
+    "commitment escalation",
+    "escalation of commitment behavior",
+    "nonrational escalation of commitment",
+    "escalation tendency"
+   ],
+   "mech": "escalation of commitment",
+   "mech_src": "menu",
+   "mech_names": [
+    "escalation of commitment"
+   ],
+   "R_": 1237,
+   "C_": 995,
+   "O_": 995,
+   "share": 1.0,
+   "cls": "filled"
+  },
+  {
+   "key": "F7",
+   "idea": "During organizational crises, does collective sensemaking break down and shape how the crisis unfolds?",
+   "phenomenon": "how organizational crises unfold",
+   "phenomenon_quote": "how the crisis unfolds",
+   "level": "organization",
+   "mechanism": "collective sensemaking breakdown",
+   "mechanism_quote": "collective sensemaking break down and shape how the crisis unfolds",
+   "mechanism_home": "social sciences",
+   "mq_ok": true,
+   "mech_check": {
+    "hits": 12127,
+    "on": 10
+   },
+   "phen_check": {
+    "hits": 3300,
+    "on": 10
+   },
+   "row": "crisis events",
+   "row_src": "menu",
+   "row_names": [
+    "crisis events"
+   ],
+   "mech": "sensemaking",
+   "mech_src": "menu",
+   "mech_names": [
+    "sensemaking"
+   ],
+   "R_": 3300,
+   "C_": 12127,
+   "O_": 32,
+   "share": 0.009696969696969697,
+   "cls": "filled"
+  },
+  {
+   "key": "F8",
+   "idea": "Does psychological contract breach lead employees to quit their organizations?",
+   "phenomenon": "employees quitting their organizations",
+   "phenomenon_quote": "employees to quit their organizations",
+   "level": "individual",
+   "mechanism": "none",
+   "mechanism_quote": "",
+   "mechanism_home": "",
+   "mq_ok": false,
+   "cls": "no mechanism stated"
+  },
+  {
+   "key": "F9",
+   "idea": "Do top management team characteristics, as upper echelons theory proposes, explain firms' strategic change?",
+   "phenomenon": "firms' strategic change",
+   "phenomenon_quote": "firms' strategic change",
+   "level": "organization",
+   "mechanism": "upper echelons theory",
+   "mechanism_quote": "top management team characteristics, as upper echelons theory proposes",
+   "mechanism_home": "social sciences",
+   "mq_ok": true,
+   "mech_check": {
+    "hits": 6803,
+    "on": 10
+   },
+   "phen_check": {
+    "hits": 7723,
+    "on": 10
+   },
+   "row": "strategic change",
+   "row_src": "menu",
+   "row_names": [
+    "strategic change"
+   ],
+   "mech": "upper echelons theory",
+   "mech_src": "menu",
+   "mech_names": [
+    "upper echelons",
+    "upper echelons theory"
+   ],
+   "R_": 7723,
+   "C_": 6803,
+   "O_": 96,
+   "share": 0.0141114214317213,
+   "cls": "filled"
+  },
+  {
+   "key": "F10",
+   "idea": "Does transaction cost economics explain firms' make-or-buy decisions, with asset specificity pushing them to integrate vertically?",
+   "phenomenon": "firms' make-or-buy decisions",
+   "phenomenon_quote": "firms' make-or-buy decisions",
+   "level": "organization",
+   "mechanism": "transaction cost economics",
+   "mechanism_quote": "transaction cost economics explain firms' make-or-buy decisions, with asset specificity pushing them to integrate vertically",
+   "mechanism_home": "social sciences",
+   "mq_ok": true,
+   "mech_check": {
+    "hits": 2972,
+    "on": 10
+   },
+   "phen_added": {
+    "name": "make-or-buy decision",
+    "names": [
+     "make-or-buy decision",
+     "make-or-buy decisions",
+     "make-or-buy choice",
+     "make-or-buy choices",
+     "make versus buy decision",
+     "make or buy decision"
+    ],
+    "check": {
+     "hits": 1192,
+     "on": 10
+    }
+   },
+   "row": "make-or-buy decision",
+   "row_src": "added",
+   "row_names": [
+    "make-or-buy decision",
+    "make-or-buy decisions",
+    "make-or-buy choice",
+    "make-or-buy choices",
+    "make versus buy decision",
+    "make or buy decision"
+   ],
+   "mech": "transaction cost theory",
+   "mech_src": "menu",
+   "mech_names": [
+    "transaction cost theory"
+   ],
+   "R_": 1192,
+   "C_": 2972,
+   "O_": 38,
+   "share": 0.031879194630872486,
+   "cls": "filled"
+  },
+  {
+   "key": "E1",
+   "idea": "Does the fraud triangle of pressure, opportunity, and rationalization explain why firms hold ISO 14001 environmental certification without implementing it?",
+   "phenomenon": "firms hold ISO 14001 environmental certification without implementing it",
+   "phenomenon_quote": "why firms hold ISO 14001 environmental certification without implementing it",
+   "level": "organization",
+   "mechanism": "fraud triangle",
+   "mechanism_quote": "the fraud triangle of pressure, opportunity, and rationalization explain why firms hold ISO 14001 environmental certification without implementing it",
+   "mechanism_home": "social sciences",
+   "mq_ok": true,
+   "mech_check": {
+    "hits": 2010,
+    "on": 10
+   },
+   "phen_check": {
+    "hits": 3,
+    "on": 1
+   },
+   "phen_repaired": {
+    "names": [
+     "spurious successes",
+     "lucky successes",
+     "chance successes",
+     "random successes",
+     "undeserved successes",
+     "success by chance",
+     "success due to luck"
+    ],
+    "check": {
+     "hits": 208,
+     "on": 9
+    }
+   },
+   "row": "spurious successes",
+   "row_src": "repaired",
+   "row_names": [
+    "spurious successes",
+    "lucky successes",
+    "chance successes",
+    "random successes",
+    "undeserved successes",
+    "success by chance",
+    "success due to luck"
+   ],
+   "mech": "fraud triangle",
+   "mech_src": "menu",
+   "mech_names": [
+    "fraud triangle"
+   ],
+   "R_": 208,
+   "C_": 2010,
+   "O_": 0,
+   "share": 0.0,
+   "cls": "tail"
+  },
+  {
+   "key": "E2",
+   "idea": "When an organization's leader commits a public transgression, does the transgression threaten members' identity, so that they disengage from the organization and stop buying from it?",
+   "phenomenon": "members disengage from and stop buying from an organization after a leader's public transgression",
+   "phenomenon_quote": "they disengage from the organization and stop buying from it",
+   "level": "individual",
+   "mechanism": "identity threat",
+   "mechanism_quote": "the transgression threaten members' identity",
+   "mechanism_home": "social sciences",
+   "mq_ok": true,
+   "mech_check": {
+    "hits": 2064,
+    "on": 10
+   },
+   "phen_check": {
+    "hits": 22,
+    "on": 7
+   },
+   "phen_repaired": {
+    "names": [
+     "member departure",
+     "member exit",
+     "member withdrawal",
+     "member attrition",
+     "membership termination",
+     "membership withdrawal",
+     "member resignation"
+    ],
+    "check": {
+     "hits": 211,
+     "on": 10
+    }
+   },
+   "row": "member departure",
+   "row_src": "repaired",
+   "row_names": [
+    "member departure",
+    "member exit",
+    "member withdrawal",
+    "member attrition",
+    "membership termination",
+    "membership withdrawal",
+    "member resignation"
+   ],
+   "mech": "identity threat",
+   "mech_src": "menu",
+   "mech_names": [
+    "identity threat"
+   ],
+   "R_": 211,
+   "C_": 2064,
+   "O_": 0,
+   "share": 0.0,
+   "cls": "tail"
+  },
+  {
+   "key": "E3",
+   "idea": "Does the theory of planned behavior explain a firm's green innovation, with subjective norms coming from its supply chain partners?",
+   "phenomenon": "firm green innovation",
+   "phenomenon_quote": "a firm's green innovation",
+   "level": "organization",
+   "mechanism": "theory of planned behavior",
+   "mechanism_quote": "the theory of planned behavior explain a firm's green innovation, with subjective norms coming from its supply chain partners",
+   "mechanism_home": "social sciences",
+   "mq_ok": true,
+   "mech_check": {
+    "hits": 25037,
+    "on": 10
+   },
+   "phen_check": {
+    "hits": 35,
+    "on": 8
+   },
+   "phen_repaired": {
+    "names": [
+     "green innovation implementation",
+     "green innovation adoption",
+     "adoption of green innovation",
+     "eco-innovation implementation",
+     "implementation of eco-innovation",
+     "environmental innovation implementation",
+     "implementation of environmental innovation"
+    ],
+    "check": {
+     "hits": 533,
+     "on": 9
+    }
+   },
+   "row": "green innovation implementation",
+   "row_src": "repaired",
+   "row_names": [
+    "green innovation implementation",
+    "green innovation adoption",
+    "adoption of green innovation",
+    "eco-innovation implementation",
+    "implementation of eco-innovation",
+    "environmental innovation implementation",
+    "implementation of environmental innovation"
+   ],
+   "mech": "planned behavior",
+   "mech_src": "menu",
+   "mech_names": [
+    "planned behavior"
+   ],
+   "R_": 533,
+   "C_": 25037,
+   "O_": 2,
+   "share": 0.00375234521575985,
+   "cls": "tail"
+  },
+  {
+   "key": "E4",
+   "idea": "Does a leader's humor spur employees' creative work behavior by raising their prosocial motivation?",
+   "phenomenon": "employees' creative work behavior",
+   "phenomenon_quote": "employees' creative work behavior",
+   "level": "individual",
+   "mechanism": "prosocial motivation",
+   "mechanism_quote": "raising their prosocial motivation",
+   "mechanism_home": "social sciences",
+   "mq_ok": true,
+   "mech_added": {
+    "name": "prosocial motivation",
+    "names": [
+     "prosocial motivation",
+     "pro-social motivation",
+     "prosocial motives",
+     "prosocial motive",
+     "motivation to benefit others",
+     "desire to benefit others"
+    ],
+    "check": {
+     "hits": 1900,
+     "on": 10
+    }
+   },
+   "phen_check": {
+    "hits": 3861,
+    "on": 10
+   },
+   "row": "employee creativity",
+   "row_src": "menu",
+   "row_names": [
+    "employee creativity"
+   ],
+   "mech": "prosocial motivation",
+   "mech_src": "added",
+   "mech_names": [
+    "prosocial motivation",
+    "pro-social motivation",
+    "prosocial motives",
+    "prosocial motive",
+    "motivation to benefit others",
+    "desire to benefit others"
+   ],
+   "R_": 3861,
+   "C_": 1900,
+   "O_": 17,
+   "share": 0.008947368421052631,
+   "cls": "tail"
+  },
+  {
+   "key": "E5",
+   "idea": "In hostile takeovers, do the target's managers shape how employees respond through sensemaking and sensegiving?",
+   "phenomenon": "employee responses in hostile takeovers",
+   "phenomenon_quote": "how employees respond",
+   "level": "individual",
+   "mechanism": "sensemaking and sensegiving",
+   "mechanism_quote": "through sensemaking and sensegiving",
+   "mechanism_home": "social sciences",
+   "mq_ok": true,
+   "mech_added": {
+    "name": "sensemaking and sensegiving",
+    "names": [
+     "sensemaking and sensegiving",
+     "sense making and sense giving",
+     "sensemaking and sense giving",
+     "sensemaking and sensegiving processes",
+     "sensemaking and sensegiving activities",
+     "sensemaking and sensegiving practices"
+    ],
+    "check": {
+     "hits": 398,
+     "on": 10
+    }
+   },
+   "phen_check": {
+    "hits": 1904,
+    "on": 9
+   },
+   "row": "reactions to change",
+   "row_src": "menu",
+   "row_names": [
+    "employee change responses",
+    "people reaction change",
+    "reactions to change"
+   ],
+   "mech": "sensemaking and sensegiving",
+   "mech_src": "added",
+   "mech_names": [
+    "sensemaking and sensegiving",
+    "sense making and sense giving",
+    "sensemaking and sense giving",
+    "sensemaking and sensegiving processes",
+    "sensemaking and sensegiving activities",
+    "sensemaking and sensegiving practices"
+   ],
+   "R_": 1904,
+   "C_": 398,
+   "O_": 0,
+   "share": 0.0,
+   "cls": "tail"
+  },
+  {
+   "key": "E6",
+   "idea": "Does the IKEA effect, valuing what one helped build, lead buyers to value supply chain relationships they built with their suppliers more highly?",
+   "phenomenon": "buyers value self-built supply chain relationships more highly",
+   "phenomenon_quote": "buyers to value supply chain relationships they built with their suppliers more highly",
+   "level": "individual",
+   "mechanism": "IKEA effect",
+   "mechanism_quote": "the IKEA effect, valuing what one helped build",
+   "mechanism_home": "social sciences",
+   "mq_ok": true,
+   "mech_added": {
+    "name": "ikea effect",
+    "names": [
+     "ikea effect",
+     "the ikea effect",
+     "labor leads to love",
+     "when labor leads to love"
+    ],
+    "check": {
+     "hits": 100,
+     "on": 10
+    }
+   },
+   "phen_added": {
+    "name": "ikea effect",
+    "names": [
+     "ikea effect",
+     "labor leads to love",
+     "increased valuation of self-made products",
+     "overvaluation of self-made products"
+    ],
+    "check": {
+     "hits": 100,
+     "on": 10
+    }
+   },
+   "row": "ikea effect",
+   "row_src": "added",
+   "row_names": [
+    "ikea effect",
+    "labor leads to love",
+    "increased valuation of self-made products",
+    "overvaluation of self-made products"
+   ],
+   "mech": "ikea effect",
+   "mech_src": "added",
+   "mech_names": [
+    "ikea effect",
+    "the ikea effect",
+    "labor leads to love",
+    "when labor leads to love"
+   ],
+   "R_": 100,
+   "C_": 100,
+   "O_": 100,
+   "share": 1.0,
+   "cls": "filled"
+  },
+  {
+   "key": "E7",
+   "idea": "Do recruiters' emotional reactions to risk, as the risk-as-feelings account proposes, shape their hiring decisions?",
+   "phenomenon": "recruiters' hiring decisions",
+   "phenomenon_quote": "shape their hiring decisions",
+   "level": "individual",
+   "mechanism": "risk-as-feelings",
+   "mechanism_quote": "recruiters' emotional reactions to risk, as the risk-as-feelings account proposes",
+   "mechanism_home": "social sciences",
+   "mq_ok": true,
+   "mech_added": {
+    "name": "risk-as-feelings hypothesis",
+    "names": [
+     "risk-as-feelings hypothesis",
+     "risk as feelings",
+     "risk as feelings hypothesis",
+     "risk-as-feelings model",
+     "risk as feelings model",
+     "risk-as-feelings perspective"
+    ],
+    "check": {
+     "hits": 198,
+     "on": 10
+    }
+   },
+   "phen_added": {
+    "name": "hiring decisions",
+    "names": [
+     "hiring decisions",
+     "recruiters' hiring decisions",
+     "recruiter hiring decisions",
+     "applicant hiring decisions",
+     "personnel selection decisions",
+     "employment selection decisions"
+    ],
+    "check": {
+     "hits": 3659,
+     "on": 10
+    }
+   },
+   "row": "hiring decisions",
+   "row_src": "added",
+   "row_names": [
+    "hiring decisions",
+    "recruiters' hiring decisions",
+    "recruiter hiring decisions",
+    "applicant hiring decisions",
+    "personnel selection decisions",
+    "employment selection decisions"
+   ],
+   "mech": "risk-as-feelings hypothesis",
+   "mech_src": "added",
+   "mech_names": [
+    "risk-as-feelings hypothesis",
+    "risk as feelings",
+    "risk as feelings hypothesis",
+    "risk-as-feelings model",
+    "risk as feelings model",
+    "risk-as-feelings perspective"
+   ],
+   "R_": 3659,
+   "C_": 198,
+   "O_": 0,
+   "share": 0.0,
+   "cls": "tail"
+  },
+  {
+   "key": "E8",
+   "idea": "Does regime theory explain how the governance of ESG reporting forms, including who sets the rules for ESG disclosure?",
+   "phenomenon": "formation of ESG reporting governance",
+   "phenomenon_quote": "how the governance of ESG reporting forms, including who sets the rules for ESG disclosure",
+   "level": "field or industry",
+   "mechanism": "regime theory",
+   "mechanism_quote": "Does regime theory explain",
+   "mechanism_home": "social sciences",
+   "mq_ok": true,
+   "mech_added": {
+    "name": "regime theory",
+    "names": [
+     "regime theory",
+     "international regime theory",
+     "international regimes theory",
+     "theory of international regimes"
+    ],
+    "check": {
+     "hits": 1555,
+     "on": 10
+    }
+   },
+   "phen_check": {
+    "hits": 404,
+    "on": 8
+   },
+   "row": "standardization developments",
+   "row_src": "menu",
+   "row_names": [
+    "standardization developments"
+   ],
+   "mech": "regime theory",
+   "mech_src": "added",
+   "mech_names": [
+    "regime theory",
+    "international regime theory",
+    "international regimes theory",
+    "theory of international regimes"
+   ],
+   "R_": 404,
+   "C_": 1555,
+   "O_": 0,
+   "share": 0.0,
+   "cls": "tail"
+  },
+  {
+   "key": "E9",
+   "idea": "Do firms adopt green supply chain practices in a sequence that builds cumulative capabilities, as the sand cone model proposes?",
+   "phenomenon": "sequential adoption of green supply chain practices",
+   "phenomenon_quote": "adopt green supply chain practices in a sequence",
+   "level": "organization",
+   "mechanism": "sand cone model",
+   "mechanism_quote": "in a sequence that builds cumulative capabilities, as the sand cone model proposes",
+   "mechanism_home": "social sciences",
+   "mq_ok": true,
+   "mech_added": {
+    "name": "cumulative capabilities model",
+    "names": [
+     "cumulative capabilities model",
+     "sand cone model",
+     "sand cone theory",
+     "cumulative capability model",
+     "cumulative capability theory",
+     "cumulative capabilities theory"
+    ],
+    "check": {
+     "hits": 87,
+     "on": 10
+    }
+   },
+   "phen_added": {
+    "name": "green supply chain management adoption",
+    "names": [
+     "green supply chain management adoption",
+     "gscm adoption",
+     "gscm practices adoption",
+     "gscm practice adoption",
+     "adoption of gscm practices",
+     "gscm implementation"
+    ],
+    "check": {
+     "hits": 436,
+     "on": 10
+    }
+   },
+   "row": "green supply chain management adoption",
+   "row_src": "added",
+   "row_names": [
+    "green supply chain management adoption",
+    "gscm adoption",
+    "gscm practices adoption",
+    "gscm practice adoption",
+    "adoption of gscm practices",
+    "gscm implementation"
+   ],
+   "mech": "cumulative capabilities model",
+   "mech_src": "added",
+   "mech_names": [
+    "cumulative capabilities model",
+    "sand cone model",
+    "sand cone theory",
+    "cumulative capability model",
+    "cumulative capability theory",
+    "cumulative capabilities theory"
+   ],
+   "R_": 436,
+   "C_": 87,
+   "O_": 1,
+   "share": 0.011494252873563218,
+   "cls": "too small to judge"
+  },
+  {
+   "key": "E10",
+   "idea": "Does CEO narcissism drive firms' corporate political activity?",
+   "phenomenon": "firms' corporate political activity",
+   "phenomenon_quote": "firms' corporate political activity",
+   "level": "organization",
+   "mechanism": "CEO narcissism",
+   "mechanism_quote": "CEO narcissism drive firms' corporate political activity",
+   "mechanism_home": "social sciences",
+   "mq_ok": true,
+   "mech_added": {
+    "name": "ceo narcissism",
+    "names": [
+     "ceo narcissism",
+     "narcissistic ceos",
+     "chief executive officer narcissism",
+     "ceo narcissistic tendencies",
+     "ceo narcissistic personality",
+     "narcissism of ceos"
+    ],
+    "check": {
+     "hits": 625,
+     "on": 10
+    }
+   },
+   "phen_added": {
+    "name": "corporate political activity",
+    "names": [
+     "corporate political activity",
+     "corporate political action",
+     "corporate political strategy",
+     "corporate political behavior",
+     "firm political activity",
+     "corporate political involvement"
+    ],
+    "check": {
+     "hits": 1599,
+     "on": 10
+    }
+   },
+   "row": "corporate political activity",
+   "row_src": "added",
+   "row_names": [
+    "corporate political activity",
+    "corporate political action",
+    "corporate political strategy",
+    "corporate political behavior",
+    "firm political activity",
+    "corporate political involvement"
+   ],
+   "mech": "ceo narcissism",
+   "mech_src": "added",
+   "mech_names": [
+    "ceo narcissism",
+    "narcissistic ceos",
+    "chief executive officer narcissism",
+    "ceo narcissistic tendencies",
+    "ceo narcissistic personality",
+    "narcissism of ceos"
+   ],
+   "R_": 1599,
+   "C_": 625,
+   "O_": 4,
+   "share": 0.0064,
+   "cls": "tail"
+  },
+  {
+   "key": "E11",
+   "idea": "Does a corporate Stockholm syndrome explain why employees stay committed to consistently dysfunctional organizations?",
+   "phenomenon": "employees staying committed to dysfunctional organizations",
+   "phenomenon_quote": "why employees stay committed to consistently dysfunctional organizations",
+   "level": "individual",
+   "mechanism": "corporate Stockholm syndrome",
+   "mechanism_quote": "corporate Stockholm syndrome explain why employees stay committed to consistently dysfunctional organizations",
+   "mechanism_home": "social sciences",
+   "mq_ok": true,
+   "cls": "mechanism not on the menu"
+  },
+  {
+   "key": "E12",
+   "idea": "Does temporal motivation theory explain why broad-based employee ownership affects productivity differently in family and nonfamily firms?",
+   "phenomenon": "differential productivity effects of broad-based employee ownership",
+   "phenomenon_quote": "broad-based employee ownership affects productivity differently in family and nonfamily firms",
+   "level": "organization",
+   "mechanism": "temporal motivation theory",
+   "mechanism_quote": "temporal motivation theory explain why broad-based employee ownership affects productivity differently in family and nonfamily firms",
+   "mechanism_home": "social sciences",
+   "mq_ok": true,
+   "mech_added": {
+    "name": "temporal motivation theory",
+    "names": [
+     "temporal motivation theory",
+     "temporal motivation theory of procrastination",
+     "temporal motivation theory model"
+    ],
+    "check": {
+     "hits": 120,
+     "on": 10
+    }
+   },
+   "cls": "phenomenon not on the menu"
+  }
+ ]
+}

@@ -1,0 +1,63 @@
+Validation set cases.json
+
+v3: 3 runs
+  K1   known-filled filled | filled | filled                                                                        -> hit
+  K2   known-filled mechanism not on the menu | mechanism not on the menu | names unusable                          -> no call
+  K3   outside      outside the social sciences | outside the social sciences | outside the social sciences         -> hit
+  F1   known-filled tail | tail | tail                                                                              -> miss
+  F2   known-filled phenomenon not on the menu | phenomenon not on the menu | phenomenon not on the menu            -> no call
+  F3   known-filled filled | filled | filled                                                                        -> hit
+  F4   known-filled names unusable | too small to judge | too small to judge                                        -> no call
+  F5   known-filled mechanism not on the menu | mechanism not on the menu | mechanism not on the menu               -> no call
+  F6   known-filled phenomenon not on the menu | phenomenon not on the menu | phenomenon not on the menu            -> no call
+  F7   known-filled filled | filled | filled                                                                        -> hit
+  F8   known-filled no mechanism stated | mechanism not on the menu | no mechanism stated                           -> no call
+  F9   known-filled filled | filled | filled                                                                        -> hit
+  F10  known-filled filled | phenomenon not on the menu | phenomenon not on the menu                                -> no call
+  E1   known-empty  names unusable | names unusable | names unusable                                                -> no call
+  E2   known-empty  names unusable | names unusable | names unusable                                                -> no call
+  E3   known-empty  names unusable | names unusable | names unusable                                                -> no call
+  E4   known-empty  mechanism not on the menu | mechanism not on the menu | mechanism not on the menu               -> no call
+  E5   known-empty  tail | tail | tail                                                                              -> hit
+  E6   known-empty  phenomenon not on the menu | phenomenon not on the menu | too small to judge                    -> no call
+  E7   known-empty  mechanism not on the menu | mechanism not on the menu | mechanism not on the menu               -> no call
+  E8   known-empty  mechanism not on the menu | mechanism not on the menu | mechanism not on the menu               -> no call
+  E9   known-empty  mechanism not on the menu | mechanism not on the menu | mechanism not on the menu               -> no call
+  E10  known-empty  no mechanism stated | mechanism not on the menu | mechanism not on the menu                     -> no call
+  E11  known-empty  mechanism not on the menu | mechanism not on the menu | mechanism not on the menu               -> no call
+  E12  known-empty  mechanism not on the menu | mechanism not on the menu | mechanism not on the menu               -> no call
+  known-filled: hit 4, miss 1, no call 7   (single runs: hit 13, miss 3, no call 20)
+  known-empty: hit 1, miss 0, no call 11   (single runs: hit 3, miss 0, no call 33)
+  outside: hit 1, miss 0, no call 0   (single runs: hit 3, miss 0, no call 0)
+  two-sided cases judged: 6 of 24, correct 5; degenerate single-run calls 0; same call in every run: 19 of 25
+
+v4: 3 runs
+  K1   known-filled phenomenon not on the menu | filled | filled                                                    -> hit
+  K2   known-filled too small to judge | filled | filled                                                            -> hit
+  K3   outside      outside the social sciences | outside the social sciences | outside the social sciences         -> hit
+  F1   known-filled tail | tail | names unusable                                                                    -> miss
+  F2   known-filled filled | tail | tail                                                                            -> miss
+  F3   known-filled filled | filled | filled                                                                        -> hit
+  F4   known-filled tail | too small to judge | too small to judge                                                  -> no call
+  F5   known-filled filled | filled | filled                                                                        -> hit
+  F6   known-filled degenerate | degenerate | degenerate                                                            -> no call
+  F7   known-filled filled | filled | filled                                                                        -> hit
+  F8   known-filled filled | filled | no mechanism stated                                                           -> hit
+  F9   known-filled filled | filled | filled                                                                        -> hit
+  F10  known-filled filled | filled | filled                                                                        -> hit
+  E1   known-empty  tail | tail | tail                                                                              -> hit
+  E2   known-empty  tail | phenomenon not on the menu | tail                                                        -> hit
+  E3   known-empty  tail | tail | tail                                                                              -> hit
+  E4   known-empty  tail | tail | tail                                                                              -> hit
+  E5   known-empty  tail | tail | tail                                                                              -> hit
+  E6   known-empty  too small to judge | too small to judge | degenerate                                            -> no call
+  E7   known-empty  tail | tail | tail                                                                              -> hit
+  E8   known-empty  tail | tail | tail                                                                              -> hit
+  E9   known-empty  too small to judge | phenomenon not on the menu | too small to judge                            -> no call
+  E10  known-empty  tail | tail | tail                                                                              -> hit
+  E11  known-empty  filled | phenomenon not on the menu | mechanism not on the menu                                 -> no call
+  E12  known-empty  phenomenon not on the menu | phenomenon not on the menu | phenomenon not on the menu            -> no call
+  known-filled: hit 8, miss 2, no call 2   (single runs: hit 22, miss 5, no call 9)
+  known-empty: hit 8, miss 0, no call 4   (single runs: hit 23, miss 1, no call 12)
+  outside: hit 1, miss 0, no call 0   (single runs: hit 3, miss 0, no call 0)
+  two-sided cases judged: 18 of 24, correct 16; degenerate single-run calls 4; same call in every run: 15 of 25

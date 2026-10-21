@@ -1,0 +1,24 @@
+{
+ "note": "Held-out validation set, fixed before placement v5 was written or run (October 21, 2026). None of these cases was used to design v4 or v5. Known-filled pairings come from established literatures with published reviews. Known-empty pairings are ones a 2022-2025 management article claims to be the first to study (OpenAlex ID of that article given). Idea texts are one-line paraphrases written for this test.",
+ "cases": [
+  {"key": "G1", "set": "filled", "expected": "filled", "idea": "Do firms appoint directors who link them to the providers of resources they depend on, as resource dependence theory proposes?", "basis": "resource dependence and boards (Hillman, Withers, and Collins 2009 review)"},
+  {"key": "G2", "set": "filled", "expected": "filled", "idea": "Does the loss of personal resources, as conservation of resources theory describes, drive employee burnout?", "basis": "conservation of resources and burnout (Hobfoll et al. 2018 review)"},
+  {"key": "G3", "set": "filled", "expected": "filled", "idea": "Does satisfying employees' needs for autonomy, competence, and relatedness, as self-determination theory proposes, raise their work motivation?", "basis": "self-determination theory and work motivation (Gagne and Deci 2005)"},
+  {"key": "G4", "set": "filled", "expected": "filled", "idea": "Does a firm's absorptive capacity, its ability to recognize and use outside knowledge, raise its innovation?", "basis": "absorptive capacity and innovation (Cohen and Levinthal 1990 onward)"},
+  {"key": "G5", "set": "filled", "expected": "filled", "idea": "Do large pay gaps between the CEO and other executives act as tournament prizes that motivate executives, as tournament theory proposes?", "basis": "tournament theory and executive pay (Connelly et al. 2014 review)"},
+  {"key": "G6", "set": "filled", "expected": "filled", "idea": "Does groupthink lead cohesive teams to make poor decisions?", "basis": "groupthink and group decisions (Janis 1972 onward)"},
+  {"key": "G7", "set": "filled", "expected": "filled", "idea": "Does trust between partner firms shape how strategic alliances are governed?", "basis": "trust and alliance governance (Gulati 1995 onward)"},
+  {"key": "G8", "set": "filled", "expected": "filled", "idea": "Does embeddedness in close interfirm ties improve firms' performance?", "basis": "embeddedness and interfirm networks (Uzzi 1996 onward)"},
+  {"key": "G9", "set": "filled", "expected": "filled", "idea": "Do employees judge their pay against others' pay, as equity theory proposes, so that perceived inequity lowers their pay satisfaction?", "basis": "equity theory and pay satisfaction (Adams 1965 onward)"},
+  {"key": "G10", "set": "filled", "expected": "filled", "idea": "Does population density, as organizational ecology proposes, shape the rates at which organizations are founded and fail?", "basis": "density dependence in organizational ecology (Hannan and Freeman 1989 onward)"},
+
+  {"key": "H1", "set": "empty", "expected": "tail", "idea": "Does employees' regulatory focus shape how being overqualified for their jobs affects their intention to leave?", "basis": "https://openalex.org/W4319663884"},
+  {"key": "H2", "set": "empty", "expected": "tail", "idea": "Do employees who work with learning algorithms craft their jobs, as job crafting theory proposes, to reshape their experience of work?", "basis": "https://openalex.org/W4313032306"},
+  {"key": "H3", "set": "empty", "expected": "tail", "idea": "Does incomplete contracting theory explain how business angels' ownership affects the transaction costs of the firms they invest in?", "basis": "https://openalex.org/W4391175400"},
+  {"key": "H4", "set": "empty", "expected": "tail", "idea": "Does empowering leadership raise worker productivity through a stimulus-organism-response process?", "basis": "https://openalex.org/W4409811375"},
+  {"key": "H5", "set": "empty", "expected": "tail", "idea": "Are people's perceptions of organizational greed shaped by motivated reasoning?", "basis": "https://openalex.org/W4295598372"},
+  {"key": "H6", "set": "empty", "expected": "tail", "idea": "Does construal level theory explain how family firms pursue digital product innovation?", "basis": "https://openalex.org/W4401964492"},
+  {"key": "H7", "set": "empty", "expected": "tail", "idea": "Does secularization shape the values that guide how family firms do business?", "basis": "https://openalex.org/W4403005056"},
+  {"key": "H8", "set": "empty", "expected": "tail", "idea": "Does structural equivalence explain the structure of supply networks, with firms in similar network positions behaving alike?", "basis": "https://openalex.org/W4403015384"}
+ ]
+}

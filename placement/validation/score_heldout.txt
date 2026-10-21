@@ -1,0 +1,47 @@
+Validation set cases_heldout.json
+
+v4: 3 runs
+  G1   known-filled filled | filled | filled                                                                        -> hit
+  G2   known-filled filled | filled | filled                                                                        -> hit
+  G3   known-filled filled | filled | filled                                                                        -> hit
+  G4   known-filled filled | filled | filled                                                                        -> hit
+  G5   known-filled tail | tail | tail                                                                              -> miss
+  G6   known-filled degenerate | too small to judge | degenerate                                                    -> no call
+  G7   known-filled tail | tail | tail                                                                              -> miss
+  G8   known-filled no mechanism stated | no mechanism stated | no mechanism stated                                 -> no call
+  G9   known-filled filled | filled | filled                                                                        -> hit
+  G10  known-filled phenomenon not on the menu | phenomenon not on the menu | too small to judge                    -> no call
+  H1   known-empty  no mechanism stated | no mechanism stated | no mechanism stated                                 -> no call
+  H2   known-empty  phenomenon not on the menu | phenomenon not on the menu | phenomenon not on the menu            -> no call
+  H3   known-empty  phenomenon not on the menu | phenomenon not on the menu | phenomenon not on the menu            -> no call
+  H4   known-empty  tail | tail | tail                                                                              -> hit
+  H5   known-empty  phenomenon not on the menu | phenomenon not on the menu | tail                                  -> no call
+  H6   known-empty  tail | tail | tail                                                                              -> hit
+  H7   known-empty  no mechanism stated | no mechanism stated | no mechanism stated                                 -> no call
+  H8   known-empty  tail | tail | tail                                                                              -> hit
+  known-filled: hit 5, miss 2, no call 3   (single runs: hit 15, miss 6, no call 9)
+  known-empty: hit 3, miss 0, no call 5   (single runs: hit 10, miss 0, no call 14)
+  two-sided cases judged: 10 of 18, correct 8; degenerate single-run calls 2; same call in every run: 15 of 18
+
+v5: 3 runs
+  G1   known-filled filled | filled | filled                                                                        -> hit
+  G2   known-filled filled | filled | filled                                                                        -> hit
+  G3   known-filled filled | filled | filled                                                                        -> hit
+  G4   known-filled filled | filled | filled                                                                        -> hit
+  G5   known-filled tail | tail | tail                                                                              -> miss
+  G6   known-filled tail | tail | tail                                                                              -> miss
+  G7   known-filled tail | tail | no mechanism stated                                                               -> miss
+  G8   known-filled filled | no mechanism stated | filled                                                           -> hit
+  G9   known-filled filled | filled | filled                                                                        -> hit
+  G10  known-filled filled | phenomenon not on the menu | filled                                                    -> hit
+  H1   known-empty  no mechanism stated | no mechanism stated | no mechanism stated                                 -> no call
+  H2   known-empty  filled | phenomenon not on the menu | phenomenon not on the menu                                -> no call
+  H3   known-empty  phenomenon not on the menu | phenomenon not on the menu | phenomenon not on the menu            -> no call
+  H4   known-empty  tail | tail | tail                                                                              -> hit
+  H5   known-empty  phenomenon not on the menu | phenomenon not on the menu | phenomenon not on the menu            -> no call
+  H6   known-empty  tail | tail | phenomenon not on the menu                                                        -> hit
+  H7   known-empty  tail | no mechanism stated | tail                                                               -> hit
+  H8   known-empty  tail | tail | tail                                                                              -> hit
+  known-filled: hit 7, miss 3, no call 0   (single runs: hit 19, miss 8, no call 3)
+  known-empty: hit 4, miss 0, no call 4   (single runs: hit 10, miss 1, no call 13)
+  two-sided cases judged: 14 of 18, correct 11; degenerate single-run calls 0; same call in every run: 12 of 18

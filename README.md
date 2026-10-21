@@ -36,6 +36,7 @@ Outputs go to `sim/figures/` (PNG and PDF) and `sim/tables/` (Markdown and CSV).
 | Appendix A4, retraining versus follow-ups | `sim/results/loop_decomposition.txt`, `sim/results/loop_decomposition_ext.txt` | `loop_decomposition.py`, `loop_decomposition_ext.py` | |
 | Table A5, review sources | `vocab/sources_ids.json` | `build_vocab.py` | |
 | Table A7, the three known cases | `placement/placement_v3_known.json` | `placement_v3.py` | |
+| Appendix A6, validating placement | `placement/validation/score_main.txt`, `placement/validation/score_heldout.txt` | `placement/validation/score.py` | `placement_v4.py`, `placement_v5.py` |
 
 Every simulation result is a mean of 20 runs (seeds 0 to 19). Saved results are in `sim/results/` as `.npz` arrays with a `.json` index of settings.
 
@@ -80,13 +81,26 @@ python3 placement_v3.py --dry    # load the vocabulary only, no API calls
 python3 placement_v3.py          # rerun the three cases, then print them next to the recorded results
 ```
 
-A rerun costs well under US$1. OpenAlex counts drift between queries, and the model's choice of vocabulary entry can vary between runs, so a rerun can differ from the record of October 6, 2026. On a rerun on October 21, 2026, K1 and K3 came out as recorded (K1 with 7 works in the cell against 8), and K2 came out as "mechanism not on the menu" because the model chose no mechanism entry (Appendix A6).
+A rerun costs well under US$1. OpenAlex counts drift between queries, and the model's choice of vocabulary entry can vary between runs, so a rerun can differ from the record of October 6, 2026. On four reruns on October 21, 2026, K1 and K3 came out as recorded (K1 with 7 works in the cell against 8), and K2 came out as "mechanism not on the menu" because the model reads the mechanism as legitimacy borrowing or transfer, which the vocabulary lacks (Appendix A6). Three of those reruns are in `validation/v3_reruns/`.
+
+### Validating placement (`placement/validation/`)
+
+`placement_v4.py` and `placement_v5.py` add the fixes described in Appendix A6 (name repair, entries on demand, stricter choosing, widening, and distinct sides). `cases.json` is the first set of 25 pairings, used to design the fixes, and `cases_heldout.json` the 18 pairings held out from the design. Known-empty pairings carry the OpenAlex identifier of the article that claims to study them first. The scoring rules are fixed in the header of `placement_v4.py`, and `score.py` applies them.
+
+```
+cd placement/validation
+python3 placement_v5.py v5 1 cases_heldout.json   # one run of v5 on the held-out set (also v3 or v4; any run number)
+python3 score.py cases_heldout.json               # score every saved run of the held-out set
+python3 score.py                                  # the same for the first set
+```
+
+Every run reported in Appendix A6 is saved as `results_<version>_[heldout_]run<n>.json`, and `v3_reruns/` holds v3's runs on the known cases and on the first five pairings. Like any rerun of placement, a new run can differ from the saved ones.
 
 ## Keys, models, and costs
 
 - **`OPENAI_API_KEY`** is needed only to rebuild the vocabulary or rerun placement. Those steps use GPT-5.5 and text-embedding-3-large. The simulation and `reproduce.sh` call no model.
 - **`OPENALEX_API_KEY`** is optional. OpenAlex works without one at a lower rate limit.
-- **Costs.** Stage 1's model calls cost under US$45 in API fees.
+- **Costs.** Stage 1's model calls cost under US$45 in API fees, before the placement validation of October 21, 2026.
 - **Model access.** GPT-5.5's outputs ship here as a fixed record, so every result reruns without access to any model. Stage 2 adds an open-weight check with gpt-oss-120b (Appendix A11).
 
 ## Licenses

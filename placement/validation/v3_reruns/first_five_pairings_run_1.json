@@ -1,0 +1,98 @@
+{
+ "empty": [
+  {
+   "key": "E1",
+   "idea": "Does the fraud triangle of pressure, opportunity, and rationalization explain why firms hold ISO 14001 environmental certification without implementing it?",
+   "phenomenon": "firms holding ISO 14001 environmental certification without implementing it",
+   "phenomenon_quote": "why firms hold ISO 14001 environmental certification without implementing it",
+   "level": "organization",
+   "mechanism": "fraud triangle",
+   "mechanism_quote": "the fraud triangle of pressure, opportunity, and rationalization explain",
+   "mechanism_home": "social sciences",
+   "mq_ok": true,
+   "row": "spurious successes",
+   "mech": "fraud triangle",
+   "row_check": {
+    "hits": 3,
+    "on": 1
+   },
+   "mech_check": {
+    "hits": 2010,
+    "on": 10
+   },
+   "cls": "names unusable"
+  },
+  {
+   "key": "E2",
+   "idea": "When an organization's leader commits a public transgression, does the transgression threaten members' identity, so that they disengage from the organization and stop buying from it?",
+   "phenomenon": "members disengage and stop buying after leader transgression",
+   "phenomenon_quote": "they disengage from the organization and stop buying from it",
+   "level": "individual",
+   "mechanism": "identity threat",
+   "mechanism_quote": "the transgression threaten members' identity",
+   "mechanism_home": "social sciences",
+   "mq_ok": true,
+   "row": "member departure",
+   "mech": "identity threat",
+   "row_check": {
+    "hits": 22,
+    "on": 7
+   },
+   "mech_check": {
+    "hits": 2064,
+    "on": 10
+   },
+   "cls": "names unusable"
+  },
+  {
+   "key": "E3",
+   "idea": "Does the theory of planned behavior explain a firm's green innovation, with subjective norms coming from its supply chain partners?",
+   "phenomenon": "firm green innovation",
+   "phenomenon_quote": "a firm's green innovation",
+   "level": "organization",
+   "mechanism": "theory of planned behavior",
+   "mechanism_quote": "the theory of planned behavior explain a firm's green innovation, with subjective norms coming from its supply chain partners",
+   "mechanism_home": "social sciences",
+   "mq_ok": true,
+   "row": "green innovation implementation",
+   "mech": "planned behavior",
+   "row_check": {
+    "hits": 35,
+    "on": 7
+   },
+   "mech_check": {
+    "hits": 25037,
+    "on": 10
+   },
+   "cls": "names unusable"
+  },
+  {
+   "key": "E4",
+   "idea": "Does a leader's humor spur employees' creative work behavior by raising their prosocial motivation?",
+   "phenomenon": "employees' creative work behavior",
+   "phenomenon_quote": "employees' creative work behavior",
+   "level": "individual",
+   "mechanism": "prosocial motivation",
+   "mechanism_quote": "by raising their prosocial motivation",
+   "mechanism_home": "social sciences",
+   "mq_ok": true,
+   "row": "employee creativity",
+   "mech": null,
+   "cls": "mechanism not on the menu"
+  },
+  {
+   "key": "E5",
+   "idea": "In hostile takeovers, do the target's managers shape how employees respond through sensemaking and sensegiving?",
+   "phenomenon": "employee responses to hostile takeovers",
+   "phenomenon_quote": "how employees respond",
+   "level": "individual",
+   "mechanism": "sensemaking and sensegiving",
+   "mechanism_quote": "through sensemaking and sensegiving",
+   "mechanism_home": "social sciences",
+   "mq_ok": true,
+   "row": "reactions to change",
+   "mech": null,
+   "cls": "mechanism not on the menu"
+  }
+ ]
+}

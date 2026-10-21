@@ -1,0 +1,1520 @@
+{
+ "version": "v5",
+ "run": "1",
+ "results": [
+  {
+   "key": "G1",
+   "idea": "Do firms appoint directors who link them to the providers of resources they depend on, as resource dependence theory proposes?",
+   "retry": false,
+   "phenomenon": "firms appoint directors linking them to resource providers",
+   "phenomenon_quote": "firms appoint directors who link them to the providers of resources they depend on",
+   "level": "organization",
+   "mechanism": "resource dependence theory",
+   "mechanism_quote": "as resource dependence theory proposes",
+   "mechanism_home": "social sciences",
+   "mq_ok": true,
+   "mech_check": {
+    "hits": 9756,
+    "on": 10
+   },
+   "mech_widened": {
+    "names": [
+     "resource dependence",
+     "resource dependence theory",
+     "resource dependency",
+     "resource dependency theory",
+     "resource dependence perspective",
+     "resource dependency perspective",
+     "resource dependence approach",
+     "resource dependency approach",
+     "resource dependence model"
+    ],
+    "check": {
+     "hits": 9756,
+     "on": 10
+    }
+   },
+   "phen_check": {
+    "hits": 191,
+    "on": 10
+   },
+   "phen_widened": {
+    "names": [
+     "director selection",
+     "board director selection",
+     "corporate director selection",
+     "board member selection",
+     "director nomination",
+     "director appointment",
+     "board recruitment"
+    ],
+    "check": {
+     "hits": 560,
+     "on": 10
+    }
+   },
+   "row": "director selection",
+   "row_src": "menu+widened",
+   "row_names": [
+    "director selection",
+    "board director selection",
+    "corporate director selection",
+    "board member selection",
+    "director nomination",
+    "director appointment",
+    "board recruitment"
+   ],
+   "mech": "resource dependence",
+   "mech_src": "menu+widened",
+   "mech_names": [
+    "resource dependence",
+    "resource dependence theory",
+    "resource dependency",
+    "resource dependency theory",
+    "resource dependence perspective",
+    "resource dependency perspective",
+    "resource dependence approach",
+    "resource dependency approach",
+    "resource dependence model"
+   ],
+   "R_": 560,
+   "C_": 9756,
+   "O_": 16,
+   "share": 0.02857142857142857,
+   "cls": "filled"
+  },
+  {
+   "key": "G2",
+   "idea": "Does the loss of personal resources, as conservation of resources theory describes, drive employee burnout?",
+   "retry": false,
+   "phenomenon": "employee burnout",
+   "phenomenon_quote": "employee burnout",
+   "level": "individual",
+   "mechanism": "conservation of resources theory",
+   "mechanism_quote": "the loss of personal resources, as conservation of resources theory describes, drive employee burnout",
+   "mechanism_home": "social sciences",
+   "mq_ok": true,
+   "mech_check": {
+    "hits": 7725,
+    "on": 10
+   },
+   "mech_widened": {
+    "names": [
+     "conservation of resources",
+     "conservation of resources theory",
+     "cor theory",
+     "conservation of resources model",
+     "cor model",
+     "resource conservation theory",
+     "theory of conservation of resources"
+    ],
+    "check": {
+     "hits": 8200,
+     "on": 10
+    }
+   },
+   "phen_check": {
+    "hits": 78301,
+    "on": 10
+   },
+   "phen_widened": {
+    "names": [
+     "occupational burnout",
+     "job burnout",
+     "employee burnout",
+     "professional burnout",
+     "work-related burnout",
+     "burnout syndrome"
+    ],
+    "check": {
+     "hits": 13115,
+     "on": 10
+    }
+   },
+   "row": "burnout",
+   "row_src": "menu+widened",
+   "row_names": [
+    "occupational burnout",
+    "job burnout",
+    "employee burnout",
+    "professional burnout",
+    "work-related burnout",
+    "burnout syndrome"
+   ],
+   "mech": "conservation of resources",
+   "mech_src": "menu+widened",
+   "mech_names": [
+    "conservation of resources",
+    "conservation of resources theory",
+    "cor theory",
+    "conservation of resources model",
+    "cor model",
+    "resource conservation theory",
+    "theory of conservation of resources"
+   ],
+   "R_": 13115,
+   "C_": 8200,
+   "O_": 247,
+   "share": 0.030121951219512194,
+   "cls": "filled"
+  },
+  {
+   "key": "G3",
+   "idea": "Does satisfying employees' needs for autonomy, competence, and relatedness, as self-determination theory proposes, raise their work motivation?",
+   "retry": false,
+   "phenomenon": "employee work motivation",
+   "phenomenon_quote": "work motivation",
+   "level": "individual",
+   "mechanism": "self-determination theory",
+   "mechanism_quote": "satisfying employees' needs for autonomy, competence, and relatedness, as self-determination theory proposes",
+   "mechanism_home": "social sciences",
+   "mq_ok": true,
+   "mech_check": {
+    "hits": 23009,
+    "on": 10
+   },
+   "mech_widened": {
+    "names": [
+     "self-determination theory",
+     "self determination theory",
+     "theory of self-determination",
+     "deci and ryan theory",
+     "deci and ryan's theory",
+     "self-determination framework",
+     "self-determination perspective"
+    ],
+    "check": {
+     "hits": 23649,
+     "on": 10
+    }
+   },
+   "phen_check": {
+    "hits": 27712,
+    "on": 10
+   },
+   "phen_widened": {
+    "names": [
+     "work motivation",
+     "employee motivation",
+     "job motivation",
+     "motivation to work",
+     "motivation at work",
+     "workplace motivation",
+     "motivation in the workplace"
+    ],
+    "check": {
+     "hits": 49895,
+     "on": 10
+    }
+   },
+   "row": "work motivation",
+   "row_src": "menu+widened",
+   "row_names": [
+    "work motivation",
+    "employee motivation",
+    "job motivation",
+    "motivation to work",
+    "motivation at work",
+    "workplace motivation",
+    "motivation in the workplace"
+   ],
+   "mech": "self-determination theory",
+   "mech_src": "menu+widened",
+   "mech_names": [
+    "self-determination theory",
+    "self determination theory",
+    "theory of self-determination",
+    "deci and ryan theory",
+    "deci and ryan's theory",
+    "self-determination framework",
+    "self-determination perspective"
+   ],
+   "R_": 49895,
+   "C_": 23649,
+   "O_": 906,
+   "share": 0.038310287961436,
+   "cls": "filled"
+  },
+  {
+   "key": "G4",
+   "idea": "Does a firm's absorptive capacity, its ability to recognize and use outside knowledge, raise its innovation?",
+   "retry": false,
+   "phenomenon": "firm innovation",
+   "phenomenon_quote": "raise its innovation",
+   "level": "organization",
+   "mechanism": "absorptive capacity",
+   "mechanism_quote": "a firm's absorptive capacity, its ability to recognize and use outside knowledge",
+   "mechanism_home": "social sciences",
+   "mq_ok": true,
+   "mech_added": {
+    "name": "absorptive capacity",
+    "names": [
+     "absorptive capacity",
+     "absorptive capacities",
+     "organizational absorptive capacity",
+     "firm absorptive capacity",
+     "firm-level absorptive capacity",
+     "knowledge absorptive capacity"
+    ],
+    "check": {
+     "hits": 15167,
+     "on": 10
+    }
+   },
+   "mech_widened": {
+    "names": [
+     "absorptive capacity",
+     "absorptive capacities",
+     "organizational absorptive capacity",
+     "firm absorptive capacity",
+     "firm-level absorptive capacity",
+     "knowledge absorptive capacity",
+     "absorptive capability",
+     "absorption capacity",
+     "knowledge absorption capacity",
+     "knowledge absorption capability",
+     "external knowledge absorption capacity",
+     "absorptive capacity theory"
+    ],
+    "check": {
+     "hits": 15739,
+     "on": 10
+    }
+   },
+   "phen_check": {
+    "hits": 7542,
+    "on": 10
+   },
+   "phen_widened": {
+    "names": [
+     "firm innovation",
+     "corporate innovation",
+     "company innovation",
+     "enterprise innovation",
+     "business innovation",
+     "firm innovativeness",
+     "firm-level innovation"
+    ],
+    "check": {
+     "hits": 26789,
+     "on": 10
+    }
+   },
+   "row": "firm innovation",
+   "row_src": "menu+widened",
+   "row_names": [
+    "firm innovation",
+    "corporate innovation",
+    "company innovation",
+    "enterprise innovation",
+    "business innovation",
+    "firm innovativeness",
+    "firm-level innovation"
+   ],
+   "mech": "absorptive capacity",
+   "mech_src": "added+widened",
+   "mech_names": [
+    "absorptive capacity",
+    "absorptive capacities",
+    "organizational absorptive capacity",
+    "firm absorptive capacity",
+    "firm-level absorptive capacity",
+    "knowledge absorptive capacity",
+    "absorptive capability",
+    "absorption capacity",
+    "knowledge absorption capacity",
+    "knowledge absorption capability",
+    "external knowledge absorption capacity",
+    "absorptive capacity theory"
+   ],
+   "R_": 26789,
+   "C_": 15739,
+   "O_": 638,
+   "share": 0.04053624753796302,
+   "cls": "filled"
+  },
+  {
+   "key": "G5",
+   "idea": "Do large pay gaps between the CEO and other executives act as tournament prizes that motivate executives, as tournament theory proposes?",
+   "retry": false,
+   "phenomenon": "executive motivation",
+   "phenomenon_quote": "motivate executives",
+   "level": "individual",
+   "mechanism": "tournament theory",
+   "mechanism_quote": "large pay gaps between the CEO and other executives act as tournament prizes that motivate executives, as tournament theory proposes",
+   "mechanism_home": "social sciences",
+   "mq_ok": true,
+   "mech_check": {
+    "hits": 534,
+    "on": 10
+   },
+   "mech_widened": {
+    "names": [
+     "tournament theory",
+     "rank-order tournament theory",
+     "rank-order tournaments",
+     "tournament model",
+     "promotion tournaments",
+     "relative performance evaluation",
+     "contest theory"
+    ],
+    "check": {
+     "hits": 2509,
+     "on": 10
+    }
+   },
+   "phen_check": {
+    "hits": 12,
+    "on": 5
+   },
+   "phen_repaired": {
+    "names": [
+     "executive motives",
+     "ceo motives",
+     "ceo motivations",
+     "executive motivations",
+     "top executive motives",
+     "managerial motives",
+     "managerial motivations"
+    ],
+    "check": {
+     "hits": 664,
+     "on": 10
+    }
+   },
+   "phen_widened": {
+    "names": [
+     "executive motives",
+     "ceo motives",
+     "ceo motivations",
+     "executive motivations",
+     "top executive motives",
+     "managerial motives",
+     "managerial motivations",
+     "leader motive profile",
+     "leadership motive pattern",
+     "motivation to manage",
+     "managerial work motivation",
+     "executive work motivation",
+     "ceo work motivation"
+    ],
+    "check": {
+     "hits": 1021,
+     "on": 10
+    }
+   },
+   "row": "executive motives",
+   "row_src": "repaired+widened",
+   "row_names": [
+    "executive motives",
+    "ceo motives",
+    "ceo motivations",
+    "executive motivations",
+    "top executive motives",
+    "managerial motives",
+    "managerial motivations",
+    "leader motive profile",
+    "leadership motive pattern",
+    "motivation to manage",
+    "managerial work motivation",
+    "executive work motivation",
+    "ceo work motivation"
+   ],
+   "mech": "tournament theory",
+   "mech_src": "menu+widened",
+   "mech_names": [
+    "tournament theory",
+    "rank-order tournament theory",
+    "rank-order tournaments",
+    "tournament model",
+    "promotion tournaments",
+    "relative performance evaluation",
+    "contest theory"
+   ],
+   "R_": 1021,
+   "C_": 2509,
+   "O_": 3,
+   "share": 0.002938295788442703,
+   "cls": "tail"
+  },
+  {
+   "key": "G6",
+   "idea": "Does groupthink lead cohesive teams to make poor decisions?",
+   "retry": false,
+   "phenomenon": "poor decisions by cohesive teams",
+   "phenomenon_quote": "cohesive teams to make poor decisions",
+   "level": "group",
+   "mechanism": "groupthink",
+   "mechanism_quote": "groupthink lead cohesive teams to make poor decisions",
+   "mechanism_home": "social sciences",
+   "mq_ok": true,
+   "mech_added": {
+    "name": "groupthink",
+    "names": [
+     "groupthink phenomenon",
+     "groupthink syndrome",
+     "groupthink theory",
+     "groupthink model",
+     "janis groupthink model",
+     "janis groupthink theory"
+    ],
+    "check": {
+     "hits": 167,
+     "on": 10
+    }
+   },
+   "mech_widened": {
+    "names": [
+     "groupthink phenomenon",
+     "groupthink syndrome",
+     "groupthink theory",
+     "groupthink model",
+     "janis groupthink model",
+     "janis groupthink theory",
+     "concurrence-seeking tendency",
+     "premature concurrence seeking",
+     "collective concurrence seeking",
+     "bay of pigs syndrome",
+     "groupthink hypothesis"
+    ],
+    "check": {
+     "hits": 176,
+     "on": 10
+    }
+   },
+   "phen_check": {
+    "hits": 63,
+    "on": 10
+   },
+   "phen_widened": {
+    "names": [
+     "team errors",
+     "team mistakes",
+     "group errors",
+     "group mistakes",
+     "collective errors",
+     "collective mistakes",
+     "crew errors"
+    ],
+    "check": {
+     "hits": 371,
+     "on": 10
+    }
+   },
+   "row": "team errors",
+   "row_src": "menu+widened",
+   "row_names": [
+    "team errors",
+    "team mistakes",
+    "group errors",
+    "group mistakes",
+    "collective errors",
+    "collective mistakes",
+    "crew errors"
+   ],
+   "mech": "groupthink",
+   "mech_src": "added+widened",
+   "mech_names": [
+    "groupthink phenomenon",
+    "groupthink syndrome",
+    "groupthink theory",
+    "groupthink model",
+    "janis groupthink model",
+    "janis groupthink theory",
+    "concurrence-seeking tendency",
+    "premature concurrence seeking",
+    "collective concurrence seeking",
+    "bay of pigs syndrome",
+    "groupthink hypothesis"
+   ],
+   "R_": 371,
+   "C_": 176,
+   "O_": 0,
+   "share": 0.0,
+   "cls": "tail"
+  },
+  {
+   "key": "G7",
+   "idea": "Does trust between partner firms shape how strategic alliances are governed?",
+   "retry": false,
+   "phenomenon": "strategic alliance governance",
+   "phenomenon_quote": "how strategic alliances are governed",
+   "level": "organization",
+   "mechanism": "trust",
+   "mechanism_quote": "trust between partner firms shape",
+   "mechanism_home": "social sciences",
+   "mq_ok": true,
+   "mech_added": {
+    "name": "trust",
+    "names": [
+     "social trust",
+     "interpersonal trust",
+     "generalized trust",
+     "particularized trust",
+     "institutional trust",
+     "political trust"
+    ],
+    "check": {
+     "hits": 25566,
+     "on": 10
+    }
+   },
+   "mech_widened": {
+    "names": [
+     "social trust",
+     "interpersonal trust",
+     "generalized trust",
+     "particularized trust",
+     "institutional trust",
+     "political trust",
+     "horizontal trust",
+     "vertical trust",
+     "thin trust",
+     "thick trust",
+     "public trust",
+     "confidence in institutions"
+    ],
+    "check": {
+     "hits": 58024,
+     "on": 10
+    }
+   },
+   "phen_added": {
+    "name": "strategic alliance governance",
+    "names": [
+     "strategic alliance governance",
+     "alliance governance",
+     "governance of strategic alliances",
+     "strategic alliance governance structure",
+     "alliance governance structure",
+     "interfirm alliance governance"
+    ],
+    "check": {
+     "hits": 324,
+     "on": 10
+    }
+   },
+   "phen_widened": {
+    "names": [
+     "strategic alliance governance",
+     "alliance governance",
+     "governance of strategic alliances",
+     "strategic alliance governance structure",
+     "alliance governance structure",
+     "interfirm alliance governance",
+     "interorganizational governance",
+     "interorganizational relationship governance",
+     "governance of interorganizational relationships",
+     "interfirm relationship governance",
+     "governance of interfirm relationships",
+     "interorganizational governance structure"
+    ],
+    "check": {
+     "hits": 448,
+     "on": 10
+    }
+   },
+   "row": "strategic alliance governance",
+   "row_src": "added+widened",
+   "row_names": [
+    "strategic alliance governance",
+    "alliance governance",
+    "governance of strategic alliances",
+    "strategic alliance governance structure",
+    "alliance governance structure",
+    "interfirm alliance governance",
+    "interorganizational governance",
+    "interorganizational relationship governance",
+    "governance of interorganizational relationships",
+    "interfirm relationship governance",
+    "governance of interfirm relationships",
+    "interorganizational governance structure"
+   ],
+   "mech": "trust",
+   "mech_src": "added+widened",
+   "mech_names": [
+    "social trust",
+    "interpersonal trust",
+    "generalized trust",
+    "particularized trust",
+    "institutional trust",
+    "political trust",
+    "horizontal trust",
+    "vertical trust",
+    "thin trust",
+    "thick trust",
+    "public trust",
+    "confidence in institutions"
+   ],
+   "R_": 448,
+   "C_": 58024,
+   "O_": 3,
+   "share": 0.006696428571428571,
+   "cls": "tail"
+  },
+  {
+   "key": "G8",
+   "idea": "Does embeddedness in close interfirm ties improve firms' performance?",
+   "retry": false,
+   "phenomenon": "firm performance",
+   "phenomenon_quote": "firms' performance",
+   "level": "organization",
+   "mechanism": "embeddedness",
+   "mechanism_quote": "embeddedness in close interfirm ties",
+   "mechanism_home": "social sciences",
+   "mq_ok": true,
+   "mech_check": {
+    "hits": 2416,
+    "on": 10
+   },
+   "mech_widened": {
+    "names": [
+     "social embeddedness",
+     "embeddedness theory",
+     "social embeddedness theory",
+     "embeddedness perspective",
+     "embeddedness approach",
+     "network embeddedness",
+     "social network embeddedness"
+    ],
+    "check": {
+     "hits": 4415,
+     "on": 10
+    }
+   },
+   "phen_check": {
+    "hits": 58187,
+    "on": 10
+   },
+   "phen_widened": {
+    "names": [
+     "firm performance",
+     "organizational performance",
+     "business performance",
+     "company performance",
+     "corporate performance",
+     "enterprise performance",
+     "organizational effectiveness"
+    ],
+    "check": {
+     "hits": 190588,
+     "on": 9
+    }
+   },
+   "row": "firm performance",
+   "row_src": "menu+widened",
+   "row_names": [
+    "firm performance",
+    "organizational performance",
+    "business performance",
+    "company performance",
+    "corporate performance",
+    "enterprise performance",
+    "organizational effectiveness"
+   ],
+   "mech": "social embeddedness",
+   "mech_src": "menu+widened",
+   "mech_names": [
+    "social embeddedness",
+    "embeddedness theory",
+    "social embeddedness theory",
+    "embeddedness perspective",
+    "embeddedness approach",
+    "network embeddedness",
+    "social network embeddedness"
+   ],
+   "R_": 190588,
+   "C_": 4415,
+   "O_": 129,
+   "share": 0.029218573046432616,
+   "cls": "filled"
+  },
+  {
+   "key": "G9",
+   "idea": "Do employees judge their pay against others' pay, as equity theory proposes, so that perceived inequity lowers their pay satisfaction?",
+   "retry": false,
+   "phenomenon": "pay satisfaction",
+   "phenomenon_quote": "perceived inequity lowers their pay satisfaction",
+   "level": "individual",
+   "mechanism": "equity theory",
+   "mechanism_quote": "employees judge their pay against others' pay, as equity theory proposes",
+   "mechanism_home": "social sciences",
+   "mq_ok": true,
+   "mech_added": {
+    "name": "equity theory",
+    "names": [
+     "equity theory",
+     "adams' equity theory",
+     "adams equity theory",
+     "equity theory of motivation",
+     "equity theory of social exchange",
+     "theory of inequity"
+    ],
+    "check": {
+     "hits": 2834,
+     "on": 10
+    }
+   },
+   "mech_widened": {
+    "names": [
+     "equity theory",
+     "adams' equity theory",
+     "adams equity theory",
+     "equity theory of motivation",
+     "equity theory of social exchange",
+     "theory of inequity",
+     "inequity theory",
+     "adams' theory of inequity",
+     "adams's theory of inequity"
+    ],
+    "check": {
+     "hits": 2853,
+     "on": 10
+    }
+   },
+   "phen_added": {
+    "name": "pay satisfaction",
+    "names": [
+     "pay satisfaction",
+     "satisfaction with pay",
+     "salary satisfaction",
+     "satisfaction with salary",
+     "wage satisfaction",
+     "satisfaction with wages"
+    ],
+    "check": {
+     "hits": 2455,
+     "on": 10
+    }
+   },
+   "phen_widened": {
+    "names": [
+     "pay satisfaction",
+     "satisfaction with pay",
+     "salary satisfaction",
+     "satisfaction with salary",
+     "wage satisfaction",
+     "satisfaction with wages",
+     "compensation satisfaction",
+     "satisfaction with compensation",
+     "remuneration satisfaction",
+     "satisfaction with remuneration",
+     "earnings satisfaction",
+     "satisfaction with earnings"
+    ],
+    "check": {
+     "hits": 3537,
+     "on": 9
+    }
+   },
+   "row": "pay satisfaction",
+   "row_src": "added+widened",
+   "row_names": [
+    "pay satisfaction",
+    "satisfaction with pay",
+    "salary satisfaction",
+    "satisfaction with salary",
+    "wage satisfaction",
+    "satisfaction with wages",
+    "compensation satisfaction",
+    "satisfaction with compensation",
+    "remuneration satisfaction",
+    "satisfaction with remuneration",
+    "earnings satisfaction",
+    "satisfaction with earnings"
+   ],
+   "mech": "equity theory",
+   "mech_src": "added+widened",
+   "mech_names": [
+    "equity theory",
+    "adams' equity theory",
+    "adams equity theory",
+    "equity theory of motivation",
+    "equity theory of social exchange",
+    "theory of inequity",
+    "inequity theory",
+    "adams' theory of inequity",
+    "adams's theory of inequity"
+   ],
+   "R_": 3537,
+   "C_": 2853,
+   "O_": 42,
+   "share": 0.014721345951629864,
+   "cls": "filled"
+  },
+  {
+   "key": "G10",
+   "idea": "Does population density, as organizational ecology proposes, shape the rates at which organizations are founded and fail?",
+   "retry": false,
+   "phenomenon": "organizational founding and failure rates",
+   "phenomenon_quote": "rates at which organizations are founded and fail",
+   "level": "field or industry",
+   "mechanism": "density dependence",
+   "mechanism_quote": "population density, as organizational ecology proposes, shape the rates",
+   "mechanism_home": "social sciences",
+   "mq_ok": true,
+   "mech_added": {
+    "name": "density dependence",
+    "names": [
+     "density dependence",
+     "density dependence theory",
+     "organizational density dependence",
+     "density-dependent theory",
+     "density-dependent model",
+     "density-dependence model"
+    ],
+    "check": {
+     "hits": 280,
+     "on": 10
+    }
+   },
+   "phen_added": {
+    "name": "organizational vital rates",
+    "names": [
+     "organizational vital rates",
+     "founding and failure rates",
+     "founding and mortality rates",
+     "organizational founding and failure",
+     "organizational founding and mortality",
+     "organizational birth and death rates"
+    ],
+    "check": {
+     "hits": 60,
+     "on": 6
+    }
+   },
+   "phen_widened": {
+    "names": [
+     "organizational vital rates",
+     "founding and failure rates",
+     "founding and mortality rates",
+     "organizational founding and failure",
+     "organizational founding and mortality",
+     "organizational birth and death rates",
+     "organizational ecology",
+     "population ecology of organizations",
+     "organizational population ecology",
+     "business demography",
+     "firm demography",
+     "firm entry and exit rates"
+    ],
+    "check": {
+     "hits": 1827,
+     "on": 10
+    }
+   },
+   "row": "organizational vital rates",
+   "row_src": "added+widened",
+   "row_names": [
+    "organizational vital rates",
+    "founding and failure rates",
+    "founding and mortality rates",
+    "organizational founding and failure",
+    "organizational founding and mortality",
+    "organizational birth and death rates",
+    "organizational ecology",
+    "population ecology of organizations",
+    "organizational population ecology",
+    "business demography",
+    "firm demography",
+    "firm entry and exit rates"
+   ],
+   "mech": "density dependence",
+   "mech_src": "added",
+   "mech_names": [
+    "density dependence",
+    "density dependence theory",
+    "organizational density dependence",
+    "density-dependent theory",
+    "density-dependent model",
+    "density-dependence model"
+   ],
+   "R_": 1827,
+   "C_": 280,
+   "O_": 56,
+   "share": 0.2,
+   "cls": "filled"
+  },
+  {
+   "key": "H1",
+   "idea": "Does employees' regulatory focus shape how being overqualified for their jobs affects their intention to leave?",
+   "retry": false,
+   "phenomenon": "overqualification and intention to leave",
+   "phenomenon_quote": "being overqualified for their jobs affects their intention to leave",
+   "level": "individual",
+   "mechanism": "none",
+   "mechanism_quote": "",
+   "mechanism_home": "",
+   "mq_ok": false,
+   "cls": "no mechanism stated"
+  },
+  {
+   "key": "H2",
+   "idea": "Do employees who work with learning algorithms craft their jobs, as job crafting theory proposes, to reshape their experience of work?",
+   "retry": false,
+   "phenomenon": "employees' experience of work with learning algorithms",
+   "phenomenon_quote": "reshape their experience of work",
+   "level": "individual",
+   "mechanism": "job crafting",
+   "mechanism_quote": "craft their jobs, as job crafting theory proposes, to reshape their experience of work",
+   "mechanism_home": "social sciences",
+   "mq_ok": true,
+   "mech_added": {
+    "name": "job crafting",
+    "names": [
+     "job crafting",
+     "individual job crafting",
+     "employee job crafting",
+     "job crafting behavior",
+     "job crafting behaviours",
+     "job crafting activities"
+    ],
+    "check": {
+     "hits": 4819,
+     "on": 10
+    }
+   },
+   "mech_widened": {
+    "names": [
+     "job crafting",
+     "individual job crafting",
+     "employee job crafting",
+     "job crafting behavior",
+     "job crafting behaviours",
+     "job crafting activities",
+     "crafting a job",
+     "proactive job redesign",
+     "bottom-up job redesign",
+     "bottom-up job design",
+     "self-initiated job redesign",
+     "employee-initiated job redesign"
+    ],
+    "check": {
+     "hits": 4940,
+     "on": 10
+    }
+   },
+   "phen_added": {
+    "name": "working with algorithms",
+    "names": [
+     "working with algorithms",
+     "work with algorithms",
+     "working with ai",
+     "work with ai",
+     "working with artificial intelligence",
+     "human-ai collaboration at work"
+    ],
+    "check": {
+     "hits": 2491,
+     "on": 8
+    }
+   },
+   "phen_widened": {
+    "names": [
+     "working with algorithms",
+     "work with algorithms",
+     "working with ai",
+     "work with ai",
+     "working with artificial intelligence",
+     "human-ai collaboration at work",
+     "human-ai collaboration",
+     "human-ai teaming",
+     "human-algorithm interaction",
+     "human-ai interaction",
+     "human-machine collaboration",
+     "human-machine teaming"
+    ],
+    "check": {
+     "hits": 12977,
+     "on": 10
+    }
+   },
+   "row": "working with algorithms",
+   "row_src": "added+widened",
+   "row_names": [
+    "working with algorithms",
+    "work with algorithms",
+    "working with ai",
+    "work with ai",
+    "working with artificial intelligence",
+    "human-ai collaboration at work",
+    "human-ai collaboration",
+    "human-ai teaming",
+    "human-algorithm interaction",
+    "human-ai interaction",
+    "human-machine collaboration",
+    "human-machine teaming"
+   ],
+   "mech": "job crafting",
+   "mech_src": "added+widened",
+   "mech_names": [
+    "job crafting",
+    "individual job crafting",
+    "employee job crafting",
+    "job crafting behavior",
+    "job crafting behaviours",
+    "job crafting activities",
+    "crafting a job",
+    "proactive job redesign",
+    "bottom-up job redesign",
+    "bottom-up job design",
+    "self-initiated job redesign",
+    "employee-initiated job redesign"
+   ],
+   "R_": 12977,
+   "C_": 4940,
+   "O_": 29,
+   "share": 0.005870445344129555,
+   "cls": "filled"
+  },
+  {
+   "key": "H3",
+   "idea": "Does incomplete contracting theory explain how business angels' ownership affects the transaction costs of the firms they invest in?",
+   "retry": false,
+   "phenomenon": "business angels' ownership affecting firm transaction costs",
+   "phenomenon_quote": "how business angels' ownership affects the transaction costs of the firms they invest in",
+   "level": "organization",
+   "mechanism": "incomplete contracting theory",
+   "mechanism_quote": "incomplete contracting theory explain",
+   "mechanism_home": "social sciences",
+   "mq_ok": true,
+   "mech_check": {
+    "hits": 342,
+    "on": 10
+   },
+   "mech_widened": {
+    "names": [
+     "incomplete contract theory",
+     "theory of incomplete contracts",
+     "incomplete contracts theory",
+     "incomplete contracting theory",
+     "incomplete contracts approach",
+     "incomplete contracting approach",
+     "property rights theory"
+    ],
+    "check": {
+     "hits": 1410,
+     "on": 10
+    }
+   },
+   "cls": "phenomenon not on the menu"
+  },
+  {
+   "key": "H4",
+   "idea": "Does empowering leadership raise worker productivity through a stimulus-organism-response process?",
+   "retry": false,
+   "phenomenon": "worker productivity",
+   "phenomenon_quote": "raise worker productivity",
+   "level": "individual",
+   "mechanism": "stimulus-organism-response process",
+   "mechanism_quote": "through a stimulus-organism-response process",
+   "mechanism_home": "social sciences",
+   "mq_ok": true,
+   "mech_added": {
+    "name": "stimulus-organism-response model",
+    "names": [
+     "stimulus-organism-response model",
+     "s-o-r model",
+     "sor model",
+     "stimulus-organism-response framework",
+     "s-o-r framework",
+     "sor framework"
+    ],
+    "check": {
+     "hits": 5508,
+     "on": 10
+    }
+   },
+   "mech_widened": {
+    "names": [
+     "stimulus-organism-response model",
+     "s-o-r model",
+     "sor model",
+     "stimulus-organism-response framework",
+     "s-o-r framework",
+     "sor framework",
+     "stimuli-organism-response model",
+     "stimulus-organism-response paradigm",
+     "s-o-r paradigm",
+     "sor theory",
+     "mehrabian-russell model",
+     "environmental psychology model"
+    ],
+    "check": {
+     "hits": 6577,
+     "on": 10
+    }
+   },
+   "phen_check": {
+    "hits": 3599,
+    "on": 10
+   },
+   "phen_widened": {
+    "names": [
+     "worker productivity",
+     "employee productivity",
+     "individual productivity",
+     "work productivity",
+     "labor productivity",
+     "labour productivity",
+     "employee performance"
+    ],
+    "check": {
+     "hits": 130197,
+     "on": 10
+    }
+   },
+   "row": "worker productivity",
+   "row_src": "menu+widened",
+   "row_names": [
+    "worker productivity",
+    "employee productivity",
+    "individual productivity",
+    "work productivity",
+    "labor productivity",
+    "labour productivity",
+    "employee performance"
+   ],
+   "mech": "stimulus-organism-response model",
+   "mech_src": "added+widened",
+   "mech_names": [
+    "stimulus-organism-response model",
+    "s-o-r model",
+    "sor model",
+    "stimulus-organism-response framework",
+    "s-o-r framework",
+    "sor framework",
+    "stimuli-organism-response model",
+    "stimulus-organism-response paradigm",
+    "s-o-r paradigm",
+    "sor theory",
+    "mehrabian-russell model",
+    "environmental psychology model"
+   ],
+   "R_": 130197,
+   "C_": 6577,
+   "O_": 8,
+   "share": 0.0012163600425726016,
+   "cls": "tail"
+  },
+  {
+   "key": "H5",
+   "idea": "Are people's perceptions of organizational greed shaped by motivated reasoning?",
+   "retry": false,
+   "phenomenon": "perceptions of organizational greed",
+   "phenomenon_quote": "people's perceptions of organizational greed",
+   "level": "individual",
+   "mechanism": "motivated reasoning",
+   "mechanism_quote": "motivated reasoning",
+   "mechanism_home": "social sciences",
+   "mq_ok": true,
+   "mech_check": {
+    "hits": 2165,
+    "on": 10
+   },
+   "mech_widened": {
+    "names": [
+     "motivated reasoning",
+     "motivated cognition",
+     "directional motivated reasoning",
+     "identity-protective cognition",
+     "cultural cognition",
+     "wishful thinking"
+    ],
+    "check": {
+     "hits": 7427,
+     "on": 10
+    }
+   },
+   "cls": "phenomenon not on the menu"
+  },
+  {
+   "key": "H6",
+   "idea": "Does construal level theory explain how family firms pursue digital product innovation?",
+   "retry": false,
+   "phenomenon": "how family firms pursue digital product innovation",
+   "phenomenon_quote": "how family firms pursue digital product innovation",
+   "level": "organization",
+   "mechanism": "construal level theory",
+   "mechanism_quote": "construal level theory explain",
+   "mechanism_home": "social sciences",
+   "mq_ok": true,
+   "mech_check": {
+    "hits": 2906,
+    "on": 10
+   },
+   "mech_widened": {
+    "names": [
+     "construal level",
+     "level of construal",
+     "levels of construal",
+     "construal level theory",
+     "level of abstraction",
+     "degree of abstraction",
+     "abstractness of construal"
+    ],
+    "check": {
+     "hits": 9080,
+     "on": 10
+    }
+   },
+   "phen_check": {
+    "hits": 27893,
+    "on": 10
+   },
+   "phen_widened": {
+    "names": [
+     "firm innovation processes",
+     "innovation processes",
+     "innovation process",
+     "process of innovation",
+     "firm-level innovation process",
+     "organizational innovation process",
+     "innovation management process",
+     "innovation value chain"
+    ],
+    "check": {
+     "hits": 34315,
+     "on": 10
+    }
+   },
+   "row": "innovation processes",
+   "row_src": "menu+widened",
+   "row_names": [
+    "firm innovation processes",
+    "innovation processes",
+    "innovation process",
+    "process of innovation",
+    "firm-level innovation process",
+    "organizational innovation process",
+    "innovation management process",
+    "innovation value chain"
+   ],
+   "mech": "construal level",
+   "mech_src": "menu+widened",
+   "mech_names": [
+    "construal level",
+    "level of construal",
+    "levels of construal",
+    "construal level theory",
+    "level of abstraction",
+    "degree of abstraction",
+    "abstractness of construal"
+   ],
+   "R_": 34315,
+   "C_": 9080,
+   "O_": 12,
+   "share": 0.0013215859030837004,
+   "cls": "tail"
+  },
+  {
+   "key": "H7",
+   "idea": "Does secularization shape the values that guide how family firms do business?",
+   "retry": false,
+   "phenomenon": "values guiding how family firms do business",
+   "phenomenon_quote": "the values that guide how family firms do business",
+   "level": "organization",
+   "mechanism": "secularization",
+   "mechanism_quote": "secularization shape the values",
+   "mechanism_home": "social sciences",
+   "mq_ok": true,
+   "mech_check": {
+    "hits": 24420,
+    "on": 10
+   },
+   "mech_widened": {
+    "names": [
+     "secularization theory",
+     "secularization thesis",
+     "classical secularization theory",
+     "religious decline",
+     "decline of religion",
+     "decline in religiosity"
+    ],
+    "check": {
+     "hits": 2216,
+     "on": 10
+    }
+   },
+   "phen_added": {
+    "name": "family business values",
+    "names": [
+     "family business values",
+     "family firm values",
+     "family values in business",
+     "business family values"
+    ],
+    "check": {
+     "hits": 119,
+     "on": 8
+    }
+   },
+   "phen_widened": {
+    "names": [
+     "family business values",
+     "family firm values",
+     "family values in business",
+     "business family values",
+     "values in family firms",
+     "values in family businesses",
+     "family-owned business values",
+     "owning family values",
+     "owner-family values",
+     "family business culture"
+    ],
+    "check": {
+     "hits": 373,
+     "on": 8
+    }
+   },
+   "row": "family business values",
+   "row_src": "added+widened",
+   "row_names": [
+    "family business values",
+    "family firm values",
+    "family values in business",
+    "business family values",
+    "values in family firms",
+    "values in family businesses",
+    "family-owned business values",
+    "owning family values",
+    "owner-family values",
+    "family business culture"
+   ],
+   "mech": "secularization",
+   "mech_src": "menu+widened",
+   "mech_names": [
+    "secularization theory",
+    "secularization thesis",
+    "classical secularization theory",
+    "religious decline",
+    "decline of religion",
+    "decline in religiosity"
+   ],
+   "R_": 373,
+   "C_": 2216,
+   "O_": 0,
+   "share": 0.0,
+   "cls": "tail"
+  },
+  {
+   "key": "H8",
+   "idea": "Does structural equivalence explain the structure of supply networks, with firms in similar network positions behaving alike?",
+   "retry": false,
+   "phenomenon": "structure of supply networks",
+   "phenomenon_quote": "the structure of supply networks",
+   "level": "field or industry",
+   "mechanism": "structural equivalence",
+   "mechanism_quote": "structural equivalence explain the structure of supply networks",
+   "mechanism_home": "social sciences",
+   "mq_ok": true,
+   "mech_added": {
+    "name": "structural equivalence",
+    "names": [
+     "structural equivalence",
+     "structural equivalence theory",
+     "structural equivalence model",
+     "network structural equivalence",
+     "structurally equivalent actors",
+     "principle of structural equivalence"
+    ],
+    "check": {
+     "hits": 671,
+     "on": 8
+    }
+   },
+   "mech_widened": {
+    "names": [
+     "structural equivalence",
+     "structural equivalence theory",
+     "structural equivalence model",
+     "network structural equivalence",
+     "structurally equivalent actors",
+     "principle of structural equivalence",
+     "structural similarity",
+     "positional similarity",
+     "network position similarity",
+     "similarity of network positions",
+     "equivalent network positions",
+     "same network position"
+    ],
+    "check": {
+     "hits": 4038,
+     "on": 8
+    }
+   },
+   "phen_added": {
+    "name": "supply network structure",
+    "names": [
+     "supply network structure",
+     "supply chain network structure",
+     "industry supply network structure",
+     "interorganizational supply network structure",
+     "production network structure",
+     "global supply network structure"
+    ],
+    "check": {
+     "hits": 337,
+     "on": 10
+    }
+   },
+   "phen_widened": {
+    "names": [
+     "supply network structure",
+     "supply chain network structure",
+     "industry supply network structure",
+     "interorganizational supply network structure",
+     "production network structure",
+     "global supply network structure",
+     "supply chain structure",
+     "supply network configuration",
+     "supply chain configuration",
+     "supply network topology",
+     "supply chain topology",
+     "production network topology"
+    ],
+    "check": {
+     "hits": 3164,
+     "on": 10
+    }
+   },
+   "row": "supply network structure",
+   "row_src": "added+widened",
+   "row_names": [
+    "supply network structure",
+    "supply chain network structure",
+    "industry supply network structure",
+    "interorganizational supply network structure",
+    "production network structure",
+    "global supply network structure",
+    "supply chain structure",
+    "supply network configuration",
+    "supply chain configuration",
+    "supply network topology",
+    "supply chain topology",
+    "production network topology"
+   ],
+   "mech": "structural equivalence",
+   "mech_src": "added+widened",
+   "mech_names": [
+    "structural equivalence",
+    "structural equivalence theory",
+    "structural equivalence model",
+    "network structural equivalence",
+    "structurally equivalent actors",
+    "principle of structural equivalence",
+    "structural similarity",
+    "positional similarity",
+    "network position similarity",
+    "similarity of network positions",
+    "equivalent network positions",
+    "same network position"
+   ],
+   "R_": 3164,
+   "C_": 4038,
+   "O_": 2,
+   "share": 0.0006321112515802782,
+   "cls": "tail"
+  }
+ ]
+}
