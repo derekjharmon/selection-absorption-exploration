@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 # Reproduce every figure and table in the proposal and technical appendix.
-#   ./reproduce.sh          fast: redraw figures and tables from the saved results in sim/results/ (about a minute)
+#   ./reproduce.sh          fast: redraw figures and tables from the saved results in sim/results/ (a few seconds)
 #   ./reproduce.sh --full   rerun every simulation first (about 45 minutes on 12 cores), then redraw
 # The vocabulary and placement steps call paid APIs (OpenAI) and OpenAlex; they are not rerun here (see vocab/ and placement/).
 set -euo pipefail

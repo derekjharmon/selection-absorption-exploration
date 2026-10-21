@@ -9,7 +9,7 @@
 | Papers at the start | `init_papers` | 1,500 per row by 1/rank (351 in the top cell, 9 in the 40th) | A few pairings dominate each literature | World |
 | Untried cells that are useful | b (`b`) | 10%, hidden (robustness 5%, 20%) | Imports that would challenge what the field assumes | World |
 | Usefulness tied to popular mechanisms | τ (`useful_tracks_popularity`) | 0 (robustness 1) | Useful imports sit near conventional mechanisms | World |
-| Researchers | `per_row` | 500 (25 per row), one paper each per round | A mid-sized field | World |
+| Researchers | `per_row` | 25 per row (500 in all), one paper each per round | A mid-sized field | World |
 | Rounds | `T` | 100 | Time | World |
 | **The AI** | | | | |
 | Ideas listed per request | k (`k`) | 10 (robustness 5, 20) | One answer to "give me ideas" | Tool |
