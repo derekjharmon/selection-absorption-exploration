@@ -1,0 +1,77 @@
+{
+ "start": 283.00339487727734,
+ "rows": [
+  {
+   "path": "selection_with_ai",
+   "follow_rate": 1.0,
+   "spread": 197.16825529751583,
+   "useful_spread": 188.79711880154056,
+   "useful": 930.9,
+   "duds": 1984.9
+  },
+  {
+   "path": "selection_without_ai",
+   "follow_rate": 1.0,
+   "spread": 382.768157946516,
+   "useful_spread": 374.87557789636764,
+   "useful": 889.75,
+   "duds": 1619.15
+  },
+  {
+   "path": "random_without_ai",
+   "follow_rate": 1.0,
+   "spread": 339.11586323903094,
+   "useful_spread": 308.3338951903019,
+   "useful": 248.0,
+   "duds": 2241.2
+  },
+  {
+   "path": "selection_with_ai",
+   "follow_rate": 2.0,
+   "spread": 270.6811288140209,
+   "useful_spread": 262.1831981214014,
+   "useful": 906.5,
+   "duds": 1948.35
+  },
+  {
+   "path": "selection_without_ai",
+   "follow_rate": 2.0,
+   "spread": 435.74363411981733,
+   "useful_spread": 429.07851111062354,
+   "useful": 871.75,
+   "duds": 1635.2
+  },
+  {
+   "path": "random_without_ai",
+   "follow_rate": 2.0,
+   "spread": 357.084159587151,
+   "useful_spread": 326.9526915334529,
+   "useful": 250.65,
+   "duds": 2245.85
+  },
+  {
+   "path": "selection_with_ai",
+   "follow_rate": 4.0,
+   "spread": 406.8669675971293,
+   "useful_spread": 399.715000699836,
+   "useful": 900.95,
+   "duds": 1884.65
+  },
+  {
+   "path": "selection_without_ai",
+   "follow_rate": 4.0,
+   "spread": 498.1983179390957,
+   "useful_spread": 492.96274740342653,
+   "useful": 878.7,
+   "duds": 1632.75
+  },
+  {
+   "path": "random_without_ai",
+   "follow_rate": 4.0,
+   "spread": 382.53102615183934,
+   "useful_spread": 352.9194726706047,
+   "useful": 250.6,
+   "duds": 2249.1
+  }
+ ]
+}

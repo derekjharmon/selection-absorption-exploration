@@ -12,6 +12,7 @@ if [[ "${1:-}" == "--full" ]]; then
   python3 checks.py                                  # checks set in advance
   python3 loop_decomposition.py && python3 loop_decomposition_ext.py   # retraining versus follow-ups (Appendix A4)
   python3 absorption_variants.py                     # absorption blind to usefulness or following fashion (Table A3, Appendix A4)
+  python3 no_ai_judges.py                            # selection with and without AI, same judges (Appendix A3)
 fi
 python3 fig_paths.py      # Figure 1
 python3 figures.py        # Figure 2, Figures A1 and A2

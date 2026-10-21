@@ -1,0 +1,10 @@
+Selection with and without AI, three judges each right 96% of the time. Means of 20 runs at round 100; start spread 283.0.
+~10 follow-ups | selection_with_ai     spread  197.2 ( 70%) | useful only  67% | useful   931 duds  1985
+~10 follow-ups | selection_without_ai  spread  382.8 (135%) | useful only 132% | useful   890 duds  1619
+~10 follow-ups | random_without_ai     spread  339.1 (120%) | useful only 109% | useful   248 duds  2241
+~20 follow-ups | selection_with_ai     spread  270.7 ( 96%) | useful only  93% | useful   906 duds  1948
+~20 follow-ups | selection_without_ai  spread  435.7 (154%) | useful only 152% | useful   872 duds  1635
+~20 follow-ups | random_without_ai     spread  357.1 (126%) | useful only 116% | useful   251 duds  2246
+~40 follow-ups | selection_with_ai     spread  406.9 (144%) | useful only 141% | useful   901 duds  1885
+~40 follow-ups | selection_without_ai  spread  498.2 (176%) | useful only 174% | useful   879 duds  1633
+~40 follow-ups | random_without_ai     spread  382.5 (135%) | useful only 125% | useful   251 duds  2249

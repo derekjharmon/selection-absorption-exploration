@@ -30,6 +30,7 @@ Outputs go to `sim/figures/` (PNG and PDF) and `sim/tables/` (Markdown and CSV).
 | Table A2 | `sim/tables/tableA2_settings.md` | written by hand | the values set in the run scripts |
 | Table A3 | `sim/tables/tableA3_summary` | `extras_render.py` | `extras_gate` (`extras_runs.py gate`); spread from useful work only from `absorption_variants` (`absorption_variants.py`) |
 | Table A4 | `sim/tables/tableA4_robustness` | `extras_render.py` | `extras_robust` (`extras_runs.py robust`) |
+| Appendix A3, the field without AI as a ceiling | `sim/results/no_ai_judges.txt` | `no_ai_judges.py` | |
 | Appendix A3, checks set in advance | `sim/results/checks.txt` | `checks.py` | |
 | Appendix A3, sweep across exploration and follow-ups | `sim/results/sweep_B.*` | | `sweep.py B` |
 | Appendix A4, when absorption does not track usefulness | `sim/results/absorption_variants.txt` | `absorption_variants.py` | |
