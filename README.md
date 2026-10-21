@@ -79,7 +79,7 @@ python3 placement_v3.py --dry    # load the vocabulary only, no API calls
 python3 placement_v3.py          # rerun the three cases, then print them next to the recorded results
 ```
 
-A rerun costs well under US$1. OpenAlex counts drift between queries, so a rerun can differ slightly from the record of October 6, 2026.
+A rerun costs well under US$1. OpenAlex counts drift between queries, and the model's choice of vocabulary entry can vary between runs, so a rerun can differ from the record of October 6, 2026. On a rerun on October 21, 2026, K1 and K3 came out as recorded (K1 with 7 works in the cell against 8), and K2 came out as "mechanism not on the menu" because the model chose no mechanism entry (Appendix A6).
 
 ## Keys, models, and costs
 
