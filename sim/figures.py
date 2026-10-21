@@ -28,7 +28,7 @@ fig, ax = plt.subplots(figsize=(5.2, 3.4))
 rand = mA[pick(CA, regime="tail_only", follow_rate=0.0)[0], -1, ix["useful_cells"]]
 orac = mA[pick(CA, regime="oracle", follow_rate=0.0)[0], -1, ix["useful_cells"]]
 lines = [("One judge", dict(V=1, rho=0.0), INK, "-"),
-         ("Five judges with different blind spots", dict(V=5, rho=0.0), ACCENT, "-"),
+         ("Five judges with independent errors", dict(V=5, rho=0.0), ACCENT, "-"),
          ("Five judges sharing a bias toward convention", dict(V=5, rho=0.5), ACCENT2, "--")]
 top = []
 for lab, kw, col, ls in lines:
