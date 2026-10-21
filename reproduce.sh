@@ -9,7 +9,8 @@ if [[ "${1:-}" == "--full" ]]; then
   python3 sweep.py A && python3 sweep.py B          # judges (Figure 2, Figure A1); follow-ups, exploration, reliance, adoption
   python3 displace_check.py                          # follow-ups written in place of researchers' own papers (Figure A2)
   python3 extras_runs.py grid && python3 extras_runs.py gate && python3 extras_runs.py robust   # Figures 1 and 3, Tables A3 and A4, Figure A3
-  python3 checks.py && python3 frozen_check.py       # checks set in advance; frozen-model diagnostic
+  python3 checks.py                                  # checks set in advance
+  python3 loop_decomposition.py && python3 loop_decomposition_ext.py   # retraining versus follow-ups (Appendix A4)
 fi
 python3 fig_paths.py      # Figure 1
 python3 figures.py        # Figure 2, Figures A1 and A2

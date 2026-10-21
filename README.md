@@ -32,7 +32,7 @@ Outputs go to `sim/figures/` (PNG and PDF) and `sim/tables/` (Markdown and CSV).
 | Table A4 | `sim/tables/tableA4_robustness` | `extras_render.py` | `extras_robust` (`extras_runs.py robust`) |
 | Appendix A3, checks set in advance | `sim/results/checks.txt` | `checks.py` | |
 | Appendix A3, sweep across exploration and follow-ups | `sim/results/sweep_B.*` | | `sweep.py B` |
-| Appendix A4, frozen-model diagnostic | `sim/results/frozen_check.txt` | `frozen_check.py` | |
+| Appendix A4, retraining versus follow-ups | `sim/results/loop_decomposition.txt`, `sim/results/loop_decomposition_ext.txt` | `loop_decomposition.py`, `loop_decomposition_ext.py` | |
 | Table A5, review sources | `vocab/sources_ids.json` | `build_vocab.py` | |
 | Table A7, the three known cases | `placement/placement_v3_known.json` | `placement_v3.py` | |
 

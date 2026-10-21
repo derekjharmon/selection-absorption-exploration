@@ -1,0 +1,206 @@
+{
+ "keys": [
+  "eff_mechanisms",
+  "useful_papers",
+  "total",
+  "ai_build_useful",
+  "explore_useful",
+  "useful_cells",
+  "noise_cells"
+ ],
+ "seeds": 20,
+ "conds": [
+  {
+   "path": "relying_on_ai",
+   "follow_rate": 0.0,
+   "loop": true,
+   "follow_mode": "displace"
+  },
+  {
+   "path": "relying_on_ai",
+   "follow_rate": 0.0,
+   "loop": true,
+   "follow_mode": "extra"
+  },
+  {
+   "path": "relying_on_ai",
+   "follow_rate": 0.0,
+   "loop": false,
+   "follow_mode": "displace"
+  },
+  {
+   "path": "relying_on_ai",
+   "follow_rate": 0.0,
+   "loop": false,
+   "follow_mode": "extra"
+  },
+  {
+   "path": "relying_on_ai",
+   "follow_rate": 1.0,
+   "loop": true,
+   "follow_mode": "displace"
+  },
+  {
+   "path": "relying_on_ai",
+   "follow_rate": 1.0,
+   "loop": true,
+   "follow_mode": "extra"
+  },
+  {
+   "path": "relying_on_ai",
+   "follow_rate": 1.0,
+   "loop": false,
+   "follow_mode": "displace"
+  },
+  {
+   "path": "relying_on_ai",
+   "follow_rate": 1.0,
+   "loop": false,
+   "follow_mode": "extra"
+  },
+  {
+   "path": "relying_on_ai",
+   "follow_rate": 2.0,
+   "loop": true,
+   "follow_mode": "displace"
+  },
+  {
+   "path": "relying_on_ai",
+   "follow_rate": 2.0,
+   "loop": true,
+   "follow_mode": "extra"
+  },
+  {
+   "path": "relying_on_ai",
+   "follow_rate": 2.0,
+   "loop": false,
+   "follow_mode": "displace"
+  },
+  {
+   "path": "relying_on_ai",
+   "follow_rate": 2.0,
+   "loop": false,
+   "follow_mode": "extra"
+  },
+  {
+   "path": "relying_on_ai",
+   "follow_rate": 4.0,
+   "loop": true,
+   "follow_mode": "displace"
+  },
+  {
+   "path": "relying_on_ai",
+   "follow_rate": 4.0,
+   "loop": true,
+   "follow_mode": "extra"
+  },
+  {
+   "path": "relying_on_ai",
+   "follow_rate": 4.0,
+   "loop": false,
+   "follow_mode": "displace"
+  },
+  {
+   "path": "relying_on_ai",
+   "follow_rate": 4.0,
+   "loop": false,
+   "follow_mode": "extra"
+  },
+  {
+   "path": "selection",
+   "follow_rate": 0.0,
+   "loop": true,
+   "follow_mode": "displace"
+  },
+  {
+   "path": "selection",
+   "follow_rate": 0.0,
+   "loop": true,
+   "follow_mode": "extra"
+  },
+  {
+   "path": "selection",
+   "follow_rate": 0.0,
+   "loop": false,
+   "follow_mode": "displace"
+  },
+  {
+   "path": "selection",
+   "follow_rate": 0.0,
+   "loop": false,
+   "follow_mode": "extra"
+  },
+  {
+   "path": "selection",
+   "follow_rate": 1.0,
+   "loop": true,
+   "follow_mode": "displace"
+  },
+  {
+   "path": "selection",
+   "follow_rate": 1.0,
+   "loop": true,
+   "follow_mode": "extra"
+  },
+  {
+   "path": "selection",
+   "follow_rate": 1.0,
+   "loop": false,
+   "follow_mode": "displace"
+  },
+  {
+   "path": "selection",
+   "follow_rate": 1.0,
+   "loop": false,
+   "follow_mode": "extra"
+  },
+  {
+   "path": "selection",
+   "follow_rate": 2.0,
+   "loop": true,
+   "follow_mode": "displace"
+  },
+  {
+   "path": "selection",
+   "follow_rate": 2.0,
+   "loop": true,
+   "follow_mode": "extra"
+  },
+  {
+   "path": "selection",
+   "follow_rate": 2.0,
+   "loop": false,
+   "follow_mode": "displace"
+  },
+  {
+   "path": "selection",
+   "follow_rate": 2.0,
+   "loop": false,
+   "follow_mode": "extra"
+  },
+  {
+   "path": "selection",
+   "follow_rate": 4.0,
+   "loop": true,
+   "follow_mode": "displace"
+  },
+  {
+   "path": "selection",
+   "follow_rate": 4.0,
+   "loop": true,
+   "follow_mode": "extra"
+  },
+  {
+   "path": "selection",
+   "follow_rate": 4.0,
+   "loop": false,
+   "follow_mode": "displace"
+  },
+  {
+   "path": "selection",
+   "follow_rate": 4.0,
+   "loop": false,
+   "follow_mode": "extra"
+  }
+ ]
+}

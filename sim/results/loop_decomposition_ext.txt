@@ -1,0 +1,2 @@
+selection      f=6 (~60 follow-ups) T=100: learning 467.5 | frozen 467.0 | learning - frozen +0.5 ± 3.2 | at round 100 467.5 vs 467.0 | crossover 32
+selection      f=8 (~80 follow-ups) T=100: learning 491.3 | frozen 490.5 | learning - frozen +0.7 ± 3.0 | at round 100 491.3 vs 490.5 | crossover 38
