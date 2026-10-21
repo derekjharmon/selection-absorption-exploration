@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 # Reproduce every figure and table in the proposal and technical appendix.
 #   ./reproduce.sh          fast: redraw figures and tables from the saved results in sim/results/ (a few seconds)
-#   ./reproduce.sh --full   rerun every simulation first (about 45 minutes on 12 cores), then redraw
+#   ./reproduce.sh --full   rerun every simulation first (about 50 minutes on 12 cores), then redraw
 # The vocabulary and placement steps call paid APIs (OpenAI) and OpenAlex; they are not rerun here (see vocab/ and placement/).
 set -euo pipefail
 cd "$(dirname "$0")/sim"
@@ -11,6 +11,7 @@ if [[ "${1:-}" == "--full" ]]; then
   python3 extras_runs.py grid && python3 extras_runs.py gate && python3 extras_runs.py robust   # Figures 1 and 3, Tables A3 and A4, Figure A3
   python3 checks.py                                  # checks set in advance
   python3 loop_decomposition.py && python3 loop_decomposition_ext.py   # retraining versus follow-ups (Appendix A4)
+  python3 absorption_variants.py                     # absorption blind to usefulness or following fashion (Table A3, Appendix A4)
 fi
 python3 fig_paths.py      # Figure 1
 python3 figures.py        # Figure 2, Figures A1 and A2

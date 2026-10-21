@@ -1,9 +1,9 @@
-path,follow_ups,useful,duds,hit_rate_pct,spread_100,pct_of_today,ai_useful_per_round
-Relying on AI,10,41,373,10.0,116.7,41.3,0.28
-Relying on AI,40,38,368,9.3,120.8,42.7,1.13
-Generation alone,10,295,2629,10.1,151.5,53.5,0.94
-Generation alone,40,293,2610,10.1,209.7,74.1,8.04
-Selection,10,931,1985,31.9,197.2,69.7,3.05
-Selection,40,901,1885,32.3,406.9,143.8,33.72
-No AI,10,248,2241,10.0,339.1,119.8,0.0
-No AI,40,251,2249,10.0,382.5,135.2,0.0
+path,follow_ups,useful,duds,hit_rate_pct,spread_100,pct_of_today,useful_spread_100,useful_pct_of_today,ai_useful_per_round
+Relying on AI,10,41,373,10.0,116.7,41.3,115.4,40.8,0.28
+Relying on AI,40,38,368,9.3,120.8,42.7,119.5,42.2,1.13
+Generation alone,10,295,2629,10.1,151.5,53.5,135.5,47.9,0.94
+Generation alone,40,293,2610,10.1,209.7,74.1,190.9,67.4,8.04
+Selection,10,931,1985,31.9,197.2,69.7,188.8,66.7,3.05
+Selection,40,901,1885,32.3,406.9,143.8,399.7,141.2,33.72
+No AI,10,248,2241,10.0,339.1,119.8,308.3,109.0,0.0
+No AI,40,251,2249,10.0,382.5,135.2,352.9,124.7,0.0

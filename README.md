@@ -12,7 +12,7 @@ Authors are anonymous for review.
 ```
 pip install -r requirements.txt     # numpy, matplotlib
 ./reproduce.sh                      # redraw every figure and table from saved results (a few seconds)
-./reproduce.sh --full               # rerun every simulation first (about 45 minutes on 12 cores)
+./reproduce.sh --full               # rerun every simulation first (about 50 minutes on 12 cores)
 ```
 
 Outputs go to `sim/figures/` (PNG and PDF) and `sim/tables/` (Markdown and CSV). Tested with Python 3.14, numpy 2, and matplotlib 3.10. The figures use Times New Roman. Where it is missing, matplotlib substitutes another serif font and prints a warning, which is harmless.
@@ -28,10 +28,11 @@ Outputs go to `sim/figures/` (PNG and PDF) and `sim/tables/` (Markdown and CSV).
 | Figure A2 | `sim/figures/figureA2_widening_vs_slower_narrowing` | `figures.py` | `displace_check` (`displace_check.py`) |
 | Figure A3 | `sim/figures/figureA3_field_at_round_100` | `extras_render.py` | `extras_grid` (`extras_runs.py grid`) |
 | Table A2 | `sim/tables/tableA2_settings.md` | written by hand | the values set in the run scripts |
-| Table A3 | `sim/tables/tableA3_summary` | `extras_render.py` | `extras_gate` (`extras_runs.py gate`) |
+| Table A3 | `sim/tables/tableA3_summary` | `extras_render.py` | `extras_gate` (`extras_runs.py gate`); spread from useful work only from `absorption_variants` (`absorption_variants.py`) |
 | Table A4 | `sim/tables/tableA4_robustness` | `extras_render.py` | `extras_robust` (`extras_runs.py robust`) |
 | Appendix A3, checks set in advance | `sim/results/checks.txt` | `checks.py` | |
 | Appendix A3, sweep across exploration and follow-ups | `sim/results/sweep_B.*` | | `sweep.py B` |
+| Appendix A4, when absorption does not track usefulness | `sim/results/absorption_variants.txt` | `absorption_variants.py` | |
 | Appendix A4, retraining versus follow-ups | `sim/results/loop_decomposition.txt`, `sim/results/loop_decomposition_ext.txt` | `loop_decomposition.py`, `loop_decomposition_ext.py` | |
 | Table A5, review sources | `vocab/sources_ids.json` | `build_vocab.py` | |
 | Table A7, the three known cases | `placement/placement_v3_known.json` | `placement_v3.py` | |

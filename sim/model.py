@@ -27,7 +27,8 @@ import numpy as np
 
 DEFAULTS = dict(rows=20, cols=800, init_filled=40, init_papers=1500, b=0.10, per_row=25, k=10, lam=0.5, alpha=1.0,
                 eps=0.5, gamma=1.0, follow_rate=0.0, follow_len=10, T=100, regime="convener", q=0.5, V=3, rho=0.3,
-                adopt=1.0, loop=True, useful_tracks_popularity=0.0, explore=0.05, rely=1.0, follow_mode="displace", absorb_err=0.0)
+                adopt=1.0, loop=True, useful_tracks_popularity=0.0, explore=0.05, rely=1.0, follow_mode="displace", absorb_err=0.0,
+                absorb_rule="useful")
 
 def run(p, seed):
     p = {**DEFAULTS, **p}; rng = np.random.default_rng(seed)
@@ -55,6 +56,9 @@ def run(p, seed):
         prop = (1 - p["lam"]) * freq + p["lam"] * tail
         ai_b = ai_bu = ai_bz = ex_u = ex_z = 0               # this round: build-on moves the model chose, and where explorers landed
         disp = p["follow_mode"] == "displace"
+        if p["absorb_rule"] == "popularity":                 # absorption that follows fashion: a new cell draws follow-ups with
+            fp = n.sum(0); srt = np.sort(fp)                    # probability equal to its mechanism's popularity percentile in the field
+            pct = (np.searchsorted(srt, fp, "left") + np.searchsorted(srt, fp, "right")) / (2 * C)
         if disp:                                               # this round's follow-on demand, served by build-on moves
             D = np.zeros((P, C)); act = follow > 0; D[act] = rng.poisson(p["follow_rate"], act.sum())
         for r in range(N):
@@ -85,7 +89,9 @@ def run(p, seed):
                 ex_u += useful[i, j]; ex_z += (empty0[i, j] and not useful[i, j])
             if n[i, j] == 0 and empty0[i, j]:
                 e = p["absorb_err"]
-                if (useful[i, j] and (e == 0 or rng.random() >= e)) or (not useful[i, j] and e > 0 and rng.random() < e):
+                if p["absorb_rule"] == "popularity":
+                    if rng.random() < pct[j]: follow[i, j] = p["follow_len"]
+                elif (useful[i, j] and (e == 0 or rng.random() >= e)) or (not useful[i, j] and e > 0 and rng.random() < e):
                     follow[i, j] = p["follow_len"]
             n[i, j] += 1
         act = follow > 0
@@ -93,9 +99,11 @@ def run(p, seed):
         follow[act] -= 1
         U = useful & (n > 0); Z = (~useful) & empty0 & (n > 0)
         cs = n.sum(0) / n.sum(); cs = cs[cs > 0]
+        nu = np.where((~useful) & empty0, 0.0, n).sum(0); cu = nu / nu.sum(); cu = cu[cu > 0]   # breadth from useful work: duds' papers left out
         hist.append(dict(t=t + 1, useful_cells=int(U.sum()), noise_cells=int(Z.sum()),
                          useful_papers=float(n[useful].sum()), noise_papers=float(n[(~useful) & empty0].sum()),
                          mean_papers=float(n[~empty0].sum()), total=float(n.sum()), useful_available=int(useful.sum()),
                          ai_build=ai_b, ai_build_useful=int(ai_bu), ai_build_noise=int(ai_bz), explore_useful=int(ex_u),
-                         explore_noise=int(ex_z), eff_mechanisms=float(np.exp(-(cs * np.log(cs)).sum()))))
+                         explore_noise=int(ex_z), eff_mechanisms=float(np.exp(-(cs * np.log(cs)).sum())),
+                         eff_mechanisms_useful=float(np.exp(-(cu * np.log(cu)).sum()))))
     return (hist, n, useful, empty0) if p.get("return_grid") else hist

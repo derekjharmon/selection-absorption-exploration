@@ -29,6 +29,7 @@
 | Follow-up rate | f (`follow_rate`) | 1 and 4 per active round in proposal Figure 1 and Table A3 (about 10 and 40 per useful idea), 2 in Table A4 (about 20); sweeps 0 to 4 | How much the field builds on a useful idea (absorption) | Field |
 | Follow-up duration | L (`follow_len`) | 10 rounds | How long a new line of work draws follow-ups | Field |
 | How follow-ups are written | `follow_mode` | In place of researchers' build-on papers (robustness: added on top) | The field's fixed capacity | Field |
-| Field misjudgment | `absorb_err` | 0% (robustness 5%, 20%) | The field builds on a dud or misses a useful idea | Field |
+| Field misjudgment | `absorb_err` | 0% (robustness 5%, 20%, 50%) | The field builds on a dud or misses a useful idea | Field |
+| What draws follow-ups | `absorb_rule` | Only useful cells (robustness: the mechanism's popularity) | Whether the field builds on what is useful or on what is fashionable | Field |
 
 *Note. "Tool" marks a lever a selection rule could improve, "field" a condition of the field, and "world" a feature fixed for the simulated literature. Accuracy is how often a judge picks the useful idea over a dud (equation 4), where 50% is a coin flip. Values are those of the main runs. The run scripts set them explicitly, and several differ from the function defaults in `sim/model.py`.*

@@ -1,0 +1,43 @@
+Absorption that does not track usefulness. Means of 20 runs at round 100; start spread 283.0.
+Spread and useful-only spread as % of the start; useful cells and dud cells filled; useful share of papers in new cells.
+rule       f path              | spread % | useful-only % | useful   duds | useful share
+none       0 relying_on_ai     |       40 |            40 |     41    366 |         0.10
+none       0 generation_alone  |       47 |            42 |    293   2613 |         0.10
+none       0 selection         |       46 |            43 |    950   1958 |         0.33
+none       0 no_ai             |      112 |           101 |    252   2241 |         0.10
+useful     1 relying_on_ai     |       41 |            41 |     41    373 |         0.53
+useful     2 relying_on_ai     |       42 |            41 |     40    367 |         0.68
+useful     4 relying_on_ai     |       43 |            42 |     38    368 |         0.80
+blind      1 relying_on_ai     |       44 |            41 |     39    376 |         0.10
+blind      2 relying_on_ai     |       47 |            43 |     39    366 |         0.10
+blind      4 relying_on_ai     |       52 |            45 |     40    348 |         0.11
+fashion    1 relying_on_ai     |       45 |            42 |     41    372 |         0.10
+fashion    2 relying_on_ai     |       48 |            44 |     40    363 |         0.10
+fashion    4 relying_on_ai     |       55 |            48 |     37    335 |         0.10
+useful     1 generation_alone  |       54 |            48 |    295   2629 |         0.52
+useful     2 generation_alone  |       60 |            54 |    289   2611 |         0.67
+useful     4 generation_alone  |       74 |            67 |    293   2610 |         0.81
+blind      1 generation_alone  |       85 |            54 |    292   2629 |         0.10
+blind      2 generation_alone  |      130 |            70 |    283   2574 |         0.10
+blind      4 generation_alone  |      180 |            96 |    267   2393 |         0.10
+fashion    1 generation_alone  |       78 |            54 |    284   2604 |         0.10
+fashion    2 generation_alone  |      111 |            69 |    284   2533 |         0.10
+fashion    4 generation_alone  |      148 |            93 |    269   2396 |         0.10
+useful     1 selection         |       70 |            67 |    931   1985 |         0.82
+useful     2 selection         |       96 |            93 |    906   1948 |         0.90
+useful     4 selection         |      144 |           141 |    901   1885 |         0.94
+blind      1 selection         |       79 |            63 |    921   1968 |         0.32
+blind      2 selection         |      114 |            88 |    908   1921 |         0.32
+blind      4 selection         |      153 |           127 |    887   1765 |         0.34
+fashion    1 selection         |       80 |            64 |    920   1950 |         0.26
+fashion    2 selection         |      112 |            90 |    898   1885 |         0.27
+fashion    4 selection         |      135 |           118 |    882   1716 |         0.28
+useful     1 no_ai             |      120 |           109 |    248   2241 |         0.51
+useful     2 no_ai             |      126 |           116 |    251   2246 |         0.66
+useful     4 no_ai             |      135 |           125 |    251   2249 |         0.79
+blind      1 no_ai             |      150 |           106 |    253   2267 |         0.10
+blind      2 no_ai             |      175 |           110 |    249   2241 |         0.10
+blind      4 no_ai             |      197 |           114 |    244   2246 |         0.10
+fashion    1 no_ai             |      133 |           104 |    251   2235 |         0.10
+fashion    2 no_ai             |      148 |           106 |    252   2263 |         0.10
+fashion    4 no_ai             |      159 |           109 |    253   2256 |         0.10

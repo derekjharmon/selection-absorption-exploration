@@ -60,19 +60,25 @@ def gstats(k):
 PATHS = [("Relying on AI", dict(regime="oracle", rely=1.0)), ("Generation alone", dict(regime="tail_only", rely=1.0)),
          ("Selection", dict(regime="convener", q=0.6, V=3, rho=0.2, rely=1.0)), ("No AI", dict(regime="tail_only", rely=0.0))]
 rowsA3 = [(name, f, gstats(g(follow_rate=f, **kw))) for name, kw in PATHS for f in (1.0, 4.0)]
+# spread from useful work only (duds' papers left out), from the main-rule rows of the absorption_variants runs
+_AV = json.load(open("results/absorption_variants.json"))["rows"]
+_AVP = dict(zip([n for n, _ in PATHS], ["relying_on_ai", "generation_alone", "selection", "no_ai"]))
+for name, f, st in rowsA3:
+    st["useful_spread"] = next(x["eff_mechanisms_useful"] for x in _AV if x["path"] == _AVP[name] and x["rule"] == "useful" and x["follow_rate"] == f)
+    st["useful_today"] = 100 * st["useful_spread"] / START
 with open("tables/tableA3_summary.md", "w") as fh:
     fh.write("# Table A3. The simulation in one table\n\n")
     fh.write(f"Round 100, means of {S} runs, 5% exploration. Selection uses three judges, each right 96% of the time, with a slight shared bias "
              f"toward convention. Spread is the effective number of mechanisms in use; it starts at about {START:.0f}.\n\n")
-    fh.write("| Path | Follow-ups per useful idea | Useful ideas found | Duds | Hit rate | Spread at round 100 (% of today) | AI's recommendations into useful new work (papers per round, rounds 91–100) |\n|---|---|---|---|---|---|---|\n")
+    fh.write("| Path | Follow-ups per useful idea | Useful ideas found | Duds | Hit rate | Spread at round 100 (% of today) | Spread from useful work only (% of today) | AI's recommendations into useful new work (papers per round, rounds 91–100) |\n|---|---|---|---|---|---|---|---|\n")
     for name, f, st in rowsA3:
         ai = "–" if name == "No AI" else f"{st['ai_useful']:.1f}"
-        fh.write(f"| {name} | About {10 * f:.0f} | {st['useful']:,.0f} | {st['duds']:,.0f} | {st['hit']:.0f}% | {st['spread']:.0f} ({st['today']:.0f}%) | {ai} |\n")
+        fh.write(f"| {name} | About {10 * f:.0f} | {st['useful']:,.0f} | {st['duds']:,.0f} | {st['hit']:.0f}% | {st['spread']:.0f} ({st['today']:.0f}%) | {st['useful_spread']:.0f} ({st['useful_today']:.0f}%) | {ai} |\n")
 with open("tables/tableA3_summary.csv", "w", newline="") as fh:
-    w = csv.writer(fh); w.writerow(["path", "follow_ups", "useful", "duds", "hit_rate_pct", "spread_100", "pct_of_today", "ai_useful_per_round"])
+    w = csv.writer(fh); w.writerow(["path", "follow_ups", "useful", "duds", "hit_rate_pct", "spread_100", "pct_of_today", "useful_spread_100", "useful_pct_of_today", "ai_useful_per_round"])
     for name, f, st in rowsA3:
         w.writerow([name, round(10 * f), round(st["useful"]), round(st["duds"]), round(st["hit"], 1), round(st["spread"], 1),
-                    round(st["today"], 1), round(st["ai_useful"], 2)])
+                    round(st["today"], 1), round(st["useful_spread"], 1), round(st["useful_today"], 1), round(st["ai_useful"], 2)])
 
 # Table 3 (appendix Table A4): robustness, from the extras_robust runs (five judges, about 20 follow-ups)
 mR, CR, ixR = load("extras_robust")
