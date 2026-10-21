@@ -23,7 +23,7 @@ Outputs go to `sim/figures/` (PNG and PDF) and `sim/tables/` (Markdown and CSV).
 |---|---|---|---|
 | Proposal Figure 1 | `sim/figures/figure1_paths` | `fig_paths.py` | `extras_gate` (`extras_runs.py gate`) |
 | Proposal Figure 2 | `sim/figures/figure2_accuracy_target` | `figures.py` | `sweep_A` (`sweep.py A`) |
-| Proposal Figure 3 | `sim/figures/figure3_two_gates`, values in `sim/tables/figure3_values.csv` | `extras_render.py` | `extras_gate` (`extras_runs.py gate`) |
+| Proposal Figure 3 | `sim/figures/figure3_two_gates`, values in `sim/tables/figure3_values.csv` (spread) and `sim/tables/figure3_values_useful.csv` (spread from useful work only) | `extras_render.py` | `extras_gate` (`extras_runs.py gate`) |
 | Figure A1 | `sim/figures/figureA1_noise_race` | `figures.py` | `sweep_A` (`sweep.py A`) |
 | Figure A2 | `sim/figures/figureA2_widening_vs_slower_narrowing` | `figures.py` | `displace_check` (`displace_check.py`) |
 | Figure A3 | `sim/figures/figureA3_field_at_round_100` | `extras_render.py` | `extras_grid` (`extras_runs.py grid`) |

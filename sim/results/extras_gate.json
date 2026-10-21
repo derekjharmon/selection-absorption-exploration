@@ -10,7 +10,8 @@
 "ai_build_noise",
 "explore_useful",
 "explore_noise",
-"eff_mechanisms"
+"eff_mechanisms",
+"eff_mechanisms_useful"
 ],
 "seeds": 20,
 "conds": [

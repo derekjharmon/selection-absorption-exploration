@@ -49,6 +49,10 @@ cb.ax.axhline(100, color=INK, lw=0.8)
 save(fig, "figure3_two_gates")
 np.savetxt("tables/figure3_values.csv", today, delimiter=",", fmt="%.1f",
            header="spread at round 100 as % of start; rows: follow-ups ~" + " ".join(f"{10*f:.0f}" for f in FOLLOW) + "; cols: pairwise accuracy " + " ".join(f"{pair(q):.0f}" for q in QS))
+if "eff_mechanisms_useful" in ix:                  # the same grid on spread from useful work only (duds' papers left out)
+    useful_today = np.array([[100 * mG[g(regime="convener", q=q, follow_rate=f), -1, ix["eff_mechanisms_useful"]] / START for q in QS] for f in FOLLOW])
+    np.savetxt("tables/figure3_values_useful.csv", useful_today, delimiter=",", fmt="%.1f",
+               header="spread from useful work only at round 100 as % of start; rows: follow-ups ~" + " ".join(f"{10*f:.0f}" for f in FOLLOW) + "; cols: pairwise accuracy " + " ".join(f"{pair(q):.0f}" for q in QS))
 
 # ---------- Tables 1 and 3: the summary and the robustness checks ----------
 # Appendix Table A3: the four paths of proposal Figure 1 and the field without AI, at about 10 and about 40
