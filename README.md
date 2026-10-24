@@ -1,5 +1,7 @@
 # Selection, Absorption, and Exploration When AI Makes Ideas Cheap
 
+**Reviewers, start with [REVIEWER.md](REVIEWER.md).** It says what each part of the submission rests on, what to run to check it, and how long each check takes. `python3 check.py` tests every number in the proposal against the saved results in about two seconds.
+
 Research artifact for a Stage 1 submission to the *Organization Science* special issue "AI-Enabled Frontiers." It holds the two tools Stage 1 built and tested.
 
 1. **A simulation** (`sim/`) of a field whose researchers draw ideas from an AI retrained on what they publish. It shows when selecting tail ideas widens a field and when it only slows the narrowing, depending on whether the field absorbs what it selects.
@@ -13,6 +15,7 @@ Authors are anonymous for review.
 pip install -r requirements.txt     # numpy, matplotlib
 ./reproduce.sh                      # redraw every figure and table from saved results (a few seconds)
 ./reproduce.sh --full               # rerun every simulation first (about 50 minutes on 12 cores)
+python3 check.py                    # test every number in the proposal against the saved results (about two seconds)
 ```
 
 Outputs go to `sim/figures/` (PNG and PDF) and `sim/tables/` (Markdown and CSV). Tested with Python 3.14, numpy 2, and matplotlib 3.10. The figures use Times New Roman. Where it is missing, matplotlib substitutes another serif font and prints a warning, which is harmless.
